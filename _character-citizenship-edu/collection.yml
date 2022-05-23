@@ -2,7 +2,6 @@ collections:
   character-citizenship-edu:
     output: true
     order:
-      - Integration Programme.md
       - National Education.md
       - Sexuality Education.md
       - Education and Career Guidance.md
