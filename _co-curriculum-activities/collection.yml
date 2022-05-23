@@ -2,6 +2,7 @@ collections:
   co-curriculum-activities:
     output: true
     order:
+      - Performing and Visual Arts/.keep
       - Physical Sports/Wushu.md
       - Physical Sports/Netball.md
       - Physical Sports/Football.md
