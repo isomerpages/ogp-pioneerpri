@@ -2,6 +2,7 @@ collections:
   character-citizenship-edu:
     output: true
     order:
+      - Education and Career Guidance.md
       - Cyber Wellness.md
       - Form Teacher Guidance Period (FTGP).md
       - CCE MTL.md
