@@ -47,31 +47,161 @@ We aim to nurture students’ love for Tamil Language (TL) through interesting l
 
 **Our Key Programmes**
 
-|                                        | Oral, Listening, Reading, Writing and Interactive Skills |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|:--------------------------------------:|:--------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                Programme               |                          Levels                          |                                                                                                                                                                                                                                                                              Key Focus                                                                                                                                                                                                                                                                              |
-|         MT Thinking Curriculum         |                         P1 to P6                         | Mother Tongue teachers infuse Thinking Routines and Paul’s Wheels of Reasoning - Elements of Thought and Intellectual Standards in their lessons to guide students to construct, interpret and evaluate knowledge from different perspectives.   By creating such active learning situations in our classrooms, students feel motivated to learn, take greater ownership for their learning and become better learners. With such a curriculum, students develop habits of mind with respect to learning that serve them well both in school and in the real world. |
-| Mother Tongue Support Programme (MTSP) |                          P3 & P4                         | A customised programme to support students in the learning of MTL where customised learning materials are used to create an immersive language environment to enable students to learn Mother Tongue with confidence and joy.                                                                                                                                                                                                                                                                                                                                       |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="3">Oral, Listening, Reading, Writing and Interactive Skills</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Programme</td>
+    <td class="tg-9hzb">Levels</td>
+    <td class="tg-9hzb">Key Focus</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">MT Thinking Curriculum</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">P1 to P6</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Mother Tongue teachers infuse Thinking Routines and Paul’s Wheels of Reasoning - Elements of Thought and Intellectual Standards in their lessons to guide students to construct, interpret and evaluate knowledge from different perspectives. </span><br><br><span style="font-weight:300;color:#000">By creating such active learning situations in our classrooms, students feel motivated to learn, take greater ownership for their learning and become better learners. With such a curriculum, students develop habits of mind with respect to learning that serve them well both in school and in the real world.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Mother Tongue Support Programme</span><br><span style="font-weight:300;color:#000">(MTSP)</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">P3 &amp; P4</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">A customised programme to support students in the learning of MTL where customised learning materials are used to create an immersive language environment to enable students to learn Mother Tongue with confidence and joy.</span></td>
+  </tr>
+</tbody>
+</table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="3">Reading</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Programme</td>
+    <td class="tg-9hzb">Levels</td>
+    <td class="tg-9hzb">Key Focus</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Mother Tongue Reading Programme</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">P1 to P6</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">To inspire a love of reading in students, we have many reading initiatives/activities/resources such as “Have Enjoyment And Read Together” (HEART) Programme, Mother Tongue Language book reading on every Friday mornings, P1 to P5 weekly reading period, classroom library, newspapers and magazines subscriptions.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Cluster Magazine Publication</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">P1 to P6</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Teaching our students to write well has benefits that go beyond the school years. To help our students improve their writing ability and develop a love for writing, Mother Tongue teachers collaborate with cluster schools to publish yearly cluster magazine with selected students’ articles.</span></td>
+  </tr>
+</tbody>
+</table>
 
-|                                 |  Reading |                                                                                                                                                                                                                                                                                                                        |
-|:-------------------------------:|:--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|            Programme            |  Levels  |                                                                                                                                                        Key Focus                                                                                                                                                       |
-| Mother Tongue Reading Programme | P1 to P6 | To inspire a love of reading in students, we have many reading initiatives/activities/resources such as “Have Enjoyment And Read Together” (HEART) Programme, Mother Tongue Language book reading on every Friday mornings, P1 to P5 weekly reading period, classroom library, newspapers and magazines subscriptions. |
-|   Cluster Magazine Publication  | P1 to P6 | Teaching our students to write well has benefits that go beyond the school years. To help our students improve their writing ability and develop a love for writing, Mother Tongue teachers collaborate with cluster schools to publish yearly cluster magazine with selected students’ articles.                      |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="3">ICT-infused Language Learning</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Programme</td>
+    <td class="tg-9hzb">Levels</td>
+    <td class="tg-9hzb">Key Focus</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Student Learning Space (SLS)</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">P1 to P6</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">SLS enables students to engage in different learning modes, facilitating self-directed learning, collaborative learning and peer-to-peer interactions.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">interactive Mother Tongue Languages Portal </span><br><span style="font-weight:300;color:#000">(iMTL) </span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">P4 to P6</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">The interactive learning portal allows students to build oral proficiency and confidence in their Mother Tongue subject. Students can give and receive verbal or written feedback from peers, review their work and re-submit it for further inputs. Through the iMTL portal, students are empowered to take charge of their own learning.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">NewsMaker</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">P4 to P6</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">To develop effective communication skills, students make use of the NewsMaker application that allows them to create their own realistic, television-style news screenshots using photos and creative headlines.</span></td>
+  </tr>
+</tbody>
+</table>
 
-
-|   |                                                     | ICT-infused Language Learning |                                                                                                                                                                                                                                                                                                                                            |
-|---|:---------------------------------------------------:|:-----------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   |                      Programme                      |             Levels            |                                                                                                                                                                  Key Focus                                                                                                                                                                 |
-|   |             Student Learning Space (SLS)            |            P1 to P6           | SLS enables students to engage in different learning modes, facilitating self-directed learning, collaborative learning and peer-to-peer interactions.                                                                                                                                                                                     |
-|   | interactive Mother Tongue Languages Portal  (iMTL)  |            P4 to P6           | The interactive learning portal allows students to build oral proficiency and confidence in their Mother Tongue subject. Students can give and receive verbal or written feedback from peers, review their work and re-submit it for further inputs. Through the iMTL portal, students are empowered to take charge of their own learning. |
-|   |                      NewsMaker                      |            P4 to P6           | To develop effective communication skills, students make use of the NewsMaker application that allows them to create their own realistic, television-style news screenshots using photos and creative headlines.                                                                                                                           |
-
-|   |                                                  | Culture and Values |                                                                                                                                                                                                         |
-|---|:------------------------------------------------:|:------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   |                     Programme                    |       Levels       |                                                                                                Key Focus                                                                                                |
-|   |               Festive Celebrations               |      P1 to P6      | Various festive celebrations to bring about awareness among students of different races and cultivate a strong cultural belief in them.                                                                 |
-|   |      Mother Tongue Fortnight / Cultural Camp     |      P1 to P6      | In addition to the fun, excitement and hands on activities through the language and cultural activities, students will gain a deeper insight into their own culture and learn to appreciate it better.  |
-|   |    Cultural Performance Exposure Scheme (CPES)   |      P3 to P4      | CPES aims to provide the necessary funding and support to expose students to MT-related cultural performances and programmes.                                                                           |
-|   | Conversational Chinese and Malay Programme (CCM) |       P3 & P4      | Students will acquire basic proficiency in either Mandarin or Malay and will gain a better understanding of the traditional culture and norms of these communities through fun and engaging activities. |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="3">Culture and Values</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Programme</td>
+    <td class="tg-9hzb">Levels</td>
+    <td class="tg-9hzb">Key Focus</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Festive Celebrations</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">P1 to P6</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Various festive celebrations to bring about awareness among students of different races and cultivate a strong cultural belief in them.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Mother Tongue Fortnight / Cultural Camp</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">P1 to P6</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">In addition to the fun, excitement and hands on activities through the language and cultural activities, students will gain a deeper insight into their own culture and learn to appreciate it better.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Cultural Performance Exposure Scheme (CPES)</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">P3 to P4</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">CPES aims to provide the necessary funding and support to expose students to MT-related cultural performances and programmes.  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Conversational Chinese and Malay Programme (CCM)</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">P3 &amp; P4</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Students will acquire basic proficiency in either Mandarin or Malay and will gain a better understanding of the traditional culture and norms of these communities through fun and engaging activities.</span></td>
+  </tr>
+</tbody>
+</table>
