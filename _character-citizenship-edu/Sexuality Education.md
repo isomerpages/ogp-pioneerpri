@@ -42,30 +42,138 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
 **Primary 5**
 
-|             UNIT             |         LESSONS / DURATION        |                                                                                                                                                 LESSON OBJECTIVES At the end of the lesson, pupils will be able to:                                                                                                                                                | TIME PERIOD  (e.g. Term 1 Week 2) |
-|:----------------------------:|:---------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------:|
-|      Gosh! I Am Changing     | What Is Happening To Me? (30 min) | <li>know what puberty is <li>identify the physical changes during puberty                                                                                                                                                                                                                                                                                                  |           Term 1 Week 9           |
-|                              | What Can I Do? (Part 1)  (30 min) | <li>identify the stresses caused by physical and emotional changes during puberty <li>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty <li>describe the emotions caused by physical changes during puberty  <li>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty       |            Term1 Week 9           |
-|                              | What Can I Do? (Part 2)  (30 min) | <li> identify the stresses caused by physical and emotional changes during puberty <li>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty <li>describe the emotions caused by physical changes during puberty  <li>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty |           Term 1 Week 10          |
-|                              |         Main Task (30 min)        | Description of the Main Task: Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.                                                                      |           Term 1 Week 10          |
-|         Where I Belong       |    What Are Families? (30 min)    |  <li>know that there are different types of family structures <li>know that every family is unique <li>state that the three basic functions of families are to provide love, protection and guidance <li>identify the right sources of help to turn to when in need                                                                                                                |           Term 2 Week 1           |
-|                              |     What is My Role? (30 min)     |  <li> know that gender is about being male or female <li>choose not to stereotype by gender                                                                                                                                                                                                                                                                                 |           Term 2 Week 1           |
-|   How Do I Keep Myself Safe? |      What is Safety? (30 min)     |  <li>know what sexual abuse is <li>know that there are laws in Singapore that can protect them from sexual abuse <li>know their rights in keeping themselves safe from sexual abuse                                                                                                                                                                                            |           Term 2 Week 2           |
-|                              |    Stop It! Run! Tell! (30 min)   |  <li>protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult <li>know their responsibilities in minimising the risk of sexual harm                                                                                                                                                                                            |           Term 2 Week 2           |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">UNIT</th>
+    <th class="tg-a4yv">LESSONS / DURATION</th>
+    <th class="tg-a4yv">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</th>
+    <th class="tg-a4yv">TIME PERIOD <br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh" rowspan="4"><span style="font-weight:300;color:#000">Gosh! I Am Changing</span></td>
+    <td class="tg-baqh"><span style="font-weight:300;color:#000">What Is Happening To Me?</span><br><span style="font-weight:300;color:#000">(30 min)</span></td>
+    <td class="tg-0lax"><span style="font-weight:300;color:#000">know what puberty is</span><br><span style="font-weight:300;color:#000">identify the physical changes during puberty</span></td>
+    <td class="tg-baqh"><span style="font-weight:300;color:#000">Term 1 Week 9</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:300;color:#000">What Can I Do? (Part 1)</span><br><span style="font-weight:300;color:#000"> (30 min)</span></td>
+    <td class="tg-0lax"><span style="font-weight:300;color:#000">identify the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:300;color:#000">describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:300;color:#000">describe the emotions caused by physical changes during puberty </span><br><span style="font-weight:300;color:#000">recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</span></td>
+    <td class="tg-baqh"><span style="font-weight:300;color:#000">Term1 Week 9</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:300;color:#000">What Can I Do? (Part 2)</span><br><span style="font-weight:300;color:#000"> (30 min)</span></td>
+    <td class="tg-0lax"><span style="font-weight:300;color:#000">identify the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:300;color:#000">describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty</span><br><span style="font-weight:300;color:#000">describe the emotions caused by physical changes during puberty </span><br><span style="font-weight:300;color:#000">recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</span></td>
+    <td class="tg-baqh"><span style="font-weight:300;color:#000">Term 1 Week 10</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Main Task<br>(30 min)</td>
+    <td class="tg-0lax"><span style="font-weight:300;color:#000">Description of the Main Task:</span><br><span style="font-weight:300;color:#000">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span></td>
+    <td class="tg-baqh">Term 1 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" rowspan="2"><span style="font-weight:300;color:#000"> </span><br><span style="font-weight:300;color:#000">Where I Belong</span></td>
+    <td class="tg-baqh">What Are Families?<br>(30 min)</td>
+    <td class="tg-0lax"><br><span style="background-color:initial">know that there are different types of family structures</span><br><span style="background-color:initial">know that every family is unique</span><br><span style="background-color:initial">state that the three basic functions of families are to provide love, protection and guidance</span><br><span style="background-color:initial">identify the right sources of help to turn to when in need</span><br></td>
+    <td class="tg-baqh">Term 2 Week 1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">What is My Role?<br>(30 min)</td>
+    <td class="tg-0lax"><br><span style="background-color:initial">know that gender is about being male or female</span><br><span style="background-color:initial">choose not to stereotype by gender </span><br></td>
+    <td class="tg-baqh">Term 2 Week 1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" rowspan="2"><span style="font-weight:300;color:#000"> </span><br><span style="font-weight:300;color:#000">How Do I Keep Myself Safe?</span></td>
+    <td class="tg-baqh">What is Safety?<br>(30 min)</td>
+    <td class="tg-0lax"><br><span style="background-color:initial">know what sexual abuse is</span><br><span style="background-color:initial">know that there are laws in Singapore that can protect them from sexual abuse</span><br><span style="background-color:initial">know their rights in keeping themselves safe from sexual abuse</span><br></td>
+    <td class="tg-baqh">Term 2 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Stop It! Run! Tell!<br>(30 min)</td>
+    <td class="tg-0lax"><br><span style="background-color:initial">protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult</span><br><span style="background-color:initial">know their responsibilities in minimising the risk of sexual harm</span><br></td>
+    <td class="tg-baqh">Term 2 Week 2</td>
+  </tr>
+</tbody>
+</table>
 
 **Primary 6**
 
-|            UNIT           |         LESSONS / DURATION         |                                                                                                                                                                                                                            LESSON OBJECTIVES At the end of the lesson, pupils will be able to:                                                                                                                                                                                                                           | TIME PERIOD (e.g. Term 1 Week 2) |
-|:-------------------------:|:----------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------:|
-| Are We More Than Friends? |    Who Are My Friends? (30 min)    | <li>identify the qualities of a healthy friendship  <li>recognise the importance of making wise choices in friendship                                                                                                                                                                                                                                                                                                                                                                                                            |           Term 1 Week 9          |
-|                           |    Am I A Good Friend? (30 min)    | <li>identify the qualities that they have as a friend <li>recognise the importance of developing in oneself the qualities of a good friend                                                                                                                                                                                                                                                                                                                                                                                       |           Term1 Week 9           |
-|                           |       What is Love?  (30 min)      | <li>identify the characteristics of love and infatuation <li>distinguish between the characteristics of love versus infatuation <li>identify strong feelings arising from infatuation                                                                                                                                                                                                                                                                                                                                                | Term 1 Week 10                   |
-|                           |   Am I Falling In Love? (30 min)   | <li>manage strong feelings arising from infatuation <li>identify ways to manage and cope with teasing from peers                                                                                                                                                                                                                                                                                                                                                                                                                 |          Term 1 Week 10          |
-|                           |         Main Task  (30 min)        | Description of the Main Task:  Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.                                                                                                           |           Term 2 Week 1          |
-|      Friends or Foes?     | Are You Really My Friend? (30 min) | <li> identify the pros and cons of forming relationships through social networking websites <li>know ways to keep themselves safe when using social networking websites                                                                                                                                                                                                                                                                                                                                                           |           Term 2 Week 1          |
-|                           |      Is It All Safe? (30 min)      | <li>know that some information (like pornography) received through the Internet may be harmful <li>know ways to keep themselves safe when using social networking websites or the Internet                                                                                                                                                                                                                                                                                                                                       |           Term 2 Week 2          |
-|                           |         Main Task  (30 min)        | Description of the Main Task:  Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility. |           Term 2 Week 2          |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">UNIT</th>
+    <th class="tg-a4yv">LESSONS / DURATION</th>
+    <th class="tg-a4yv">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</th>
+    <th class="tg-a4yv">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig" rowspan="5"><span style="font-weight:300;color:#000">Are We More Than Friends?</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Who Are My Friends?</span><br><span style="font-weight:300;color:#000">(30 min)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">identify the qualities of a healthy friendship </span><br><span style="font-weight:300;color:#000">recognise the importance of making wise choices in friendship</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Term 1 Week 9</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Am I A Good Friend?</span><br><span style="font-weight:300;color:#000">(30 min)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">identify the qualities that they have as a friend</span><br><span style="font-weight:300;color:#000">recognise the importance of developing in oneself the qualities of a good friend</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Term1 Week 9</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">What is Love? </span><br><span style="font-weight:300;color:#000">(30 min)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">identify the characteristics of love and infatuation</span><br><span style="font-weight:300;color:#000">distinguish between the characteristics of love versus infatuation</span><br><span style="font-weight:300;color:#000">identify strong feelings arising from infatuation</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Term 1 Week 10</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Am I Falling In Love?</span><br><span style="font-weight:300;color:#000">(30 min)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">manage strong feelings arising from infatuation</span><br><span style="font-weight:300;color:#000">identify ways to manage and cope with teasing from peers</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Term 1 Week 10</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Main Task</span><br><span style="font-weight:300;color:#000"> (30 min)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Description of the Main Task:</span><br><br><span style="font-weight:300;color:#000">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Term 2 Week 1</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig" rowspan="3"><span style="font-weight:300;color:#000">Friends or Foes?</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Are You Really My Friend?</span><br><span style="font-weight:300;color:#000">(30 min)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">identify the pros and cons of forming relationships through social networking websites</span><br><span style="font-weight:300;color:#000">know ways to keep themselves safe when using social networking websites</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Term 2 Week 1</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Is It All Safe?</span><br><span style="font-weight:300;color:#000">(30 min)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">know that some information (like pornography) received through the Internet may be harmful</span><br><span style="font-weight:300;color:#000">know ways to keep themselves safe when using social networking websites or the Internet</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Term 2 Week 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Main Task</span><br><span style="font-weight:300;color:#000"> (30 min)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Description of the Main Task:</span><br><br><span style="font-weight:300;color:#000">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span></td>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Term 2 Week 2</span></td>
+  </tr>
+</tbody>
+</table>
 
 **Information for Parents**
 
