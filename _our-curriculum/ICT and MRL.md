@@ -34,3 +34,26 @@ Adopting MOE’s New Media Literacies Framework, Pioneer ICT learning programmes
 |                         |                                          |                                                 Operate peripherals equipment                                                |    ✓    |    ✓    |    ✓    |
 |                         | Basic Operation of Applications/Software |                                    Use application software, files and folders effectively                                   |    ✓    |    ✓    |    ✓    |
 |                         |      Storage and Maintenance of Data     |                                               Save, download and transfer data                                               |    ✓    |    ✓    |    ✓    |
+
+At the end of the 6 years of primary education, students will acquire a set of basic ICT skills under the 21st Century Competencies on the Communication, Collaboration and Information domain:
+* Conduct internet searches and organise the digital information for ease of retrieval while recognising copyright regulations governing the use of digital information,
+* Verify the accuracy, credibility and currency of a piece of information,
+* Select and put together different media elements to construct a digital artefact, while making informed choices with regard to how to use information ethically,
+* Exchange digital information with others synchronously and asynchronously, while observing proper etiquette, and
+* Manage the digital footprint he/she makes when sharing information online.
+
+# Media Resource Library
+
+To nurture every Pioneer student to be avid readers, Pioneer MRL organises regular activities that students can participate.
+
+![](/images/ICT%20%20MRL.jpg)
+
+* Books ALIVE
+* Book Talk, Book Sharing and Reading a-Loud (Recess Activities)
+* Thematic and Festive Display (Monthly, i.e. Blind Date with a Book in February)
+* Genre and Author of the Month (Monthly)
+* Primary 3 to 6 Library Periods 
+* Reading Carnival (Semestral)
+* Top Class Borrowers (Monthly) and Reading Champion (Termly)
+* Mass Borrowing (in partnership with NLB)
+* Lower Primary Storytelling and Library Card (in partnership with NLB)
