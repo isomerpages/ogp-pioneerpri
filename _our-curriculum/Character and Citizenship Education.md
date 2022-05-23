@@ -64,4 +64,3 @@ The Student of the Semester Award acknowledges and affirms students who exemplif
 |                                                                Customised                                                               |                                       Experiences                                       |   |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|---|
 | 1. Peer Supporters Training <br> 2. Transition and Integration Programme for transfer-in students <br>3. Integration Programme for International Students | 1. National Education (NE) Commemorative  Events  <br> 2. Learning Journeys <br> 3. Values in Action (VIA) |   |
-
