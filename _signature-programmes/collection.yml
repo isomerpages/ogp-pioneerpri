@@ -2,5 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Student Leadership Development.md
       - Talent Development.md
       - Internationalisation.md
