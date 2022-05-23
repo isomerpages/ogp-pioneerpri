@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - The Alumni.md
       - Parent Support Group.md
       - School Advisory Commitee.md
       - The Pioneer Professionals.md
