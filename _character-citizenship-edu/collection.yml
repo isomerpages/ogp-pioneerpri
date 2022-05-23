@@ -2,6 +2,5 @@ collections:
   character-citizenship-edu:
     output: true
     order:
-      - Form Teacher Guidance Period (FTGP).md
       - CCE MTL.md
       - Character and Citizenship Education.md
