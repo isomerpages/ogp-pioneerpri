@@ -2,4 +2,5 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Programme for Active Learning (PAL).md
       - ICT and MRL.md
