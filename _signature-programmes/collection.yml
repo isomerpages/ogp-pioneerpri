@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Care @ Pioneer.md
       - Student Leadership Development.md
       - Talent Development.md
       - Internationalisation.md
