@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Physical Education, Art and Music.md
       - Character and Citizenship Education.md
       - Programme for Active Learning (PAL).md
       - ICT and MRL.md
