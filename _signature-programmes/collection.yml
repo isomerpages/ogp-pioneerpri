@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Co Curriculum Activities/CCA programmes.md
       - Co Curriculum Activities/.keep
       - House System.md
       - Student Well Being.md
