@@ -64,9 +64,40 @@ This is a platform for teachers to spot students doing the right thing in school
 The Student of the Semester Award acknowledges and affirms students who exemplify the school values - R2ISE. These students model the way and/or demonstrate positive learning dispositions by exemplifying observable character traits in their daily practices. Form teachers will nominate the model student of his/her class at the end of each semester according to pre-determined selection criteria.
 
 **Our Programmes**
-
-|                                                               Whole School                                                              |                                                       Level Based                                                      |
-|:---------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
-| <li> CCE Lessons <li> Education and Career Guidance  <li> Cyber Wellness  <li> Peer Supporters  <li> CARE@Pioneer <li>  National Education (NE Commemorative Events)  | <li> Form teacher Guidance Period (FTGP)  <li> Habits of Mind Class Time <li> Sexuality Education (SEd)  - P5 and P6 <li>My Skills Future |
-|                                                                Customised                                                               |                                                       Experiences                                                      |
-| <li> Peer Supporters Training <li> Transition and Integration Programme for transfer-in students <li> Integration Programme for International Students | <li> National Education (NE) Commemorative  Events  <li> Learning Journeys <li> Values in Action (VIA)                                |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Whole School</th>
+    <th class="tg-a4yv">Level Based</th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">CCE Lessons</span><br><span style="font-weight:300;color:#000">Education and Career Guidance </span><br><span style="font-weight:300;color:#000">Cyber Wellness </span><br><span style="font-weight:300;color:#000">Peer Supporters </span><br><span style="font-weight:300;color:#000">CARE@Pioneer </span><br><span style="font-weight:300;color:#000">National Education (NE Commemorative Events)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Form teacher Guidance Period (FTGP) </span><br><span style="font-weight:300;color:#000">Habits of Mind</span><br><span style="font-weight:300;color:#000">Class Time</span><br><span style="font-weight:300;color:#000">Sexuality Education (SEd)  - P5 and P6</span><br><span style="font-weight:300;color:#000">My Skills Future</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-a4yv">Customised</td>
+    <td class="tg-a4yv">Experiences</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><span style="font-weight:300;color:#000">Peer Supporters Training</span><br><span style="font-weight:300;color:#000">Transition and Integration Programme for transfer-in students</span><br><span style="font-weight:300;color:#000">Integration Programme for International Students</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">National Education (NE) Commemorative  Events </span><br><span style="font-weight:300;color:#000">Learning Journeys</span><br><span style="font-weight:300;color:#000">Values in Action (VIA)</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
