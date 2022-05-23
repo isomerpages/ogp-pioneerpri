@@ -2,6 +2,7 @@ collections:
   about-pioneer:
     output: true
     order:
+      - School Anthem.md
       - School Song.md
       - Staff Directory/Executive and Administrative Staff.md
       - Staff Directory/Allied Educator.md
