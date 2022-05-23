@@ -2,6 +2,7 @@ collections:
   about-pioneer:
     output: true
     order:
+      - Staff Directory/Form Teachers.md
       - Staff Directory/Teacher Leaders.md
       - Staff Directory/Pioneer Executive Committee (EXCO).md
       - Staff Directory/.keep
