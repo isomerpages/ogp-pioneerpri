@@ -2,6 +2,12 @@ collections:
   our-curriculum:
     output: true
     order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - Physical Education, Art and Music.md
+      - Character and Citizenship Edu/.keep
       - Character and Citizenship Edu/Character and Citizenship Education.md
       - Character and Citizenship Edu/CCE MTL.md
       - Character and Citizenship Edu/Form Teacher Guidance Period (FTGP).md
@@ -10,11 +16,5 @@ collections:
       - Character and Citizenship Edu/Sexuality Education.md
       - Character and Citizenship Edu/National Education.md
       - Character and Citizenship Edu/Integration Programme.md
-      - Character and Citizenship Edu/.keep
-      - English Language.md
-      - Mathematics.md
-      - Science.md
-      - Mother Tongue Languages.md
-      - Physical Education, Art and Music.md
       - Programme for Active Learning (PAL).md
       - ICT and MRL.md
