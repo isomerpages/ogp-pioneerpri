@@ -2,6 +2,7 @@ collections:
   about-pioneer:
     output: true
     order:
+      - From the Principal’s Desk.md
       - School information.md
       - School Crest.md
       - School Anthem.md
