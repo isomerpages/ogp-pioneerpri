@@ -50,3 +50,39 @@ third_nav_title: Our Pride & Joy
 * Mdm Hadejah Osman, OSO
 
 * Mr Lee Yit Kiong, OSO
+
+# 2021 National Day Awards
+
+**The Commendation Medals**
+
+* Mdm Kristine Chee, HOD Mother Tongue Languages
+* Ms Natalie Chen, HOD Character and Citizenship Education
+* Mr Joseph Lim, HOD Mathematics
+* Mr Muhammad Firdaus, HOD Science
+* Mrs Lynnette Tan, SH Student Well-Being
+
+
+**The Efficiency Medal**
+
+* Mdm Goh Lay Hoon, Senior AED LBS
+
+
+**Long-Service Medals**
+
+* Mr Desmond Lee, School Staff Developer
+* Norly Bte Abdullah, HOD Student Management
+
+# 2021 MOE Outstanding Contributions Awards
+
+**Individuals**
+
+* Mr Mohamed Ashiq S/O Ameerdeen M, SH CCA & Student Leadership
+* Mdm Nor Ashikin Bte Buang, Teacher
+* Mrs Caryln Loh, Teacher
+* Mrs Tan Ying Qing, Teacher
+* Mr Kulwant Singh, Operations Manager
+
+
+# Associate of Academy of Singapore Teachers Award 2021
+* Ms Nor Erwiena Bte Winarno P, Senior Teacher (Low Progress Learners)
+
