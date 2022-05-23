@@ -2,4 +2,5 @@ collections:
   our-community:
     output: true
     order:
+      - School Advisory Commitee.md
       - The Pioneer Professionals.md
