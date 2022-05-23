@@ -2,10 +2,10 @@ collections:
   co-curriculum-activities:
     output: true
     order:
-      - Clubs and Societies/Toastmaster Society.md
-      - Clubs and Societies/InfoComm Club.md
-      - Clubs and Societies/Robotics.md
       - Clubs and Societies/.keep
+      - Clubs and Societies/Robotics.md
+      - Clubs and Societies/InfoComm Club.md
+      - Clubs and Societies/Toastmaster Society.md
       - Uniformed Groups/Cub Scouts.md
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/.keep
