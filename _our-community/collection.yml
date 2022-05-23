@@ -2,5 +2,6 @@ collections:
   our-community:
     output: true
     order:
+      - Parent Support Group.md
       - School Advisory Commitee.md
       - The Pioneer Professionals.md
