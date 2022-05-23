@@ -2,5 +2,6 @@ collections:
   about-pioneer:
     output: true
     order:
+      - Our Pride & Joy/The Pioneer Stories.md
       - Our Pride & Joy/.keep
       - Positive Discipline.md
