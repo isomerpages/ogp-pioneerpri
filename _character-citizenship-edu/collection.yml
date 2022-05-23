@@ -1,5 +1,4 @@
 collections:
   character-citizenship-edu:
     output: true
-    order:
-      - Character and Citizenship Education.md
+    order: []
