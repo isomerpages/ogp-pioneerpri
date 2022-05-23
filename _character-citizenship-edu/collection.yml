@@ -2,7 +2,6 @@ collections:
   character-citizenship-edu:
     output: true
     order:
-      - Sexuality Education.md
       - Education and Career Guidance.md
       - Cyber Wellness.md
       - Form Teacher Guidance Period (FTGP).md
