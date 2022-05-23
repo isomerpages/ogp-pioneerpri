@@ -2,6 +2,7 @@ collections:
   co-curriculum-activities:
     output: true
     order:
+      - Performing and Visual Arts/Chinese Orchestra.md
       - Performing and Visual Arts/Choir.md
       - Performing and Visual Arts/Visual and Art Expression.md
       - Performing and Visual Arts/.keep
