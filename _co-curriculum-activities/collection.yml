@@ -2,6 +2,7 @@ collections:
   co-curriculum-activities:
     output: true
     order:
+      - Clubs and Societies/.keep
       - Uniformed Groups/Cub Scouts.md
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/.keep
