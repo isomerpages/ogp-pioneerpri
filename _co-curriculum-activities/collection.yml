@@ -2,6 +2,7 @@ collections:
   co-curriculum-activities:
     output: true
     order:
+      - Performing and Visual Arts/Hip Hop.md
       - Performing and Visual Arts/Contemporary Dance.md
       - Performing and Visual Arts/Chinese Orchestra.md
       - Performing and Visual Arts/Choir.md
