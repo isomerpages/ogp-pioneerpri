@@ -1,4 +1,5 @@
 collections:
   about-pioneer:
     output: true
-    order: []
+    order:
+      - Positive Discipline.md
