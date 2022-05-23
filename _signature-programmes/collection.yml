@@ -2,4 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Talent Development.md
       - Internationalisation.md
