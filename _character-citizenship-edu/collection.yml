@@ -2,4 +2,5 @@ collections:
   character-citizenship-edu:
     output: true
     order:
+      - CCE MTL.md
       - Character and Citizenship Education.md
