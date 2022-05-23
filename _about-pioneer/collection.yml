@@ -1,0 +1,4 @@
+collections:
+  about-pioneer:
+    output: true
+    order: []
