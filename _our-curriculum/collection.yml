@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Character and Citizenship Education.md
       - Programme for Active Learning (PAL).md
       - ICT and MRL.md
