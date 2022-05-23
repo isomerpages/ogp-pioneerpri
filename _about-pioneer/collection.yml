@@ -2,6 +2,7 @@ collections:
   about-pioneer:
     output: true
     order:
+      - Staff Directory/.keep
       - Our Pride & Joy/.keep
       - Our Pride & Joy/The Pioneer Stories.md
       - Our Pride & Joy/Staff Accolades.md
