@@ -2,5 +2,6 @@ collections:
   pioneer-engagement:
     output: true
     order:
+      - Commemorative Events/School Publications.md
       - Commemorative Events/Commemorative Events.md
       - Commemorative Events/.keep
