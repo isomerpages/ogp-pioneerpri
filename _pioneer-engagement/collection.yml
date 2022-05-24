@@ -1,5 +1,4 @@
 collections:
   pioneer-engagement:
     output: true
-    order:
-      - Commemorative Events.md
+    order: []
