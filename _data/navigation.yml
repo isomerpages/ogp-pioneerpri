@@ -1,6 +1,17 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: "About Pioneer "
+    url: /about-pioneer
+    sublinks:
+      - title: From the Principal's Desk
+        url: /about-pioneer/from-the-principals-desk
+      - title: School Information
+        url: /about-pioneer/school-information
+      - title: "School Crest "
+        url: /about-pioneer/school-crest
+      - title: School Anthem
+        url: /about-pioneer/school-anthem
+      - title: School Song
+        url: /about-pioneer/school-song
+      - title: Submenu Title
+        url: /permalink
