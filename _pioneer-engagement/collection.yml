@@ -2,7 +2,7 @@ collections:
   pioneer-engagement:
     output: true
     order:
-      - General Information/General Information.md
+      - General Information/School Information (KIV).md
       - General Information/.keep
       - School Safety.md
       - Privacy Policy.md
