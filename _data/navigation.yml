@@ -4,12 +4,6 @@ links:
     collection: about-pioneer
   - title: "Our Curriculum "
     collection: our-curriculum
-  - title: Signature Programmes
-    collection: signature-programmes
-  - title: "Our Community "
-    collection: our-community
-  - title: Pioneer Engagement
-    collection: pioneer-engagement
   - title: "Signature Programme "
     url: /signature-programmes/thinking-curriculum
     sublinks:
@@ -27,5 +21,13 @@ links:
         url: /permalink/signature-programmes/student-well-being
       - title: Care @ Pioneer
         url: /signature-programmes/care-at-pioneer
-      - title: Submenu Title
-        url: /permalink
+      - title: Student Leadership Development
+        url: /signature-programmes/student-leadership-development
+      - title: Talent Development
+        url: /signature-programmes/talent-development
+      - title: Internationalisation
+        url: /signature-programmes/internationalisation
+  - title: "Our Community "
+    collection: our-community
+  - title: Pioneer Engagement
+    collection: pioneer-engagement
