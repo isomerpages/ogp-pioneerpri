@@ -2,6 +2,7 @@ collections:
   pioneer-engagement:
     output: true
     order:
+      - Parents' Briefing.md
       - Pioneer Gallery/School Publications.md
       - Pioneer Gallery/Commemorative Events.md
       - Pioneer Gallery/.keep
