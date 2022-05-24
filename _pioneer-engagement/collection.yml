@@ -2,6 +2,7 @@ collections:
   pioneer-engagement:
     output: true
     order:
+      - Counselling Services.md
       - Useful Links.md
       - Communication/Letters and Notifications.md
       - Communication/.keep
