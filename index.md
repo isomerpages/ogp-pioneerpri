@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Pioneer Primary School
       background: /images/pioneer-hero-banner.gif
 ---
