@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/pioneer-hero-banner.gif
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
