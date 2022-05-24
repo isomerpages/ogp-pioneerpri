@@ -10,3 +10,22 @@ links:
     collection: our-community
   - title: Pioneer Engagement
     collection: pioneer-engagement
+  - title: "Signature Programme "
+    url: /signature-programmes/thinking-curriculum
+    sublinks:
+      - title: Thinking Curriculum
+        url: /signature-programmes/thinking-curriculum
+      - title: Applied Learning Programme
+        url: /signature-programmes/applied-learning-programme/permalink
+      - title: Learning for Life Programme
+        url: /permalink/signature-programmes/learning-for-life-programme
+      - title: Co-Curriculum Programmes
+        url: /signature-programmes/co-curriculum-activities/cca-programmes/permalink
+      - title: House System
+        url: /signature-programmes/house-system
+      - title: Student Well Being
+        url: /permalink/signature-programmes/student-well-being
+      - title: Care @ Pioneer
+        url: /signature-programmes/care-at-pioneer
+      - title: Submenu Title
+        url: /permalink
