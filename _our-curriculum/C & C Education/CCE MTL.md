@@ -13,7 +13,7 @@ Values are better internalised when students’ daily life experiences are used 
 At the end of the CCE MTL programme, students would be able to:
 
 <img src="/images/CCE%20MTL.jpg" 
-     style="width:60%">
+     style="width:50%">
 
 * put good values into practice
 * be responsible in their actions
