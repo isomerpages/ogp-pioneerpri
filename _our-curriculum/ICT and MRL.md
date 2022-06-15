@@ -13,7 +13,9 @@ Today almost every child grows up with digital devices at home and in the classr
 
 Adopting MOE’s New Media Literacies Framework, Pioneer ICT learning programmes also covers cyber security and wellness in the critical areas and issues associated with ethical and legal as well as safe and responsible use of ICT.
 
-![](/images/ict1.png)
+
+<img src="/images/ict1.png" 
+     style="width:65%">
 
 |     Competency Areas    |                                          |                                                       Learning Outcomes                                                      | P1 & P2 | P3 & P4 | P5 & P6 |
 |:-----------------------:|:----------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-------:|:-------:|:-------:|
