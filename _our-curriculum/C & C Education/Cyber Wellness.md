@@ -4,7 +4,6 @@ permalink: /our-curriculum/Character-and-Citizenship-Edu/cyber-wellness
 description: ""
 third_nav_title: C & C Education
 ---
-
 # Cyber Wellness
 
 **MOE's Cyber Wellness Curriculum in Schools**
@@ -22,7 +21,8 @@ Lessons are delivered via Form Teacher Guidance Period (FTGP).
 
 The CW framework is used to develop the child’s instinct to protect and empower himself to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will augur well for a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.
 
-![](/images/cw.jpg)
+<img src="/images/cw.jpg" 
+     style="width:65%">
 
 **Key Principles**
 
