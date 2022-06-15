@@ -13,7 +13,6 @@ Today almost every child grows up with digital devices at home and in the classr
 
 Adopting MOE’s New Media Literacies Framework, Pioneer ICT learning programmes also covers cyber security and wellness in the critical areas and issues associated with ethical and legal as well as safe and responsible use of ICT.
 
-
 <img src="/images/ict1.png" 
      style="width:65%">
 
@@ -48,7 +47,9 @@ At the end of the 6 years of primary education, students will acquire a set of b
 
 To nurture every Pioneer student to be avid readers, Pioneer MRL organises regular activities that students can participate.
 
-![](/images/ICT%20%20MRL.jpg)
+
+<img src="/images/ICT%20%20MRL.jpg" 
+     style="width:70%">
 
 * Books ALIVE
 * Book Talk, Book Sharing and Reading a-Loud (Recess Activities)
