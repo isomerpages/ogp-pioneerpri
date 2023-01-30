@@ -1,10 +1,10 @@
 ---
 title: From the Principal’s Desk
-permalink: /about-pioneer/from-the-principal-s-desk
+permalink: /about-pioneer/from-the-principal-s-desk/
 description: ""
 ---
 # From the Principal’s Desk
-# 
+
 
 ![](/images/PPS2021%20Photoshoot%2026%20of%2031.jpg)
 
@@ -27,4 +27,3 @@ Have an amazing 2022 everyone!
  
 Mrs Lee Wai Ling
 Principal
-
