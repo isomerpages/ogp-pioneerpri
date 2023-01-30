@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Pioneer Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -10,4 +10,5 @@ sections:
       title: Pioneer Primary School
       background: /images/pioneer-hero-banner.gif
 ---
+
 
