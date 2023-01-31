@@ -7,5 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/pioneer-hero-banner.gif
+      background: /images/Home 3_2.jpg
 ---
