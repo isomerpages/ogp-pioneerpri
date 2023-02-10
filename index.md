@@ -19,6 +19,7 @@ sections:
           url: ""
       background: /images/Homepage/Home 3 - 4.jpg
       title: Pioneer Primary School
+      subtitle: Pioneer Primary School
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
