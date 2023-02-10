@@ -11,9 +11,9 @@ sections:
         - title: Stay Connected
           description: Visit our FB & IG for updates
           url: https://www.facebook.com/pioneerprisch
-        - title: Key Highlight Title 3
-          description: Key Highlight description
-          url: ""
+        - title: School Attire
+          description: Get from school bookshop
+          url: https://pioneerpri.moe.edu.sg/pioneer-engagement/general-information/school-services
         - title: Key Highlight Title 4
           description: Key Highlight description
           url: ""
