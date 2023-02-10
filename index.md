@@ -18,7 +18,6 @@ sections:
           description: Key Highlight description
           url: ""
       background: /images/Homepage/Home 1 - 2.jpg
-      title: Pioneer Primary School
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
