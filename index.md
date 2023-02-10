@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Key Highlight Title 1
-          description: Key Highlight description
+        - title: Stay Connected
+          description: Visit our FB & IG for updates
           url: ""
         - title: Key Highlight Title 3
           description: Key Highlight description
