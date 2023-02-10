@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home 3_2.jpg
+      background: /images/Homepage/Homepage 3.png
       key_highlights:
         - title: Key Highlight Title 1
           description: Key Highlight description
