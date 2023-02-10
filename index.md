@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Stay Connected
           description: Visit our FB & IG for updates
-          url: ""
+          url: https://www.facebook.com/pioneerprisch
         - title: Key Highlight Title 3
           description: Key Highlight description
           url: ""
