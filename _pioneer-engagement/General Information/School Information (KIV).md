@@ -1,10 +1,9 @@
 ---
 title: School Information (KIV)
-permalink: /pioneer-engagement/General-Information/school-information
+permalink: /pioneer-engagement/General-Information/school-information/
 description: ""
 third_nav_title: General Information
 ---
-
 # General Information
 
 <style type="text/css">
@@ -46,7 +45,7 @@ third_nav_title: General Information
   </tr>
   <tr>
     <td class="tg-ktyi">Public Bus Transport</td>
-    <td class="tg-ktyi" colspan="2">Bus No. 99</td>
+    <td class="tg-ktyi" colspan="2">Bus No. 99 & 241</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="3">School Operating Hours</td>
@@ -62,7 +61,7 @@ third_nav_title: General Information
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="5">School Hours</td>
+    <td class="tg-ktyi" rowspan="4">School Hours</td>
     <td class="tg-ktyi"><span style="font-weight:300;color:#000">Monday to Friday</span></td>
     <td class="tg-ktyi"><span style="font-weight:300;color:#000">7.30 am to 1.30 pm</span></td>
   </tr>
@@ -70,10 +69,7 @@ third_nav_title: General Information
     <td class="tg-ktyi"><span style="font-weight:300;color:#000">Dismissal Time:</span></td>
     <td class="tg-0lax"></td>
   </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Primary 2</span></td>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">1.20 pm</span></td>
-  </tr>
+ 
   <tr>
     <td class="tg-ktyi"><span style="font-weight:300;color:#000">Primary 3 and 4</span></td>
     <td class="tg-ktyi"><span style="font-weight:300;color:#000">1.25 pm</span></td>
@@ -84,7 +80,7 @@ third_nav_title: General Information
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">Dismissal</td>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Primary 2 and 3</span><br><span style="font-weight:300;color:#000">Primary 4 and 6</span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Primary 3 and 4</span><br><span style="font-weight:300;color:#000">Primary 5 and 6</span></td>
     <td class="tg-ktyi"><span style="font-weight:300;color:#000">Gate 1</span><br><span style="font-weight:300;color:#000">Gate 4</span></td>
   </tr>
   <tr>
