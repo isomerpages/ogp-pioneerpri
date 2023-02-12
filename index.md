@@ -19,13 +19,11 @@ sections:
           url: ""
       background: /images/Homepage/Home 1 - 3.png
   - infopic:
-      title: The Pioneer Stories
-      subtitle: March to a Whole New World
-      alt: The Pioneer Stories
-      url: /about-pioneer/our-pride-and-joy/the-pioneer-stories
+      title: "Welcome to Pioneer Primary School! "
+      subtitle: From the Principal’s Desk
+      url: /about-pioneer/from-the-principal-s-desk/
       image: /images/PPS2021 Photoshoot 26 of 31.jpg
-      description: In an event to celebrate the merger, we marked the occasion with a
-        March to A Whole New World culminating in a mass dance to a Glorious
-        Future!
+      description: On behalf of all staff of Pioneer Primary School, I would like to
+        wish one and all a Happy New Year! ...
       button: Read more
 ---
