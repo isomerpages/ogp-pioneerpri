@@ -2,7 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - CCA Programmes.md
+      - Co Curricular Activities.md
       - Physical Sports/.keep
       - Physical Sports/Basketball.md
       - Physical Sports/Football.md
