@@ -1,6 +1,6 @@
 ---
 title: House System
-permalink: /signature-programmes/house-system
+permalink: /signature-programmes/house-system/
 description: ""
 ---
 # House System
@@ -9,7 +9,7 @@ The House System aims to promote student and staff engagement, and create a sens
 
 ![](/images/House%20System.jpg)
 
-**Objectives of House System**
+#### Objectives of House System
 
 * Inculcate school values through activity-based learning
 * Promote social integration, team spirit and sense of identity
