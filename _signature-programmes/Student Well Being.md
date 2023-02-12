@@ -1,6 +1,6 @@
 ---
 title: Student Well Being
-permalink: /signature-programmes/student-well-being
+permalink: /signature-programmes/student-well-being/
 description: ""
 ---
 # Student Well-Being
@@ -9,15 +9,15 @@ In Pioneer Primary School, ‘Students are our Gems’.  We adopt the Self-Deter
 
 ![](/images/PPS2021%20Photoshoot.jpg)
 
-# Our Approach
-**Creating a Caring and Enabling Environment**
+### Our Approach
+#### Creating a Caring and Enabling Environment
 
 The cornerstone in our provision for student well-being is the creation of a conducive learning environment that caters to students’ growth and development in the physical, social, affective and cognitive domains. Leveraging the environment as “**third teacher**”, we emphasise the significance of the materials, space and mood of the classroom and overall school environment that enable our students to feel safe, respected and accepted.
 
 Key messages of the **Growth Mindset** by Professor Carol Dweck are imbued in students through daily school experiences. We want them to believe that intelligence can be developed through dedication, hard work, collaboration and/or strategy. They are praised for their effort or strategy used in tackling challenges, thereby linking **effort with success**. Under the care and guidance of teachers, students learn to perceive challenges and mistakes as **opportunities to improve** their learning and abilities, leading to the development of a resilient mindset and passion for learning.
 
 
-**Building Positive Relationships**
+#### Building Positive Relationships
 
 **-Teacher-Student Relationships**
 
@@ -27,7 +27,7 @@ Positive relationships are the basis for effective learning to take place. We in
 
 Other than teachers, it is key that students are equipped with relationship management skills to effectively handle peer relationships. Such skills are explicitly taught during FTGP lessons and further reinforced through application during CCA training, House activities and other student programmes. Students who possess essential traits and leadership qualities are given opportunities to take up the role of Peer Support Leaders.
 
-# Our Key Programmes
+#### Our Key Programmes
 **Back-to-School Programme**
 
 At the start of every new year, students can look forward to new discoveries, new friendships and exciting learning opportunities under the nurturing and caring watch of dedicated teachers.
