@@ -24,6 +24,10 @@ sections:
       alt: The Pioneer Stories
       url: /about-pioneer/our-pride-and-joy/the-pioneer-stories
       image: /images/PPS2021 Photoshoot 26 of 31.jpg
+      description: In an event to celebrate the merger, we marked the occasion with a
+        March to A Whole New World culminating in a mass dance to a Glorious
+        Future!
+      button: Read more
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
