@@ -15,7 +15,8 @@ third_nav_title: Our Pride & Joy
 	
 The digital Flipbook “Cherishing the Past, Celebrating the Present, Creating the Future” is a project by Juying Primary School to capture the significant milestones and achievements of the school from 1995 to 2021 before the merger with Pioneer Primary School. It features many innovative programmes and projects over the years under the leadership of the 4 inspiring Principals and team of dedicated teachers and support staff.
 
-**MISSING IMAGES**
+![juying pri sch](/images/juying_pri_sch.jpg)
+[Cherishing the Past, Celebrating the Present, Creating the Future](https://gsk-hosting.com/JYPS_flipbook/)
 
 # March to a Whole New World, 25 November 2021
 
