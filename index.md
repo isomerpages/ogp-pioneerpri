@@ -19,11 +19,11 @@ sections:
           url: ""
       background: /images/Homepage/Home 1 - 3.png
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: The Pioneer Stories
+      subtitle: March to a Whole New World
+      alt: The Pioneer Stories
+      url: /about-pioneer/our-pride-and-joy/the-pioneer-stories
+      image: /images/PPS2021 Photoshoot 26 of 31.jpg
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
