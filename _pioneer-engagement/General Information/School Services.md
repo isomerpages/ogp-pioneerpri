@@ -4,7 +4,6 @@ permalink: /pioneer-engagement/General-Information/school-services/
 description: ""
 third_nav_title: General Information
 ---
-
 # School Services
 
 <style type="text/css">
@@ -29,7 +28,7 @@ third_nav_title: General Information
 <tbody>
   <tr>
     <td class="tg-ktyi">Bookshop</td>
-    <td class="tg-dgl5">Ricky Book Centre<br><span style="font-weight:300;color:#000">Tel:8875 9459</span><br><span style="font-weight:300;color:#000">Email: sales@rickybookcentre.com.sg</span><br><br><span style="font-weight:300;color:#000">Opening Hours (school term):</span><br>Monday to Friday<br>9.00 am to 2.30 pm<br><span style="font-weight:300;color:#000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+    <td class="tg-dgl5">Ricky Book Centre<br><span style="font-weight:300;color:#000">Tel:8875 9459</span><br><span style="font-weight:300;color:#000">Email: sales@rickybookcentre.com.sg</span><br><br><span style="font-weight:300;color:#000">Opening Hours (school term):</span><br>Monday to Friday<br>9.00 am to 2.30 pm<br>Parents/Guardians/Caregivers can make purchases from Monday to Friday between 1.45 pm to 2.30 pm.<span style="font-weight:300;color:#000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
     
   </tr>
   <tr>
@@ -75,7 +74,7 @@ third_nav_title: General Information
 <thead>
   <tr>
     <td class="tg-jxgv">Dental Service</td>
-    <td class="tg-pdeq">School Dental Clinic (Health Promotion Board)<br><span style="font-weight:300;color:#000">Tel: 6793 5398 / 6265 4284</span><br><span style="font-weight:300;color:#000">Contact Person: Ms Suhaila</span><br><br><span style="font-weight:300;color:#000">Opening Hours (school term):</span><br>Monday to Thursday<br>8.00 am to 5.30 pm<br>Friday<br>8.00 am to 5.00 pm <br>Lunch Break<br>1.00 pm to 2.00 pm<br><br><br><span style="font-weight:400;font-style:normal">As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.</span><br><br><span style="font-weight:300;color:#000">                              </span></td>
+    <td class="tg-pdeq">School Dental Clinic (Health Promotion Board)<br><span style="font-weight:300;color:#000">Tel: 9115 3862</span><br><span style="font-weight:300;color:#000">Contact Person: Ms Rozi</span><br><br><span style="font-weight:300;color:#000">Opening Hours (school term):</span><br>Monday to Thursday<br>8.00 am to 5.30 pm<br>Friday<br>8.00 am to 5.00 pm <br>Lunch Break<br>1.00 pm to 2.00 pm<br><br><br><span style="font-weight:400;font-style:normal">As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.</span><br><br><span style="font-weight:300;color:#000">                              </span></td>
   </tr>
 </thead>
 </table>
@@ -93,7 +92,7 @@ third_nav_title: General Information
 <thead>
   <tr>
     <th class="tg-ktyi"><span style="font-weight:300;color:#000">Student Care Centre</span></th>
-    <th class="tg-dgl5">Kidz Treehouse @ Pioneer Primary<br><span style="font-weight:300;color:#000">Tel: 9297 3976</span><br><span style="font-weight:300;color:#000">Email:</span> <a href="mailto:pps@kowabunga.com.sg"><span style="font-weight:400;text-decoration:underline;color:#9C2B2A">pps@kowabunga.com.sg</span></a><br><br><span style="font-weight:300;color:#000">Opening Hours: <br> Monday to Friday (School Term) - 10:00am to 7:00pm<br>Monday to Friday (School Holiday) 7:30am to 7:00pm</span></th>
+    <th class="tg-dgl5">Commit Learning Schoolhouse @ Pioneer Primary<br><span style="font-weight:300;color:#000">Tel: 80357438</span><br><span style="font-weight:300;color:#000">Email:</span> <a href="mailto:admission_cls_pps@commitlearning.com.sg"><span style="font-weight:400;text-decoration:underline;color:#9C2B2A">admission_cls_pps@commitlearning.com.sg</span></a><br><br><span style="font-weight:300;color:#000">Opening Hours: <br> Monday to Friday (School Term) - 1.30pm to 7:00pm<br>Monday to Friday (School Holiday) 7:30am to 7:00pm</span></th>
   </tr>
 </thead>
 <tbody>
