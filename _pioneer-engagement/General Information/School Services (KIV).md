@@ -1,10 +1,10 @@
 ---
 title: School Services (KIV)
-permalink: /pioneer-engagement/General-Information/school-services
+permalink: /pioneer-engagement/General-Information/school-services/
 description: ""
 third_nav_title: General Information
 ---
-# School Services (KIV)
+# School Services
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
