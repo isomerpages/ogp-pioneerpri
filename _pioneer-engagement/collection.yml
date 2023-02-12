@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - General Information/School Services.md
-      - General Information/School Information (KIV).md
+      - General Information/School Information.md
       - General Information/.keep
       - School Safety.md
       - Privacy Policy.md
