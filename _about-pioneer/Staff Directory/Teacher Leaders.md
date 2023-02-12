@@ -1,6 +1,6 @@
 ---
 title: Teacher Leaders
-permalink: /about-pioneer/Staff-Directory/teacher-leaders
+permalink: /about-pioneer/Staff-Directory/teacher-leaders/
 description: ""
 third_nav_title: Staff Directory
 ---
@@ -16,4 +16,3 @@ third_nav_title: Staff Directory
 | Mdm Seevarathenam D/O Jumbulingam | Senior Teacher / Tamil Language        | seevarathenam_jumbulingam@schools.gov.sg |
 | Ms Nor Erwiena Winarno P          | Senior Teacher / Low Progress Learners | nor_erwiena_winarno_p@schools.gov.sg     |
 | Mdm Nooraisha Bte Mohamad         | Senior Teacher / SEN                   | nooraisha_mohamad@schools.gov.sg         |
-| Mr Li Jianwen                     | Senior Teacher / PE                    | li_jianwen@schools.gov.sg                |
