@@ -88,20 +88,25 @@ third_nav_title: Staff Directory
 
 |      Class     | Form Teachers         | Email Address                      |
 |:--------------:|-----------------------|------------------------------------|
-| 6 RESILIENCE 1 | Mdm Niryanty          | niryanty_abd_razak@schools.gov.sg  |
-|                | Ms Tan Hui Choon      | tan_hui_choon@schools.gov.sg       |
-|                | Ms Natalie Chen       | chen_sujing@schools.gov.sg         |
-| 6 RESILIENCE 2 | Ms Chang Shi Min      | chang_shi_min@schools.gov.sg       |
-|                | Mr Joseph Lim         | lim_soon_yang@schools.gov.sg       |
-|                | Mr Desmond Lee        | lee_chien_hiong@schools.gov.sg     |
-| 6 RESILIENCE 3 | Mdm Anis              | sultan_anis_fathima@schools.gov.sg |
-|                | Mdm Ng Ai Ling        | ng_ai_ling@schools.gov.sg          |
-|                | Mr Christopher Tan    | tan_hung_choon@schools.gov.sg      |
-| 6 RESILIENCE 4 | Ms Chun Yanzheng      | chun_yanzheng@schools.gov.sg       |
-|                | Mrs Jamie Lim         | yip_wan_ching@schools.gov.sg       |
-|                | Mdm Kristine Chee     | chee_fong_siong@schools.gov.sg     |
-| 6 RESILIENCE A | Ms Shanti             | shanti_govindasamy@schools.gov.sg  |
-|                | Mdm Liu Jie           | liu_jie@schools.gov.sg             |
-|                | Mr Shaun Kuat         | kuat_zhi_ming@schools.gov.sg       |
-| 6 RESILIENCE B | Mrs Ang-Shoon Li Ling | shoon_li_ling@schools.gov.sg       |
-|                | Ms Teo Woon Teng      | teo_woon_teng@schools.gov.sg       |
+| 6 RESILIENCE 1 | Ms Melissa Foo | foo_shi_ping_melissa@schools.gov.sg |
+|  | Mdm Begum | mahehraj_begum_maidee@schools.gov.sg |
+|  | Ms Teo Woon Teng | teo_woon_teng@schools.gov.sg |
+| 6 RESILIENCE 2 | Ms Pauline Ng | ng_puay_khoon_pauline@schools.gov.sg |
+|  | Mr Desmond Lee | lee_chien_hiong@schools.gov.sg |
+|  | Mr Shaun Kuat | kuat_zhi_ming@schools.gov.sg |
+| 6 RESILIENCE 3 | Mr Jonathan Wee | wee_hong_meng@schools.gov.sg |
+|  | Mdm Zubaidah | zubaidah_mahamood@schools.gov.sg |
+|  | Ms April Chua | chua_mei_sze@schools.gov.sg |
+| 6 RESILIENCE 4 | Mdm Zana | S_Zanariah_ahmad@Schools.gov.sg |
+|  | Ms Chua Sok Hun | chua_sok_hun@schools.gov.sg |
+|  | Mr Joseph Lim | lim_soon_yang@schools.gov.sg |
+| 6 RESILIENCE 5 | Ms Paige Chong | chong_Pei_Pei@schools.gov.sg |
+|  | Mdm Wee Pei Wen | wee_pei_wen@schools.gov.sg |
+|  | Mr Nelson Nai | nai_chin_kiong_nelson@schools.gov.sg |
+|  | Mr Christopher Tan | tan_hung_choon@schools.gov.sg |
+| 6 RESILIENCE 6 | Mrs Adeline Giam | adeline_ng_hsu-_i@schools.gov.sg |
+|  | Mr Hafiz | hafiz_asyraf@schools.gov.sg |
+|  | Ms Revathi | suppiah_revathi@schools.gov.sg |
+| 6 RESILIENCE 6 | Mr Samuel | samuel_samuel_palraj@schools.gov.sg |
+|  | Mr Ramzi | ramzi_saad@schools.gov.sg |
+|  | Mdm Niryanty | niryanty_abd_razak@schools.gov.sg |
