@@ -2,8 +2,8 @@ collections:
   our-community:
     output: true
     order:
-      - Our Partners.md
-      - The Alumni.md
-      - Parent Support Group.md
       - School Advisory Commitee.md
+      - Parent Support Group.md
+      - The Alumni.md
+      - Our Partners.md
       - The Pioneer Professionals.md
