@@ -1,6 +1,6 @@
 ---
 title: Care @ Pioneer
-permalink: /signature-programmes/care-at-pioneer
+permalink: /signature-programmes/care-at-pioneer/
 description: ""
 ---
 # CARE@Pioneer
@@ -45,7 +45,7 @@ For the students, the collaborative activity gave them the opportunity to work t
 </tbody>
 </table>
 
-# Our Key Approaches
+### Our Key Approaches
 **Self-Determination Theory (SDT)**
 
 SDT provides a framework to help foster students’ motivation. It refers to three basic psychological needs - autonomy, competence and relatedness which are essential for students to be actively and positively involved in their learning. Understanding students’ motivation is key to educate them in becoming self-directed and lifelong learners. According to the SDT, students have a natural tendency to explore their environments, to grow, learn and develop. Thus, an important goal of this programme is for educators to cultivate this inherent interest within the students by exploring positive traits and interest to yield positive outcomes.
