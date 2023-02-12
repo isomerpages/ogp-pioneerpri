@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Pride & Joy
 ---
 # The Pioneer Stories
-**Our History**
+*Our History*
 
 “The Pioneer Spirit” is a heritage project that captures 25 years of beautiful memories of the old Pioneer Primary School. Watch the interview videos and enjoy the different personal recollections by current students, alumni, staff and long-time canteen vendors who have become part of the Pioneer Family. Navigate and enter into the virtual world to relive the good old times.
 
