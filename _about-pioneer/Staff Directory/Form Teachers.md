@@ -33,6 +33,7 @@ third_nav_title: Staff Directory
 
 
 PRIMARY FOUR
+
 |        Class       | Form Teachers     | Email Address                             |
 |:------------------:|-------------------|-------------------------------------------|
 | 4 INTEGRITY 1 | Mr Wong Keng Soon | wong_keng_soon@schools.gov.sg |
@@ -56,7 +57,6 @@ PRIMARY FOUR
 
 |      Class     | Form Teachers     | Email Address                        |
 |:--------------:|-------------------|--------------------------------------|
-
 | 5 INNOVATION 1 | Mdm Begum         | mahehraj_begum_maidee@schools.gov.sg |
 |                | Ms Melissa Foo    | foo_shi_ping_melissa@schools.gov.sg  |
 | 5 INNOVATION 2 | Ms Pauline Ng     | ng_puay_khoon_pauline@schools.gov.sg |
