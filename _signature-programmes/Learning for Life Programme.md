@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme
-permalink: /signature-programmes/learning-for-life-programme
+permalink: /signature-programmes/learning-for-life-programme/
 description: ""
 ---
 # Learning for Life Programme
@@ -8,13 +8,13 @@ Pioneer Primary’s Learning for Life Programme (LLP), “Graciousness and Fitne
 
 Our LLP is a 6-year programme, with progressive levels of difficulty. It caters to students’ interest and provides opportunities for those who show talent in dance to develop their skills further. 
 
-**Learning Outcomes**
+#### Learning Outcomes
 At the end of the 6-year programme, students will be able to
 * Develop body coordination and physical fitness through dance
 * Develop an appreciation for aesthetics and cultures associated with the various dance genres 
 * Develop creativity, social skills and cross-cultural skills
 
-**Our Approach**
+#### Our Approach
 **Tier 1** 
 
 * Adopt a developmental approach to condition students’ fitness
@@ -28,7 +28,7 @@ At the end of the 6-year programme, students will be able to
 * Design and create learning experiences for P3 to P6 students who show interest and talent in dance to further develop their skills
 * Organise annual “We Can Dance” competition 
 
-**6-year LLP Programme**
+#### 6-year LLP Programme
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
