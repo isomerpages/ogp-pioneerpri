@@ -53,53 +53,6 @@ PRIMARY FOUR
 
 
 
-|        Class       | Form Teachers     | Email Address                             |
-|:------------------:|-------------------|-------------------------------------------|
-| 3 RESPONSIBILITY 1|Ms Nor Erwiena|nor_erwiena_winarno_p@schools.gov.sg
-||Mdm Yang Qi|yang_qi@schools.gov.sg
-||Mdm Kristine Chee|chee_fong_siong@schools.gov.sg
-3 RESPONSIBILITY 2|Ms Chua Jia Yi|chua_jia_yi@schools.gov.sg
-|Ms Nurulfizah|nurulfizah_mohamed_ali@schools.gov.sg
-|Ms Seevarathenam|seevarathenam_jumbulingam@schools.gov.sg
-3 RESPONSIBILITY 3|Mdm Chen Yunhui|chen_yunhui@schools.gov.sg
-|Mdm Rosniah|siti_rosniah_md_isa@schools.gov.sg
-|Mdm Rashidah|siti_rashidah_mustafah@schools.gov.sg
-|Mdm Ong Man Lin|ong_man_lin@schools.gov.sg
-| 3 RESPONSIBILITY 3 | Mrs Wong Shihui   | yang_shi_hui@schools.gov.sg               |
-|                    | Mr Ridzwan        | ridzwan_b_jamil@schools.gov.sg            |
-|                    | Mdm Ho Shen Han   | ho_shen_han@schools.gov.sg                |
-| 3 RESPONSIBILITY 4 | Ms Yoong Phay Sze | yoong_phay_sze@schools.gov.sg             |
-|                    | Mr Mathiyazakan   | mathiyazakan_nallathamby@schools.gov.sg   |
-|                    | Mrs Serina Wee    | phang_xue_fen_serina@schools.gov.sg       |
-| 3 RESPONSIBILITY 5 | Mr Jerome Low     | low_kum_yong@schools.gov.sg               |
-|                    | Mdm Rebecca Lee   | lee_szu_lian_rebecca@schools.gov.sg       |
-| 3 RESPONSIBILITY 6 | Mrs Christine Ng  | chan_lay_peng_christine@schools.gov.sg    |
-|                    | Mdm Rashidah      | siti_rashidah_mustafah@schools.gov.sg     |
-|                    | Mr Ashiq          | mohamed_ashiq_ameerdeen_m@schools.gov.sg  |
-
-**PRIMARY FOUR**
-
-|     Class     | Form Teachers    | Email Address                            |
-|:-------------:|------------------|------------------------------------------|
-| 4 INTEGRITY 1 | Mdm Wong Liyun   | wong_liyun@schools.gov.sg                |
-|               | Mrs Caryln Loh   | caryln_loh@schools.gov.sg                |
-| 4 INTEGRITY 2 | Mr Shahamzeer    | shahamzeer_abdul_hamid@schools.gov.sg    |
-|               | Mdm Malar        | malarvezhi_kaliya_perumal@schools.gov.sg |
-| 4 INTEGRITY 3 | Mrs Adeline Giam | adeline_ng_hsu-_i@schools.gov.sg         |
-|               | Mr Simon Diong   | diong_chong_huat_simon@schools.gov.sg    |
-| 4 INTEGRITY 4 | Mdm Rameesa      | rameesa_begum_dhajudeen@schools.gov.sg   |
-|               | Mrs Lynnette Tan | lynnette_sim_ai_li@schools.gov.sg        |
-| 4 INTEGRITY 5 | Mdm Farhana      | farhana_mohd_nazren@schools.gov.sg       |
-|               | Mdm Rosniah      | siti_rosniah_md_isa@schools.gov.sg       |
-| 4 INTEGRITY 6 | Mrs Rafi         | vahida_habeeb_mohamed@schools.gov.sg     |
-|               | Mdm Chen Xiaoyun | chen_xiaoyun@schools.gov.sg              |
-|               | Mdm Aisyah       | siti_aisyah_jamal@schools.gov.sg         |
-| 4 INTEGRITY 7 | Ms Rosita        | rosita_mohamed_yusoff@schools.gov.sg     |
-|               | Mr Lim Kok Leong | lim_kok_leong@schools.gov.sg             |
-| 4 INTEGRITY 8 | Mrs Tan Yingqing | chen_yingqing@schools.gov.sg             |
-|               | Mr Mazli         | mazli_mahmood@schools.gov.sg             |
-|               | Mdm Ong Man Lin  | ong_man_lin@schools.gov.sg               |
-
 **PRIMARY FIVE**
 
 |      Class     | Form Teachers     | Email Address                        |
