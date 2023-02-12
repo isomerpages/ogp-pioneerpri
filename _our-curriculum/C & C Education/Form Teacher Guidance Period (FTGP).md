@@ -1,19 +1,18 @@
 ---
 title: Form Teacher Guidance Period (FTGP)
-permalink: /our-curriculum/Character-and-Citizenship-Edu/form-teacher-guidance-period-ftgp
+permalink: /our-curriculum/Character-and-Citizenship-Edu/form-teacher-guidance-period-ftgp/
 description: ""
 third_nav_title: C & C Education
 ---
-
 # Form Teacher Guidance Period (FTGP)
 
 Form Teachers play a central role in shaping the development of their young charges. They use Form Teacher Guidance Period to bond with their students through interaction activities and build positive Teacher-Student Relationship (TSR). 
 
-**Learning Outcomes**
+#### Learning Outcomes
 
 FTGP lessons with purposeful teacher-student interactions and the explicit teaching of social and emotional competencies are planned. This is to provide the platform for teachers and students to establish good rapport and to allow teachers to identify the needs of students so as to provide them with better support.
 
-**Our Key Approaches / Strategies**
+#### Our Key Approaches / Strategies
 
 During FTGP lessons, there could be play activities between the form teacher and students to enhance bonding as well as the teaching of social and emotional competencies for the following outcomes: 
 * better understand themselves (Self-Awareness);
@@ -22,7 +21,7 @@ During FTGP lessons, there could be play activities between the form teacher and
 * learn ways to relate with their family and friends (Relationship Management)
 * make appropriate and responsible decisions (Responsible Decision Making)
 
-**Our Key Programmes**
+#### Our Key Programmes
 
 * Connecting Hearts And Thoughts (CHAT)
 Form Teachers take turns to conduct 
