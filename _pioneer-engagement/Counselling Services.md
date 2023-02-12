@@ -1,12 +1,12 @@
 ---
 title: Counselling Services
-permalink: /pioneer-engagement/counselling-services
+permalink: /pioneer-engagement/counselling-services/
 description: ""
 ---
 # Counselling Services
 Pioneer Counselling Programme provides support for our students to ensure overall personal and social well-being. Our school counsellors work closely with students who struggle with emotional and well-being difficulties. They establish a therapeutic relationship with the students through trust and empathy. They help students learn and apply strategies to manage and cope with their emotions and make choices for positive change and development.
 
-**Desired Outcomes**
+#### Desired Outcomes
 
 Students will be able to:
 
@@ -17,7 +17,7 @@ Students will be able to:
 * Manage challenges
 * Make responsible decisions and act for the good of self, others and the society
 
-**Our Approach and Strategies**
+#### Our Approach and Strategies
 
 ![](/images/stop-think-act.jpg)
 
