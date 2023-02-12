@@ -1,10 +1,9 @@
 ---
 title: Education & Career Guidance
-permalink: /our-curriculum/Character-and-Citizenship-Edu/education-and-career-guidance
+permalink: /our-curriculum/Character-and-Citizenship-Edu/education-and-career-guidance/
 description: ""
 third_nav_title: C & C Education
 ---
-
 # Education and Career Guidance
 
 Education and Career Guidance (ECG) aims to equip our students with the **necessary knowledge, skills and values** to **make informed decisions** at every education milestone. Through ECG lessons, students learnt to **appreciate all occupations, be adaptable and resilient**, thus developing their **motivation in learning** to achieve their goals. 
@@ -13,7 +12,7 @@ Education and Career Guidance (ECG) aims to equip our students with the **necess
 **4 Goals of ECG:**
 ![](/images/image2.jpg)
 
-**Our Approach**
+#### Our Approach
 
 P3 and P4 -- Jump onto the adventure of exploration and discovery
 * Explore the world-of-work
@@ -31,7 +30,7 @@ MySkillsFuture is a one-stop portal that is designed for individuals from Primar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i9fpBx9xeGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Useful Websites for Parents**
+#### Useful Websites for Parents
 * [MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 * [MOE website on ECG](https://www.moe.gov.sg/page%20not%20found?item=%2fprogrammes%2feducation-and-career-guidance&user=extranet%5cAnonymous&site=moe-website)
 * [MOE Education Landscape (Interactive)](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2flandscape&user=extranet%5cAnonymous&site=moe-website)
