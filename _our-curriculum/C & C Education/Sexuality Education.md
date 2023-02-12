@@ -20,7 +20,7 @@ third_nav_title: C & C Education
 (c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.
 
 
-3.   The&nbsp;**Key Messages**&nbsp;of Sexuality Education are:
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;**Key Messages**&nbsp;of Sexuality Education are:
 
 (a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect others;
 
