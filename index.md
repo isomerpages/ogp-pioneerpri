@@ -28,8 +28,4 @@ sections:
         March to A Whole New World culminating in a mass dance to a Glorious
         Future!
       button: Read more
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
