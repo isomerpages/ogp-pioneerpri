@@ -32,7 +32,7 @@ third_nav_title: C & C Education
 
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**Overview of Pioneer Primary School’s Sexuality Education Programme for 2023**
+#### Overview of Pioneer Primary School’s Sexuality Education Programme for 2023
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -459,7 +459,7 @@ Please Note:
 
 \*For&nbsp;2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.
 
-**Information for Parents**
+#### Information for Parents
 
 8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
