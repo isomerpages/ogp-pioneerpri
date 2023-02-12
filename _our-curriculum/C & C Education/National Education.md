@@ -1,10 +1,9 @@
 ---
 title: National Education
-permalink: /our-curriculum/Character-and-Citizenship-Edu/national-education
+permalink: /our-curriculum/Character-and-Citizenship-Edu/national-education/
 description: ""
 third_nav_title: C & C Education
 ---
-
 # National Education
 National Education (NE) is part of holistic education. It aims to develop national cohesion, cultivate the instinct for survival as a nation and boost students’ confidence in our nation's future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.
 
@@ -29,7 +28,7 @@ The objective is to develop national cohesion, the instinct for survival and con
 * by understanding Singapore's unique challenges, constraints and vulnerabilities, which make us different from other countries;  and
 * by instilling the core values of our way of life, and the will to prevail, that ensures our continued success and well-being.
 
-**Our Approach**
+#### Our Approach
 Our school observes the 4 commemorative events that are linked to important points in Singapore’s history. The aim is to entrench these events and the images they evoke in the consciousness of each successive generation.
 * Total Defence Day
 * International Friendship Day
