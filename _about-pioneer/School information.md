@@ -14,7 +14,7 @@ Passionate Learners, Confident Leaders, Gracious Citizens
 To nurture students to be lifelong learners, leaders in their own rights, anchored in sound values through a holistic education
 # Motto
 Go for Excellence!
-# Core Values (RI2SE)
+# Core Values (RI<sup>2</sup>SE)
 * Care 
 * Responsibility
 * Integrity
