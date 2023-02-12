@@ -1,6 +1,6 @@
 ---
 title: Talent Development
-permalink: /signature-programmes/talent-development
+permalink: /signature-programmes/talent-development/
 description: ""
 ---
 # Talent Development
@@ -15,7 +15,7 @@ We believe that every child is uniquely different and potentially a talent in so
 
 ![](/images/PPS2021%20Photoshoot%2020%20of%2031.jpg)
 
-**PPS SHINE 4-tier Programme**
+#### PPS SHINE 4-tier Programme
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
