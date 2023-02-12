@@ -32,7 +32,7 @@ third_nav_title: Staff Directory
 |  | Mr Simon Diong | diong_chong_huat_simon@schools.gov.sg |
 
 
-PRIMARY FOUR
+**PRIMARY FOUR**
 
 |        Class       | Form Teachers     | Email Address                             |
 |:------------------:|-------------------|-------------------------------------------|
@@ -57,25 +57,32 @@ PRIMARY FOUR
 
 |      Class     | Form Teachers     | Email Address                        |
 |:--------------:|-------------------|--------------------------------------|
-| 5 INNOVATION 1 | Mdm Begum         | mahehraj_begum_maidee@schools.gov.sg |
-|                | Ms Melissa Foo    | foo_shi_ping_melissa@schools.gov.sg  |
-| 5 INNOVATION 2 | Ms Pauline Ng     | ng_puay_khoon_pauline@schools.gov.sg |
-|                | Ms Selvarani      | selvarani_munusamy@schools.gov.sg    |
-|                | Mdm Norly         | norly_abdullah@schools.gov.sg        |
-| 5 INNOVATION 3 | Mr Jonathan Wee   | wee_hong_meng@schools.gov.sg         |
-|                | Mdm Zubaidah      | zubaidah_mahamood@schools.gov.sg     |
-|                | Ms April Chua     | chua_mei_sze@schools.gov.sg          |
-| 5 INNOVATION 4 | Mdm Zana          | S_Zanariah_ahmad@Schools.gov.sg      |
-|                | Mdm Ashikin       | nor_ashikin_buang@schools.gov.sg     |
-|                | Ms Chua Sok Hun   | chua_sok_hun@schools.gov.sg          |
-| 5 INNOVATION 5 | Ms Paige Chong    | chong_Pei_Pei@schools.gov.sg         |
-|                | Mdm Wee Pei Wen   | wee_pei_wen@schools.gov.sg           |
-|                | Mr Nelson Nai     | nai_chin_kiong_nelson@schools.gov.sg |
-| 5 INNOVATION 6 | Mr Hafiz          | hafiz_asyraf@schools.gov.sg          |
-|                | Ms Li Sisi        | li_si_si@schools.gov.sg              |
-| 5 INNOVATION 7 | Mr Samuel         | samuel_samuel_palraj@schools.gov.sg  |
-|                | Mr Ramzi          | ramzi_saad@schools.gov.sg            |
-|                | Mdm Chew Zeng Yee | chew_zeng_yee@schools.gov.sg         |
+| 5 INNOVATION 1 | Ms Tan Hui Choon | tan_hui_choon@schools.gov.sg |
+|  | Ms Chang Shi Min | chang_shi_min@schools.gov.sg |
+| 5 INNOVATION 2 | Mdm Malar | malarvezhi_kaliya_perumal@schools.gov.sg |
+|  | Ms Shanti | shanti_govindasamy@schools.gov.sg |
+|  | Mdm Chen Xiaoyun | chen_xiaoyun@schools.gov.sg |
+|  | Mdm Nuraihan | nuraihan_mohd_bashir@schools.gov.sg |
+| 5 INNOVATION 3 | Mr Ridzwan | ridzwan_b_jamil@schools.gov.sg |
+|  | Mdm Wong Liyun | wong_liyun@schools.gov.sg |
+|  | Mdm Aisyah | siti_aisyah_jamal@schools.gov.sg |
+| 5 INNOVATION 4 | Mdm Chew Zeng Yee | chew_zeng_yee@schools.gov.sg |
+|  | Mdm Rebecca Lee | lee_szu_lian_rebecca@schools.gov.sg |
+| 5 INNOVATION 5 | Mdm Farhana | farhana_mohd_nazren@schools.gov.sg |
+|  | Mdm Anis | sultan_anis_fathima@schools.gov.sg |
+|  | Mrs Lynnette Tan | lynnette_sim_ai_li@schools.gov.sg |
+| 5 INNOVATION 6 | Mr Lim Kok Leong | lim_kok_leong@schools.gov.sg |
+|  | Ms Selvarani | selvarani_munusamy@schools.gov.sg |
+|  | Mdm Shaheila | nur_shaheila_sahat@schools.gov.sg |
+|  | Ms Natalie Chen | chen_sujing@schools.gov.sg |
+| 5 INNOVATION 7 | Mdm Rameesa | rameesa_begum_dhajudeen@schools.gov.sg |
+|  | Mdm Liu Jie | liu_jie@schools.gov.sg |
+|  | Mrs Tan Yingqing | chen_yingqing@schools.gov.sg |
+|  | Mrs Rafi | vahida_habeeb_mohamed@schools.gov.sg |
+| 5 INNOVATION 8 | Ms Chun Yanzheng | chun_yanzheng@schools.gov.sg |
+|  | Mrs Ang-Fong Ee Kuen | fong_ee_kuen@schools.gov.sg |
+|  | Mdm Norly | norly_abdullah@schools.gov.sg |
+|  | Mdm Nooraisha | nooraisha_mohamad@schools.gov.sg |
 
 **PRIMARY SIX**
 
