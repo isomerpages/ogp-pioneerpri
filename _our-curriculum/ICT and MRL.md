@@ -1,6 +1,6 @@
 ---
 title: ICT and MRL
-permalink: /our-curriculum/ict-and-mrl
+permalink: /our-curriculum/ict-and-mrl/
 description: ""
 ---
 # ICT and MRL
@@ -18,20 +18,20 @@ Adopting MOE’s New Media Literacies Framework, Pioneer ICT learning programmes
 
 |     Competency Areas    |                                          |                                                       Learning Outcomes                                                      | P1 & P2 | P3 & P4 | P5 & P6 |
 |:-----------------------:|:----------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-------:|:-------:|:-------:|
-|          Curate         |           Access to Information          |                                              Demonstrate effective search skills                                             |    ✓    |    ✓    |    ✓    |
+|          **Curate**         |           Access to Information          |                                              Demonstrate effective search skills                                             |    ✓    |    ✓    |    ✓    |
 |                         |                                          |                                               Practise safe and ethical search                                               |         |    ✓    |    ✓    |
 |                         |          Information Management          |                      Organise digital information using appropriate data management tools and strategies                     |         |    ✓    |    ✓    |
 |                         |          Inquiry of Information          |                                             Determine reliability of information                                             |         |         |    ✓    |
 |                         |                                          |                                         Verify information to make discerning choice                                         |         |         |    ✓    |
 |                         |      Risk Evaluation and Management      |                                      Adopt a proactive stance to maintain online safety                                      |    ✓    |    ✓    |    ✓    |
-|          Create         |                Production                |                     Use digital creation tools and applications to create a digital artefacts efficiently                    |    ✓    |    ✓    |    ✓    |
+|          **Create**         |                Production                |                     Use digital creation tools and applications to create a digital artefacts efficiently                    |    ✓    |    ✓    |    ✓    |
 |                         |                  Design                  | Effectively utilise appropriate digital creation tools and applications to create digital text-based and multimodal products |    ✓    |    ✓    |    ✓    |
 |                         |                                          |     Apply fundamental understanding of ethical and legal issues surrounding the creation and sharing of digital creation     |         |         |    ✓    |
-|         Connect         |       Communication of Information       |           Use appropriate digital communication tools and strategies to share information with the intended viewers          |         |    ✓    |    ✓    |
+|         **Connect**         |       Communication of Information       |           Use appropriate digital communication tools and strategies to share information with the intended viewers          |         |    ✓    |    ✓    |
 |                         |               Participation              |                                           Participate in digital community actively                                          |         |         |    ✓    |
 |                         |                                          |                                            Manage personal identity and reputation                                           |         |         |    ✓    |
 |                         |                                          |                                  Demonstrate appreciation for diversity and social cohesion                                  |         |         |    ✓    |
-| Technical Understanding |   Basic Operation of Computing Devices   |                                   Operate and navigate in multiple forms of user interface                                   |    ✓    |    ✓    |    ✓    |
+| **Technical Understanding** |   Basic Operation of Computing Devices   |                                   Operate and navigate in multiple forms of user interface                                   |    ✓    |    ✓    |    ✓    |
 |                         |                                          |                                                 Operate peripherals equipment                                                |    ✓    |    ✓    |    ✓    |
 |                         | Basic Operation of Applications/Software |                                    Use application software, files and folders effectively                                   |    ✓    |    ✓    |    ✓    |
 |                         |      Storage and Maintenance of Data     |                                               Save, download and transfer data                                               |    ✓    |    ✓    |    ✓    |
@@ -43,7 +43,7 @@ At the end of the 6 years of primary education, students will acquire a set of b
 * Exchange digital information with others synchronously and asynchronously, while observing proper etiquette, and
 * Manage the digital footprint he/she makes when sharing information online.
 
-# Media Resource Library
+#### Media Resource Library
 
 To nurture every Pioneer student to be avid readers, Pioneer MRL organises regular activities that students can participate.
 
