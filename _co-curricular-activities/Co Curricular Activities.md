@@ -3,9 +3,6 @@ title: Co Curricular Activities
 permalink: /signature-programmes/co-curriculum-activities/
 description: ""
 ---
-
-
-
 # Co-Curricular Activities
 Co-Curricular Activities (CCA) provides students with a platform to discover their interests and talents. It is incorporated into our curriculum time and after school extra training is provided for selected students. The activities planned help develop in the individual, a life-long love for a particular activity, be it a sport or musical pursuit. This helps the individual to lead a balanced life in adulthood. 
 
@@ -17,7 +14,7 @@ Students progressively develop CCA-specific knowledge, skills, values and attitu
 
 All CCAs emphasise on social interactions and provide a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA participation, students develop a sense of identity and belonging to the school. 
 
-**CCA Categories**
+#### CCA Categories
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
