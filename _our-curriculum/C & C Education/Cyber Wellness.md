@@ -1,12 +1,12 @@
 ---
 title: Cyber Wellness
-permalink: /our-curriculum/Character-and-Citizenship-Edu/cyber-wellness
+permalink: /our-curriculum/Character-and-Citizenship-Edu/cyber-wellness/
 description: ""
 third_nav_title: C & C Education
 ---
 # Cyber Wellness
 
-**MOE's Cyber Wellness Curriculum in Schools**
+#### MOE's Cyber Wellness Curriculum in Schools
 
 The goal of CW lessons is to equip students with life-long social-emotional competencies and sound values so that they can navigate safely and respectfully in cyber space and become responsible users of Information Communications Technology (ICT).
 
@@ -17,14 +17,14 @@ The four key messages for students are:
 * Be a safe and responsible user of ICT
 Lessons are delivered via Form Teacher Guidance Period (FTGP). 
 
-**The Cyber Wellness Framework**
+#### The Cyber Wellness Framework
 
 The CW framework is used to develop the child’s instinct to protect and empower himself to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will augur well for a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.
 
 <img src="/images/cw.jpg" 
      style="width:65%">
 
-**Key Principles**
+#### Key Principles
 
 (1) Respect for Self and Others
 Students need to:
@@ -41,7 +41,7 @@ Students need to:
 * be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society)
 * advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)
 
-**Sense-Think-Act @ Home**
+#### Sense-Think-Act @ Home
 
 To complement the CW curriculum in school, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace. To ensure that their children are safe and have positive experiences online, parents can access the following guides for information:
 
