@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /pioneer-engagement/useful-links
+permalink: /pioneer-engagement/useful-links/
 description: ""
 ---
 # Useful Links (KIV)
@@ -40,14 +40,14 @@ description: ""
     <td class="tg-qi0h"><a href="https://www.moe.gov.sg/secondary/dsa"><span style="font-weight:400;text-decoration:underline;color:#9C2B2A">https://www.moe.gov.sg/secondary/dsa</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Group Personal Accident Insurance</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-ktyi">Online Public Access Catalogue (OPAC)</td>
+    <td class="tg-0lax"><a href="https://schoolibrary.moe.edu.sg/pioneerpri"><span style="font-weight:400;text-decoration:underline;color:#9C2B2A">https://schoolibrary.moe.edu.sg/pioneerpri</span></a></td>
   </tr>
 </tbody>
 </table>
 
 
-**Singapore Student Learning Space (SLS)**
+#### Singapore Student Learning Space (SLS)
 
 The Singapore Student Learning Space (SLS) is a student-centric learning portal by the Ministry of Education (MOE). The learning portal enhances existing teaching and learning in schools and at home through the use of technology. Students will be able to learn anytime, anywhere, and at their own pace, whether independently or with their peers.
 
@@ -63,7 +63,7 @@ SLS Username: MARYT4567A
 
 Click HERE for SLS User Guide
 
-**Parents Gateway (PG)**
+#### Parents Gateway (PG)
 
 Parents Gateway (PG) is a one-stop mobile application by the Ministry of Education (MOE) to connect parents and schools on key administrative matters.
 
@@ -72,3 +72,7 @@ The application allows schools to send updates on programmes and activities, and
 Parents can use their SingPass accounts, SMS 2FA or OneKey Token1 to gain access to Parents Gateway.
 
 Click [here](/files/Parents-Gateway-User-Guide.pdf) for the PG User Guide
+
+#### Online Public Access Catalogue (OPAC)
+
+OPAC (Online Public Access Catalogue) is the Library's search tool used to locate printed  books and journals available in the library. You can search for physical books and other reading materials through OPAC by author, title, ISBN, publisher, keyword and year of publication.
