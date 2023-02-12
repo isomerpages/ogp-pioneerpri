@@ -17,7 +17,7 @@ sections:
         - title: Key Highlight Title 4
           description: Key Highlight description
           url: ""
-      background: /images/Homepage/Home 1 - 2.jpg
+      background: /images/Homepage/Home 1 - 3.png
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
