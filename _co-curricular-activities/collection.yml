@@ -1,5 +1,5 @@
 collections:
-  co-curriculum-activities:
+  co-curricular-activities:
     output: true
     order:
       - CCA Programmes.md
