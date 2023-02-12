@@ -20,6 +20,7 @@ Go for Excellence!
 * Integrity
 * Innovation
 * Resilience
+
 # Student Outcomes
 By the end of P6, our students are self-directed in learning, critical in their thinking and passionate in all that they undertake. Confident, resilient and flexible, they are guided by sound values to lead and contribute to the school and community.
 * Critical Thinkers
