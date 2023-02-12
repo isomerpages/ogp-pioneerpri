@@ -7,7 +7,7 @@ third_nav_title: Staff Directory
 # Pioneer Executive Committee (EXCO)
 
 | Name                             | Designation                                                           | Email                                    |
-|----------------------------------|---------------------------------------------------------------|------------------------------------------|
+|--|--|--|
 | Mrs Lee Wai Ling                 | Principal                                                             | LOKE_Wai_Ling@schools.gov.sg             |
 | Mr Charles Tan                   | Vice-Principal                                                        | Charles_TAN@schools.gov.sg               |
 | Mdm Wong Wei Yi                  | Vice-Principal                                                        | WONG_Wei_Yi@schools.gov.sg               |
