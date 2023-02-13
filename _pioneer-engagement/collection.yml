@@ -2,9 +2,9 @@ collections:
   pioneer-engagement:
     output: true
     order:
-      - General Information/School Services.md
-      - General Information/School Information.md
       - General Information/.keep
+      - General Information/School Information.md
+      - General Information/School Services.md
       - School Safety.md
       - Privacy Policy.md
       - Counselling Services.md
