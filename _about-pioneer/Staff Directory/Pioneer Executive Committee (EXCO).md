@@ -14,6 +14,7 @@ third_nav_title: Staff Directory
 | Mr Desmond Lee                   | School Staff Developer                                                | lee_chien_shiong@schools.gov.sg          |
 | Ms April Chua                    | HOD / English Language                                                | chua_mei_sze@schools.gov.sg              |
 | Mr Joseph Lim                    | HOD / Mathematics                                                     | lim_soon_yang@schools.gov.sg             |
+| Mdm Nuraihan            | HOD / Science                                         | 	nuraihan_mohd_bashir@schools.gov.sg      |
 | Mdm Kristine Chee                | HOD / Mother Tongue Languages                                         | chee_fong_siong@schools.gov.sg           |
 | Mr Nelson Nai                    | HOD / PE & Aesthetics                                                 | nai_chin_kiong_nelson@schools.gov.sg     |
 | Mr Shaun Kuat                    | HOD / Information & Communication Technology & Media Resource Library | kuat_zhi_ming@schools.gov.sg             |
