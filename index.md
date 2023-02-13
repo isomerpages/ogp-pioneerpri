@@ -11,12 +11,12 @@ sections:
         - title: Stay Connected
           description: Visit our FB & IG for updates
           url: https://www.facebook.com/pioneerprisch
+        - title: Form Teachers 2023
+          description: ""
+          url: /about-pioneer/staff-directory/form-teachers/
         - title: School Attire
           description: Get from school bookshop
-          url: https://pioneerpri.moe.edu.sg/pioneer-engagement/general-information/school-services
-        - title: Key Highlight Title 4
-          description: Key Highlight description
-          url: ""
+          url: /pioneer-engagement/general-information/school-services/
       background: /images/Homepage/Home 1 - 3.png
   - infopic:
       title: "Welcome to Pioneer Primary School! "
