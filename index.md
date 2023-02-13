@@ -17,7 +17,7 @@ sections:
         - title: School Attire
           description: Get from school bookshop
           url: /pioneer-engagement/general-information/school-services/
-      background: /images/Homepage/Home 1 - 3.png
+      background: /images/Homepage/Banner 01.gif
   - infopic:
       title: "Welcome to Pioneer Primary School! "
       subtitle: From the Principal’s Desk
