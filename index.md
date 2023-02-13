@@ -26,4 +26,5 @@ sections:
       description: On behalf of all staff of Pioneer Primary School, I would like to
         wish one and all a Happy New Year! ...
       button: Read more
+      alt: principal desk
 ---
