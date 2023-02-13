@@ -14,9 +14,9 @@ sections:
         - title: Form Teachers 2023
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
-        - title: School Attire
-          description: Get from school bookshop
-          url: /pioneer-engagement/general-information/school-services/
+        - title: School Information
+          description: Address, Contact Number, Email
+          url: /pioneer-engagement/general-information/school-information/
       background: /images/Homepage/Banner 04.gif
   - infopic:
       title: "Welcome to Pioneer Primary School! "
