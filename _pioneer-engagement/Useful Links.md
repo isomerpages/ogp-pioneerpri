@@ -3,7 +3,7 @@ title: Useful Links
 permalink: /pioneer-engagement/useful-links/
 description: ""
 ---
-# Useful Links (KIV)
+# Useful Links
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
