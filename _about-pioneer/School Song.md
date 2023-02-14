@@ -1,14 +1,14 @@
 ---
 title: School Song
-permalink: /about-pioneer/school-song
+permalink: /about-pioneer/school-song/
 description: ""
 ---
 # School Song
-# Glorious Future
+#### Glorious Future
 
 “Behind the song is the heartbeat of every educator who is called to lead, care and inspire. The lyrics express the loving and caring relationship between teachers and students and the hope of seeing our students work hard, preparing to ride the rainbow towards a glorious future.”
 
-Lyrics By     Mr Charles Tan
+Lyrics By     Mr Charles Tan <br />
 Music By    Mrs Tan Ying Qing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fzg899wlz8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
