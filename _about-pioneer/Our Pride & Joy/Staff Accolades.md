@@ -1,11 +1,11 @@
 ---
 title: Staff Accolades
-permalink: /about-pioneer/Our-Pride-and-Joy/staff-accolades
+permalink: /about-pioneer/Our-Pride-and-Joy/staff-accolades/
 description: ""
 third_nav_title: Our Pride & Joy
 ---
 # Staff Accolades
-# 2021 MOE Service Excellence Award
+### 2021 MOE Service Excellence Award
 
 **Platinum**
 
@@ -51,7 +51,7 @@ third_nav_title: Our Pride & Joy
 
 * Mr Lee Yit Kiong, OSO
 
-# 2021 National Day Awards
+### 2021 National Day Awards
 
 **The Commendation Medals**
 
@@ -72,7 +72,7 @@ third_nav_title: Our Pride & Joy
 * Mr Desmond Lee, School Staff Developer
 * Norly Bte Abdullah, HOD Student Management
 
-# 2021 MOE Outstanding Contributions Awards
+### 2021 MOE Outstanding Contributions Awards
 
 **Individuals**
 
@@ -83,6 +83,5 @@ third_nav_title: Our Pride & Joy
 * Mr Kulwant Singh, Operations Manager
 
 
-# Associate of Academy of Singapore Teachers Award 2021
+### Associate of Academy of Singapore Teachers Award 2021
 * Ms Nor Erwiena Bte Winarno P, Senior Teacher (Low Progress Learners)
-
