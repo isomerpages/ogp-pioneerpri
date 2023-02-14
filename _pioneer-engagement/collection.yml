@@ -1,0 +1,17 @@
+collections:
+  pioneer-engagement:
+    output: true
+    order:
+      - General Information/.keep
+      - General Information/School Information.md
+      - General Information/School Services.md
+      - School Safety.md
+      - Privacy Policy.md
+      - Counselling Services.md
+      - Useful Links.md
+      - Communication/Letters and Notifications.md
+      - Communication/.keep
+      - Parents' Briefing.md
+      - Pioneer Gallery/.keep
+      - Pioneer Gallery/Commemorative Events.md
+      - Pioneer Gallery/School Publications.md

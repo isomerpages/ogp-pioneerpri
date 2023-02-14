@@ -1,0 +1,25 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Co Curricular Activities.md
+      - Physical Sports/.keep
+      - Physical Sports/Basketball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Netball.md
+      - Physical Sports/Wushu.md
+      - Performing and Visual Arts/.keep
+      - Performing and Visual Arts/Visual and Art Expression.md
+      - Performing and Visual Arts/Choir.md
+      - Performing and Visual Arts/Chinese Orchestra.md
+      - Performing and Visual Arts/Contemporary Dance.md
+      - Performing and Visual Arts/Hip Hop.md
+      - Performing and Visual Arts/Indian Dance.md
+      - Performing and Visual Arts/Malay Dance.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Cub Scouts.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Robotics.md
+      - Clubs and Societies/InfoComm Club.md
+      - Clubs and Societies/Toastmaster Society.md

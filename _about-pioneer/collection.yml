@@ -1,0 +1,20 @@
+collections:
+  about-pioneer:
+    output: true
+    order:
+      - From the Principal’s Desk.md
+      - School information.md
+      - School Crest.md
+      - School Anthem.md
+      - School Song.md
+      - Staff Directory/.keep
+      - Staff Directory/Pioneer Executive Committee (EXCO).md
+      - Staff Directory/Teacher Leaders.md
+      - Staff Directory/Form Teachers.md
+      - Staff Directory/Allied Educator.md
+      - Staff Directory/Executive and Administrative Staff.md
+      - Our Pride & Joy/.keep
+      - Our Pride & Joy/The Pioneer Stories.md
+      - Our Pride & Joy/Staff Accolades.md
+      - Our Pride & Joy/Student Achievements.md
+      - Positive Discipline.md

@@ -1,0 +1,64 @@
+---
+title: Physical Education, Art and Music
+permalink: /our-curriculum/physical-education-art-and-music/
+description: ""
+---
+# Physical Education, Art and Music
+
+Physical Education, Art and Music (PAM) aim to develop students holistically across all domains - Moral, Cognitive, Physical, Social and Aesthetics.  PAM education in Pioneer aims to enable our students to develop physical well-being and enhance their creative and expressive capabilities.
+
+### Physical Education Curriculum
+
+The Physical Education (PE) Curriculum is designed to equip our students with a strong foundation in fundamental movement skills and core values for the learning, participation and enjoyment of a wide variety of sports and physical activities.  Our students are encouraged to participate in self-directed regular exercises which can be done individually and with others.  With regular practice of such physical skills, students learn to value the importance of leading a lifetime of active and healthy living.  
+ 
+We make use of movement as the primary medium to reach and teach the whole child through the following three modes:
+ 
+* Education in movement
+* Education through movement; and
+* Education about movement
+
+#### Key Programmes
+
+|                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |   |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| Health & Fitness Week    | A school-wide programme that encourages students to maintain their fitness through healthy eating tips and physical activities.                                                                                                                                                                                                                                                                                                                                                                                                                     |   |
+| SwimSafer Programme      | A P3 engagement programme that develops students in water confidence and survival skills.                                                                                                                                                                                                                                                                                                                                                                                                                                                           |   |
+| SEP Enrichment Programme | To support the sporting culture in Singapore, students are exposed to an array of sports which is in addition to those covered in the PE syllabus. Through sports participation, students are imbued with values/attitudes of resilience, responsibility (teamwork) and integrity (fair play).                                                                                                                                                                                                                                                      |   |
+| Pioneer Rocks!           | Nothing beats learning through play! Pioneer Rocks! is the iconic annual sports carnival in the school where students indulge in exciting games and sports activities, applying skills learnt during PE lessons in a social yet competitive setting. Through the power of play, lower and upper primary students will engage in different types of challenging activities that are designed to build their mental and emotional muscles as they navigate an elaborate and imaginative world within a system of rules that govern the terms of play. |   |
+| P5 Camp Bravo            | The annual P5 Camp Bravo is a highly popular and iconic event unique to the level with students always looking forward to participate. In addition to collaborative and team building skills, students will get to apply outdoor education skills learnt in PE in an authentic outdoor setting that involves trekking, navigating different terrains and many other awesome learning experiences.                                                                                                                                                   |   |
+
+### Art Curriculum
+
+“Art can connect people more deeply to the world and open them to new ways of seeing.” The Pioneer Art Curriculum provides the foundation for all students to understand art as a way of learning about themselves and the world around them.  Involvement in the arts is associated with gains in math, reading, cognitive ability, critical thinking and verbal skills.  It can also improve motivation, concentration, confidence and teamwork.
+
+As an academic subject in the school curriculum, art is integral to the holistic development of every student, with much emphasis in the aesthetic, cognitive and affective dimensions. Pioneer Art Curriculum is carefully designed to allow students to **enjoy art, communicate visually, and make meaning through connecting with society and culture**. Students are presented with ample opportunities for creative and innovative self-expression in varied modes and in accordance to their interests and talents. The learning of local artworks and artists strengthens the understanding of the individual’s national identity by fostering the appreciation of one’s cultural heritage. The engagement in art discussions promotes a lifelong enjoyment and an appreciation for artistic works; develop visual literacy in our students. The production of artwork encourages imagination and cultivates in students the capacity to innovate and improvise.
+
+#### Key Programmes
+
+|                       |                                                                                                                                                                                                                                                                                                                                                                   |   |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| Copper Tooling        | As part of the 3D Art experiential programme, all P4 students get to create a copper tooling based on a design or image of their own. They learn the intricate techniques of designing metal sheets by emboss-drawing, stamping and much more.                                                                                                                    |   |
+| A Day @ the Museum    | Learning journeys to local art museums are organised for all P4 students as part of the Art Education syllabus aimed at making learning more authentic and creating greater awareness of Singapore artists.                                                                                                                                                       |   |
+| Batik Painting        | An exposure programme that enables P5 students to experience cultural art and how art can be an industry. They learn and get to work on their own batik painting, an ancient painting style where designs on fabric are created using wax. Though it involves a lot of work, the painting process provides a memorable experience for both students and teachers. |   |
+| Young Animators       | A P6 spiral programme that engages students in ceramic making. A hands-on activity conducted in an industrial setting to provide students with authentic experience in commercial art. Students get to try out different techniques like wheel throwing and glazing under the guidance of some local masters in ceramic art.                                      |   |
+| # Pioneer Got Talents | An annual Visual Arts Showcase of delightful artworks by young talents in Pioneer. @Young Artists in Action, a good collection of artwork produced by students are exhibited for the whole school community to view and enjoy.                                                                                                                                    |   |
+
+
+### Music Curriculum
+
+Music ignites all areas of child development and skills for school readiness, including intellectual, social-emotional, motor, language, and overall literacy.  In Pioneer, we believe all children have the innate ability to listen, sing, dance, play and express themselves musically. Through music, students can also develop extra-musical skills, including critical thinking skills, psychomotor skills, social awareness, and moral and cultural values, all of which contribute to the holistic development of a child.
+
+In Pioneer, our Music Curriculum aims to 
+develop an awareness and appreciation of music in local and global cultures
+develop ability for creative expression and communication through music
+provide the basis to develop an informed and life-long involvement in music
+
+#### Key Programmes
+
+|                                |                                                                                                                                                                                                                                                                                                                     |   |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| Indian Percussion              | A P2 experimental programme designed to enable students develop an appreciation of Indian music and rhythmic beats through learning of Indian ethnic drums and drum beats.                                                                                                                                          |   |
+| Exploring the World Percussion | At P3, students get to explore a variety of world percussion instruments and sharpen their drumming techniques.                                                                                                                                                                                                     |   |
+| “This is My Song”              | An experimental song writing programme specially designed for P4 students where they learn to compose their own song using the Garage Band App. As students learn how to write songs, they start to explore how language works and how to experiment with different rhythmical and rhyming structures.              |   |
+| Cajon Drumming                 | Cajon drumming is another hot favourite experimental programme among the P6 students where they learn to play a box-like instrument using their hands, palms and fingertips. Playing cajon is not only a lot of fun! It is a versatile instrument that can be used in both popular and traditional musical setting. |   |
+| # Pioneer Got Talents          | A yearly Performing Arts Showcase of talented Pioneer students who are passionate in dancing, singing and/or musical instrument playing.                                                                                                                                                                            |   |

@@ -1,0 +1,20 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - Physical Education, Art and Music.md
+      - C & C Education/.keep
+      - C & C Education/Character and Citizenship Education.md
+      - C & C Education/CCE MTL.md
+      - C & C Education/Form Teacher Guidance Period (FTGP).md
+      - C & C Education/Cyber Wellness.md
+      - C & C Education/Education & Career Guidance.md
+      - C & C Education/Sexuality Education.md
+      - C & C Education/National Education.md
+      - C & C Education/Integration Programme.md
+      - Programme for Active Learning (PAL).md
+      - ICT and MRL.md

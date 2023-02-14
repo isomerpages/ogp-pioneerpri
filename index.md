@@ -1,36 +1,30 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Pioneer Primary School
+description: Pioneer Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      key_highlights:
+        - title: Stay Connected
+          description: Visit our FB & IG for updates
+          url: https://www.facebook.com/pioneerprisch
+        - title: Form Teachers 2023
+          description: Get in touch
+          url: /about-pioneer/staff-directory/form-teachers/
+        - title: School Information
+          description: Address, Contact Number, Email
+          url: /pioneer-engagement/general-information/school-information/
+      background: /images/Homepage/Banner 04.gif
+  - infopic:
+      title: "Welcome to Pioneer Primary School! "
+      subtitle: From the Principal’s Desk
+      url: /about-pioneer/from-the-principal-s-desk/
+      image: /images/PPS2021 Photoshoot 26 of 31.jpg
+      description: On behalf of all staff of Pioneer Primary School, I would like to
+        wish one and all a Happy New Year! ...
+      button: Read more
+      alt: principal desk
 ---
-
