@@ -11,9 +11,9 @@ locations:
     operating_hours:
       - days: Sch Term - Mon to Fri
         time: 7.30am - 5.30pm
-        description: School is closed on Saturdays, Sundays and Public Holidays.
+        description: ""
       - days: Sch Holidays - Mon to Fri
-        time: 8.00am - 500pm
+        time: 8.00am - 5.00pm
         description: School is closed on Saturdays, Sundays and Public Holidays.
     maps_link: ""
     title: Main Office
