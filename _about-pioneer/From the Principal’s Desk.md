@@ -24,5 +24,5 @@ Indeed, there is much to rejoice as we continue to work with our students in the
 
 Have an amazing 2023 everyone!
 
-Mrs Lee Wai Ling - Principal
-
+Mrs Lee Wai Ling <br />
+Principal
