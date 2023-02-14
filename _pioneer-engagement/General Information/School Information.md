@@ -7,12 +7,11 @@ third_nav_title: General Information
 # General Information
 
 <table>
-
+<tbody>
 <tr>
 <td>Address</td>
 <td colspan="2">31 Jurong West Street 91 Singapore 649037</td>
 </tr>
-<tbody>
 <tr>
 <td rowspan="2">Contact Number</td>
 <td colspan="2">6793 2039 (General Office)</td>
