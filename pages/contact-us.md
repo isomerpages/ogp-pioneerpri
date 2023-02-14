@@ -14,7 +14,8 @@ locations:
         description: School Term
       - days: Mon - Fri
         time: 8.00am - 500pm
-        description: School Holidays
+        description: |
+          School Holidays
     maps_link: ""
     title: Main Office
 contacts:
