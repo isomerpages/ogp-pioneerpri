@@ -17,7 +17,7 @@ Thank you for visiting Pioneer Primary School. By accessing and using this Web S
 
 **Privacy Policy**
 
-*   Click [here](https://newtownpri.moe.edu.sg/ntps/privacy-policy) to review this Web Site Privacy Statement.
+*   Click [here](/privacy/) to review this Web Site Privacy Statement.
 
 **Restrictions on Use of Materials**
 
@@ -39,7 +39,7 @@ Thank you for visiting Pioneer Primary School. By accessing and using this Web S
 
 **Links from This Web Site to Other Web Sites** 
 
-*   This Web Site contains hyperlinks to web sites which are not maintained by New Town Primary School. Pioneer Primary School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.
+*   This Web Site contains hyperlinks to web sites which are not maintained by Pioneer Primary School. Pioneer Primary School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.
 *   Hyperlinks to other web sites are provided as a convenience. In no circumstances shall PPS be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
 **Links to This Web Site from Other Web Sites** 
