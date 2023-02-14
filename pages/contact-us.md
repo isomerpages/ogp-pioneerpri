@@ -9,13 +9,12 @@ locations:
       - Singapore 649037
       - ""
     operating_hours:
-      - days: Mon - Fri
+      - days: Sch Term - Mon to Fri
         time: 7.30am - 5.30pm
-        description: School Term
-      - days: Mon - Fri
+        description: School is closed on Saturdays, Sundays and Public Holidays.
+      - days: Sch Holidays - Mon to Fri
         time: 8.00am - 500pm
-        description: |
-          School Holidays
+        description: School is closed on Saturdays, Sundays and Public Holidays.
     maps_link: ""
     title: Main Office
 contacts:
