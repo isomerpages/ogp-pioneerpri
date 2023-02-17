@@ -9,7 +9,7 @@ third_nav_title: Our Pride & Joy
 
 “The Pioneer Spirit” is a heritage project that captures 25 years of beautiful memories of the old Pioneer Primary School. Watch the interview videos and enjoy the different personal recollections by current students, alumni, staff and long-time canteen vendors who have become part of the Pioneer Family. Navigate and enter into the virtual world to relive the good old times.
 
-<center> <a href="https://pioneerprimarystory.sg/" target="_blank"> <img width="300px" border="1" src="/images/the_pioneer_pri_story.jpg" style="width:50%"> The Pioneer Primary Story </a> </center>
+<center> <a href="https://pioneerprimarystory.sg/" target="_blank"> The Pioneer Primary Story<img width="300px" border="1" src="/images/the_pioneer_pri_story.jpg" style="width:50%">  </a></center>
 
 The digital Flipbook “Cherishing the Past, Celebrating the Present, Creating the Future” is a project by Juying Primary School to capture the significant milestones and achievements of the school from 1995 to 2021 before the merger with Pioneer Primary School. It features many innovative programmes and projects over the years under the leadership of the 4 inspiring Principals and team of dedicated teachers and support staff.
 
