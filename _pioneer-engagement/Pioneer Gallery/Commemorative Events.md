@@ -40,10 +40,7 @@ third_nav_title: Pioneer Gallery
 
 
 
-</td>
-</tr>
-<tr>
-<td><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpioneerprisch%2Fposts%2Fpfbid02vh1ZrK2nWnRFWNjF2wuKzihGpiF95HEZywiwidZGp9PMYo8KieUApm58UhmW4U1pl&show_text=true&width=350" width="350" height="786" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></td>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpioneerprisch%2Fposts%2Fpfbid02vh1ZrK2nWnRFWNjF2wuKzihGpiF95HEZywiwidZGp9PMYo8KieUApm58UhmW4U1pl&show_text=true&width=350" width="350" height="786" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></td>
 <td><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpioneerprisch%2Fposts%2Fpfbid06LiPfRr5GfzwFeSMa3QCSGLCG3yoRX1gZCgWbmYmqsThS8wvdFaApjTQJdr96ppLl&show_text=true&width=350" width="350" height="619" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></td>
 </tr>
 <tr>
