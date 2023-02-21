@@ -3,7 +3,7 @@ title: ICT and MRL
 permalink: /our-curriculum/ict-and-mrl/
 description: ""
 ---
-# ICT and MRL
+# Info-Comm Technology and MRL
 
 Today almost every child grows up with digital devices at home and in the classroom, and this changes the way he/she learns.  To ensure Pioneer students are equipped with the digital know-how and become self-directed and responsible users of digital technology, the Information and Communication Technology (ICT) department designs relevant learning programmes incorporated with skills, knowledge, attitude and values that will enable them to apply and demonstrate when they
 
