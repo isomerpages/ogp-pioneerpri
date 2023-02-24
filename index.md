@@ -19,15 +19,6 @@ sections:
           url: /pioneer-engagement/general-information/school-information/
       background: /images/Homepage/Banner 04.gif
   - infopic:
-      title: WE STories 2023
-      subtitle: A collection of stories
-      description: Every secondary school has a fascinating story to share. May you be
-        delighted...
-      button: Read more
-      url: https://online.fliphtml5.com/obrr/qkde
-      image: /images/InfoPic Thumb/WESTories Isomer Thumb.png
-      alt: Image alt text
-  - infopic:
       title: "Welcome to Pioneer Primary School! "
       subtitle: From the Principal’s Desk
       url: /about-pioneer/from-the-principal-s-desk/
@@ -36,4 +27,13 @@ sections:
         wish one and all a Happy New Year! ...
       button: Read more
       alt: principal desk
+  - infopic:
+      title: WE STories 2023
+      subtitle: A collection of stories
+      description: Every secondary school has a fascinating story to share. May you be
+        delighted...
+      button: Read more
+      url: https://online.fliphtml5.com/obrr/qkde
+      image: /images/InfoPic Thumb/WESTories Isomer Thumb.png
+      alt: Image alt text
 ---
