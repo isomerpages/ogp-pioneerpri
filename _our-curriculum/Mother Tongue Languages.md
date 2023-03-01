@@ -65,7 +65,7 @@ We aim to nurture students’ love for Tamil Language (TL) through interesting l
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a4yv" colspan="3">Oral, Listening, Reading, Writing and Interactive Skills</th>
+    <th class="tg-a4yv" colspan="3">Student programmes that focus on the teaching of Oral, Listening, Reading, Writing and Interactive Skills</th>
   </tr>
 </thead>
 <tbody>
@@ -101,7 +101,7 @@ We aim to nurture students’ love for Tamil Language (TL) through interesting l
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a4yv" colspan="3">Reading</th>
+    <th class="tg-a4yv" colspan="3">Student programmes that focus on Reading</th>
   </tr>
 </thead>
 <tbody>
@@ -178,7 +178,7 @@ We aim to nurture students’ love for Tamil Language (TL) through interesting l
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a4yv" colspan="3">Culture and Values</th>
+    <th class="tg-a4yv" colspan="3">Student programmes that focus on Culture and Values</th>
   </tr>
 </thead>
 <tbody>
@@ -200,7 +200,7 @@ We aim to nurture students’ love for Tamil Language (TL) through interesting l
   <tr>
     <td class="tg-7yig"><span style="font-weight:300;color:#000">Cultural Performance Exposure Scheme (CPES)</span></td>
     <td class="tg-7yig"><span style="font-weight:300;color:#000">P3 to P4</span></td>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">CPES aims to provide the necessary funding and support to expose students to MT-related cultural performances and programmes.  </span></td>
+    <td class="tg-ktyi"><span style="font-weight:300;color:#000">CPES aims to provide the necessary funding and support to expose students to MT-related cultural performances and programmes.</span></td>
   </tr>
   <tr>
     <td class="tg-7yig"><span style="font-weight:300;color:#000">Conversational Chinese and Malay Programme (CCM)</span></td>
