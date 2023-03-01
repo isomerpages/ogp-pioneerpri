@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages
-permalink: /our-curriculum/mother-tongue-languages
+permalink: /our-curriculum/mother-tongue-languages/
 description: ""
 ---
 # Mother Tongue Languages
@@ -11,6 +11,7 @@ Mother Tongue Languages (MTL) Department strives to develop Pioneer students to 
 We adopt a vast array of teaching and learning pedagogies and strategies to **Engage** our students in joyful learning and the use of MTL beyond the classroom. Our customised school-based programmes and cultural events celebrations aim to provide authentic and purposeful learning **Experiences** for our students to develop a deep understanding and appreciation of their MTL and cultures, in the hope of inspiring them to **Excel** in the use of their MTL to the best of their ability. 
 
 Our MTL Curriculum Framework addresses 4 main areas that set the direction for the Department and guide our teachers to effectively teach and engage our students, and achieve the Department’s desired learning outcomes.
+
 
 **Our Key Strategies**
 ![](/images/MTL%20Curriculum%20Framework%20Picture.jpg)
