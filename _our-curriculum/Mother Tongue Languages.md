@@ -202,10 +202,6 @@ We aim to nurture students’ love for Tamil Language (TL) through interesting l
     <td class="tg-7yig"><span style="font-weight:300;color:#000">P3 to P4</span></td>
     <td class="tg-ktyi"><span style="font-weight:300;color:#000">CPES aims to provide the necessary funding and support to expose students to MT-related cultural performances and programmes.</span></td>
   </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">Conversational Chinese and Malay Programme (CCM)</span></td>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">P3 &amp; P4</span></td>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">Students will acquire basic proficiency in either Mandarin or Malay and will gain a better understanding of the traditional culture and norms of these communities through fun and engaging activities.</span></td>
-  </tr>
+  
 </tbody>
 </table>
