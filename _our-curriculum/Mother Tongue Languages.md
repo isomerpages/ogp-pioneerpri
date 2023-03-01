@@ -123,46 +123,7 @@ We aim to nurture students’ love for Tamil Language (TL) through interesting l
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a4yv" colspan="3">ICT-infused Language Learning</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Programme</td>
-    <td class="tg-9hzb">Levels</td>
-    <td class="tg-9hzb">Key Focus</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">Student Learning Space (SLS)</span></td>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">P1 to P6</span></td>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">SLS enables students to engage in different learning modes, facilitating self-directed learning, collaborative learning and peer-to-peer interactions.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">interactive Mother Tongue Languages Portal </span><br><span style="font-weight:300;color:#000">(iMTL) </span></td>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">P4 to P6</span></td>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">The interactive learning portal allows students to build oral proficiency and confidence in their Mother Tongue subject. Students can give and receive verbal or written feedback from peers, review their work and re-submit it for further inputs. Through the iMTL portal, students are empowered to take charge of their own learning.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">NewsMaker</span></td>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">P4 to P6</span></td>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">To develop effective communication skills, students make use of the NewsMaker application that allows them to create their own realistic, television-style news screenshots using photos and creative headlines.</span></td>
-  </tr>
-</tbody>
-</table>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
