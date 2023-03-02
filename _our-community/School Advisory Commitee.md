@@ -1,6 +1,6 @@
 ---
 title: School Advisory Commitee
-permalink: /our-community/school-advisory-commitee
+permalink: /our-community/school-advisory-commitee/
 description: ""
 ---
 # School Advisory Committee
@@ -32,38 +32,42 @@ The School Advisory Committee (SAC) is a key partner of Pioneer Primary School. 
     <td class="tg-0lax">Dr Tan Ah Hong</td>
     <td class="tg-0lax">Vice-Chairperson</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">Mrs Lee Wai Ling</td>
-    <td class="tg-0lax">Honorary Secretary</td>
+    <tr>
+    <td class="tg-0lax">Mr Danny Lien Chong Tuan</td>
+    <td class="tg-0lax">Member</td>
   </tr>
+	  <tr>
+    <td class="tg-0lax">Dr Ee Ying Hui Dina</td>
+    <td class="tg-0lax">Member</td>
+  </tr>
+	 <tr>
+    <td class="tg-0lax">Dr Foo Ce Shun</td>
+    <td class="tg-0lax">Member</td>
+  </tr>
+	 <tr>
+    <td class="tg-0lax">Mr Chia Swee Ye, Gavin</td>
+    <td class="tg-0lax">Member</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax">Mr Huang Zixiang</td>
+    <td class="tg-0lax">Member</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax">Mr Kenneth Sng</td>
+    <td class="tg-0lax">Member</td>
+  </tr>
+	
+	
   <tr>
     <td class="tg-0lax">Mdm Tan Suan Jin Linda</td>
     <td class="tg-0lax">Member</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">Mr Chia Swee Ye, Gavin</td>
-    <td class="tg-0lax">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Danny Lien Chong Tuan</td>
-    <td class="tg-0lax">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Dr Ee Ying Hui Dina</td>
-    <td class="tg-0lax">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Dr Foo Ce Shun</td>
-    <td class="tg-0lax">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Huang Zixiang</td>
-    <td class="tg-0lax">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mr Kenneth Sng</td>
-    <td class="tg-0lax">Member</td>
-  </tr>
+ 
+
+
+ 
+  
+  
   <tr>
     <td class="tg-0lax">Mr Srinivasan S Iyer</td>
     <td class="tg-0lax">Member</td>
