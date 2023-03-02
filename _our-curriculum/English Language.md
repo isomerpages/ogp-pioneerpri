@@ -13,7 +13,7 @@ Welcome to our school's English curriculum page! Here at Pioneer Primary School,
 <table width="851">
 <tbody>
 <tr>
-<td colspan="2" width="851">
+<td style="background-color: #dddddd; width: 100%;" colspan="2" width="100%">
 <p><strong>Becoming Confident Speakers</strong></p>
 </td>
 </tr>
@@ -27,7 +27,7 @@ Welcome to our school's English curriculum page! Here at Pioneer Primary School,
 </td>
 </tr>
 <tr>
-<td colspan="2" width="851">
+<td style="background-color: #dddddd; width: 100%;" colspan="2" width="100%">
 <p><strong>Keeping English Language Real, Relevant and Relatable</strong></p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ Welcome to our school's English curriculum page! Here at Pioneer Primary School,
 </td>
 </tr>
 <tr>
-<td colspan="2" width="851">
+<td style="background-color: #dddddd; width: 100%;" colspan="2" width="100%">
 <p><strong>Today a Reader, Tomorrow a Leader</strong></p>
 </td>
 </tr>
