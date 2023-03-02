@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /our-curriculum/mathematics
+permalink: /our-curriculum/mathematics/
 description: ""
 ---
 # Mathematics 
@@ -64,7 +64,7 @@ Other Teaching and Learning approaches applied to develop critical thinking, rea
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a4yv" colspan="2">Engage</th>
+    <th class="tg-a4yv" colspan="2">Excite</th>
     <th class="tg-0lax"></th>
   </tr>
 </thead>
@@ -80,7 +80,7 @@ Other Teaching and Learning approaches applied to develop critical thinking, rea
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-a4yv" colspan="2">Experience</td>
+    <td class="tg-a4yv" colspan="2">Explore</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
