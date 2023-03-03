@@ -32,7 +32,7 @@ Customised and differentiated programmes are offered to students at 4 tiers, ran
 </tr>
 <tr>
 <td>
-	<p><b>LoS 1: &ldquo;Discovering &amp; Building&rdquo;</B></p>
+	<p><b>LoS 1: &ldquo;Discovering &amp; Building&rdquo;</b></p>
 </td>
 <td>
 <p>PPS ensures quality teaching and learning in every classroom.&nbsp;</p>
@@ -44,7 +44,7 @@ Customised and differentiated programmes are offered to students at 4 tiers, ran
 </tr>
 <tr>
 <td>
-<p>LoS 2: &ldquo;Curious &amp; Exploring&rdquo;</p>
+<p><b>LoS 2: &ldquo;Curious &amp; Exploring&rdquo;</b></p>
 </td>
 <td>
 <p>PPS helps students explore and discover their strengths and talents through participation in activities of interest.</p>
@@ -57,7 +57,7 @@ Customised and differentiated programmes are offered to students at 4 tiers, ran
 </tr>
 <tr>
 <td>
-<p>LoS 3: &ldquo;Enthusiastic &amp; Performing&rdquo;</p>
+<p><b>LoS 3: &ldquo;Enthusiastic &amp; Performing&rdquo;</b></p>
 </td>
 <td>
 <p>PPS offers students with aptitude opportunities to extend and deepen their involvement and learning in specific talent areas.&nbsp;</p>
@@ -71,7 +71,7 @@ Customised and differentiated programmes are offered to students at 4 tiers, ran
 </tr>
 <tr>
 <td>
-<p>LoS 4: &ldquo;Passionate &amp; Soaring&rdquo;</p>
+<p><b>LoS 4: &ldquo;Passionate &amp; Soaring&rdquo;</b></p>
 </td>
 <td>
 <p>PPS provides high-level learning opportunities beyond the core academic content areas to students with interest and aptitude.</p>
