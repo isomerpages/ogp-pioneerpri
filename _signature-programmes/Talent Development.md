@@ -23,10 +23,10 @@ Customised and differentiated programmes are offered to students at 4 tiers, ran
 <table>
 <tbody>
 <tr>
-<td style="background-color: #dddddd; width: 100%;"  width="100%">
+<td style="background-color: #dddddd; width: 20%;" >
 <p><strong>Level of Services</strong></p>
 </td>
-<td style="background-color: #dddddd; width: 100%;"  width="100%">
+<td style="background-color: #dddddd; width: 80%;" >
 <p><strong>PPS Programmes</strong></p>
 </td>
 </tr>
