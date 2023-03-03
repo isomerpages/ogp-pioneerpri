@@ -20,7 +20,7 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 
 ### 1. School Hours
 
-|        Day       |        Time       |   |
+|Day|Time|   |
 |:----------------:|:-----------------:|---|
 | Monday to Friday | 7.30 am - 1.30 pm |   |
 
