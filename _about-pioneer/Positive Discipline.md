@@ -45,8 +45,6 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 </tbody>
 </table>
 
-
-
 * School polo tee must be tucked
 
 * Plain white / school socks
