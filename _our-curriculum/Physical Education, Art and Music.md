@@ -9,15 +9,37 @@ Physical Education, Art and Music (PAM) aim to develop students holistically acr
 
 ### Physical Education Curriculum
 
-The Physical Education (PE) Curriculum is designed to equip our students with a strong foundation in fundamental movement skills and core values for the learning, participation and enjoyment of a wide variety of sports and physical activities.  Our students are encouraged to participate in self-directed regular exercises which can be done individually and with others.  With regular practice of such physical skills, students learn to value the importance of leading a lifetime of active and healthy living.  
- 
+The Physical Education (PE) Curriculum is designed to equip our students with a strong foundation in fundamental movement skills and core values for the learning, participation and enjoyment of a wide variety of sports and physical activities.  Our students are encouraged to participate in self-directed regular exercises which can be done individually and with others.  With regular practice of such physical skills, students learn to value the importance of leading a lifetime of active and healthy living. 
+
 We make use of movement as the primary medium to reach and teach the whole child through the following three modes:
- 
-* Education in movement
-* Education through movement; and
-* Education about movement
+
+●        Education _in_ movement<br>
+●        Education _through_ movement; and<br>
+●        Education _about_ movement
 
 #### Key Programmes
+
+<table width="623">
+<tbody>
+<tr>
+<td style="background-color: #bbbbbb; width: 100%;" colspan="2" width="100%">
+<p style="text-align: center;"><strong>Key Programmes</strong></p>
+</td>
+</tr>
+<tr>
+<td width="60%">
+<p><strong>Health &amp; Fitness Week</strong></p>
+<p>A school-wide programme that encourages students to maintain their fitness through healthy eating tips, aniti-drug campaign and participating in physical activities.</p>
+</td>
+<td width="40%">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
 
 |                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |   |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
