@@ -136,13 +136,10 @@ An exposure programme that enables P5 students to experience higher exposure and
 
 In Pioneer Primary, we create our own spiral music curriculum which is aligned to MOE’s syllabus’ aim of:
 
-a. Acquire and apply musical skills, knowledge and understanding through listening, creating and performing
-
-b. Develop abilities for creative expression and communication
-
-c. Develop an understanding and appreciation of music in local and global cultures
-
-d. Cultivate a life-long enjoyment and involvement in music.
+a. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acquire and apply musical skills, knowledge and understanding through listening, creating and performing <br>
+b. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Develop abilities for creative expression and communication<br>
+c. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Develop an understanding and appreciation of music in local and global cultures<br>
+d. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cultivate a life-long enjoyment and involvement in music.
 
 We believed that musical experiences enhance our lives and enrich our understanding of ourselves and the world. At the individual level, music is a medium of self-expression. It enables the sharing of feelings, ideas and experiences. It has the capacity to cross cultural and social boundaries; and builds our understanding of cultures through time. At the community and societal level, music plays important roles in strengthening cultural identities, fostering social cohesion, and forming national identity. Music education therefore contributes to the appreciation, preservation and renewal of Singapore’s cultural heritage and traditions.
 
