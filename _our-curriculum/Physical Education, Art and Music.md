@@ -134,12 +134,17 @@ An exposure programme that enables P5 students to experience higher exposure and
 
 ### Music Curriculum
 
-Music ignites all areas of child development and skills for school readiness, including intellectual, social-emotional, motor, language, and overall literacy.  In Pioneer, we believe all children have the innate ability to listen, sing, dance, play and express themselves musically. Through music, students can also develop extra-musical skills, including critical thinking skills, psychomotor skills, social awareness, and moral and cultural values, all of which contribute to the holistic development of a child.
+In Pioneer Primary, we create our own spiral music curriculum which is aligned to MOE’s syllabus’ aim of:
 
-In Pioneer, our Music Curriculum aims to 
-develop an awareness and appreciation of music in local and global cultures
-develop ability for creative expression and communication through music
-provide the basis to develop an informed and life-long involvement in music
+a. Acquire and apply musical skills, knowledge and understanding through listening, creating and performing
+
+b. Develop abilities for creative expression and communication
+
+c. Develop an understanding and appreciation of music in local and global cultures
+
+d. Cultivate a life-long enjoyment and involvement in music.
+
+We believed that musical experiences enhance our lives and enrich our understanding of ourselves and the world. At the individual level, music is a medium of self-expression. It enables the sharing of feelings, ideas and experiences. It has the capacity to cross cultural and social boundaries; and builds our understanding of cultures through time. At the community and societal level, music plays important roles in strengthening cultural identities, fostering social cohesion, and forming national identity. Music education therefore contributes to the appreciation, preservation and renewal of Singapore’s cultural heritage and traditions.
 
 #### Key Programmes
 
