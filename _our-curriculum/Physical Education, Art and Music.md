@@ -19,10 +19,10 @@ We make use of movement as the primary medium to reach and teach the whole child
 
 #### Key Programmes
 
-<table width="623">
+<table width="100%">
 <tbody>
 <tr>
-<td style="background-color: #bbbbbb; width: 100%;" colspan="2" width="100%">
+<td style="background-color: #bbbbbb; width: 100%;" colspan="2">
 <p style="text-align: center;"><strong>Key Programmes</strong></p>
 </td>
 </tr>
@@ -34,7 +34,33 @@ We make use of movement as the primary medium to reach and teach the whole child
 <td width="40%">&nbsp;</td>
 </tr>
 </tbody>
+</table><br>
+
+<table width="100%">
+<tbody>
+<tr>
+<td width="40%">
+
+</td>
+<td width="60%"><p><strong>SwimSafer Programme</strong></p>
+<p>A P5 engagement programme that develops students in water confidence and survival skills.</p></td>
+</tr>
+</tbody>
+</table><br>
+
+<table width="100%">
+<tbody>
+<tr>
+<td width="60%">
+<p><strong>SEP Enrichment Programme</strong></p>
+<p>To support the sporting culture in Singapore, students are exposed to an array of sports which is in addition to those covered in the PE syllabus. Through sports participation, students are imbued with values/attitudes of resilience, responsibility (teamwork) and integrity (fair play).  The school introduced Kinball to P3, Tchoukball to P4, Handball to P5 and Archery to P6.</p>
+</td>
+<td width="40%">&nbsp;</td>
+</tr>
+</tbody>
 </table>
+
+
 
 
 
