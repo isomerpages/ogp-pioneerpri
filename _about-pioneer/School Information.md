@@ -34,12 +34,12 @@ Go for Excellence!
 * #### ST 1: Future Ready Learners, Our Gems
 
 <P align="Justify">As a school, we will nurture our students to be critical and reflective thinkers through engaged learning. Our teaching and learning opportunities have to be deliberately engineered to provide for breadth and depth in thinking and also allow students to articulate their thoughts and ideas. Students will need to learn to work collaboratively with others to bring about breakthroughs in learning. </P>
-<br><br>
+<br>
 
 * #### ST2: Confident Leaders, Our Pride
 
 <P align="Justify">We will nurture all our students to be confident leaders of good standing and character through values education. We need to develop in them the right habits for personal and social effectiveness. Our students will also need to be adept at communications skills, the ability to articulate with clarity of thought and persuade with passion and conviction. These are the hallmarks of a leader for the 21st Century.</P>
-<br><br>
+<br>
 
 * #### ST3: Innovative and Engaged Staff, Our Enablers
 
