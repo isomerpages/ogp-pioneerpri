@@ -36,8 +36,16 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 
 **School Uniform**
 
-![](/images/Uniform%20Boy%20Front%201.jpg)
-![](/images/uniform%20student_arrow.jpg)
+<table>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
 
 
 * School polo tee must be tucked
