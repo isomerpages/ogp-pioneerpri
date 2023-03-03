@@ -145,6 +145,38 @@ We believed that musical experiences enhance our lives and enrich our understand
 
 #### Key Programmes
 
+<table>
+<tbody>
+<tr>
+<td width="623">
+<p>P3 &ndash; Ethnic Percussion Programme</p>
+<p>Students are given hands-on experience to learn the local ethnic percussion instruments in an ensemble setting. This participatory programme enables students to learn more about each other&rsquo;s culture, appreciate social cohesiveness and how music can bring people together.</p>
+</td>
+</tr>
+<tr>
+<td width="623">
+<p>P4 &ndash; Digital Music Programme</p>
+<p>Students are equipped with technological skills in using digital tools to create music. They connect their understanding of music with the role of music in society &ndash; such as media, film, advertisement. They learn to critique each other&rsquo;s music works, while at the same time develop the attitudes of respecting intellectual property rights.</p>
+</td>
+</tr>
+<tr>
+<td width="623">
+<p>P5 &ndash; Ukulele and Cajon Programmes</p>
+<p>Students learn to play instruments with good tone, expression and appropriate playing techniques. The programmes aim to give them strong foundation to develop their musical skills.</p>
+</td>
+</tr>
+<tr>
+<td width="623">
+<p>P6 &ndash; Ukulele and Afro-Brazilian Percussion Programmes</p>
+<p>Students experience music from different dimensions, deepen their capacities to form strong connections with other music and apply related ideas drawn from the music to other areas of life.</p>
+<p>They are equipped with instrumental playing skills which is life-long learning that could last them through to their adulthood.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
 |                                |                                                                                                                                                                                                                                                                                                                     |   |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 | Indian Percussion              | A P2 experimental programme designed to enable students develop an appreciation of Indian music and rhythmic beats through learning of Indian ethnic drums and drum beats.                                                                                                                                          |   |
