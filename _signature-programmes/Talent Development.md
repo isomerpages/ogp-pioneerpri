@@ -32,7 +32,7 @@ Customised and differentiated programmes are offered to students at 4 tiers, ran
 </tr>
 <tr>
 <td>
-<p>LoS 1: &ldquo;Discovering &amp; Building&rdquo;&nbsp;</p>
+	<p><b>LoS 1: &ldquo;Discovering &amp; Building&rdquo;</B></p>
 </td>
 <td>
 <p>PPS ensures quality teaching and learning in every classroom.&nbsp;</p>
