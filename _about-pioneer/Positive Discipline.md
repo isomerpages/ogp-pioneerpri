@@ -74,7 +74,7 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 
 * Black shoes
 
-<P align="Justify">Students must familiarise themselves with the <a href="/files/School Rules.pdf"> [Pioneer School Rules] </a>, and reflect on how they can become self-disciplined individuals who model the way to inspire self and others to act responsibly and respectfully.</P>
+<P align="Justify">Students must familiarise themselves with the <a href="/files/School Rules.pdf">[Pioneer School Rules]</a>, and reflect on how they can become self-disciplined individuals who model the way to inspire self and others to act responsibly and respectfully.</P>
 
 ### ICT ACCEPTABLE USE GUIDELINES
 
