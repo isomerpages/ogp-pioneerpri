@@ -8,40 +8,40 @@ description: ""
 
 **Verse 1** 
 
-In Pioneer, we give our best
-Soaring to greater heights
-Where our dreams come true
-In Pioneer, we learn and grow
-Friendships are forged to last
-Let our hearts unite as one
+In Pioneer, we give our best<br>
+Soaring to greater heights<br>
+Where our dreams come true<br>
+In Pioneer, we learn and grow<br>
+Friendships are forged to last<br>
+Let our hearts unite as one<br>
 
-With pride we stand tall
-With love we grow strong
-We’ll ride the waves
-And rise up in victory
+With pride we stand tall<br>
+With love we grow strong<br>
+We’ll ride the waves<br>
+And rise up in victory<br>
 
 **Chorus (2x)**
 
-Come sing with me as one
-With passion and confidence
-With honor and respect
-Our flag flies high
+Come sing with me as one<br>
+With passion and confidence<br>
+With honor and respect<br>
+Our flag flies high<br>
 
 **Verse 2**
 
-In Pioneer, we give our best,
-Soaring to greater heights,
-Where our dreams come true.
-In Pioneer, we learn and grow,
-Friendships are forged to last,
-Let our hearts unite as one.
+In Pioneer, we give our best,<br>
+Soaring to greater heights,<br>
+Where our dreams come true.<br>
+In Pioneer, we learn and grow,<br>
+Friendships are forged to last,<br>
+Let our hearts unite as one.<br>
 
-With pride we stand tall
-With love we grow strong
-We’ll ride the waves
-And rise up in victory
+With pride we stand tall<br>
+With love we grow strong<br>
+We’ll ride the waves<br>
+And rise up in victory<br>
 
 **Bridge**
 
-Steadfast and press on we will achieve
-Embrace our challenges with a brave heart.
+Steadfast and press on we will achieve<br>
+Embrace our challenges with a brave heart.<br>
