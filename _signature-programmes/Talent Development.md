@@ -5,13 +5,16 @@ description: ""
 ---
 # Talent Development
 
-<p>We believe that every child is uniquely different and potentially a talent in some specific area/s. They have the potential to grow and shine, and possess aspirations to achieve their goals and dreams. In Pioneer, we make every effort to identify and understand their needs and interests, and make provisions to nurture their specific talent/s.</p>
-<p>Our Talent Development Programme (TDP) follows Dr. Treffinger's Levels of Service (LoS) approach and is designed to help students develop their potential to the fullest. To do so, we adopt a two-pronged approach:</p>
+We believe that every child is uniquely different and potentially a talent in some specific area/s. They have the potential to grow and shine, and possess aspirations to achieve their goals and dreams. In Pioneer, we make every effort to identify and understand their needs and interests, and make provisions to nurture their specific talent/s.
+
+Our Talent Development Programme (TDP) follows Dr. Treffinger's Levels of Service (LoS) approach and is designed to help students develop their potential to the fullest. To do so, we adopt a two-pronged approach:
+
 <ol>
 <li>Guide and mentor students in their learning journey of discovery, understand, pursue and stretch their interests and strengths, and</li>
 <li>Inculcate essential foundational skills to be a passionate learner, confident communicator and critical thinker who are rooted in values.</li>
 </ol>
-<p>Customised and differentiated programmes are offered to students at 4 tiers, ranging from programmes for the whole school population to targeted programmes that cater to the specific needs of different students.&nbsp;</p>
+
+Customised and differentiated programmes are offered to students at 4 tiers, ranging from programmes for the whole school population to targeted programmes that cater to the specific needs of different students.
 
 ![](/images/PPS2021%20Photoshoot%2020%20of%2031.jpg)
 
