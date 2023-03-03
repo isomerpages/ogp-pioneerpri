@@ -116,7 +116,7 @@ An exposure programme that enables P5 students to experience higher exposure and
 <p><strong>Acrylic Painting</strong><br>
 An exposure programme that enables P5 students to experience higher exposure and practices of acrylic painting.  They learn and get to work on their own acrylic painting, a modern medium that is very popular nowadays. Though it involves a lot of work, the painting process provides a memorable experience for both students and teachers. </p>
 </td>
-<td width="40%">Test</td>
+<td width="40%"></td>
 	
 </tr></tbody></table>
 
