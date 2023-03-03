@@ -39,12 +39,11 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 <table>
 <tbody>
 <tr>
-<td></td>
-<td></td>
+<td><img src="/images/Uniform Boy Front 1.jpg"></td>
+<td><img src="/images/uniform student_arrow.jpg"></td>
 </tr>
 </tbody>
 </table>
-
 
 
 
