@@ -9,18 +9,18 @@ Physical Education, Art and Music (PAM) aim to develop students holistically acr
 
 ### Physical Education Curriculum
 
-The Physical Education (PE) Curriculum is designed to equip our students with a strong foundation in fundamental movement skills and core values for the learning, participation and enjoyment of a wide variety of sports and physical activities.  Our students are encouraged to participate in self-directed regular exercises which can be done individually and with others.  With regular practice of such physical skills, students learn to value the importance of leading a lifetime of active and healthy living. 
+The Physical Education (PE) Curriculum is designed to equip our students with a strong foundation in fundamental movement skills and core values for the learning, participation and enjoyment of a wide variety of sports and physical activities.&nbsp; Our students are encouraged to participate in self-directed regular exercises which can be done individually and with others.&nbsp; With regular practice of such physical skills, students learn to value the importance of leading a lifetime of active and healthy living.&nbsp;
 
 We make use of movement as the primary medium to reach and teach the whole child through the following three modes:
 
-●        Education _in_ movement<br>
-●        Education _through_ movement; and<br>
-●        Education _about_ movement
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Education _in_ movement<br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Education _through_ movement; and<br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Education _about_ movement
 
 #### Key Programmes
 
 <table width="100%"><tbody>
-<tr><td style="background-color: #bbbbbb; width: 100%;" colspan="2">
+<tr><td colspan="2" style="background-color: #bbbbbb; width: 100%;">
 <p style="text-align: center;"><strong>Key Programmes</strong></p>
 </td></tr>
 <tr><td width="60%">
@@ -73,7 +73,7 @@ We make use of movement as the primary medium to reach and teach the whole child
 
 |                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |   |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| Health & Fitness Week    | A school-wide programme that encourages students to maintain their fitness through healthy eating tips and physical activities.                                                                                                                                                                                                                                                                                                                                                                                                                     |   |
+| Health &amp; Fitness Week    | A school-wide programme that encourages students to maintain their fitness through healthy eating tips and physical activities.                                                                                                                                                                                                                                                                                                                                                                                                                     |   |
 | SwimSafer Programme      | A P3 engagement programme that develops students in water confidence and survival skills.                                                                                                                                                                                                                                                                                                                                                                                                                                                           |   |
 | SEP Enrichment Programme | To support the sporting culture in Singapore, students are exposed to an array of sports which is in addition to those covered in the PE syllabus. Through sports participation, students are imbued with values/attitudes of resilience, responsibility (teamwork) and integrity (fair play).                                                                                                                                                                                                                                                      |   |
 | Pioneer Rocks!           | Nothing beats learning through play! Pioneer Rocks! is the iconic annual sports carnival in the school where students indulge in exciting games and sports activities, applying skills learnt during PE lessons in a social yet competitive setting. Through the power of play, lower and upper primary students will engage in different types of challenging activities that are designed to build their mental and emotional muscles as they navigate an elaborate and imaginative world within a system of rules that govern the terms of play. |   |
@@ -81,19 +81,19 @@ We make use of movement as the primary medium to reach and teach the whole child
 
 ### Art Curriculum
 
-“Art can connect people more deeply to the world and open them to new ways of seeing.” The Pioneer Art Curriculum provides the foundation for all students to understand art as a way of learning about themselves and the world around them.  Involvement in the arts is associated with gains in math, reading, cognitive ability, critical thinking and verbal skills.  It can also improve motivation, concentration, confidence and teamwork. 
+“Art can connect people more deeply to the world and open them to new ways of seeing.” The Pioneer Art Curriculum provides the foundation for all students to understand art as a way of learning about themselves and the world around them.&nbsp; Involvement in the arts is associated with gains in math, reading, cognitive ability, critical thinking and verbal skills.&nbsp; It can also improve motivation, concentration, confidence and teamwork.&nbsp;
 
-As an academic subject in the school curriculum, art is integral to the holistic development of every student, with much emphasis in the aesthetic, cognitive and affective dimensions.  Pioneer Art Curriculum is carefully designed to allow students to **enjoy art, communicate visually, and make meaning through connecting with society and culture.**  Students are presented with ample opportunities for creative and innovative self-expression in varied modes and in accordance to their interests and talents. The learning of local artworks and artists strengthens the understanding of the individual’s national identity by fostering the appreciation of one’s cultural heritage. The engagement in art discussions promotes a lifelong enjoyment and an appreciation for artistic works; develop visual literacy in our students. The production of artwork encourages imagination and cultivates in students the capacity to innovate and improvise.
+As an academic subject in the school curriculum, art is integral to the holistic development of every student, with much emphasis in the aesthetic, cognitive and affective dimensions.&nbsp; Pioneer Art Curriculum is carefully designed to allow students to **enjoy art, communicate visually, and make meaning through connecting with society and culture.**&nbsp; Students are presented with ample opportunities for creative and innovative self-expression in varied modes and in accordance to their interests and talents. The learning of local artworks and artists strengthens the understanding of the individual’s national identity by fostering the appreciation of one’s cultural heritage. The engagement in art discussions promotes a lifelong enjoyment and an appreciation for artistic works; develop visual literacy in our students. The production of artwork encourages imagination and cultivates in students the capacity to innovate and improvise.
 
 #### Key Programmes
 
 <table width="100%"><tbody>
-<tr><td style="background-color: #bbbbbb; width: 100%;" colspan="2">
+<tr><td colspan="2" style="background-color: #bbbbbb; width: 100%;">
 <p style="text-align: center;"><strong>Key Programmes</strong></p>
 </td></tr>
 <tr><td width="60%">
-<p><strong>Copper Tooling</strong></p>
-<p>As part of the 3D Art experiential programme, all P4 students get to create a copper tooling based on a design or image of their own.  They learn the intricate techniques of designing metal sheets by emboss-drawing, stamping and much more.  </p>
+<p><strong>Copper Tooling</strong>
+<br>As part of the 3D Art experiential programme, all P4 students get to create a copper tooling based on a design or image of their own.  They learn the intricate techniques of designing metal sheets by emboss-drawing, stamping and much more. </p>
 </td>
 <td width="40%">&nbsp;</td>
 </tr></tbody></table>
@@ -103,19 +103,24 @@ As an academic subject in the school curriculum, art is integral to the holistic
 <table width="100%"><tbody>
 <tr><td width="40%">
 </td>
-<td width="60%"><p><strong>SwimSafer Programme</strong></p>
-<p>A P5 engagement programme that develops students in water confidence and survival skills.</p></td>
+<td width="60%"><p><strong>A Day @ the Museum</strong><br>
+Learning journeys to local art museums are organised for all P4 students as part of the Art Education syllabus aimed at making learning more authentic and creating greater awareness of Singapore artists. They also obtain inquiry, observation and interpretation skills in art besides learning about the museum etiquette and careers in museum.</p></td>
 </tr></tbody></table>
 
 <br>
 
 <table width="100%"><tbody>
 <tr><td width="60%">
-<p><strong>SEP Enrichment Programme</strong></p>
-<p>To support the sporting culture in Singapore, students are exposed to an array of sports which is in addition to those covered in the PE syllabus. Through sports participation, students are imbued with values/attitudes of resilience, responsibility (teamwork) and integrity (fair play).  The school introduced Kinball to P3, Tchoukball to P4, Handball to P5 and Archery to P6.</p>
+<p><strong>Acrylic Painting</strong><br>
+An exposure programme that enables P5 students to experience higher exposure and practices of acrylic painting.  They learn and get to work on their own acrylic painting, a modern medium that is very popular nowadays. Though it involves a lot of work, the painting process provides a memorable experience for both students and teachers. </p><br>
+<p><strong>Acrylic Painting</strong><br>
+An exposure programme that enables P5 students to experience higher exposure and practices of acrylic painting.  They learn and get to work on their own acrylic painting, a modern medium that is very popular nowadays. Though it involves a lot of work, the painting process provides a memorable experience for both students and teachers. </p>
 </td>
-<td width="40%">&nbsp;</td>
+<td width="40%">Test</td>
+	
 </tr></tbody></table>
+
+
 
 
 |                       |                                                                                                                                                                                                                                                                                                                                                                   |   |
