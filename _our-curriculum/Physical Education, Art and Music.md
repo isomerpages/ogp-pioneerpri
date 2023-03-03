@@ -87,6 +87,37 @@ As an academic subject in the school curriculum, art is integral to the holistic
 
 #### Key Programmes
 
+<table width="100%"><tbody>
+<tr><td style="background-color: #bbbbbb; width: 100%;" colspan="2">
+<p style="text-align: center;"><strong>Key Programmes</strong></p>
+</td></tr>
+<tr><td width="60%">
+<p><strong>Copper Tooling</strong></p>
+<p>As part of the 3D Art experiential programme, all P4 students get to create a copper tooling based on a design or image of their own.  They learn the intricate techniques of designing metal sheets by emboss-drawing, stamping and much more.  </p>
+</td>
+<td width="40%">&nbsp;</td>
+</tr></tbody></table>
+
+<br>
+
+<table width="100%"><tbody>
+<tr><td width="40%">
+</td>
+<td width="60%"><p><strong>SwimSafer Programme</strong></p>
+<p>A P5 engagement programme that develops students in water confidence and survival skills.</p></td>
+</tr></tbody></table>
+
+<br>
+
+<table width="100%"><tbody>
+<tr><td width="60%">
+<p><strong>SEP Enrichment Programme</strong></p>
+<p>To support the sporting culture in Singapore, students are exposed to an array of sports which is in addition to those covered in the PE syllabus. Through sports participation, students are imbued with values/attitudes of resilience, responsibility (teamwork) and integrity (fair play).  The school introduced Kinball to P3, Tchoukball to P4, Handball to P5 and Archery to P6.</p>
+</td>
+<td width="40%">&nbsp;</td>
+</tr></tbody></table>
+
+
 |                       |                                                                                                                                                                                                                                                                                                                                                                   |   |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 | Copper Tooling        | As part of the 3D Art experiential programme, all P4 students get to create a copper tooling based on a design or image of their own. They learn the intricate techniques of designing metal sheets by emboss-drawing, stamping and much more.                                                                                                                    |   |
