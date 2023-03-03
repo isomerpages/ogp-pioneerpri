@@ -56,8 +56,14 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 
 **PE/House T-shirt**
 
-![](/images/PE%20Boy%20A%20Front%201.jpg)
-![](/images/PE%20Girl%20A%20Front%201.jpg)
+<table>
+<tbody>
+<tr>
+<td><img src="/images/PE Boy A Front 1.jpg"></td>
+<td><img src="/images/PE Girl A Front 1.jpg"></td>
+</tr>
+</tbody>
+</table>
 
 * PE/House T-shirt must be tucked
 
@@ -81,4 +87,4 @@ Students must always exercise integrity and responsibility in the use of technol
 * Must not access, download, copy or share any copyrighted materials (such as pictures, videos, music) without explicit permission from the owner
 
 ### USAGE OF MEDIA RESOURCES
-School often captures good moments of student learning during events and activities. Photographs and video images (including live streaming) of students and their parents/guardians may be captured during school activities and events such as classroom lessons, CCA, school camps or concerts. The school may use these, including identifiable data such as name tags class in photos or videos in school publications, websites, social media channels and other communication channels. If for any reason you are not comfortable with the school’s use of the materials, please notify the school in writing if you do not wish to grant such permission.
+<P align="Justify">School often captures good moments of student learning during events and activities. Photographs and video images (including live streaming) of students and their parents/guardians may be captured during school activities and events such as classroom lessons, CCA, school camps or concerts. The school may use these, including identifiable data such as name tags class in photos or videos in school publications, websites, social media channels and other communication channels. If for any reason you are not comfortable with the school’s use of the materials, please notify the school in writing if you do not wish to grant such permission.</P>
