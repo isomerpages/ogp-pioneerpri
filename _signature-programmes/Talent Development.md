@@ -20,10 +20,10 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td>
+<td style="background-color: #dddddd; width: 100%;"  width="100%">
 <p><strong>Level of Services</strong></p>
 </td>
-<td>
+<td style="background-color: #dddddd; width: 100%;"  width="100%">
 <p><strong>PPS Programmes</strong></p>
 </td>
 </tr>
@@ -91,4 +91,4 @@ description: ""
 
 Our programmes are created with the High Support: High Challenge approach (Mariani, 1997) in mind. The school provides strong teacher support and a curriculum that challenges the students. 21CC skills are purposefully infused in the lessons and opportunities are created to contribute to the school and community. The result of this is a platform where students are highly engaged and motivated. Students practise critical thinking and communication skills vital in 21st Century, nurture a sense of empathy and commitment and take strides forward in their learning. 
 
-Through this journey, we hope that every Pioneer student will shine in their own way and at the same time, illuminate the path of others. 
+Through this journey, we hope that every Pioneer student will shine in their own way and at the same time, illuminate the path of others.
