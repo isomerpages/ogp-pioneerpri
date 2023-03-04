@@ -5,7 +5,7 @@ description: ""
 ---
 # Mathematics 
 
-We believe every Pioneer student has the potential and capability to learn.  We design our in-house teaching and learning resources, differentiated to address the diverse range of student learning needs and talents, spark their curiosity and inquisitive mind and foster deep understanding. To enhance the joy of learning, students are provided with opportunities for collaborative learning and problem solving, harnessing the affordances of technology and applying mathematical concepts and skills in authentic settings.  
+<P align="Justify">We believe every Pioneer student has the potential and capability to learn.  We design our in-house teaching and learning resources, differentiated to address the diverse range of student learning needs and talents, spark their curiosity and inquisitive mind and foster deep understanding. To enhance the joy of learning, students are provided with opportunities for collaborative learning and problem solving, harnessing the affordances of technology and applying mathematical concepts and skills in authentic settings.  </P>
 
 ![](/images/Mathematics.jpg)
 
@@ -13,7 +13,7 @@ We believe every Pioneer student has the potential and capability to learn.  We 
 
 **Pioneer SPARKLETM Thinking Routine**
 
-**SPARKLE** *(SPAR/KLE: Study, Ponder, Apply, Review, Knowledge Leap and Extension) is our in-house thinking routine that aims to develop our students to become critical thinkers through collaborative problem solving and co-constructing of mathematical solutions.  Students are challenged with non-routine, open-ended and real-world problems where they explore, learn and/or apply different mathematical concepts to derive at possible solutions.*
+<P align="Justify"><b>SPARKLE</b> <i>(SPAR/KLE: Study, Ponder, Apply, Review, Knowledge Leap and Extension) is our in-house thinking routine that aims to develop our students to become critical thinkers through collaborative problem solving and co-constructing of mathematical solutions.  Students are challenged with non-routine, open-ended and real-world problems where they explore, learn and/or apply different mathematical concepts to derive at possible solutions.</i>
 
 Other Teaching and Learning approaches applied to develop critical thinking, reasoning and metacognitive skills in students include:
 
