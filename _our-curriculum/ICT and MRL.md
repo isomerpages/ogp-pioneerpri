@@ -15,26 +15,159 @@ description: ""
 
 <img src="/images/ict1.png" 
      style="width:50%">
+		 
+<table style="width: 100%;">
+<thead>
+<tr>
+<th style="width: 133px; text-align: center;" align="center">Competency Areas</th>
+<th style="width: 195px; text-align: center;" align="center">&nbsp;</th>
+<th style="width: 418px; text-align: center;" align="center">Learning Outcomes</th>
+<th style="width: 35px; text-align: center;" align="center">P1 &amp; P2</th>
+<th style="width: 35px; text-align: center;" align="center">P3 &amp; P4</th>
+<th style="width: 35.6719px; text-align: center;" align="center">P5 &amp; P6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 133px;" align="center"><strong>Curate</strong></td>
+<td style="width: 195px;" align="center">Access to Information</td>
+<td style="width: 418px;" align="center">Demonstrate effective search skills</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">&nbsp;</td>
+<td style="width: 418px;" align="center">Practise safe and ethical search</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">Information Management</td>
+<td style="width: 418px;" align="center">Organise digital information using appropriate data management tools and strategies</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">Inquiry of Information</td>
+<td style="width: 418px;" align="center">Determine reliability of information</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">&nbsp;</td>
+<td style="width: 418px;" align="center">Verify information to make discerning choice</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">Risk Evaluation and Management</td>
+<td style="width: 418px;" align="center">Adopt a proactive stance to maintain online safety</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center"><strong>Create</strong></td>
+<td style="width: 195px;" align="center">Production</td>
+<td style="width: 418px;" align="center">Use digital creation tools and applications to create a digital artefacts efficiently</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">Design</td>
+<td style="width: 418px;" align="center">Effectively utilise appropriate digital creation tools and applications to create digital text-based and multimodal products</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">&nbsp;</td>
+<td style="width: 418px;" align="center">Apply fundamental understanding of ethical and legal issues surrounding the creation and sharing of digital creation</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center"><strong>Connect</strong></td>
+<td style="width: 195px;" align="center">Communication of Information</td>
+<td style="width: 418px;" align="center">Use appropriate digital communication tools and strategies to share information with the intended viewers</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">Participation</td>
+<td style="width: 418px;" align="center">Participate in digital community actively</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">&nbsp;</td>
+<td style="width: 418px;" align="center">Manage personal identity and reputation</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">&nbsp;</td>
+<td style="width: 418px;" align="center">Demonstrate appreciation for diversity and social cohesion</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35px;" align="center">&nbsp;</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center"><strong>Technical Understanding</strong></td>
+<td style="width: 195px;" align="center">Basic Operation of Computing Devices</td>
+<td style="width: 418px;" align="center">Operate and navigate in multiple forms of user interface</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">&nbsp;</td>
+<td style="width: 418px;" align="center">Operate peripherals equipment</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">Basic Operation of Applications/Software</td>
+<td style="width: 418px;" align="center">Use application software, files and folders effectively</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+<tr>
+<td style="width: 133px;" align="center">&nbsp;</td>
+<td style="width: 195px;" align="center">Storage and Maintenance of Data</td>
+<td style="width: 418px;" align="center">Save, download and transfer data</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35px;" align="center">✓</td>
+<td style="width: 35.6719px;" align="center">✓</td>
+</tr>
+</tbody>
+</table>
 
-|     Competency Areas    |                                          |                                                       Learning Outcomes                                                      | P1 & P2 | P3 & P4 | P5 & P6 |
-|:-----------------------:|:----------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-------:|:-------:|:-------:|
-|          **Curate**         |           Access to Information          |                                              Demonstrate effective search skills                                             |    ✓    |    ✓    |    ✓    |
-|                         |                                          |                                               Practise safe and ethical search                                               |         |    ✓    |    ✓    |
-|                         |          Information Management          |                      Organise digital information using appropriate data management tools and strategies                     |         |    ✓    |    ✓    |
-|                         |          Inquiry of Information          |                                             Determine reliability of information                                             |         |         |    ✓    |
-|                         |                                          |                                         Verify information to make discerning choice                                         |         |         |    ✓    |
-|                         |      Risk Evaluation and Management      |                                      Adopt a proactive stance to maintain online safety                                      |    ✓    |    ✓    |    ✓    |
-|          **Create**         |                Production                |                     Use digital creation tools and applications to create a digital artefacts efficiently                    |    ✓    |    ✓    |    ✓    |
-|                         |                  Design                  | Effectively utilise appropriate digital creation tools and applications to create digital text-based and multimodal products |    ✓    |    ✓    |    ✓    |
-|                         |                                          |     Apply fundamental understanding of ethical and legal issues surrounding the creation and sharing of digital creation     |         |         |    ✓    |
-|         **Connect**         |       Communication of Information       |           Use appropriate digital communication tools and strategies to share information with the intended viewers          |         |    ✓    |    ✓    |
-|                         |               Participation              |                                           Participate in digital community actively                                          |         |         |    ✓    |
-|                         |                                          |                                            Manage personal identity and reputation                                           |         |         |    ✓    |
-|                         |                                          |                                  Demonstrate appreciation for diversity and social cohesion                                  |         |         |    ✓    |
-| **Technical Understanding** |   Basic Operation of Computing Devices   |                                   Operate and navigate in multiple forms of user interface                                   |    ✓    |    ✓    |    ✓    |
-|                         |                                          |                                                 Operate peripherals equipment                                                |    ✓    |    ✓    |    ✓    |
-|                         | Basic Operation of Applications/Software |                                    Use application software, files and folders effectively                                   |    ✓    |    ✓    |    ✓    |
-|                         |      Storage and Maintenance of Data     |                                               Save, download and transfer data                                               |    ✓    |    ✓    |    ✓    |
+
 
 <p align="Justify">At the end of the 6 years of primary education, students will acquire a set of basic ICT skills under the 21st Century Competencies on the Communication, Collaboration and Information domain:</p>
 
