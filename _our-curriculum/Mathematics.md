@@ -71,12 +71,12 @@ Other Teaching and Learning approaches applied to develop critical thinking, rea
 <tbody>
   <tr>
     <td class="tg-dgl5">Honeybee Programme</td>
-    <td class="tg-ktyi">This programme provides small-group specialised early intervention to students who need additional help with the learning of mathematics.</td>
+    <td class="tg-ktyi" style="text-align:Justify">This programme provides small-group specialised early intervention to students who need additional help with the learning of mathematics.</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Improving Confidence and Achievement in Numeracy (ICAN)</td>
-    <td class="tg-ktyi">The programme aims to level up the confidence and achievement of students in mathematics by addressing their learning issues in the areas of learning gaps, language, motivation and memory.</td>
+    <td class="tg-ktyi" style="text-align:Justify">The programme aims to level up the confidence and achievement of students in mathematics by addressing their learning issues in the areas of learning gaps, language, motivation and memory.</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -85,17 +85,17 @@ Other Teaching and Learning approaches applied to develop critical thinking, rea
   </tr>
   <tr>
     <td class="tg-dgl5">Spatial Play and Recess Play</td>
-    <td class="tg-ktyi">These programmes provide the opportunities for students to play with 2D and 3D objects/images physically and virtually in class, during recess and at home to develop their spatial visualisation skill that is essential for mathematical problem-solving.</td>
+    <td class="tg-ktyi" style="text-align:Justify">These programmes provide the opportunities for students to play with 2D and 3D objects/images physically and virtually in class, during recess and at home to develop their spatial visualisation skill that is essential for mathematical problem-solving.</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Mathematics Heuristics</td>
-    <td class="tg-ktyi">This programme adopts a systematic approach using thinking routine to equip students with thinking skills and heuristics that are essential for mathematical problem-solving.</td>
+    <td class="tg-ktyi" style="text-align:Justify">This programme adopts a systematic approach using thinking routine to equip students with thinking skills and heuristics that are essential for mathematical problem-solving.</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Thinking Curriculum - Mathematics</td>
-    <td class="tg-ktyi">This programme adopts a systematic approach using SPARKLE thinking routine, to equip students with 21 st  century competencies through collaborative solving of open-ended, real-world problems.</td>
+    <td class="tg-ktyi" style="text-align:Justify">This programme adopts a systematic approach using SPARKLE thinking routine, to equip students with 21 st  century competencies through collaborative solving of open-ended, real-world problems.</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -104,17 +104,17 @@ Other Teaching and Learning approaches applied to develop critical thinking, rea
   </tr>
   <tr>
     <td class="tg-dgl5">Mathematics Booster</td>
-    <td class="tg-ktyi">This programme provides higher-order mathematics problems beyond students’ grade levels to boost their interest and potential in mathematics.</td>
+    <td class="tg-ktyi" style="text-align:Justify">This programme provides higher-order mathematics problems beyond students’ grade levels to boost their interest and potential in mathematics.</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Mathematics Olympiad</td>
-    <td class="tg-ktyi">This programme aims to expand students’ knowledge of mathematical concepts beyond the primary syllabus and develop their critical and creative thinking skills to solve challenging problems.</td>
+    <td class="tg-ktyi" style="text-align:Justify">This programme aims to expand students’ knowledge of mathematical concepts beyond the primary syllabus and develop their critical and creative thinking skills to solve challenging problems.</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Excellence 2000 (E2K) Mathematics</td>
-    <td class="tg-ktyi">This programme aims to develop students' mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach. Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematical explorations specially designed for this programme.</td>
+    <td class="tg-ktyi" style="text-align:Justify">This programme aims to develop students' mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach. Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematical explorations specially designed for this programme.</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
