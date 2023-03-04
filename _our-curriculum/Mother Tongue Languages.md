@@ -50,6 +50,85 @@ We aim to nurture students’ love for Tamil Language (TL) through interesting l
 
 **Our Key Programmes**
 
+<table>
+<thead>
+<tr>
+<th colspan="3">Student programmes that focus on the teaching of Oral, Listening, Reading, Writing and Interactive Skills</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Programme</td>
+<td>Levels</td>
+<td>Key Focus</td>
+</tr>
+<tr>
+<td>MT Thinking Curriculum</td>
+<td>P1 to P6</td>
+<td>Mother Tongue teachers infuse Thinking Routines and Paul&rsquo;s Wheels of Reasoning - Elements of Thought and Intellectual Standards in their lessons to guide students to construct, interpret and evaluate knowledge from different perspectives.<br /><br />By creating such active learning situations in our classrooms, students feel motivated to learn, take greater ownership for their learning and become better learners. With such a curriculum, students develop habits of mind with respect to learning that serve them well both in school and in the real world.</td>
+</tr>
+<tr>
+<td>Mother Tongue Support Programme<br />(MTSP)</td>
+<td>P3 &amp; P4</td>
+<td>A customised programme to support students in the learning of MTL where customised learning materials are used to create an immersive language environment to enable students to learn Mother Tongue with confidence and joy.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th colspan="3">Student programmes that focus on Reading</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Programme</td>
+<td>Levels</td>
+<td>Key Focus</td>
+</tr>
+<tr>
+<td>Mother Tongue Reading Programme</td>
+<td>P1 to P6</td>
+<td>To inspire a love of reading in students, we have many reading initiatives/activities/resources such as &ldquo;Have Enjoyment And Read Together&rdquo; (HEART) Programme, Mother Tongue Language book reading on every Friday mornings, P1 to P5 weekly reading period, classroom library, newspapers and magazines subscriptions.</td>
+</tr>
+<tr>
+<td>Cluster Magazine Publication</td>
+<td>P1 to P6</td>
+<td>Teaching our students to write well has benefits that go beyond the school years. To help our students improve their writing ability and develop a love for writing, Mother Tongue teachers collaborate with cluster schools to publish yearly cluster magazine with selected students&rsquo; articles.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th colspan="3">Student programmes that focus on Culture and Values</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Programme</td>
+<td>Levels</td>
+<td>Key Focus</td>
+</tr>
+<tr>
+<td>Festive Celebrations</td>
+<td>P1 to P6</td>
+<td>Various festive celebrations to bring about awareness among students of different races and cultivate a strong cultural belief in them.</td>
+</tr>
+<tr>
+<td>Mother Tongue Fortnight / Cultural Camp</td>
+<td>P1 to P6</td>
+<td>In addition to the fun, excitement and hands on activities through the language and cultural activities, students will gain a deeper insight into their own culture and learn to appreciate it better.</td>
+</tr>
+<tr>
+<td>Cultural Performance Exposure Scheme (CPES)</td>
+<td>P3 to P4</td>
+<td>CPES aims to provide the necessary funding and support to expose students to MT-related cultural performances and programmes.</td>
+</tr>
+</tbody>
+</table>
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
