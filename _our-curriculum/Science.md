@@ -11,7 +11,7 @@ Science education in Pioneer Primary aims to enthuse and nurture all students to
 
 **Our Key Strategies**
 
-Through ***inquiry-based learning (IBL)***, students familiarise themselves with thinking routines to promote scientific thinking and communication, ie ***Predict-Observe-Explain (POE)*** for hands-on experiments and ***Analyse-Concept-Explain (ACE)*** for Science in daily context. Using these two thinking routines, students acquire basic concepts and hone process skills like analysing, comparing, interpreting and evaluating to explain scientific phenomenon around them. 
+<p align="Justify">Through <b><i>inquiry-based learning (IBL)</b></i>, students familiarise themselves with thinking routines to promote scientific thinking and communication, ie <b><i>Predict-Observe-Explain (POE)</b></i> for hands-on experiments and <b><i>Analyse-Concept-Explain (ACE)</b></i> for Science in daily context. Using these two thinking routines, students acquire basic concepts and hone process skills like analysing, comparing, interpreting and evaluating to explain scientific phenomenon around them. </p>
 
 **Our Key Programmes**
 
@@ -26,11 +26,11 @@ Through ***inquiry-based learning (IBL)***, students familiarise themselves with
 <td width="26%">
 <p><strong>Science Outreach</strong></p>
 </td>
-<td width="74%">
-	<p><strong><em>Science Recess Play @ i-Xperia: </em></strong><br> As part of the Science Outreach Programme, activities are curated to ignite curiosity in students to learn Science beyond the classroom. Students engage in simple hands-on activities and experiments conducted during the various recess sessions in the Science activity room (i-Xperia). These experiences allow students to hone their process skills and acquire scientific knowledge through play.</p>
-<p><strong><em>Science Discovery: </em></strong><br>Conducted fortnightly, the Science Discovery presentations before morning assembly introduces students to scientific concepts as applied in real-world situations. By seeing how scientific concepts can be used to explain everyday phenomenon, students can develop a greater appreciation for the value of scientific knowledge and be inspired to be life-long learners.</p>
-<p><strong><em>Environmental Education: </em></strong></p>
-<p>Environment education creates an awareness about the environment and the challenges it faces. Through this programme, we also aim to equip the students with knowledge and skills to do their part in the care for environment using the 3Rs (Reduce, Reuse and Recyle) and give them opportunities to put them into action. This will empower students to take action to protect the environment and promote sustainable development, leading to a better quality of life for everyone and a healthier planet.</p>
+<td width="74%" style="text-align:justify">
+<strong><em>Science Recess Play @ i-Xperia: </em></strong><br> As part of the Science Outreach Programme, activities are curated to ignite curiosity in students to learn Science beyond the classroom. Students engage in simple hands-on activities and experiments conducted during the various recess sessions in the Science activity room (i-Xperia). These experiences allow students to hone their process skills and acquire scientific knowledge through play.<br><br>
+<strong><em>Science Discovery: </em></strong><br>Conducted fortnightly, the Science Discovery presentations before morning assembly introduces students to scientific concepts as applied in real-world situations. By seeing how scientific concepts can be used to explain everyday phenomenon, students can develop a greater appreciation for the value of scientific knowledge and be inspired to be life-long learners.<br><br>
+<strong><em>Environmental Education: </em></strong><br>
+Environment education creates an awareness about the environment and the challenges it faces. Through this programme, we also aim to equip the students with knowledge and skills to do their part in the care for environment using the 3Rs (Reduce, Reuse and Recyle) and give them opportunities to put them into action. This will empower students to take action to protect the environment and promote sustainable development, leading to a better quality of life for everyone and a healthier planet.<br><br>
 </td>
 </tr>
 <tr>
@@ -38,11 +38,12 @@ Through ***inquiry-based learning (IBL)***, students familiarise themselves with
 <p><strong>Young Scientist Programme</strong></p>
 <p><em>(online)</em></p>
 </td>
-<td width="74%">
-<p>Under this programme, each student is given access to an online platform, hosted by Science Centre Singapore, where they can choose to complete Science-based activities from a given list and earn a badge. Support and guidance are made available for students during the various recess sessions in i-Xperia. With the Young Scientist Programme, we hope to:</p>
-<p>&middot; stimulate interest in science activities among students,</p>
-<p>&middot; enable students to carry out self-directed activities in various disciplines of science, and</p>
-<p>&middot; provide opportunities for students to develop initiative and creativity.</p>
+<td width="74%" style="text-align:justify">
+Under this programme, each student is given access to an online platform, hosted by Science Centre Singapore, where they can choose to complete Science-based activities from a given list and earn a badge. Support and guidance are made available for students during the various recess sessions in i-Xperia. With the Young Scientist Programme, we hope to:<br><br>
+	
+* stimulate interest in science activities among students,
+* enable students to carry out self-directed activities in various disciplines of science, and
+* provide opportunities for students to develop initiative and creativity.</p>
 </td>
 </tr>
 <tr>
@@ -54,8 +55,8 @@ Through ***inquiry-based learning (IBL)***, students familiarise themselves with
 <td width="26%">
 <p><strong>Primary Science Curriculum</strong></p>
 </td>
-<td width="74%">
-<p>Guided by the Primary Science syllabus, our inquiry-based lessons, with hands-on experiments conducted in the Science laboratories, build scientific thinking and communication in students by equipping them with scientific knowledge, skills, processes and ethics to enable them to explain daily scientific phenomenon around them and make informed decisions. Through their learning experience, we aim to build their 21<sup>st</sup> century competencies for the future.</p>
+<td width="74%" style="text-align:justify">
+Guided by the Primary Science syllabus, our inquiry-based lessons, with hands-on experiments conducted in the Science laboratories, build scientific thinking and communication in students by equipping them with scientific knowledge, skills, processes and ethics to enable them to explain daily scientific phenomenon around them and make informed decisions. Through their learning experience, we aim to build their 21<sup>st</sup> century competencies for the future.<br><br>
 </td>
 </tr>
 <tr>
@@ -67,8 +68,8 @@ Through ***inquiry-based learning (IBL)***, students familiarise themselves with
 <td width="26%">
 <p><strong>Excellence 2000 (E2K) Science</strong></p>
 </td>
-<td width="74%">
-<p>A Science enrichment programme for Primary 4 and 5 high ability students that engages them in scientific investigations involving advanced science concepts. It aims to engage students in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.</p>
+<td width="74%" style="text-align:justify">
+A Science enrichment programme for Primary 4 and 5 high ability students that engages them in scientific investigations involving advanced science concepts. It aims to engage students in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.<br><br>
 </td>
 </tr>
 </tbody>
