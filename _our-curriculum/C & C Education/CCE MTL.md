@@ -4,7 +4,7 @@ permalink: /our-curriculum/Character-and-Citizenship-Edu/cce-mtl/
 description: ""
 third_nav_title: C & C Education
 ---
-# CCE MTL
+# Character & Citizenship Education (Mother Tongue Languages)
 
 Character & Citizenship Education (Mother Tongue Languages), CCE MTL forms part of the explicit teaching and learning of moral values. Delivered by MTL teachers, students learn the values taught through cultural stories, practices, songs, idioms, and proverbs unique to each Mother Tongue Language. For students who offer the non-Tamil Indian Languages or are exempted from taking MTL, CCE lessons are taught in English.
 
