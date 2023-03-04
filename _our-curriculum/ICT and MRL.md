@@ -5,13 +5,13 @@ description: ""
 ---
 # Info-Comm Technology and MRL
 
-Today almost every child grows up with digital devices at home and in the classroom, and this changes the way he/she learns.  To ensure Pioneer students are equipped with the digital know-how and become self-directed and responsible users of digital technology, the Information and Communication Technology (ICT) department designs relevant learning programmes incorporated with skills, knowledge, attitude and values that will enable them to apply and demonstrate when they
+<p align="Justify">Today almost every child grows up with digital devices at home and in the classroom, and this changes the way he/she learns.  To ensure Pioneer students are equipped with the digital know-how and become self-directed and responsible users of digital technology, the Information and Communication Technology (ICT) department designs relevant learning programmes incorporated with skills, knowledge, attitude and values that will enable them to apply and demonstrate when they</p>
 
 * Curate digital content,
 * Create digital multimodal products, and 
 * Connect and communicate digitally across a range of digital media platforms in the digital networked environment. 
 
-Adopting MOE’s New Media Literacies Framework, Pioneer ICT learning programmes also covers cyber security and wellness in the critical areas and issues associated with ethical and legal as well as safe and responsible use of ICT.
+<p align="Justify">Adopting MOE’s New Media Literacies Framework, Pioneer ICT learning programmes also covers cyber security and wellness in the critical areas and issues associated with ethical and legal as well as safe and responsible use of ICT.</p>
 
 <img src="/images/ict1.png" 
      style="width:50%">
@@ -36,12 +36,16 @@ Adopting MOE’s New Media Literacies Framework, Pioneer ICT learning programmes
 |                         | Basic Operation of Applications/Software |                                    Use application software, files and folders effectively                                   |    ✓    |    ✓    |    ✓    |
 |                         |      Storage and Maintenance of Data     |                                               Save, download and transfer data                                               |    ✓    |    ✓    |    ✓    |
 
-At the end of the 6 years of primary education, students will acquire a set of basic ICT skills under the 21st Century Competencies on the Communication, Collaboration and Information domain:
+<p align="Justify">At the end of the 6 years of primary education, students will acquire a set of basic ICT skills under the 21st Century Competencies on the Communication, Collaboration and Information domain:</p>
+
+<div align="Justify">
+	
 * Conduct internet searches and organise the digital information for ease of retrieval while recognising copyright regulations governing the use of digital information,
 * Verify the accuracy, credibility and currency of a piece of information,
 * Select and put together different media elements to construct a digital artefact, while making informed choices with regard to how to use information ethically,
 * Exchange digital information with others synchronously and asynchronously, while observing proper etiquette, and
 * Manage the digital footprint he/she makes when sharing information online.
+	</div>
 
 #### Media Resource Library
 
