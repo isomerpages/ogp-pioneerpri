@@ -55,6 +55,7 @@ To nurture every Pioneer student to be avid readers, Pioneer MRL organises regul
 <img src="/images/ICT%20%20MRL.jpg" 
      style="width:70%">
 
+
 * Books ALIVE
 * Book Talk, Book Sharing and Reading a-Loud (Recess Activities)
 * Thematic and Festive Display (Monthly, i.e. Blind Date with a Book in February)
