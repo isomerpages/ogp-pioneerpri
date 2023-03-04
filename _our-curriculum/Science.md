@@ -5,7 +5,7 @@ description: ""
 ---
 # Science
 
-Science education in Pioneer Primary aims to enthuse and nurture all students to be scientifically literate and they learn to ask, find or determine answers to questions about everyday experiences.  Equipped with strong Science fundamentals and 21st Century Competencies such as critical and inventive thinking and effective communication, students will have the essential skills and knowledge, be prepared for future learning and work. To foster the joy of learning, students are provided with authentic experiences both in and out of classroom settings to promote self-directed and collaborative learning.
+<p align="Justify">Science education in Pioneer Primary aims to enthuse and nurture all students to be scientifically literate and they learn to ask, find or determine answers to questions about everyday experiences.  Equipped with strong Science fundamentals and 21st Century Competencies such as critical and inventive thinking and effective communication, students will have the essential skills and knowledge, be prepared for future learning and work. To foster the joy of learning, students are provided with authentic experiences both in and out of classroom settings to promote self-directed and collaborative learning.</P>
 
 ![](/images/Science.jpg)
 
