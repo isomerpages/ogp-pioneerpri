@@ -5,7 +5,7 @@ description: ""
 ---
 # English Language
 
-Welcome to our school's English curriculum page! Here at Pioneer Primary School, we believe that a strong foundation in English is key to success in many areas of life. Our English curriculum is designed to supplement the national curriculum (STELLAR Curriculum) and provide our students with a well-rounded education that will prepare them for the future.
+<P align="Justify">Welcome to our school's English curriculum page! Here at Pioneer Primary School, we believe that a strong foundation in English is key to success in many areas of life. Our English curriculum is designed to supplement the national curriculum (STELLAR Curriculum) and provide our students with a well-rounded education that will prepare them for the future.</>
 
 
 ![](/images/English%20Language%202.jpg)
@@ -19,11 +19,11 @@ Welcome to our school's English curriculum page! Here at Pioneer Primary School,
 </tr>
 <tr>
 <td width="150">
-<p><strong>Speech &amp; Drama Programme (Primary 3)</strong></p>
+<strong>Speech &amp; Drama Programme (Primary 3)</strong>
 </td>
-<td width="702">
-<p>Confidence and attitude play an important role in public speaking. To develop oracy in a fun and engaging way, we have integrated Speech and Drama into the P3 English Curriculum. Through this programme, our students learn the necessary building blocks of effective communication.&nbsp;</p>
-<p>The Speech and Drama Programme is conducted once weekly. At the end of the semester, students put up a performance for their parents to showcase the skills they have learned.</p>
+<td width="702" style="text-align:justify">
+Confidence and attitude play an important role in public speaking. To develop oracy in a fun and engaging way, we have integrated Speech and Drama into the P3 English Curriculum. Through this programme, our students learn the necessary building blocks of effective communication.<br><br>
+The Speech and Drama Programme is conducted once weekly. At the end of the semester, students put up a performance for their parents to showcase the skills they have learned.
 </td>
 </tr>
 <tr>
