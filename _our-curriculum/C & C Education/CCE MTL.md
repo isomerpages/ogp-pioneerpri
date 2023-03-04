@@ -27,9 +27,9 @@ Students learn values through three overarching ideas, namely (Identity, Relatio
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-6iwo{background-color:#BF9000;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-vpvz{background-color:#1C4587;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
@@ -51,11 +51,6 @@ Students learn values through three overarching ideas, namely (Identity, Relatio
     <td class="tg-r3dq">Respect<br>Responsibility<br>Resilience<br>Integrity<br>Care<br>Harmony</td>
     <td class="tg-0fa5">Identity<br>Relationships<br>Choices</td>
     <td class="tg-6iwo">Self: Being who I am and becoming who I can be<br>Family: Strengthening family ties<br>School: Fostering healthy friendships and team spirit<br>Community: Understanding our community and building an inclusive society<br>Nation: Developing a sense of national identity and nation building<br>World: Being an active citizen in a globalised world</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
