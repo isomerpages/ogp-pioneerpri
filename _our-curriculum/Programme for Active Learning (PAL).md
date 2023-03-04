@@ -8,10 +8,12 @@ description: ""
 <p align="Justify">Programme for Active Learning (PAL) consists of 4 modules which are categorised into two broad areas – (i) Sports & Games and Outdoor Education, and (ii) Performing Arts and Visual Arts.  PAL is carried out for P1 and P2 over 4 school terms during curriculum time. Adopting the Heads, Heart and Hands Framework, all activities are carefully designed to ensure students are engaged in meaningful learning experiences. </p>
 
 #### Objectives
-
+<div align="Justify">
+	
 * Provide students with a broad exposure and experience through fun and varied activities
 * Facilitate holistic development of students in the five domains, that is moral, cognitive, physical, social and aesthetics
 * Provide varied avenues for students to develop social and emotional competencies
+	</div>
 
 #### Characteristics of Pioneer’s PAL
 <div align="Justify">
@@ -22,4 +24,4 @@ description: ""
 * Incorporate values education and social-emotional learning – learn about themselves and understand how to better relate to and work with others through group activities
 * Experiential in nature – active, hands on and meaningful learning experiences in a non-threatening and authentic environment
 * Interdisciplinary programme – integrated into CCE Lifeskills lessons and Science “Nature Comes Alive” programmes to create authentic learning experiences and strengthen social and emotional competencies
-	</p>
+	</div>
