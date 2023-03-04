@@ -19,9 +19,9 @@ Other Teaching and Learning approaches applied to develop critical thinking, rea
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
 .tg .tg-2hhi{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
@@ -36,14 +36,14 @@ Other Teaching and Learning approaches applied to develop critical thinking, rea
 </thead>
 <tbody>
   <tr>
-    <td class="tg-emg8"><span style="font-weight:300;color:#000">“Teaching for </span><br><span style="font-weight:300;color:#000">problem-solving”</span></td>
-    <td class="tg-emg8"><span style="font-weight:300;color:#000">- Routine problems </span><br><span style="font-weight:300;color:#000">(Textbook and workbook problems)</span></td>
-    <td class="tg-emg8"><span style="font-weight:300;color:#000">- Concrete-Pictorial-Abstract (C-P-A) approach</span><br><span style="font-weight:300;color:#000">- “I-do, We-do, You-do” approach</span></td>
+    <td class="tg-emg8"><span style="color:#000">“Teaching for </span><br><span style="color:#000">problem-solving”</span></td>
+    <td class="tg-emg8"><span style="color:#000">- Routine problems </span><br><span style="color:#000">(Textbook and workbook problems)</span></td>
+    <td class="tg-emg8"><span style="color:#000">- Concrete-Pictorial-Abstract (C-P-A) approach</span><br><span style="color:#000">- “I-do, We-do, You-do” approach</span></td>
   </tr>
   <tr>
-    <td class="tg-emg8"><span style="font-weight:300;color:#000">“Teaching about </span><br><span style="font-weight:300;color:#000">problem-solving”</span></td>
-    <td class="tg-emg8"><span style="font-weight:300;color:#000">- Non-routine problems</span><br><span style="font-weight:300;color:#000">(In-house designed mathematics heuristics package)</span></td>
-    <td class="tg-emg8"><span style="font-weight:300;color:#000">-</span> Pioneer SPAR Thinking Routine <span style="font-weight:300;color:#000">(mathematical problem-solving approach)</span><br><span style="font-weight:300;color:#000">- “I-do, We-do, You-do” approach</span><br><span style="font-weight:300;color:#000">- Productive failure approach</span></td>
+    <td class="tg-emg8"><span style="color:#000">“Teaching about </span><br><span style="color:#000">problem-solving”</span></td>
+    <td class="tg-emg8"><span style="color:#000">- Non-routine problems</span><br><span style="color:#000">(In-house designed mathematics heuristics package)</span></td>
+    <td class="tg-emg8"><span style="color:#000">-</span> Pioneer SPAR Thinking Routine <span style="color:#000">(mathematical problem-solving approach)</span><br><span style="color:#000">- “I-do, We-do, You-do” approach</span><br><span style="color:#000">- Productive failure approach</span></td>
   </tr>
 </tbody>
 </table>
