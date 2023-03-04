@@ -11,9 +11,9 @@ description: ""
 
 **Our Key Strategies**
 
-**Pioneer SPARKLETM Thinking Routine**
+**Pioneer SPARKLE<sup>TM</sup> Thinking Routine**
 
-<P align="Justify"><b>SPARKLE</b> <i>(SPAR/KLE: Study, Ponder, Apply, Review, Knowledge Leap and Extension) is our in-house thinking routine that aims to develop our students to become critical thinkers through collaborative problem solving and co-constructing of mathematical solutions.  Students are challenged with non-routine, open-ended and real-world problems where they explore, learn and/or apply different mathematical concepts to derive at possible solutions.</i>
+<P align="Justify"><b>SPARKLE<sup>TM</sup></b> <i>(SPAR/KLE: Study, Ponder, Apply, Review, Knowledge Leap and Extension) is our in-house thinking routine that aims to develop our students to become critical thinkers through collaborative problem solving and co-constructing of mathematical solutions.  Students are challenged with non-routine, open-ended and real-world problems where they explore, learn and/or apply different mathematical concepts to derive at possible solutions.</i>
 
 Other Teaching and Learning approaches applied to develop critical thinking, reasoning and metacognitive skills in students include:
 
