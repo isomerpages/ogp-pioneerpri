@@ -59,8 +59,8 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 <table>
 <tbody>
 <tr>
-<td><img src="/images/PE Boy A Front 1.jpg"></td>
-<td><img src="/images/PE Girl A Front 1.jpg"></td>
+<td><img src="/images/PE Boy A Front 1.jpg" style="width:270px"></td>
+<td><img src="/images/PE Girl A Front 1.jpg" style="width:270px"></td>
 </tr>
 </tbody>
 </table>
