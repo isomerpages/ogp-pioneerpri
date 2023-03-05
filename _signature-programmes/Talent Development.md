@@ -32,19 +32,19 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 132.359px;">
+<td>
 <p><strong>LoS 1: &ldquo;Discovering &amp; Building&rdquo;</strong></p>
 </td>
-<td style="width: 681.641px; text-align: justify;">
+<td style="text-align: justify;">
 <div align="Justify">PPS ensures quality teaching and learning in every classroom.&nbsp;<br /><br />
 &middot; General academic curriculum&nbsp;<br />&middot; P1 - P6 Applied Learning Programme&nbsp;(ALP)<br />&middot; P1 - P6 Learning for Life Programme&nbsp;(LLP)<br /><br /><em>(Do refer to Signature Programmes tab for more information)</em>
 </td>
 </tr>
 <tr >
-<td style="width: 132.359px;">
+<td>
 <p><strong>LoS 2: &ldquo;Curious &amp; Exploring&rdquo;</strong></p>
 </td>
-<td style="width: 681.641px;">
+<td>
 <div align="Justify">PPS helps students explore and discover their strengths and talents through participation in activities of interest.<br /><br />
 Pioneer Talent Showcase<br />
 &middot; We can Dance competition<br />&middot; Go with the Beat competition<br />&middot; Art Fiesta<br /><br />
@@ -52,20 +52,20 @@ Pioneer Talent Showcase provides opportunities for our students to discover thei
 </td>
 </tr>
 <tr>
-<td style="width: 132.359px; text-align: justify;">
+<td style="text-align: justify;">
 <p><strong>LoS 3: &ldquo;Enthusiastic &amp; Performing&rdquo;</strong></p>
 </td>
-<td style="width: 681.641px;">
+<td>
 <div align="Justify">PPS offers students with aptitude opportunities to extend and deepen their involvement and learning in specific talent areas.&nbsp;<br /><br />
 &middot; Literature (English) Appreciation Programme (LEAP)<br />&middot; Math E2K<br />&middot; Math Olympiad<br />&middot; Science E2K<br />&middot; LLP Dance Ambassadors Programme<br /><br />
 <em>(Do refer to Our Curriculum tab for more information)</em>
 </td>
 </tr>
 <tr>
-<td style="width: 132.359px;">
+<td>
 <p><strong>LoS 4: &ldquo;Passionate &amp; Soaring&rdquo;</strong></p>
 </td>
-<td style="width: 681.641px;">
+<td>
 <div align="Justify">PPS provides high-level learning opportunities beyond the core academic content areas to students with interest and aptitude.<br /><br />
 P4 &ndash; P6 PPS SOAR (Internal) Programmes<br />
 &middot; Magazine Journalism Programme<br />&middot; PPS Live Broadcast Journalism Programme<br />&middot; Math around Us Programme<br />&middot; Pioneer Science Buskers Programme<br />&middot; Peer Mentoring&nbsp;<br /><br />
