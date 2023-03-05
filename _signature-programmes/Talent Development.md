@@ -14,7 +14,7 @@ description: ""
 <li>Inculcate essential foundational skills to be a passionate learner, confident communicator and critical thinker who are rooted in values.</li>
 </ol>
 
-Customised and differentiated programmes are offered to students at 4 tiers, ranging from programmes for the whole school population to targeted programmes that cater to the specific needs of different students.
+<p align="Justify">Customised and differentiated programmes are offered to students at 4 tiers, ranging from programmes for the whole school population to targeted programmes that cater to the specific needs of different students.</p>
 
 ![](/images/PPS2021%20Photoshoot%2020%20of%2031.jpg)
 
@@ -92,6 +92,6 @@ Customised and differentiated programmes are offered to students at 4 tiers, ran
 </tbody>
 </table>
 
-Our programmes are created with the High Support: High Challenge approach (Mariani, 1997) in mind. The school provides strong teacher support and a curriculum that challenges the students. 21CC skills are purposefully infused in the lessons and opportunities are created to contribute to the school and community. The result of this is a platform where students are highly engaged and motivated. Students practise critical thinking and communication skills vital in 21st Century, nurture a sense of empathy and commitment and take strides forward in their learning. 
+<p align="Justify">Our programmes are created with the High Support: High Challenge approach (Mariani, 1997) in mind. The school provides strong teacher support and a curriculum that challenges the students. 21CC skills are purposefully infused in the lessons and opportunities are created to contribute to the school and community. The result of this is a platform where students are highly engaged and motivated. Students practise critical thinking and communication skills vital in 21st Century, nurture a sense of empathy and commitment and take strides forward in their learning. </p>
 
-Through this journey, we hope that every Pioneer student will shine in their own way and at the same time, illuminate the path of others.
+<p align="Justify">Through this journey, we hope that every Pioneer student will shine in their own way and at the same time, illuminate the path of others.</p>
