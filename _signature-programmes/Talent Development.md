@@ -5,9 +5,9 @@ description: ""
 ---
 # Talent Development
 
-We believe that every child is uniquely different and potentially a talent in some specific area/s. They have the potential to grow and shine, and possess aspirations to achieve their goals and dreams. In Pioneer, we make every effort to identify and understand their needs and interests, and make provisions to nurture their specific talent/s.
+<p align="Justify">We believe that every child is uniquely different and potentially a talent in some specific area/s. They have the potential to grow and shine, and possess aspirations to achieve their goals and dreams. In Pioneer, we make every effort to identify and understand their needs and interests, and make provisions to nurture their specific talent/s.</p>
 
-Our Talent Development Programme (TDP) follows Dr. Treffinger's Levels of Service (LoS) approach and is designed to help students develop their potential to the fullest. To do so, we adopt a two-pronged approach:
+<p align="Justify">Our Talent Development Programme (TDP) follows Dr. Treffinger's Levels of Service (LoS) approach and is designed to help students develop their potential to the fullest. To do so, we adopt a two-pronged approach:</p>
 
 <ol>
 <li>Guide and mentor students in their learning journey of discovery, understand, pursue and stretch their interests and strengths, and</li>
