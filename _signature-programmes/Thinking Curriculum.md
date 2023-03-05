@@ -8,12 +8,15 @@ The Thinking Curriculum @Pioneer Primary is developed to teach children to think
 
 
 ##### Our Approach
+<div style="text-align:Justify">
 
 * It is about purposeful thinking within an active learning environment that engages students in their learning and draws them into being responsible for their own learning. 
 * It is important for students to acquire reasoning skills and to inculcate a disciplined way of thinking and problem solving.
-* There is ongoing reflection from self or group to learn from experiences and explain decisions behind the thinking and actions.
+* There is ongoing reflection from self or group to learn from experiences and explain decisions behind the thinking and actions.</div>
 
-At its core, the Thinking Curriculum @ Pioneer Primary is designed to develop the array of competencies in the MOE’s 21st Century Competencies Framework- Civic Literacy, Global Awareness and Cross-Cultural Skills; Critical and Inventive Thinking; and Communication, Collaboration and Information Skills through integrated lessons and distinctive learning experiences. Closely aligned with the school vision, Passionate Learners, Confident Learners, Gracious Citizens, the main goals of the programme are to:
+<p align="Justify">At its core, the Thinking Curriculum @ Pioneer Primary is designed to develop the array of competencies in the MOE’s 21st Century Competencies Framework- Civic Literacy, Global Awareness and Cross-Cultural Skills; Critical and Inventive Thinking; and Communication, Collaboration and Information Skills through integrated lessons and distinctive learning experiences. Closely aligned with the school vision, Passionate Learners, Confident Learners, Gracious Citizens, the main goals of the programme are to:</p>
+
+<div style="text-align:Justify">
 
 * nurture our students to become confident and communicative learners through the development of critical thinking skills,
 * inculcate a spirit of inquiry and a passion for learning through authentic learning experiences through the integrated lessons,
