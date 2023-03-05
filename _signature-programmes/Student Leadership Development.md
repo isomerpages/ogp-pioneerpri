@@ -39,8 +39,33 @@ speech delivered at Character and Leadership Education Forum (28 May 2012)* </di
 <img src="/images/sld.png" style="width:70%"> *STEER Approach for Leadership Training and Development*
 
 
-| Tier  | Student Leaders                                                   | Leadership Dimension                        | Skills and Competencies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-------|-------------------------------------------------------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | Every student a Leader                                            | Leading Self                                | <b>Self-Management and Team-Management</b><br><br>  SEL Competencies focusing on:     <br>&#x2022; Self-awareness <br>&#x2022; Self-management <br>&#x2022; Social Awareness <br>&#x2022; Relationship Management Responsible Decision-Making Effective Communicator                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 2     | Class Leaders & CCA Leaders                                       | Leading Self Leading Others                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 3     | CCA Leaders  (Key positions ONLY) and P3 – P5 Student Councillors | Leading Self Leading Others Leading Leaders | <b>Self-Management, Team-Management and Project Management </b><br><br>SEL Competencies focusing on: Social Awareness – via group project Relationship Management Interpersonal Skills – via group project Effective Communicator Public Speaking Skills (P4 & 5) Communication Skills SEL Competencies focusing on: Relationship Management – mentoring Project Management Skills (Planning & Organisation skills) Conflict Management Skills (Peer Support) – EXCO ONLY (Interpersonal Skills) Responsible Decision Making Problem Solving Skills appropriately with moral and ethical considerations Conflict Management Skills (Peer Support) – EXCO ONLY (Assessing Situation) Effective Communicator Public Speaking Skills (P4 & 5) Communication Skills  |
+<table>
+<thead>
+<tr>
+<th>Tier</th>
+<th>Student Leaders</th>
+<th>Leadership Dimension</th>
+<th>Skills and Competencies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Every student a Leader</td>
+<td>Leading Self</td>
+<td><strong>Self-Management and Team-Management</strong><br /><br />SEL Competencies focusing on:<br />&bull; Self-awareness<br />&bull; Self-management<br />&bull; Social Awareness<br />&bull; Relationship Management Responsible Decision-Making Effective Communicator</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Class Leaders &amp; CCA Leaders</td>
+<td>Leading Self Leading Others</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>CCA Leaders (Key positions ONLY) and P3 &ndash; P5 Student Councillors</td>
+<td>Leading Self Leading Others Leading Leaders</td>
+<td style="text-align: justify;"><strong>Self-Management, Team-Management and Project Management</strong><br /><br />SEL Competencies focusing on: Social Awareness &ndash; via group project Relationship Management Interpersonal Skills &ndash; via group project Effective Communicator Public Speaking Skills (P4 &amp; 5) Communication Skills SEL Competencies focusing on: Relationship Management &ndash; mentoring Project Management Skills (Planning &amp; Organisation skills) Conflict Management Skills (Peer Support) &ndash; EXCO ONLY (Interpersonal Skills) Responsible Decision Making Problem Solving Skills appropriately with moral and ethical considerations Conflict Management Skills (Peer Support) &ndash; EXCO ONLY (Assessing Situation) Effective Communicator Public Speaking Skills (P4 &amp; 5) Communication Skills</td>
+</tr>
+</tbody>
+</table>
