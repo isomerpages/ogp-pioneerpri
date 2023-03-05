@@ -41,7 +41,7 @@ speech delivered at Character and Leadership Education Forum (28 May 2012)* </di
 
 <table>
 <thead>
-<tr>
+<tr style="background-color: #dddddd;">
 <th>Tier</th>
 <th>Student Leaders</th>
 <th>Leadership Dimension</th>
