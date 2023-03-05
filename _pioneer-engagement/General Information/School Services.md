@@ -10,7 +10,7 @@ third_nav_title: General Information
 <tbody>
 <tr>
 <td>Bookshop</td>
-<td>Ricky Book Centre<br />Tel:8875 9459<br />Email: sales@rickybookcentre.com.sg<br /><br />Opening Hours (school term):<br />Monday to Friday<br />9.00 am to 2.30 pm<br />Parents/Guardians/Caregivers can make purchases from Monday to Friday between 1.45 pm to 2.30 pm.</td>
+<td>Ricky Book Centre<br />Tel: 8875 9459<br />Email: sales@rickybookcentre.com.sg<br /><br />Opening Hours (school term):<br />Monday to Friday<br />9.00 am to 2.30 pm<br /><br />Parents/Guardians/Caregivers can make purchases from Monday to Friday between 1.45 pm to 2.30 pm.</td>
 </tr>
 <tr>
 <td>Bus Operator</td>
