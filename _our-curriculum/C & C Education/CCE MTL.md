@@ -6,9 +6,9 @@ third_nav_title: C & C Education
 ---
 # Character & Citizenship Education (Mother Tongue Languages)
 
-Character & Citizenship Education (Mother Tongue Languages), CCE MTL forms part of the explicit teaching and learning of moral values. Delivered by MTL teachers, students learn the values taught through cultural stories, practices, songs, idioms, and proverbs unique to each Mother Tongue Language. For students who offer the non-Tamil Indian Languages or are exempted from taking MTL, CCE lessons are taught in English.
+<p align="Justify">Character & Citizenship Education (Mother Tongue Languages), CCE MTL forms part of the explicit teaching and learning of moral values. Delivered by MTL teachers, students learn the values taught through cultural stories, practices, songs, idioms, and proverbs unique to each Mother Tongue Language. For students who offer the non-Tamil Indian Languages or are exempted from taking MTL, CCE lessons are taught in English.</p>
 
-Values are better internalised when students’ daily life experiences are used as contexts to make the learning more relevant and meaningful. This helps students to apply the skills, values and attitudes in authentic and meaningful situations. 
+<p align="Justify">Values are better internalised when students’ daily life experiences are used as contexts to make the learning more relevant and meaningful. This helps students to apply the skills, values and attitudes in authentic and meaningful situations. </p>
 
 At the end of the CCE MTL programme, students would be able to:
 
@@ -23,7 +23,7 @@ At the end of the CCE MTL programme, students would be able to:
 
 #### Features of the CCE Syllabus
 
-Students learn values through three overarching ideas, namely (Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation and the world. The diagram below shows the Core Values, the 3 Big Ideas and the Expanding Domains in the CCE syllabus:
+<p align="Justify">Students learn values through three overarching ideas, namely (Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation and the world. The diagram below shows the Core Values, the 3 Big Ideas and the Expanding Domains in the CCE syllabus:</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
