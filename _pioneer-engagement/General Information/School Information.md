@@ -69,7 +69,7 @@ third_nav_title: General Information
 <td>Gate 1<br />Gate 4</td>
 </tr>
 <tr>
-<td colspan="2">Students will gather in the School Hall if they are:<br />Taking School Bus<br />Attending student care<br />Students with siblings will meet in the canteen and may leave together using either Gate 1 or Gate 4.</td>
+<td colspan="2">Students will gather in the School Hall if they are:<br />&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;Taking School Bus<br />&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;Attending student care<br />&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;Students with siblings will meet in the canteen and may leave together using either Gate 1 or Gate 4.</td>
 </tr>
 <tr>
 <td rowspan="3">School Gates Opening Hours</td>
