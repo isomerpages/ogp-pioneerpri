@@ -24,10 +24,10 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td>
+<td style="background-color: #dddddd; width: 30%;">
 <p><strong>Level of Services</strong></p>
 </td>
-<td>
+<td style="background-color: #dddddd; width: 70%;">
 <p><strong>PPS Programmes</strong></p>
 </td>
 </tr>
