@@ -76,9 +76,7 @@ PPS SOAR Programme aims to engage students with interest and aptitude in program
 </tr>
 </tbody>
 </table>
-
-
-
+\
 
 <p align="Justify">Our programmes are created with the High Support: High Challenge approach (Mariani, 1997) in mind. The school provides strong teacher support and a curriculum that challenges the students. 21CC skills are purposefully infused in the lessons and opportunities are created to contribute to the school and community. The result of this is a platform where students are highly engaged and motivated. Students practise critical thinking and communication skills vital in 21st Century, nurture a sense of empathy and commitment and take strides forward in their learning. </p>
 
