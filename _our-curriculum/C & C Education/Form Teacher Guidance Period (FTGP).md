@@ -6,15 +6,16 @@ third_nav_title: C & C Education
 ---
 # Form Teacher Guidance Period (FTGP)
 
-Form Teachers play a central role in shaping the development of their young charges. They use Form Teacher Guidance Period to bond with their students through interaction activities and build positive Teacher-Student Relationship (TSR). 
+<p align="Justify">Form Teachers play a central role in shaping the development of their young charges. They use Form Teacher Guidance Period to bond with their students through interaction activities and build positive Teacher-Student Relationship (TSR). </p>
 
 #### Learning Outcomes
 
-FTGP lessons with purposeful teacher-student interactions and the explicit teaching of social and emotional competencies are planned. This is to provide the platform for teachers and students to establish good rapport and to allow teachers to identify the needs of students so as to provide them with better support.
+<p align="Justify">FTGP lessons with purposeful teacher-student interactions and the explicit teaching of social and emotional competencies are planned. This is to provide the platform for teachers and students to establish good rapport and to allow teachers to identify the needs of students so as to provide them with better support.</p>
 
 #### Our Key Approaches / Strategies
 
-During FTGP lessons, there could be play activities between the form teacher and students to enhance bonding as well as the teaching of social and emotional competencies for the following outcomes: 
+<p align="Justify">During FTGP lessons, there could be play activities between the form teacher and students to enhance bonding as well as the teaching of social and emotional competencies for the following outcomes: </p>
+
 * better understand themselves (Self-Awareness);
 * learn ways to manage themselves (Self-Management);
 * better understand their family and friends (Social Awareness);
@@ -25,9 +26,9 @@ During FTGP lessons, there could be play activities between the form teacher and
 
 * Connecting Hearts And Thoughts (CHAT)
 Form Teachers take turns to conduct 
-	* Connecting Hearts And Thoughts (CHAT), which is a regular time and space where one-to-one teacher-student interaction occurs. Teachers can get to know their students better through the conversation, and demonstrate their care and interest in students as unique individuals. CHAT sessions can seed mutual respect and care where students feel valued, supported and respected by their teachers. 
+	* <p align="Justify">Connecting Hearts And Thoughts (CHAT), which is a regular time and space where one-to-one teacher-student interaction occurs. Teachers can get to know their students better through the conversation, and demonstrate their care and interest in students as unique individuals. CHAT sessions can seed mutual respect and care where students feel valued, supported and respected by their teachers. </p>
 
 * Habits of Mind (HoM)
-	* We have integrated the explicit teaching of HoM into FTGP to ensure coherence and consistent messaging. Lessons are aligned and learning is further reinforced in other key student development experiences.
+	* <p align="Justify">We have integrated the explicit teaching of HoM into FTGP to ensure coherence and consistent messaging. Lessons are aligned and learning is further reinforced in other key student development experiences.</p>
 
-* Other mandatory lessons on Cyber wellness, My Skills Future (MSF), Social Skills (Lower Primary) and Sexuality Education (SEd) lessons (Primary 5 & 6) have also been incorporated into FTGP lessons. These sessions address specific issues at different levels and they help to reinforce our school values.
+* <p align="Justify">Other mandatory lessons on Cyber wellness, My Skills Future (MSF), Social Skills (Lower Primary) and Sexuality Education (SEd) lessons (Primary 5 & 6) have also been incorporated into FTGP lessons. These sessions address specific issues at different levels and they help to reinforce our school values.</p>
