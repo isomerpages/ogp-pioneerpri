@@ -71,7 +71,7 @@ P4 &ndash; P6 PPS SOAR (Internal) Programmes<br />
 &middot; Magazine Journalism Programme<br />&middot; PPS Live Broadcast Journalism Programme<br />&middot; Math around Us Programme<br />&middot; Pioneer Science Buskers Programme<br />&middot; Peer Mentoring&nbsp;<br /><br />
 P4 &ndash; P6 PPS SOAR (External) Programmes<br />
 &middot; Confidence in Communication workshops<br />&middot; GEP Creative Writing Programme (CWP)<br />&middot; NUS Primary Mathematics Project Competition (PMPC)<br />&middot; Science Centre Science Buskers<br /><br />
-PPS SOAR Programme aims to engage students with interest and aptitude in programmes and projects that will develop their potential to the fullest and allow them to build their learning portfolio. Under the guidance of our teacher mentors, students hone the skills needed to be confident learners, effective communicators and critical thinkers</p>
+PPS SOAR Programme aims to engage students with interest and aptitude in programmes and projects that will develop their potential to the fullest and allow them to build their learning portfolio. Under the guidance of our teacher mentors, students hone the skills needed to be confident learners, effective communicators and critical thinkers</div>
 </td>
 </tr>
 </tbody>
