@@ -5,83 +5,51 @@ description: ""
 third_nav_title: Our Pride & Joy
 ---
 # Staff Accolades
-### 2021 MOE Service Excellence Award
+### 2022 MOE Service Excellence Awards
 
-**Platinum**
+<p><strong>Gold</strong></p>
+&#x2022; Mr Kulwant Singh S/O Jassa Singh, Operations Manager<br>
+&#x2022; Mr Lee Chien Shiong Desmond, School Staff Developer<br>
+&#x2022; Mr Lim Soon Yang Joseph, HOD Mathematics<br>
 
-* Ms Teo Woon Teng, Lead Teacher (Mathematics)
-
-**Gold**
-
-* Mdm Chen Yunhui, Senior Teacher (Chinese Language)
-
-* Mr Lim Kok Leong, Teacher
-
-* Mdm Janice Pang, Administrative Executive
-
-* Ms Samantha Chong, Administrative Executive
-
-**Silver**
-
-* Mdm Ho Shen Han, SH Chinese Language
-
-* Mdm Kristine Chee, HOD Mother Tongue Languages
-
-* Mdm Liu Jie, Teacher
-
-* Mdm Shahira Madzan, AED LBS
-
-* Mrs Lynnette Tan, SH Student Well-Being
-
-* Mrs Serina Wee, SH Mathematics
-
-* Ms Natalie Chen, HOD Character and Citizenship Education
-
-* Mr Christopher Tan, Year Head (Upper Primary)
-
-* Mr Desmond Lee, School Staff Developer
-
-* Mr Joseph Lim, HOD Mathematics
-
-* Mr Muhammad Firdaus, HOD Science
-
-* Mr Nelson Nai, HOD PE, Aesthetics & CCA
-
-* Mdm Hadejah Osman, OSO
-
-* Mr Lee Yit Kiong, OSO
-
-### 2021 National Day Awards
-
-**The Commendation Medals**
-
-* Mdm Kristine Chee, HOD Mother Tongue Languages
-* Ms Natalie Chen, HOD Character and Citizenship Education
-* Mr Joseph Lim, HOD Mathematics
-* Mr Muhammad Firdaus, HOD Science
-* Mrs Lynnette Tan, SH Student Well-Being
+<p><strong>Silver</strong></p>
+&#x2022; Mdm Adeline Ng Hsu-I, Teacher<br>
+&#x2022; Miss Chua Mei Sze April, HOD English Language<br>
+&#x2022; Mr Fok Jun-Feng Bryan, Teacher<br>
+&#x2022; Mdm Gunathilaga D/O Supiahmanian, OSO<br>
+&#x2022; Mdm Hoe Lay Ding, CSO<br>
+&#x2022; Mr Kuat Zhi Ming Shaun, HOD ICT & MRL<br>
+&#x2022; Miss Li Sisi, Teacher<br>
+&#x2022; Mr Liow Siew Choi, OSO<br>
+&#x2022; Mdm Ng Ai Ling, Senior Teacher (Chinese Language)<br>
+&#x2022; Mdm Nor Ashikin Bte Buang, Teacher<br>
+&#x2022; Mdm Norly Bte Abdullah, HOD Student Management<br>
+&#x2022; Mdm Nor Shaheila Binte Sahat, LH English Language<br>
+&#x2022; Mdm Nurmahfuzah Mossadats, SEN Officer<br>
+&#x2022; Mdm Sabariah Binte Mohamed Samuni, SH Malay Language<br>
+&#x2022; Mr Simon Diong Chong Huat, SH PE & PAL<br>
+&#x2022; Mdm Siti Aisyah Binte Jamal, Year Head (Middle Primary)<br>
+&#x2022; Miss Siti Nadzirah Binte Ahmad, CSO<br>
+&#x2022; Mdm Soh Beng Chew, OSO<br>
+&#x2022; Mdm Suppiah Revathi, Year Head (Middle Primary)<br>
+&#x2022; Mr Wong Keng Soon, Teacher<br>
 
 
-**The Efficiency Medal**
+### 2022 National Day Awards
 
-* Mdm Goh Lay Hoon, Senior AED LBS
+<p><strong>The Commendation Medal</strong></p>
 
-
-**Long-Service Medals**
-
-* Mr Desmond Lee, School Staff Developer
-* Norly Bte Abdullah, HOD Student Management
-
-### 2021 MOE Outstanding Contributions Awards
-
-**Individuals**
-
-* Mr Mohamed Ashiq S/O Ameerdeen M, SH CCA & Student Leadership
-* Mdm Nor Ashikin Bte Buang, Teacher
-* Mrs Caryln Loh, Teacher
-* Mrs Tan Ying Qing, Teacher
-* Mr Kulwant Singh, Operations Manager
+&#x2022; Ms Suppiah Revathi, Year Head (Middle Primary)<br>
+&#x2022; Mr Lim Soon Yang Joseph, HOD Mathematics<br>
 
 
-### Associate of Academy of Singapore Teachers Award 2021
-* Ms Nor Erwiena Bte Winarno P, Senior Teacher (Low Progress Learners)
+### The Long Service Medal 
+
+&#x2022; Miss Rosita Binte Mohamed Yusoff, Teacher<br>
+
+
+### Academy Awards for Professional Development 2022
+<p><strong>Associates of the Academy of Singapore Teachers</strong></p>
+
+&#x2022; Mr Lim Soon Yang Joseph, HOD Mathematics<br>
+&#x2022; Miss Nor Erwiena, Senior Teacher (Mathematics)<br>
