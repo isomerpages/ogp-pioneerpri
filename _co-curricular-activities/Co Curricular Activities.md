@@ -16,38 +16,29 @@ All CCAs emphasise on social interactions and provide a common space for friends
 
 #### CCA Categories
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
-  <tr>
-    <th class="tg-a4yv">Category</th>
-    <th class="tg-a4yv">CCAs</th>
-  </tr>
+<tr style="background-color: #ddd;">
+<th style="text-align: center;">Category</th>
+<th style="text-align: center;">CCAs</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">Physical Sports</span></td>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">Basketball, Football, Netball and Wushu</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">Performing and Visual</span><br><span style="font-weight:300;color:#000">Arts</span></td>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">Art Expression, Chinese Orchestra, Choir, Contemporary Dance, Hip Hop, </span><br><span style="font-weight:300;color:#000">Indian Dance and Malay Dance</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">Uniformed Groups</span></td>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">Boys’ Brigade and Cub Scouts</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">Clubs and Societies</span></td>
-    <td class="tg-7yig"><span style="font-weight:300;color:#000">Infocomm club, Robotics and Toastmaster Society </span></td>
-  </tr>
+<tr>
+<td style="text-align: center;">Physical Sports</td>
+<td style="text-align: center;">Basketball, Football, Netball and Wushu</td>
+</tr>
+<tr>
+<td style="text-align: center;">Performing and Visual<br />Arts</td>
+<td style="text-align: center;">Art Expression, Chinese Orchestra, Choir, Contemporary Dance, Hip Hop,<br />Indian Dance and Malay Dance</td>
+</tr>
+<tr>
+<td style="text-align: center;">Uniformed Groups</td>
+<td style="text-align: center;">Boys&rsquo; Brigade and Cub Scouts</td>
+</tr>
+<tr>
+<td style="text-align: center;">Clubs and Societies</td>
+<td style="text-align: center;">Infocomm club, Robotics and Toastmaster Society</td>
+</tr>
 </tbody>
 </table>
