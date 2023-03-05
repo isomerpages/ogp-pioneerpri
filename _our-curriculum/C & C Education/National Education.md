@@ -5,7 +5,7 @@ description: ""
 third_nav_title: C & C Education
 ---
 # National Education
-National Education (NE) is part of holistic education. It aims to develop national cohesion, cultivate the instinct for survival as a nation and boost students’ confidence in our nation's future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.
+<p align="Justify">National Education (NE) is part of holistic education. It aims to develop national cohesion, cultivate the instinct for survival as a nation and boost students’ confidence in our nation's future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.</p>
 
 The National Education messages and accompanying values are:
 
@@ -29,7 +29,8 @@ The objective is to develop national cohesion, the instinct for survival and con
 * by instilling the core values of our way of life, and the will to prevail, that ensures our continued success and well-being.
 
 #### Our Approach
-Our school observes the 4 commemorative events that are linked to important points in Singapore’s history. The aim is to entrench these events and the images they evoke in the consciousness of each successive generation.
+<p align="Justify">Our school observes the 4 commemorative events that are linked to important points in Singapore’s history. The aim is to entrench these events and the images they evoke in the consciousness of each successive generation.</p>
+
 * Total Defence Day
 * International Friendship Day
 * Racial Harmony Day
@@ -37,9 +38,9 @@ Our school observes the 4 commemorative events that are linked to important poin
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-hys1{background-color:#FFF;color:#F0F;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-9jjb{background-color:#FFF;color:#00F;font-weight:bold;text-align:left;vertical-align:top}
