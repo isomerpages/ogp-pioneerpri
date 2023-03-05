@@ -21,13 +21,13 @@ description: ""
 #### PPS Talent Development 4-tier Programme
 
 
-<table style="width: 100%;">
+<table>
 <tbody>
 <tr>
-<td style="width: 20%;background-color: #dddddd;">
+<td>
 <p><strong>Level of Services</strong></p>
 </td>
-<td style="width: 80%;background-color: #dddddd;">
+<td>
 <p><strong>PPS Programmes</strong></p>
 </td>
 </tr>
@@ -35,30 +35,24 @@ description: ""
 <td>
 <p><strong>LoS 1: &ldquo;Discovering &amp; Building&rdquo;</strong></p>
 </td>
-<td style="text-align: justify;">
-<div align="Justify">PPS ensures quality teaching and learning in every classroom.&nbsp;<br /><br />
-&middot; General academic curriculum&nbsp;<br />&middot; P1 - P6 Applied Learning Programme&nbsp;(ALP)<br />&middot; P1 - P6 Learning for Life Programme&nbsp;(LLP)<br /><br /><em>(Do refer to Signature Programmes tab for more information)</em>
+<td>
+<div align="Justify">PPS ensures quality teaching and learning in every classroom.&nbsp;<br /><br />&middot; General academic curriculum&nbsp;<br />&middot; P1 - P6 Applied Learning Programme&nbsp;(ALP)<br />&middot; P1 - P6 Learning for Life Programme&nbsp;(LLP)<br /><br /><em>(Do refer to Signature Programmes tab for more information)</em></div>
 </td>
 </tr>
-<tr >
+<tr>
 <td>
 <p><strong>LoS 2: &ldquo;Curious &amp; Exploring&rdquo;</strong></p>
 </td>
 <td>
-<div align="Justify">PPS helps students explore and discover their strengths and talents through participation in activities of interest.<br /><br />
-Pioneer Talent Showcase<br />
-&middot; We can Dance competition<br />&middot; Go with the Beat competition<br />&middot; Art Fiesta<br /><br />
-Pioneer Talent Showcase provides opportunities for our students to discover their interest, nurture their abilities and showcase their talents in various art forms. Through this platform, the school offers Art, Dance and Music activities which students can choose to participate based on their interest.
+<div align="Justify">PPS helps students explore and discover their strengths and talents through participation in activities of interest.<br /><br />Pioneer Talent Showcase<br />&middot; We can Dance competition<br />&middot; Go with the Beat competition<br />&middot; Art Fiesta<br /><br />Pioneer Talent Showcase provides opportunities for our students to discover their interest, nurture their abilities and showcase their talents in various art forms. Through this platform, the school offers Art, Dance and Music activities which students can choose to participate based on their interest.</div>
 </td>
 </tr>
 <tr>
-<td style="text-align: justify;">
+<td>
 <p><strong>LoS 3: &ldquo;Enthusiastic &amp; Performing&rdquo;</strong></p>
 </td>
 <td>
-<div align="Justify">PPS offers students with aptitude opportunities to extend and deepen their involvement and learning in specific talent areas.&nbsp;<br /><br />
-&middot; Literature (English) Appreciation Programme (LEAP)<br />&middot; Math E2K<br />&middot; Math Olympiad<br />&middot; Science E2K<br />&middot; LLP Dance Ambassadors Programme<br /><br />
-<em>(Do refer to Our Curriculum tab for more information)</em>
+<div align="Justify">PPS offers students with aptitude opportunities to extend and deepen their involvement and learning in specific talent areas.&nbsp;<br /><br />&middot; Literature (English) Appreciation Programme (LEAP)<br />&middot; Math E2K<br />&middot; Math Olympiad<br />&middot; Science E2K<br />&middot; LLP Dance Ambassadors Programme<br /><br /><em>(Do refer to Our Curriculum tab for more information)</em></div>
 </td>
 </tr>
 <tr>
@@ -66,12 +60,7 @@ Pioneer Talent Showcase provides opportunities for our students to discover thei
 <p><strong>LoS 4: &ldquo;Passionate &amp; Soaring&rdquo;</strong></p>
 </td>
 <td>
-<div align="Justify">PPS provides high-level learning opportunities beyond the core academic content areas to students with interest and aptitude.<br /><br />
-P4 &ndash; P6 PPS SOAR (Internal) Programmes<br />
-&middot; Magazine Journalism Programme<br />&middot; PPS Live Broadcast Journalism Programme<br />&middot; Math around Us Programme<br />&middot; Pioneer Science Buskers Programme<br />&middot; Peer Mentoring&nbsp;<br /><br />
-P4 &ndash; P6 PPS SOAR (External) Programmes<br />
-&middot; Confidence in Communication workshops<br />&middot; GEP Creative Writing Programme (CWP)<br />&middot; NUS Primary Mathematics Project Competition (PMPC)<br />&middot; Science Centre Science Buskers<br /><br />
-PPS SOAR Programme aims to engage students with interest and aptitude in programmes and projects that will develop their potential to the fullest and allow them to build their learning portfolio. Under the guidance of our teacher mentors, students hone the skills needed to be confident learners, effective communicators and critical thinkers</div>
+<div align="Justify">PPS provides high-level learning opportunities beyond the core academic content areas to students with interest and aptitude.<br /><br />P4 &ndash; P6 PPS SOAR (Internal) Programmes<br />&middot; Magazine Journalism Programme<br />&middot; PPS Live Broadcast Journalism Programme<br />&middot; Math around Us Programme<br />&middot; Pioneer Science Buskers Programme<br />&middot; Peer Mentoring&nbsp;<br /><br />P4 &ndash; P6 PPS SOAR (External) Programmes<br />&middot; Confidence in Communication workshops<br />&middot; GEP Creative Writing Programme (CWP)<br />&middot; NUS Primary Mathematics Project Competition (PMPC)<br />&middot; Science Centre Science Buskers<br /><br />PPS SOAR Programme aims to engage students with interest and aptitude in programmes and projects that will develop their potential to the fullest and allow them to build their learning portfolio. Under the guidance of our teacher mentors, students hone the skills needed to be confident learners, effective communicators and critical thinkers</div>
 </td>
 </tr>
 </tbody>
