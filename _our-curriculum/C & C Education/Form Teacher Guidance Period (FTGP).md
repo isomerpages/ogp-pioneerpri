@@ -25,10 +25,9 @@ third_nav_title: C & C Education
 #### Our Key Programmes
 
 * Connecting Hearts And Thoughts (CHAT)<br>
-Form Teachers take turns to conduct 
-	* <p align="Justify">Connecting Hearts And Thoughts (CHAT), which is a regular time and space where one-to-one teacher-student interaction occurs. Teachers can get to know their students better through the conversation, and demonstrate their care and interest in students as unique individuals. CHAT sessions can seed mutual respect and care where students feel valued, supported and respected by their teachers. </p>
 
-* Habits of Mind (HoM)
-	* <p align="Justify">We have integrated the explicit teaching of HoM into FTGP to ensure coherence and consistent messaging. Lessons are aligned and learning is further reinforced in other key student development experiences.</p>
+	* <p align="Justify">Form Teachers take turns to conduct Connecting Hearts And Thoughts (CHAT), which is a regular time and space where one-to-one teacher-student interaction occurs. Teachers can get to know their students better through the conversation, and demonstrate their care and interest in students as unique individuals. CHAT sessions can seed mutual respect and care where students feel valued, supported and respected by their teachers. </p>
+
+
 
 * <p align="Justify">Other mandatory lessons on Cyber wellness, My Skills Future (MSF), Social Skills (Lower Primary) and Sexuality Education (SEd) lessons (Primary 5 & 6) have also been incorporated into FTGP lessons. These sessions address specific issues at different levels and they help to reinforce our school values.</p>
