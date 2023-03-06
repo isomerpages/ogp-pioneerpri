@@ -61,5 +61,3 @@ Since 1997, all Primary 5 students are invited to attend the NE Show, which is e
 </tbody>
 </table>
 <p>&nbsp;</p>
-
-
