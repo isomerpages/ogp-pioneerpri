@@ -6,7 +6,7 @@ third_nav_title: C & C Education
 ---
 # Education and Career Guidance
 
-<p align="Justify">Education and Career Guidance (ECG) aims to equip our students with the <b>necessary knowledge, skills and values</b> to <b>make informed decisions</b> at every education milestone. Through ECG lessons, students learnt to <b>appreciate all occupations, be adaptable and resilient</b>, thus developing their <b>motivation in learning</b> to achieve their goals. 
+<p align="Justify">Education and Career Guidance (ECG) aims to equip our students with the <b>necessary knowledge, skills and values</b> to <b>make informed decisions</b> at every education milestone. Through ECG lessons, students learnt to <b>appreciate all occupations, be adaptable and resilient</b>, thus developing their <b>motivation in learning</b> to achieve their goals. </p>
 
 
 **4 Goals of ECG:**
