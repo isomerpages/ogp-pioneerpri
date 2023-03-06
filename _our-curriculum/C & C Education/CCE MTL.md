@@ -48,3 +48,10 @@ Identity<br /> Relationships<br /> Choices
 </tr>
 </tbody>
 </table>
+
+
+The 3 Big Ideas, Identity, Relationships and Choices, are core concepts of the syllabus. They are interconnected and impact one another. 
+
+* Identity: Students need to know who they are in order to relate positively with others. 
+* Relationships: Students forge their identity and consider the choices they make vis-à-vis others.
+* *Choices: The ability to make good choices impacts their understanding of their own identity and the relationships they form.
