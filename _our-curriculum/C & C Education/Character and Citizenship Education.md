@@ -10,7 +10,7 @@ third_nav_title: C & C Education
 
 ![](/images/image1.png)
 
-<p align="Justify">Abundant learning opportunities are curated and integrated in the school’s academic, non-academic and school-based CCE programmes. We provide a series of customised student-centric and values education programmes so as to equip students with the essential skills, knowledge and dispositions to manage self and relationships. Different experiential learning platforms and opportunities are also made available to enable students apply their learning in practice and strengthen their socio-emotional competencies. </p>
+<p align="Justify">Abundant learning opportunities are curated and integrated in the school’s academic, non-academic and school-based CCE programmes. We provide a series of customised student-centric and values education programmes so as to equip students with the essential skills, knowledge and dispositions to manage self and relationships. Different experiential learning platforms and opportunities are also made available to enable students apply their learning in practice and strengthen their socio-emotional competencies.</p>
 
 
 ## Our Approaches
@@ -19,7 +19,7 @@ third_nav_title: C & C Education
 
 #### Enactment of CCE
 
-<p align="Justify">We adopt a whole school approach to broaden and deepen students’ experiences in character and citizenship education. There are several learning platforms where CCE is enacted with intentionality. These include CCE lessons during curriculum time, key student development experiences beyond the classroom, school-based initiatives and teachable moments during subject lessons and learning opportunities beyond the school. </p>
+<p align="Justify">We adopt a whole school approach to broaden and deepen students’ experiences in character and citizenship education. There are several learning platforms where CCE is enacted with intentionality. These include CCE lessons during curriculum time, key student development experiences beyond the classroom, school-based initiatives and teachable moments during subject lessons and learning opportunities beyond the school.</p>
 
 #### CCE Lessons
 
@@ -31,8 +31,8 @@ Broadly, there are three ways CCE lesson time is used:
 
 |                         |                                                                                                                                                                                                                                                                                                                                                              |   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| Explicit Teaching       | <div align="Justify">Focus on the holistic learning and developmental needs of students through explicit teaching of values and social and emotional skills, knowledge and competencies via platforms including Form Teacher Guidance Programme (FTGP), CCE (Mother Tongue) and Sexuality Education. </d>                                                                         |   |
-| Contextualised Learning | <div align="Justify">Emphasise the importance of understanding real world contexts and development through National Education, Cyber-Wellness Programme, and Education and Career Guidance.    </div>                                                                                                                                                                                   |   |
+| Explicit Teaching       | <div align="Justify">Focus on the holistic learning and developmental needs of students through explicit teaching of values and social and emotional skills, knowledge and competencies via platforms including Form Teacher Guidance Programme (FTGP), CCE (Mother Tongue) and Sexuality Education.</d>                                                                         |   |
+| Contextualised Learning | <div align="Justify">Emphasise the importance of understanding real world contexts and development through National Education, Cyber-Wellness Programme, and Education and Career Guidance. </div>                                                                                                                                                                                   |   |
 | Relating to the World   | <div align="Justify">Generate awareness about current realities by discussing contemporary issues related to national, regional and/or global contexts. Through platforms like National Education programmes and Values in Action, teachers facilitate discussion and critical thinking, and encourage student voices which help them to develop the 21CC related to citizenship.</div>  ||
 
 #### Sense Making Through CCE Experiences
