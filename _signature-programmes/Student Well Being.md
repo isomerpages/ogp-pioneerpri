@@ -40,7 +40,7 @@ description: ""
 
 <p align="Justify">We work with internal stakeholders and external partners to provide customised support and after-school engagement to strengthen social and emotional competencies and social skills of students who require additional support.  The overall programme design adopts the Head-Heart-Hands model with specific focus areas:</p>
 
-<img src="/images/MHH.png" style="width:65%">
+<img src="/images/MHH.png" style="width:55%">
 
 In addition to programmes, students are also provided with a circle of supportive friends and teachers who will act as peer leaders and mentors.
 
