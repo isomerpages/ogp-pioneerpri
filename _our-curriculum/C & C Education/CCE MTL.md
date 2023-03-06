@@ -43,7 +43,7 @@ At the end of the CCE MTL programme, students would be able to:
 <p>Identity<br /> Relationships<br /> Choices</p>
 </td>
 <td style="background-color: #ffdf80;">
-<strong>Self:</strong>&nbsp;Being who I am and becoming who I can be<br /> <strong>Family:</strong>&nbsp;Strengthening family ties<br /> <strong>School:</strong>&nbsp;Fostering healthy friendships and team spirit<br /> <strong>Community:</strong>&nbsp;Understanding our community and building an inclusive society<br /> <strong>Nation:</strong>&nbsp;Developing a sense of national identity and nation building<br /> <strong>World:</strong>&nbsp;Being an active citizen in a globalised world
+<strong>Self:&nbsp; &nbsp;</strong>&nbsp;Being who I am and becoming who I can be<br /> <strong>Family:&nbsp; &nbsp;</strong>&nbsp;Strengthening family ties<br /> <strong>School:&nbsp; &nbsp;</strong>&nbsp;Fostering healthy friendships and team spirit<br /> <strong>Community:&nbsp; &nbsp;</strong>&nbsp;Understanding our community and building an inclusive society<br /> <strong>Nation:&nbsp; &nbsp;</strong>&nbsp;Developing a sense of national identity and nation building<br /> <strong>World:&nbsp; &nbsp;</strong>&nbsp;Being an active citizen in a globalised world
 </td>
 </tr>
 </tbody>
