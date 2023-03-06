@@ -19,7 +19,7 @@ Students will be able to:
 
 #### Our Approach and Strategies
 
-![](/images/stop-think-act.jpg)
+<img src="/images/stop-think-act.jpg" style="width:50%">
 
 * Individual activities – such as narrative therapy,  art therapy, individual counselling, play therapy and teaching coping skills.
 * Group activities – such as teaching coping skills, strengths and resilience activities, group therapy and social skills training.
