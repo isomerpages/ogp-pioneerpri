@@ -61,7 +61,7 @@ Broadly, there are three ways CCE lesson time is used:
  We offer the following to all students:<br>
 &nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	[Student Leadership Development (SLD) Programmes](/signature-programmes/student-leadership-development)<br>
 &nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	[National Education (NE)](/our-curriculum/Character-and-Citizenship-Edu/national-education/)<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	Values in Action (VIA) (provide hyperlink to VIA subpage in Pioneer Enrichment)<br>
+&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	Values in Action (VIA)<br>
 &nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	[Internationalisation](/signature-programmes/internationalisation)<br>
 &nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	[House System](/signature-programmes/house-system)
 
