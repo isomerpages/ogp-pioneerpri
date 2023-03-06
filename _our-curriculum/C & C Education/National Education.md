@@ -10,17 +10,17 @@ third_nav_title: C & C Education
 The National Education messages and accompanying values are:
 
 * Singapore is our homeland; this is where we belong.
-* We treasure our heritage and take pride in shaping our own unique way of life.
+  * We treasure our heritage and take pride in shaping our own unique way of life.
 * We must preserve racial and religious harmony.
-* We value our diversity and are determined to stay a united people.
+  * We value our diversity and are determined to stay a united people.
 * We must uphold meritocracy and incorruptibility.
-* We provide opportunities for all, according to their ability and effort.
+  * We provide opportunities for all, according to their ability and effort.
 * No one owes Singapore a living.
-* We find our own way to survive and prosper, turning challenge into opportunity.
+  * We find our own way to survive and prosper, turning challenge into opportunity.
 * We must ourselves defend Singapore.
-* We are proud to defend Singapore ourselves, no one else is responsible for our security  and well-being.
+  * We are proud to defend Singapore ourselves, no one else is responsible for our security  and well-being.
 * We have confidence in our future.
-United, determined and well-prepared, we have what it takes to build a bright future for ourselves, and to progress together as one nation.
+  * United, determined and well-prepared, we have what it takes to build a bright future for ourselves, and to progress together as one nation.
  
 The objective is to develop national cohesion, the instinct for survival and confidence in the future, 
 * by fostering a sense of identity, pride and self-respect as Singaporeans;
