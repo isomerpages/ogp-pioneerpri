@@ -10,7 +10,7 @@ third_nav_title: C & C Education
 
 
 **4 Goals of ECG:**
-<img src="/images/image2.jpg" style="width:80%">
+<img src="/images/image2.jpg" style="width:70%">
 
 #### Our Approach
 
