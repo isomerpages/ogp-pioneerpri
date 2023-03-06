@@ -1,11 +1,12 @@
 ---
 title: Privacy Policy
-permalink: /pioneer-engagement/privacy-policy
+permalink: /pioneer-engagement/privacy-policy/
 description: ""
 ---
 # Privacy Policy
 **PRIVATE POLICY**
 
+<div align="Justify">
 
 * This is a Government Agency website. We adopt the same principles relating to your privacy as other Government of Singapore websites.
 * If you are only browsing this website, we do not capture data that allows us to identify you individually.
@@ -16,3 +17,5 @@ description: ""
 * Please contact the Pioneer Primary School Administration Manager: 
 	* (a) For any enquiries or feedback on our data protection policies and procedures, 
 	* (b) If you require more information on or access to the data which you have earlier provided to us.
+	
+</div>
