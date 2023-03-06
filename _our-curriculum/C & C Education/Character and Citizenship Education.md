@@ -59,12 +59,13 @@ Broadly, there are three ways CCE lesson time is used:
 <p align="Justify"><b><i>Sense Making Through CCE Experiences</i></b><br>Sense making is important for CCE learning to become meaningful for students. Through authentic learning opportunities both within and beyond school, students develop the habit of self-reflection and gratitude. CCE provides the skills and knowledge to help students make sense of their life experiences, and the language to express their learning and development.</p>
  
  We offer the following to all students:<br>
-•	Student Leadership Development (SLD) Programmes (provide hyperlink to Student Leadership Development subpage in Pioneer Enrichment)<br>
-•	National Education (NE) (provide hyperlink to NE subpage)<br>
-•	Values in Action (VIA) (provide hyperlink to VIA subpage in Pioneer Enrichment)<br>
-•	Internationalisation (provide hyperlink to Internationalisation subpage in Pioneer Enrichment)<br>
-•	House System (provide hyperlink to House System subpage in Pioneer Enrichment)
+&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	[Student Leadership Development (SLD) Programmes](/signature-programmes/student-leadership-development)<br>
+&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	[National Education (NE)](/our-curriculum/Character-and-Citizenship-Edu/national-education/)<br>
+&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	Values in Action (VIA) (provide hyperlink to VIA subpage in Pioneer Enrichment)<br>
+&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	[Internationalisation](/signature-programmes/internationalisation)<br>
+&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	[House System](/signature-programmes/house-system)
 
+[House System](/signature-programmes/house-system)
  
  
 We offer the following to all students:
