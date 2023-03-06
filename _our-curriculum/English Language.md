@@ -5,7 +5,7 @@ description: ""
 ---
 # English Language
 
-<P align="Justify">Welcome to our school's English curriculum page! Here at Pioneer Primary School, we believe that a strong foundation in English is key to success in many areas of life. Our English curriculum is designed to supplement the national curriculum (STELLAR Curriculum) and provide our students with a well-rounded education that will prepare them for the future.</>
+<P align="Justify">Welcome to our school's English curriculum page! Here at Pioneer Primary School, we believe that a strong foundation in English is key to success in many areas of life. Our English curriculum is designed to supplement the national curriculum (STELLAR Curriculum) and provide our students with a well-rounded education that will prepare them for the future.</p>
 
 
 ![](/images/English%20Language%202.jpg)
