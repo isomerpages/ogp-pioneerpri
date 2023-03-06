@@ -10,7 +10,7 @@ description: ""
 Mr Heng Swee Keat, Minster for Education
 speech delivered at Character and Leadership Education Forum (28 May 2012)* </div></center>
 
-<p align="Justify">Our Student Leadership Development (SLD) Programme aims to equip Pioneer Student Leaders with the necessary leadership know-how and skills to lead self and others in school projects and/or events/activities, serving the school community and beyond. With intentional planning, these opportunities form a critical pathway by which student leadership competencies are progressively developed, starting from the early years at lower primary level.</p>
+<p align="Justify">Our Student Leadership Development (SLD) Programme aims to equip Pioneer Student Leaders with the necessary leadership know-how and skills to lead self and others in school projects, events and activities, serving the school community and beyond. With intentional planning, these opportunities form a critical pathway by which student leadership competencies are progressively developed, starting from the early years at lower primary level.</p>
 
 <p align="Justify">In Pioneer Primary, we firmly believe that every student has the potential to be leaders. We emphasise the importance of providing all students with opportunities to learn and develop student leadership skills and competencies though Student Development Experiences and Character and Citizenship Education Lessons.  </p>
 ![](/images/Student%20Leadership.jpg)
