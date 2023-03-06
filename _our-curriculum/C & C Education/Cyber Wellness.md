@@ -48,5 +48,5 @@ Students need to:
 * [Parents, the guardians of internet](https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety)
 * [Guide for parents on setting parental controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
 * [Safeguarding your child online](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
-* [Parent kit - Cyber wellness for your child](/files/cyber-wellness-for-your-child.pdf)
 * [Understanding cyber wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)
+* [Parent kit - Cyber wellness for your child](/files/cyber-wellness-for-your-child.pdf)
