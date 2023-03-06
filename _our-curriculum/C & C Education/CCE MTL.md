@@ -8,12 +8,9 @@ third_nav_title: C & C Education
 
 <p align="Justify">Character & Citizenship Education (Mother Tongue Languages), CCE MTL forms part of the explicit teaching and learning of moral values. Delivered by MTL teachers, students learn the values taught through cultural stories, practices, songs, idioms, and proverbs unique to each Mother Tongue Language. For students who offer the non-Tamil Indian Languages or are exempted from taking MTL, CCE lessons are taught in English.</p>
 
-<p align="Justify">Values are better internalised when students’ daily life experiences are used as contexts to make the learning more relevant and meaningful. This helps students to apply the skills, values and attitudes in authentic and meaningful situations. </p>
+<p align="Justify">Values are better internalised when students’ daily life experiences are used as contexts to make the learning more relevant and meaningful. This helps students to apply the skills, values and attitudes in authentic and meaningful situations.  </p>
 
 At the end of the CCE MTL programme, students would be able to:
-
-<img src="/images/CCE%20MTL.jpg" 
-     style="width:50%">
 
 * put good values into practice
 * be responsible in their actions
@@ -25,32 +22,29 @@ At the end of the CCE MTL programme, students would be able to:
 
 <p align="Justify">Students learn values through three overarching ideas, namely (Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation and the world. The diagram below shows the Core Values, the 3 Big Ideas and the Expanding Domains in the CCE syllabus:</p>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6iwo{background-color:#BF9000;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vpvz{background-color:#1C4587;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-r3dq{background-color:#1C4587;color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-0fa5{background-color:#900;color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-mino{background-color:#900;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-vpvz">Core Values</th>
-    <th class="tg-mino">3 Big Ideas</th>
-    <th class="tg-6iwo">Domains</th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-r3dq">Respect<br>Responsibility<br>Resilience<br>Integrity<br>Care<br>Harmony</td>
-    <td class="tg-0fa5">Identity<br>Relationships<br>Choices</td>
-    <td class="tg-6iwo">Self: Being who I am and becoming who I can be<br>Family: Strengthening family ties<br>School: Fostering healthy friendships and team spirit<br>Community: Understanding our community and building an inclusive society<br>Nation: Developing a sense of national identity and nation building<br>World: Being an active citizen in a globalised world</td>
-  </tr>
+<tr>
+<td style="background-color: #b3b3e6;">
+<p><strong>Core Values</strong></p>
+</td>
+<td style="background-color: #ffb3b3;">
+<p><strong>3 Big Ideas</strong></p>
+</td>
+<td style="background-color: #ffdf80;">
+<p><strong>Domains</strong></p>
+</td>
+</tr>
+<tr>
+<td style="background-color:  #b3b3e6;">
+<p>Respect<br /> Responsibility<br /> Resilience<br /> Integrity<br /> Care<br /> Harmony</p>
+</td>
+<td style="background-color: #ffb3b3;">
+<p>Identity<br /> Relationships<br /> Choices</p>
+</td>
+<td style="background-color: #ffdf80;">
+<p><strong>Self:</strong>&nbsp;Being who I am and becoming who I can be<br /> <strong>Family:</strong>&nbsp;Strengthening family ties<br /> <strong>School:</strong>&nbsp;Fostering healthy friendships and team spirit<br /> <strong>Community:</strong>&nbsp;Understanding our community and building an inclusive society<br /> <strong>Nation:</strong>&nbsp;Developing a sense of national identity and nation building<br /> <strong>World:</strong>&nbsp;Being an active citizen in a globalised world</p>
+</td>
+</tr>
 </tbody>
 </table>
