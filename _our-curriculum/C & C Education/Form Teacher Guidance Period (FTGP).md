@@ -14,7 +14,7 @@ third_nav_title: C & C Education
 
 #### Our Key Approaches / Strategies
 
-<p align="Justify">During FTGP lessons, there could be play activities between the form teacher and students to enhance bonding as well as the teaching of social and emotional competencies for the following outcomes: </p>
+<p align="Justify">During FTGP lessons, there could be play activities between the form teacher and students to enhance bonding as well as the teaching of social and emotional competencies for the following outcomes:</p>
 
 * better understand themselves (Self-Awareness);
 * learn ways to manage themselves (Self-Management);
@@ -24,7 +24,7 @@ third_nav_title: C & C Education
 
 #### Our Key Programmes
 
-* Connecting Hearts And Thoughts (CHAT)
+* Connecting Hearts And Thoughts (CHAT)<br>
 Form Teachers take turns to conduct 
 	* <p align="Justify">Connecting Hearts And Thoughts (CHAT), which is a regular time and space where one-to-one teacher-student interaction occurs. Teachers can get to know their students better through the conversation, and demonstrate their care and interest in students as unique individuals. CHAT sessions can seed mutual respect and care where students feel valued, supported and respected by their teachers. </p>
 
