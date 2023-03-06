@@ -26,6 +26,8 @@ The Thinking Curriculum @Pioneer Primary is developed to teach children to think
 * use evidence and adopt different viewpoints to explain one’s reasoning and decisions, having considered the implications of relationships among different viewpoints, 
 * promote critical thinking through varied platforms (e.g. ALP and LLP) and
 * create opportunities to show empathy towards diverse groups and individuals in school and the larger community.
+	
+	</div>
 
 ![](/images/eot.png)
 *Figure 1
