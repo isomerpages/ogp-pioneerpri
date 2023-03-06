@@ -25,7 +25,7 @@ At the end of the CCE MTL programme, students would be able to:
 <table>
 <tbody>
 <tr>
-<td style="background-color: #b3b3e6;">
+<td style="background-color: #ccddff;">
 <p><strong>Core Values</strong></p>
 </td>
 <td style="background-color: #ffb3b3;">
@@ -36,7 +36,7 @@ At the end of the CCE MTL programme, students would be able to:
 </td>
 </tr>
 <tr>
-<td style="background-color:  #b3b3e6;">
+<td style="background-color:  #ccddff;">
 <p>Respect<br /> Responsibility<br /> Resilience<br /> Integrity<br /> Care<br /> Harmony</p>
 </td>
 <td style="background-color: #ffb3b3;">
