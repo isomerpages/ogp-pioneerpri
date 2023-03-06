@@ -5,44 +5,34 @@ description: ""
 ---
 # Useful Links
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-qi0h{background-color:#FFF;color:#9C2B2A;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
-  <tr>
-    <th class="tg-ktyi">Parent Gateway</th>
-    <th class="tg-qi0h"><a href="https://pg.moe.edu.sg/"><span style="font-weight:400;text-decoration:underline;color:#9C2B2A">https://pg.moe.edu.sg/</span></a></th>
-  </tr>
+<tr>
+<td>Parent Gateway</td>
+<td><a href="https://pg.moe.edu.sg/">https://pg.moe.edu.sg/</a></td>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-ktyi">Student Learning Space</td>
-    <td class="tg-qi0h"><a href="https://vle.learning.moe.edu.sg/login"><span style="font-weight:400;text-decoration:underline;color:#9C2B2A">https://vle.learning.moe.edu.sg/login</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Koobits</td>
-    <td class="tg-qi0h"><a href="https://www.koobits.com/"><span style="font-weight:400;text-decoration:underline;color:#9C2B2A">https://www.koobits.com/</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">NEU PC Plus</td>
-    <td class="tg-qi0h"><a href="https://www.imda.gov.sg/programme-listing/neu-pc-plus"><span style="font-weight:400;text-decoration:underline;color:#9C2B2A">https://www.imda.gov.sg/programme-listing/neu-pc-plus</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Direct School Admission</td>
-    <td class="tg-qi0h"><a href="https://www.moe.gov.sg/secondary/dsa"><span style="font-weight:400;text-decoration:underline;color:#9C2B2A">https://www.moe.gov.sg/secondary/dsa</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Online Public Access Catalogue (OPAC)</td>
-    <td class="tg-0lax"><a href="https://schoolibrary.moe.edu.sg/pioneerpri"><span style="font-weight:400;text-decoration:underline;color:#9C2B2A">https://schoolibrary.moe.edu.sg/pioneerpri</span></a></td>
-  </tr>
+<tr>
+<td>Student Learning Space</td>
+<td><a href="https://vle.learning.moe.edu.sg/login">https://vle.learning.moe.edu.sg/login</a></td>
+</tr>
+<tr>
+<td>Koobits</td>
+<td><a href="https://www.koobits.com/">https://www.koobits.com/</a></td>
+</tr>
+<tr>
+<td>NEU PC Plus</td>
+<td><a href="https://www.imda.gov.sg/programme-listing/neu-pc-plus">https://www.imda.gov.sg/programme-listing/neu-pc-plus</a></td>
+</tr>
+<tr>
+<td>Direct School Admission</td>
+<td><a href="https://www.moe.gov.sg/secondary/dsa">https://www.moe.gov.sg/secondary/dsa</a></td>
+</tr>
+<tr>
+<td>Online Public Access Catalogue (OPAC)</td>
+<td><a href="https://schoolibrary.moe.edu.sg/pioneerpri">https://schoolibrary.moe.edu.sg/pioneerpri</a></td>
+</tr>
 </tbody>
 </table>
 
