@@ -53,7 +53,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 **Primary 5**
 
-<table style="width:601.5pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+<table style="width:595pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 0in 0in 0in" width="802" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable">
  <thead>
   <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
@@ -249,7 +249,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 **PRIMARY 6**
 
-<table style="width:613.05pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+<table style="width:595pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 0in 0in 0in" width="817" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable">
  <thead>
   <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.45pt">
