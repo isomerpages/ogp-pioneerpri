@@ -10,7 +10,7 @@ third_nav_title: C & C Education
 
 
 **4 Goals of ECG:**
-![](/images/image2.jpg)
+<img src="/images/image2.jpg" style="width:80%">
 
 #### Our Approach
 
@@ -29,7 +29,6 @@ P5 and P6 -- Our Aspirations
 <p align="Justify">MySkillsFuture is a one-stop portal that is designed for individuals from Primary 5 through adulthood. For students from Primary 5 to Pre-University, the portal is designed to help them discover their interests and strengths, and guide their education and career development at every stage of their education journey.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i9fpBx9xeGU"  frameborder="0"  allowfullscreen></iframe><br>
-
 
 #### Useful Websites for Parents
 
