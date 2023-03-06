@@ -21,23 +21,51 @@ third_nav_title: C & C Education
 
 <p align="Justify">We adopt a whole school approach to broaden and deepen students’ experiences in character and citizenship education. There are several learning platforms where CCE is enacted with intentionality. These include CCE lessons during curriculum time, key student development experiences beyond the classroom, school-based initiatives and teachable moments during subject lessons and learning opportunities beyond the school.</p>
 
-#### CCE Lessons
 
-<p align="Justify">These lessons provide the time and space for relationship building between teachers and students. Through in-depth discussions and effective facilitation, students get the opportunities to acquire skills and knowledge, analyse issues and evaluate case studies using a critical and empathetic lens.</p>
+
+<p align="Justify"> <b><i>CCE Lessons</i></b><br>These lessons provide the time and space for relationship building between teachers and students. Through in-depth discussions and effective facilitation, students get the opportunities to acquire skills and knowledge, analyse issues and evaluate case studies using a critical and empathetic lens.</p>
 
  
 
 Broadly, there are three ways CCE lesson time is used:
 
-|                         |                                                                                                                                                                                                                                                                                                                                                              |   |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| Explicit Teaching       | <div align="Justify">Focus on the holistic learning and developmental needs of students through explicit teaching of values and social and emotional skills, knowledge and competencies via platforms including Form Teacher Guidance Programme (FTGP), CCE (Mother Tongue) and Sexuality Education.</d>                                                                         |   |
-| Contextualised Learning | <div align="Justify">Emphasise the importance of understanding real world contexts and development through National Education, Cyber-Wellness Programme, and Education and Career Guidance. </div>                                                                                                                                                                                   |   |
-| Relating to the World   | <div align="Justify">Generate awareness about current realities by discussing contemporary issues related to national, regional and/or global contexts. Through platforms like National Education programmes and Values in Action, teachers facilitate discussion and critical thinking, and encourage student voices which help them to develop the 21CC related to citizenship.</div>  ||
+<table>
+<tbody>
+<tr>
+<td>Explicit Teaching</td>
+<td>
+<div align="Justify">Focus on the holistic learning and developmental needs of students through explicit teaching of values and social and emotional skills, knowledge and competencies via platforms including Form Teacher Guidance Programme (FTGP), CCE (Mother Tongue) and Sexuality Education.</div>
+</td>
+</tr>
+<tr>
+<td>Contextualised Learning</td>
+<td>
+<div align="Justify">Emphasise the importance of understanding real world contexts and development through National Education, Cyber-Wellness Programme, and Education and Career Guidance.</div>
+</td>
+</tr>
+<tr>
+<td>Relating to the World</td>
+<td>
+<div align="Justify">Generate awareness about current realities by discussing contemporary issues related to national, regional and/or global contexts. Through platforms like National Education programmes and Values in Action, teachers facilitate discussion and critical thinking, and encourage student voices which help them to develop the 21CC related to citizenship.</div>
+</td>
+</tr>
+</tbody>
+</table>
 
-#### Sense Making Through CCE Experiences
 
-<p align="Justify">Sense making is important for CCE learning to become meaningful for students. Through authentic learning opportunities both within and beyond school, students develop the habit of self-reflection and gratitude. CCE provides the skills and knowledge to help students make sense of their life experiences, and the language to express their learning and development.  </p>
+
+
+
+<p align="Justify"><b><i>Sense Making Through CCE Experiences</i></b><br>Sense making is important for CCE learning to become meaningful for students. Through authentic learning opportunities both within and beyond school, students develop the habit of self-reflection and gratitude. CCE provides the skills and knowledge to help students make sense of their life experiences, and the language to express their learning and development.</p>
+ 
+ We offer the following to all students:<br>
+•	Student Leadership Development (SLD) Programmes (provide hyperlink to Student Leadership Development subpage in Pioneer Enrichment)<br>
+•	National Education (NE) (provide hyperlink to NE subpage)<br>
+•	Values in Action (VIA) (provide hyperlink to VIA subpage in Pioneer Enrichment)<br>
+•	Internationalisation (provide hyperlink to Internationalisation subpage in Pioneer Enrichment)<br>
+•	House System (provide hyperlink to House System subpage in Pioneer Enrichment)
+
+ 
  
 We offer the following to all students:
 * Student Leadership Development (SLD) Programmes (provide hyperlink to Student Leadership Development subpage in Pioneer Enrichment)
