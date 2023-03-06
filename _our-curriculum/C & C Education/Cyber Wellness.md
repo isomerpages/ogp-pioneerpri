@@ -15,7 +15,7 @@ The four key messages for students are:
 * Harness the power of ICT for positive purposes
 * Maintain a positive presence in cyberspace
 * Be a safe and responsible user of ICT
-Lessons are delivered via Form Teacher Guidance Period (FTGP). 
+* Lessons are delivered via Form Teacher Guidance Period (FTGP). 
 
 #### The Cyber Wellness Framework
 
@@ -26,17 +26,17 @@ Lessons are delivered via Form Teacher Guidance Period (FTGP).
 
 #### Key Principles
 
-(1) Respect for Self and Others
+(1) Respect for Self and Others <br>
 Students need to:
 * <p align="Justify">uphold their own dignity when online (e.g. share appropriate content and participate in only legal online activities)</p>
 * <p align="Justify">respect other people online (e.g. put themselves in others’ shoes, accept diverse views and opinions, give credit when using other people’s work and seek permission where necessary, avoid sharing hurtful materials).</p>
 
-(2) Safe and Responsible Use
+(2) Safe and Responsible Use<br>
 Students need to:
-* <p align="Justify">have an understanding of the risks of harmful and illegal online behaviours, and take steps to protect themselves (e.g. keep their personal information private, verify the * reliability of information using various sources, take steps to avoid dangers they may encounter online).</p>
+* <p align="Justify">have an understanding of the risks of harmful and illegal online behaviours, and take steps to protect themselves (e.g. keep their personal information private, verify the the reliability of information using various sources, take steps to avoid dangers they may encounter online).</p>
 * <p align="Justify">make wise and healthy choices (e.g. maintain a healthy balance of their online and offline activities)</p>
 
-(3) Positive Peer Influence
+(3) Positive Peer Influence<br>
 Students need to:
 * <p align="Justify">be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society)</p>
 * <p align="Justify">advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)</p>
