@@ -171,14 +171,12 @@ description: ""
 
 <p align="Justify">At the end of the 6 years of primary education, students will acquire a set of basic ICT skills under the 21st Century Competencies on the Communication, Collaboration and Information domain:</p>
 
-<div align="Justify">
-	
 * Conduct internet searches and organise the digital information for ease of retrieval while recognising copyright regulations governing the use of digital information,
 * Verify the accuracy, credibility and currency of a piece of information,
 * Select and put together different media elements to construct a digital artefact, while making informed choices with regard to how to use information ethically,
 * Exchange digital information with others synchronously and asynchronously, while observing proper etiquette, and
 * Manage the digital footprint he/she makes when sharing information online.
-	</div>
+
 
 #### Media Resource Library
 
