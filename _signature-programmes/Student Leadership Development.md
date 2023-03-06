@@ -17,9 +17,9 @@ speech delivered at Character and Leadership Education Forum (28 May 2012)* </di
 
 #### Our Leadership Model
 
-<p align="Justify">We look to The Leadership Challenge (TLC) Model by Jim Kouzes and Barry Posner in planning school wide student leadership training.  The model comprises  The Five Practices of Exemplary Leadership :</p>
+<p align="Justify">We look to The Leadership Challenge (TLC) Model by Jim Kouzes and Barry Posner in planning school wide student leadership training.  The model comprises The Five Practices and Ten Commitments of Exemplary  Leadership :</p>
 
-|                         |                                                                                                   |
+|      The 5 Practices   |   The 10 Commitments          |
 |-------------------------|---------------------------------------------------------------------------------------------------|
 | Model the Way           | Clarify values by finding your voice and affirming shared values                                  |
 |                         | Set the example by aligning actions with shared values                                            |
