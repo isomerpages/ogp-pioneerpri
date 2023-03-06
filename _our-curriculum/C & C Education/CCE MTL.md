@@ -26,13 +26,13 @@ At the end of the CCE MTL programme, students would be able to:
 <tbody>
 <tr>
 <td style="background-color: #ccddff;">
-<p><strong>Core Values</strong></p>
+<strong>Core Values</strong>
 </td>
 <td style="background-color: #ffb3b3;">
-<p><strong>3 Big Ideas</strong></p>
+<strong>3 Big Ideas</strong>
 </td>
 <td style="background-color: #ffdf80;">
-<p><strong>Domains</strong></p>
+<strong>Domains</strong>
 </td>
 </tr>
 <tr>
