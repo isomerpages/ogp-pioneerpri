@@ -32,12 +32,20 @@ P5 and P6 -- Our Aspirations
 
 
 #### Useful Websites for Parents
+
 * [MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+
 * [MOE website on ECG](https://www.moe.gov.sg/page%20not%20found?item=%2fprogrammes%2feducation-and-career-guidance&user=extranet%5cAnonymous&site=moe-website)
+
 * [MOE Education Landscape (Interactive)](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2flandscape&user=extranet%5cAnonymous&site=moe-website)
+
 * [Direct School Admission (secondary)](https://www.moe.gov.sg/page%20not%20found?item=%2fadmissions%2fdirect-admissions%2fdsa-sec&user=extranet%5cAnonymous&site=moe-website)
+
 * ECG Resources (E-book Publications)
 	* [Journeying with Our Children, Achieving their Aspirations](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fecg-parent-guide&user=extranet%5cAnonymous&site=moe-website)
+
 	* [The Next Step Forward](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fnext-step-forward%2f&user=extranet%5cAnonymous&site=moe-website)
+
 	* [What’s Next (After PSLE)](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fwhats-next-after-psle%2f&user=extranet%5cAnonymous&site=moe-website)
+
 	* [Hand In Hand - Journeying Together](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fhand-in-hand%2f&user=extranet%5cAnonymous&site=moe-website)
