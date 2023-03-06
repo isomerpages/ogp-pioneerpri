@@ -65,35 +65,20 @@ Broadly, there are three ways CCE lesson time is used:
 &nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	[Internationalisation](/signature-programmes/internationalisation)<br>
 &nbsp; &nbsp; &#x2022; &nbsp; &nbsp;	[House System](/signature-programmes/house-system)
 
-[House System](/signature-programmes/house-system)
  
- 
-We offer the following to all students:
-* Student Leadership Development (SLD) Programmes (provide hyperlink to Student Leadership Development subpage in Pioneer Enrichment)
-* National Education (NE) (provide hyperlink to NE subpage)
-* Values in Action (VIA) (provide hyperlink to VIA subpage in Pioneer Enrichment)
-* Internationalisation (provide hyperlink to Internationalisation subpage in Pioneer Enrichment)
-* House System (provide hyperlink to House System subpage in Pioneer Enrichment)
 
 #### Providing a Caring and Enabling School Environment
 
 <p align="Justify">We place great emphasis on providing our students with a nurturing and caring school environment that promotes a growth mindset and sense of belonging. We intentionally create platforms to allow students to experience competence, exercise autonomy and build strong relationships with others, and feel psychologically and emotionally safe. Our programmes are designed with the following features to meet student needs:</p>
-<div align="Justify">
+
 
 * Consistent and Coherent Messaging – Eg. Morning/Level assemblies with School Values
 * Positive Teacher-Student Relationships – Eg. House System, CCA (provide hyperlink to CCA subpage in Pioneer Enrichment)
 * Peer Support and Relationships – Eg. CARE@Pioneer (provide hyperlink to CARE@Pioneer subpage in Pioneer Enrichment), PAL
 * Student Voice and Ownership – Eg. FT Periods, Circle Time
-</div>
-
-#### “Catch Me Doing Good”
-
-<p align="Justify">This is a platform for teachers to spot students doing the right thing in school. For every good behaviour and demonstration of positive learning disposition, students are given a stamp on a card. Rewards are then awarded to students according to stamps earned. Through this, we hope to encourage good behaviour, and help students see the link between their positive behaviour and outcomes.  We hope more of our students will model the way to influence and encourage others to be gracious and uphold our school values.</p>
 
 
-### Student of the Semester Award
 
-<p align="Justify">The Student of the Semester Award acknowledges and affirms students who exemplify the school values - R2ISE. These students model the way and/or demonstrate positive learning dispositions by exemplifying observable character traits in their daily practices. Form teachers will nominate the model student of his/her class at the end of each semester according to pre-determined selection criteria.</p>
 
 #### Our Programmes
 
@@ -107,16 +92,16 @@ We offer the following to all students:
 </thead>
 <tbody>
 <tr>
-<td>CCE Lessons<br />Education and Career Guidance<br />Cyber Wellness<br />Peer Supporters<br />CARE@Pioneer<br />National Education (NE Commemorative Events)</td>
-<td>Form teacher Guidance Period (FTGP)<br />Habits of Mind<br />Class Time<br />Sexuality Education (SEd) - P5 and P6<br />My Skills Future</td>
+<td>&nbsp; &#x2022; &nbsp;CCE Lessons<br />&nbsp; &#x2022; &nbsp;Education and Career Guidance<br />&nbsp; &#x2022; &nbsp;Cyber Wellness<br />&nbsp; &#x2022; &nbsp;Peer Supporters<br />&nbsp; &#x2022; &nbsp;CARE@Pioneer<br />&nbsp; &#x2022; &nbsp;National Education (NE Commemorative Events)</td>
+<td>&nbsp; &#x2022; &nbsp;Form teacher Guidance Period (FTGP)<br />&nbsp; &#x2022; &nbsp;Habits of Mind<br />&nbsp; &#x2022; &nbsp;Class Time<br />&nbsp; &#x2022; &nbsp;Sexuality Education (SEd) - P5 and P6<br />&nbsp; &#x2022; &nbsp;My Skills Future</td>
 </tr>
 <tr>
 <th style="text-align:center; background-color:#ddd">Customised</th>
 <th style="text-align:center; background-color:#ddd">Experiences</th>
 </tr>
 <tr>
-<td>Peer Supporters Training<br />Transition and Integration Programme for transfer-in students<br />Integration Programme for International Students</td>
-<td>National Education (NE) Commemorative Events<br />Learning Journeys<br />Values in Action (VIA)</td>
+<td>&nbsp; &#x2022; &nbsp;Peer Supporters Training<br />&nbsp; &#x2022; &nbsp;Transition and Integration Programme for transfer-in students<br />&nbsp; &#x2022; &nbsp;Integration Programme for International Students</td>
+<td>&nbsp; &#x2022; &nbsp;National Education (NE) Commemorative Events<br />&nbsp; &#x2022; &nbsp;Learning Journeys<br />&nbsp; &#x2022; &nbsp;Values in Action (VIA)</td>
 </tr>
 </tbody>
 </table>
