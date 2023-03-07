@@ -154,4 +154,4 @@ d. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cultivate a life-long enjoyment and involvement
 </tbody>
 </table>
 
-<img src="/images/OurCurriculum/pam18.jpg" style="width:50%"><img src="/images/OurCurriculum/pam19.jpg" style="width:50%">
+<img src="/images/OurCurriculum/pam18.jpg" style="width:45%"><img src="/images/OurCurriculum/pam19.jpg" style="width:45%">
