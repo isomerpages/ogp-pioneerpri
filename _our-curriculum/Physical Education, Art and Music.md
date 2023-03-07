@@ -45,7 +45,7 @@ We make use of movement as the primary medium to reach and teach the whole child
 <p><strong>SEP Enrichment Programme</strong></p>
 <p align="justify">To support the sporting culture in Singapore, students are exposed to an array of sports which is in addition to those covered in the PE syllabus. Through sports participation, students are imbued with values/attitudes of resilience, responsibility (teamwork) and integrity (fair play).  The school introduced Kinball to P3, Tchoukball to P4, Handball to P5 and Archery to P6.</p>
 </td>
-<td width="40%">&nbsp;</td>
+<td width="40%"><img src="/images/OurCurriculum/pam03.jpg"></td>
 </tr></tbody></table>
 
 <br>
