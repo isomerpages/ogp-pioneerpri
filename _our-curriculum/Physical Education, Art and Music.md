@@ -64,7 +64,7 @@ We make use of movement as the primary medium to reach and teach the whole child
 <p><strong>P5 Outdoor Adventure Camp</strong></p>
 <p align="justify">The annual P5 Campis a highly popular and iconic event unique to the level, with students always looking forward to participate.  In addition to collaborative and team building skills, students will get to apply outdoor education skills learnt in PE in an authentic outdoor setting that involves trekking, navigating different terrains and many other awesome learning experiences.</p>
 </td>
-<td width="40%"><img src="/images/OurCurriculum/pam08.jpg" style="width:80%"><img src="/images/OurCurriculum/pam09.jpg" style="width:80%"><img src="/images/OurCurriculum/pam10.jpg" style="width:80%"><img src="/images/OurCurriculum/pam11.jpg" style="width:80%"></td>
+<td width="40%"><img src="/images/OurCurriculum/pam08.jpg" style="width:50%"><img src="/images/OurCurriculum/pam09.jpg" style="width:50%"><img src="/images/OurCurriculum/pam10.jpg" style="width:50%"><img src="/images/OurCurriculum/pam11.jpg" style="width:50%"></td>
 </tr></tbody></table>
 
 
