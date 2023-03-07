@@ -51,7 +51,7 @@ We make use of movement as the primary medium to reach and teach the whole child
 <br>
 
 <table width="100%"><tbody>
-<tr><td width="40%"><img src="/images/OurCurriculum/pam04.jpg"><img src="/images/OurCurriculum/pam05.jpg"><img src="/images/OurCurriculum/pam06.jpg"><img src="/images/OurCurriculum/pam07.jpg">
+<tr><td width="40%"><img src="/images/OurCurriculum/pam04.jpg" style="width:80%"><img src="/images/OurCurriculum/pam05.jpg" style="width:80%"><img src="/images/OurCurriculum/pam06.jpg" style="width:80%"><img src="/images/OurCurriculum/pam07.jpg" style="width:80%">
 </td>
 <td width="60%"><p><strong>Pioneer Sports Carnival!</strong></p>
 <p align="justify">Nothing beats learning through play!  Pioneer Sports Carnival! is the iconic annual sports event in the school where students indulge in exciting games and sports activities, applying skills learnt during PE lessons in a social yet competitive setting.  Students bond with not only their classmates, but also with their school mates as they come together in the 4 Houses, Austen (Purple), Curie (Yellow), Edison (Orange) and Mozart (Red).  Through the power of play, students will engage in different types of challenging activities that are designed to build their mental and emotional strength as they navigate an elaborate and imaginative world within a system of rules that govern the terms of play. </p></td>
