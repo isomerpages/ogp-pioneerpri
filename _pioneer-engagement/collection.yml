@@ -2,7 +2,6 @@ collections:
   pioneer-engagement:
     output: true
     order:
-      - Commemorative Events.md
       - General Information/.keep
       - General Information/School Information.md
       - General Information/School Services.md
@@ -10,6 +9,7 @@ collections:
       - Privacy Policy.md
       - Counselling Services.md
       - Useful Links.md
-      - Communication/Letters and Notifications.md
       - Communication/.keep
+      - Communication/Letters and Notifications.md
       - Pioneer Gallery/.keep
+      - Commemorative Events.md
