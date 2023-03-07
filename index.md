@@ -28,7 +28,7 @@ sections:
       button: Read more
       alt: principal desk
   - infopic:
-      title: WE STories 2023
+      title: WE STories 2022
       subtitle: A collection of stories
       description: Every secondary school has a fascinating story to share. May you be
         delighted...
