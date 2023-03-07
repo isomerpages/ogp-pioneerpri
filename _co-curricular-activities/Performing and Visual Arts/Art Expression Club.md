@@ -12,5 +12,3 @@ third_nav_title: Performing and Visual Arts
 </td>
 <td style="width:57%" ><img src="/images/OurCurriculum/cca10.jpg" style="width:100%"></td>
 </tr></tbody></table>
-
-![](/images/art%20expression%202.jpg)
