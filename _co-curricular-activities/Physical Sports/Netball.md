@@ -10,5 +10,5 @@ third_nav_title: Physical Sports
 <table width="100%"><tbody>
 <tr><td><img src="/images/OurCurriculum/cca05.jpg" style="width:100%">
 </td>
-<td ><img src="/images/OurCurriculum/cca06.jpg" style="width:70%"></td>
+<td ><img src="/images/OurCurriculum/cca06-1.jpg" style="width:70%"></td>
 </tr></tbody></table>
