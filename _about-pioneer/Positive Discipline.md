@@ -79,13 +79,14 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 ### ICT ACCEPTABLE USE GUIDELINES
 
 Students must always exercise integrity and responsibility in the use of technology:
-<div style="text-align:Justify">
+
+
 
 * Take care of school-owned ICT facilities, equipment and resources for the purpose of learning
 * Be responsible for the security of their account IDs and passwords, and must not share them with others
 * Always be courteous and respectful in all online interactions
 * Must not post or share any indecent, defamatory material/message that offends and causes distress to other people.
-* Must not access, download, copy or share any copyrighted materials (such as pictures, videos, music) without explicit permission from the owner</div>
+* Must not access, download, copy or share any copyrighted materials (such as pictures, videos, music) without explicit permission from the owner
 
 ### USAGE OF MEDIA RESOURCES
 <P align="Justify">School often captures good moments of student learning during events and activities. Photographs and video images (including live streaming) of students and their parents/guardians may be captured during school activities and events such as classroom lessons, CCA, school camps or concerts. The school may use these, including identifiable data such as name tags class in photos or videos in school publications, websites, social media channels and other communication channels. If for any reason you are not comfortable with the school’s use of the materials, please notify the school in writing if you do not wish to grant such permission.</P>
