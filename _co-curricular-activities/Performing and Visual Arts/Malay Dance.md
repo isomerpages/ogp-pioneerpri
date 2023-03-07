@@ -7,5 +7,8 @@ third_nav_title: Performing and Visual Arts
 # Malay Dance
 <p align="Justify">Students learn the art and appreciate the culture.  Through perseverance and dedication, students showcase the graceful dance moves, donned in vibrant Malay Dance costumes.</p>
 
-![](/images/Malay%20Dance%20for%20CCA%20Promotion.jpg)
-![](/images/Flash%20Potrait%2049.jpg)
+<table width="100%"><tbody>
+<tr><td style="width:43%"><img src="/images/OurCurriculum/cca19.jpg" style="width:100%">
+</td>
+<td style="width:57%"><img src="/images/OurCurriculum/cca20.jpg" style="width:100%"></td>
+</tr></tbody></table>
