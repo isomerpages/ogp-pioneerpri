@@ -84,13 +84,13 @@ We make use of movement as the primary medium to reach and teach the whole child
 <p align="justify"><strong>Copper Tooling</strong>
 <br>As part of the 3D Art experiential programme, all P4 students get to create a copper tooling based on a design or image of their own.  They learn the intricate techniques of designing metal sheets by emboss-drawing, stamping and much more. </p>
 </td>
-<td width="40%">&nbsp;</td>
+<td width="40%"><img src="/images/OurCurriculum/pam12.jpg" style="width:80%"><img src="/images/OurCurriculum/pam13.jpg" style="width:80%"></td>
 </tr></tbody></table>
 
 <br>
 
 <table width="100%"><tbody>
-<tr><td width="40%">
+<tr><td width="40%"><img src="/images/OurCurriculum/pam14.jpg" style="width:100%"><img src="/images/OurCurriculum/pam15.jpg" style="width:100%">
 </td>
 <td width="60%"><p align="justify"><strong>A Day @ the Museum</strong><br>
 Learning journeys to local art museums are organised for all P4 students as part of the Art Education syllabus aimed at making learning more authentic and creating greater awareness of Singapore artists. They also obtain inquiry, observation and interpretation skills in art besides learning about the museum etiquette and careers in museum.</p></td>
@@ -105,7 +105,7 @@ An exposure programme that enables P5 students to experience higher exposure and
 <p align="justify"><strong>Acrylic Painting</strong><br>
 An exposure programme that enables P5 students to experience higher exposure and practices of acrylic painting.  They learn and get to work on their own acrylic painting, a modern medium that is very popular nowadays. Though it involves a lot of work, the painting process provides a memorable experience for both students and teachers. </p>
 </td>
-<td width="40%"></td>
+<td width="40%"><img src="/images/OurCurriculum/pam16.jpg" style="width:80%"><img src="/images/OurCurriculum/pam17.jpg" style="width:80%"></td>
 	
 </tr></tbody></table>
 
@@ -153,3 +153,5 @@ d. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cultivate a life-long enjoyment and involvement
 </tr>
 </tbody>
 </table>
+
+<img src="/images/OurCurriculum/pam18.jpg" style="width:50%"><img src="/images/OurCurriculum/pam19.jpg" style="width:50%">
