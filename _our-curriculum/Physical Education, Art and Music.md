@@ -3,8 +3,6 @@ title: Physical Education, Art and Music
 permalink: /our-curriculum/physical-education-art-and-music/
 description: ""
 ---
-
-
 # Physical Education, Art and Music
 
 <P align="justify">Physical Education, Art and Music (PAM) aim to develop students holistically across all domains - Moral, Cognitive, Physical, Social and Aesthetics.  PAM education in Pioneer aims to enable our students to develop physical well-being and enhance their creative and expressive capabilities.</P>
@@ -29,13 +27,12 @@ We make use of movement as the primary medium to reach and teach the whole child
 <p><strong>Health &amp; Fitness Week</strong></p>
 <p align="justify">A school-wide programme that encourages students to maintain their fitness through healthy eating tips, aniti-drug campaign and participating in physical activities.</p>
 </td>
-<td width="40%">&nbsp;</td>
+<td width="40%"><img src="/images/ict1.png"></td>
 </tr></tbody></table>
 
 <br>
-
 <table width="100%"><tbody>
-<tr><td width="40%">
+<tr><td width="40%"><img src="/images/OurCurriculum/pam02.jpg">
 </td>
 <td width="60%"><p><strong>SwimSafer Programme</strong></p>
 <p align="justify">A P5 engagement programme that develops students in water confidence and survival skills.</p></td>
