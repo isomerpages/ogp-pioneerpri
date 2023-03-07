@@ -28,11 +28,6 @@ description: ""
 <p align="Justify">Other than teachers, it is key that students are equipped with relationship management skills to effectively handle peer relationships. Such skills are explicitly taught during FTGP lessons and further reinforced through application during CCA training, House activities and other student programmes. Students who possess essential traits and leadership qualities are given opportunities to take up the role of Peer Support Leaders.</p>
 
 #### Our Key Programmes
-**Back-to-School Programme**
-
-<p align="Justify">At the start of every new year, students can look forward to new discoveries, new friendships and exciting learning opportunities under the nurturing and caring watch of dedicated teachers.</p>
-
-<p align="Justify">Our Back-to-School (BTS) Programme is conducted at the start of every new school year where students are engaged in meaningful activities that help to ease them back into the school routines. It also serves as a platform to develop a positive classroom climate by focusing on fostering positive teacher-student and peer-to-peer relationships. Teachers and students build relationships by engaging in fun activities and learning together.</p>
 
 **Many Helping Hands**
 
