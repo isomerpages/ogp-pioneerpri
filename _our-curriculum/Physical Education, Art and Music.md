@@ -27,7 +27,7 @@ We make use of movement as the primary medium to reach and teach the whole child
 <p><strong>Health &amp; Fitness Week</strong></p>
 <p align="justify">A school-wide programme that encourages students to maintain their fitness through healthy eating tips, aniti-drug campaign and participating in physical activities.</p>
 </td>
-<td width="40%"><img src="/images/ict1.png"></td>
+<td width="40%"><img src="/images/OurCurriculum/pam01.jpg"></td>
 </tr></tbody></table>
 
 <br>
