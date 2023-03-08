@@ -19,7 +19,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="background-color: #bbbbbb; text-align: center;width: 40%;"><strong>Category <br>(Click on each category <br>to view the CCAs information)</strong></td>
+<td style="background-color: #bbbbbb; text-align: center;width: 40%;"><strong>Category <br></strong></td>
 <td style="background-color: #bbbbbb; text-align: center;  vertical-align: middle;"><strong>CCAs</strong></td>
 </tr>
 <tr>
@@ -40,7 +40,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-
-
-
-
