@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Stay Connected
-          description: Visit our FB & IG for updates
-          url: https://www.facebook.com/pioneerprisch
+        - title: Commemorative Events
+          description: Check it out
+          url: /pioneer-engagement/commemorative-events/commemorative-events/
         - title: Form Teachers 2023
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
