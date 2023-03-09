@@ -20,9 +20,11 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 
 ### 1. School Hours
 
-|        Day       |        Time       |   |
+|   |                                                        |   |
 |:----------------:|:-----------------:|---|
+| Day |Time|   |
 | Monday to Friday | 7.30 am - 1.30 pm |   |
+|   |                                                        |   |
 
 * Students are to report to classrooms/assembly ground by 7.25 am. Flag raising will start punctually at 7.30 am.
 
@@ -36,9 +38,14 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 
 **School Uniform**
 
-![](/images/Uniform%20Boy%20Front%201.jpg)
-![](/images/uniform%20student_arrow.jpg)
-
+<table>
+<tbody>
+<tr>
+<td><img src="/images/Uniform Boy Front 1_2.jpg" style="width:255px"></td>
+<td><img src="/images/uniform student_arrow.jpg" style="width:270px"></td>
+</tr>
+</tbody>
+</table>
 
 * School polo tee must be tucked
 
@@ -49,8 +56,14 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 
 **PE/House T-shirt**
 
-![](/images/PE%20Boy%20A%20Front%201.jpg)
-![](/images/PE%20Girl%20A%20Front%201.jpg)
+<table>
+<tbody>
+<tr>
+<td><img src="/images/PE Boy A Front 1.jpg" style="width:270px"></td>
+<td><img src="/images/PE Girl A Front 1.jpg" style="width:270px"></td>
+</tr>
+</tbody>
+</table>
 
 * PE/House T-shirt must be tucked
 
@@ -61,11 +74,13 @@ All Pioneer students are expected to be responsible, exercise good self-discipli
 
 * Black shoes
 
-Students must familiarise themselves with the [Pioneer School Rules](/files/School%20Rules.pdf), and reflect on how they can become self-disciplined individuals who model the way to inspire self and others to act responsibly and respectfully.
+<P align="Justify">Students must familiarise themselves with the <a href="/files/School Rules.pdf">[Pioneer School Rules]</a>, and reflect on how they can become self-disciplined individuals who model the way to inspire self and others to act responsibly and respectfully.</P>
 
 ### ICT ACCEPTABLE USE GUIDELINES
 
 Students must always exercise integrity and responsibility in the use of technology:
+
+
 
 * Take care of school-owned ICT facilities, equipment and resources for the purpose of learning
 * Be responsible for the security of their account IDs and passwords, and must not share them with others
@@ -74,4 +89,4 @@ Students must always exercise integrity and responsibility in the use of technol
 * Must not access, download, copy or share any copyrighted materials (such as pictures, videos, music) without explicit permission from the owner
 
 ### USAGE OF MEDIA RESOURCES
-School often captures good moments of student learning during events and activities. Photographs and video images (including live streaming) of students and their parents/guardians may be captured during school activities and events such as classroom lessons, CCA, school camps or concerts. The school may use these, including identifiable data such as name tags class in photos or videos in school publications, websites, social media channels and other communication channels. If for any reason you are not comfortable with the school’s use of the materials, please notify the school in writing if you do not wish to grant such permission.
+<P align="Justify">School often captures good moments of student learning during events and activities. Photographs and video images (including live streaming) of students and their parents/guardians may be captured during school activities and events such as classroom lessons, CCA, school camps or concerts. The school may use these, including identifiable data such as name tags class in photos or videos in school publications, websites, social media channels and other communication channels. If for any reason you are not comfortable with the school’s use of the materials, please notify the school in writing if you do not wish to grant such permission.</P>

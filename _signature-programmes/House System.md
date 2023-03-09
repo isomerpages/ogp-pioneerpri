@@ -5,7 +5,7 @@ description: ""
 ---
 # House System
 
-The House System aims to promote student and staff engagement, and create a sense of belonging to the school through a wide range of activities.  
+<p align="Justify">The House System aims to promote student and staff engagement, and create a sense of belonging to the school through a wide range of activities.  </p>
 
 ![](/images/House%20System.jpg)
 
@@ -16,6 +16,6 @@ The House System aims to promote student and staff engagement, and create a sens
 * Strengthen student-teacher relationships and peer relationships
 * Foster a sense of pride and affiliation to the school 
 
-All students and teachers are allocated to one of the four Houses, namely Austen, Curie, Edison and Mozart where they will belong throughout their years in Pioneer. Each House will be led by a House Master/Mistress and Assistant House Master/Mistress. Students are appointed as House Captains and Assistant House Captains to lead their fellow members in various events/activities such as Sports Carnival and VIA Projects. House points are awarded for members’ efforts and achievements. The House that accrues the most points will be the ‘Champion House’ for the year. 
+<p align="Justify">All students and teachers are allocated to one of the four Houses, namely Austen, Curie, Edison and Mozart where they will belong throughout their years in Pioneer. Each House will be led by a House Master/Mistress and Assistant House Master/Mistress. Students are appointed as House Captains and Assistant House Captains to lead their fellow members in various events/activities such as Sports Carnival and VIA Projects. House points are awarded for members’ efforts and achievements. The House that accrues the most points will be the ‘Champion House’ for the year. </p>
 
 ![](/images/Houseboard_page-0001.jpg)

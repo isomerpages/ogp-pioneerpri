@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Stay Connected
-          description: Visit our FB & IG for updates
-          url: https://www.facebook.com/pioneerprisch
+        - title: Commemorative Events
+          description: Check it out
+          url: /pioneer-engagement/commemorative-events/commemorative-events/
         - title: Form Teachers 2023
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
@@ -27,4 +27,13 @@ sections:
         wish one and all a Happy New Year! ...
       button: Read more
       alt: principal desk
+  - infopic:
+      title: WE STories 2022
+      subtitle: A collection of stories
+      description: Every secondary school has a fascinating story to share. May you be
+        delighted...
+      button: Read more
+      url: https://online.fliphtml5.com/obrr/qkde
+      image: /images/InfoPic Thumb/WESTories Isomer Thumb.png
+      alt: Image alt text
 ---

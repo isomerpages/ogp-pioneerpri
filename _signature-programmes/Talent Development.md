@@ -5,60 +5,68 @@ description: ""
 ---
 # Talent Development
 
-We believe that every child is uniquely different and potentially a talent in some specific area/s.  They have the potential to grow and shine, and possess aspirations to achieve their goals and dreams. In Pioneer, we make every effort to identify and understand their needs and interests, and make provisions to nurture their specific talent/s.
+<p align="Justify">We believe that every child is uniquely different and potentially a talent in some specific area/s. They have the potential to grow and shine, and possess aspirations to achieve their goals and dreams. In Pioneer, we make every effort to identify and understand their needs and interests, and make provisions to nurture their specific talent/s.</p>
 
-**PioneerSHINE** is a Talent Development Programme (TDP) designed to help students develop their potential to the fullest. To do so, we adopt a two-pronged approach:
-1. Guide and mentor students in their learning journey of discovery, understand, pursue and stretch their interests and strengths, and
-2. Inculcate essential foundational skills to be a passionate learner, confident communicator and critical thinker who are rooted in values.
+<p align="Justify">Our Talent Development Programme (TDP) follows Dr. Treffinger's Levels of Service (LoS) approach and is designed to help students develop their potential to the fullest. To do so, we adopt a two-pronged approach:</p>
 
-**PioneerSHINE** programme follows Dr. Treffinger's Levels of Service (LoS) approach. Customised and differentiated programmes are offered to students at 4 tiers, ranging from programmes for the whole school population to targeted programmes that cater to the specific needs of different students. 
+<ol>
+<li>Guide and mentor students in their learning journey of discovery, understand, pursue and stretch their interests and strengths, and</li>
+<li>Inculcate essential foundational skills to be a passionate learner, confident communicator and critical thinker who are rooted in values.</li>
+</ol>
+
+<p align="Justify">Customised and differentiated programmes are offered to students at 4 tiers, ranging from programmes for the whole school population to targeted programmes that cater to the specific needs of different students.</p>
 
 ![](/images/PPS2021%20Photoshoot%2020%20of%2031.jpg)
 
-#### PPS SHINE 4-tier Programme
+#### PPS Talent Development 4-tier Programme
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dgl5">Level of Services</th>
-    <th class="tg-dgl5">PPS Programmes</th>
-    <th class="tg-0lax"></th>
-  </tr>
-</thead>
+
+<table>
 <tbody>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">LoS 1: “Discovering &amp; Building” </span><br><br></td>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">PPS ensures quality teaching and learning in every classroom. </span><br><br><span style="background-color:initial">General academic curriculum </span><br><span style="background-color:initial">P1 - P6 Applied Learning Programme </span><br><span style="background-color:initial">P1 - P6 Musical Exploration </span><br></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">LoS 2: “Curious &amp; Exploring”</span><br><br><br></td>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">PPS helps students explore and discover their strengths and talents through participation in activities of interest.</span><br><br><span style="background-color:initial">School activities and competitions  </span><br></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">LoS 3: “Enthusiastic &amp; Performing”</span><br><br></td>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">PPS offers students with aptitude opportunities to extend and deepen their involvement and learning in specific talent areas. </span><br><br><span style="background-color:initial">Literature (English) Appreciation Programme (LEAP)</span><br><span style="background-color:initial">Math E2K</span><br><span style="background-color:initial">Math Olympiad</span><br><span style="background-color:initial">Science E2K</span><br><span style="background-color:initial">Dance Ambassadors Programme</span><br><span style="background-color:initial">Community Problem Solving (CmPS) Programme</span><br><br><br><br><br></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">LoS 4: “Passionate &amp; Soaring”</span></td>
-    <td class="tg-ktyi"><span style="font-weight:300;color:#000">PPS provides high-level learning opportunities beyond the core academic content areas to students with interest and aptitude and opportunities to participate in external programmes and competitions.</span><br><br><span style="font-weight:300;color:#000">P4 – P6 PPS SOAR Programme </span><br><br><span style="background-color:initial">Interdisciplinary Peer Mentoring </span><br><span style="background-color:initial">Magazine Journalism Programme</span><br><span style="background-color:initial">Broadcast Journalism Programme</span></td>
-    <td class="tg-0lax"></td>
-  </tr>
+<tr>
+<td style="background-color: #dddddd; width: 30%;">
+<p><strong>Level of Services</strong></p>
+</td>
+<td style="background-color: #dddddd; width: 70%;">
+<p><strong>PPS Programmes</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>LoS 1: &ldquo;Discovering &amp; Building&rdquo;</strong></p>
+</td>
+<td>
+<div align="Justify">PPS ensures quality teaching and learning in every classroom.&nbsp;<br /><br />&middot; General academic curriculum&nbsp;<br />&middot; P1 - P6 Applied Learning Programme&nbsp;(ALP)<br />&middot; P1 - P6 Learning for Life Programme&nbsp;(LLP)<br /><br /><em>(Do refer to Signature Programmes tab for more information)</em></div>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>LoS 2: &ldquo;Curious &amp; Exploring&rdquo;</strong></p>
+</td>
+<td>
+<div align="Justify">PPS helps students explore and discover their strengths and talents through participation in activities of interest.<br /><br />Pioneer Talent Showcase<br />&middot; We can Dance competition<br />&middot; Go with the Beat competition<br />&middot; Art Fiesta<br /><br />Pioneer Talent Showcase provides opportunities for our students to discover their interest, nurture their abilities and showcase their talents in various art forms. Through this platform, the school offers Art, Dance and Music activities which students can choose to participate based on their interest.</div>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>LoS 3: &ldquo;Enthusiastic &amp; Performing&rdquo;</strong></p>
+</td>
+<td>
+<div align="Justify">PPS offers students with aptitude opportunities to extend and deepen their involvement and learning in specific talent areas.&nbsp;<br /><br />&middot; Literature (English) Appreciation Programme (LEAP)<br />&middot; Math E2K<br />&middot; Math Olympiad<br />&middot; Science E2K<br />&middot; LLP Dance Ambassadors Programme<br /><br /><em>(Do refer to Our Curriculum tab for more information)</em></div>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>LoS 4: &ldquo;Passionate &amp; Soaring&rdquo;</strong></p>
+</td>
+<td>
+<div align="Justify">PPS provides high-level learning opportunities beyond the core academic content areas to students with interest and aptitude.<br /><br />P4 &ndash; P6 PPS SOAR (Internal) Programmes<br />&middot; Magazine Journalism Programme<br />&middot; PPS Live Broadcast Journalism Programme<br />&middot; Math around Us Programme<br />&middot; Pioneer Science Buskers Programme<br />&middot; Peer Mentoring&nbsp;<br /><br />P4 &ndash; P6 PPS SOAR (External) Programmes<br />&middot; Confidence in Communication workshops<br />&middot; GEP Creative Writing Programme (CWP)<br />&middot; NUS Primary Mathematics Project Competition (PMPC)<br />&middot; Science Centre Science Buskers<br /><br />PPS SOAR Programme aims to engage students with interest and aptitude in programmes and projects that will develop their potential to the fullest and allow them to build their learning portfolio. Under the guidance of our teacher mentors, students hone the skills needed to be confident learners, effective communicators and critical thinkers</div>
+</td>
+</tr>
 </tbody>
 </table>
 
-Our programmes are created with the High Support: High Challenge approach (Mariani, 1997) in mind. The school provides strong teacher support and a curriculum that challenges the students. 21CC skills are purposefully infused in the lessons and opportunities are created to contribute to the school and community. The result of this is a platform where students are highly engaged and motivated. Students practise critical thinking and communication skills vital in 21st Century, nurture a sense of empathy and commitment and take strides forward in their learning. 
 
-Through this journey, we hope that every Pioneer student will shine in their own way and at the same time, illuminate the path of others.
+<p align="Justify">Our programmes are created with the High Support: High Challenge approach (Mariani, 1997) in mind. The school provides strong teacher support and a curriculum that challenges the students. 21CC skills are purposefully infused in the lessons and opportunities are created to contribute to the school and community. The result of this is a platform where students are highly engaged and motivated. Students practise critical thinking and communication skills vital in 21st Century, nurture a sense of empathy and commitment and take strides forward in their learning. </p>
+
+<p align="Justify">Through this journey, we hope that every Pioneer student will shine in their own way and at the same time, illuminate the path of others.</p>

@@ -54,6 +54,6 @@ staging: https://ogp-pioneerpri-staging.netlify.app
 prod: https://ogp-pioneerpri-prod.netlify.app
 shareicon: /images/isomer-logo.svg
 is_government: false
-facebook-pixel: ""
-google_analytics: G-TRMPRPWMN7
-linkedin-insights: G-HFGJN304K4
+facebook-pixel: "524407336508608"
+google_analytics: UA-257189381-1
+linkedin-insights: ""

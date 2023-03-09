@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - From the Principal’s Desk.md
-      - School information.md
+      - School Information.md
       - School Crest.md
       - School Anthem.md
       - School Song.md
@@ -16,5 +16,4 @@ collections:
       - Our Pride & Joy/.keep
       - Our Pride & Joy/The Pioneer Stories.md
       - Our Pride & Joy/Staff Accolades.md
-      - Our Pride & Joy/Student Achievements.md
       - Positive Discipline.md
