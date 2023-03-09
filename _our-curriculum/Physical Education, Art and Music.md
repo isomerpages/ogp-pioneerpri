@@ -102,7 +102,7 @@ Learning journeys to local art museums are organised for all P4 students as part
 <tr><td width="60%">
 <p align="justify"><strong>Acrylic Painting</strong><br>
 An exposure programme that enables P5 students to experience higher exposure and practices of acrylic painting.  They learn and get to work on their own acrylic painting, a modern medium that is very popular nowadays. Though it involves a lot of work, the painting process provides a memorable experience for both students and teachers. </p><br>
-<p align="justify"><strong>Silk sScreen Printing</strong><br>
+<p align="justify"><strong>Silk Screen Printing</strong><br>
 Venture into the world of printing! And not just any printing but an industrial way of printing on fabric. P6 students get to enjoy making designs and blocks for printing on cloths using fabric dyes. Design a print on a handkerchief or a T shirt and wear them proudly! Learn the tricks and trade of fabric printing.</p>
 </td>
 <td width="40%"><img src="/images/OurCurriculum/pam16.jpg" style="width:80%"><img src="/images/OurCurriculum/pam17.jpg" style="width:80%"></td>
