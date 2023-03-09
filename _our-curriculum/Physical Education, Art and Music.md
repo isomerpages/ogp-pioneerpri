@@ -105,7 +105,7 @@ An exposure programme that enables P5 students to experience higher exposure and
 <p align="justify"><strong>Silk Screen Printing</strong><br>
 Venture into the world of printing! And not just any printing but an industrial way of printing on fabric. P6 students get to enjoy making designs and blocks for printing on cloths using fabric dyes. Design a print on a handkerchief or a T shirt and wear them proudly! Learn the tricks and trade of fabric printing.</p>
 </td>
-<td width="40%"><img src="/images/OurCurriculum/pam16.jpg" style="width:80%"><img src="/images/OurCurriculum/pam17.jpg" style="width:80%"></td>
+<td width="40%"><img src="/images/OurCurriculum/pam16.jpg" style="width:80%"><br><br><img src="/images/OurCurriculum/pam17.jpg" style="width:80%"></td>
 	
 </tr></tbody></table>
 
