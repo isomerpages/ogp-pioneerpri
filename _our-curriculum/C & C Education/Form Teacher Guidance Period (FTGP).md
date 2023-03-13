@@ -1,6 +1,6 @@
 ---
 title: Form Teacher Guidance Period (FTGP)
-permalink: /our-curriculum/Character-and-Citizenship-Edu/form-teacher-guidance-period-ftgp/
+permalink: /our-curriculum/character-and-citizenship-edu/form-teacher-guidance-period-ftgp/
 description: ""
 third_nav_title: C & C Education
 ---

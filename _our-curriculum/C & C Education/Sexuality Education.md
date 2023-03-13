@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /our-curriculum/Character-and-Citizenship-Edu/sexuality-education/
+permalink: /our-curriculum/character-and-citizenship-edu/sexuality-education/
 description: ""
 third_nav_title: C & C Education
 ---

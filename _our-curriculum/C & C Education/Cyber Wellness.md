@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness
-permalink: /our-curriculum/Character-and-Citizenship-Edu/cyber-wellness/
+permalink: /our-curriculum/character-and-citizenship-edu/cyber-wellness/
 description: ""
 third_nav_title: C & C Education
 ---

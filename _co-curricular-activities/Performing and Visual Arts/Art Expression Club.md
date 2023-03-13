@@ -1,6 +1,6 @@
 ---
 title: Art Expression Club
-permalink: /signature-programmes/co-curriculum-activities/Performing-and-Visual-Arts/visual-and-art-expression/
+permalink: /signature-programmes/co-curriculum-activities/performing-and-visual-arts/visual-and-art-expression/
 description: ""
 third_nav_title: Performing and Visual Arts
 ---

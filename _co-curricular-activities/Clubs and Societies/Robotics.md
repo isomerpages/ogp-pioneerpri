@@ -1,6 +1,6 @@
 ---
 title: Robotics
-permalink: /signature-programmes/co-curriculum-activities/Clubs-and-Societies/robotics/
+permalink: /signature-programmes/co-curriculum-activities/clubs-and-societies/robotics/
 description: ""
 third_nav_title: Clubs and Societies
 ---

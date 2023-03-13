@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /signature-programmes/co-curriculum-activities/Physical-Sports/netball/
+permalink: /signature-programmes/co-curriculum-activities/physical-sports/netball/
 description: ""
 third_nav_title: Physical Sports
 ---

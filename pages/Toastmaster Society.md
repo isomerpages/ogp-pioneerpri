@@ -1,6 +1,6 @@
 ---
 title: Toastmaster Society
-permalink: /signature-programmes/co-curriculum-activities/Clubs-and-Societies/toastmaster-society/
+permalink: /signature-programmes/co-curriculum-activities/clubs-and-societies/toastmaster-society/
 description: ""
 ---
 

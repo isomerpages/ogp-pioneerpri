@@ -1,6 +1,6 @@
 ---
 title: Boys' Brigade
-permalink: /signature-programmes/co-curriculum-activities/Uniformed-Groups/boys-brigade/
+permalink: /signature-programmes/co-curriculum-activities/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---

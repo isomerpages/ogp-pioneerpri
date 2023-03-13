@@ -1,6 +1,6 @@
 ---
 title: Cub Scouts
-permalink: /signature-programmes/co-curriculum-activities/Uniformed-Groups/cub-scouts/
+permalink: /signature-programmes/co-curriculum-activities/uniformed-groups/cub-scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---

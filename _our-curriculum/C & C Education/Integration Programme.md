@@ -1,6 +1,6 @@
 ---
 title: Integration Programme
-permalink: /our-curriculum/Character-and-Citizenship-Edu/integration-programme/
+permalink: /our-curriculum/character-and-citizenship-edu/integration-programme/
 description: ""
 third_nav_title: C & C Education
 ---

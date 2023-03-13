@@ -1,6 +1,6 @@
 ---
 title: Indian Dance
-permalink: /signature-programmes/co-curriculum-activities/Performing-and-Visual-Arts/indian-dance/
+permalink: /signature-programmes/co-curriculum-activities/performing-and-visual-arts/indian-dance/
 description: ""
 third_nav_title: Performing and Visual Arts
 ---

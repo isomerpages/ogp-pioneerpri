@@ -1,6 +1,6 @@
 ---
 title: Commemorative Events
-permalink: /pioneer-engagement/Commemorative-Events/commemorative-events/
+permalink: /pioneer-engagement/commemorative-events/commemorative-events/
 description: ""
 ---
 

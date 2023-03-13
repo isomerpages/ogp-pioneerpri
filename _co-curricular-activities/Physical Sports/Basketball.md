@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /signature-programmes/co-curriculum-activities/Physical-Sports/basketball/
+permalink: /signature-programmes/co-curriculum-activities/physical-sports/basketball/
 description: ""
 third_nav_title: Physical Sports
 ---
