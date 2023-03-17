@@ -3,7 +3,6 @@ title: Parent Support Group (PSG)
 permalink: /our-community/psg/
 description: ""
 ---
-
 # Parent Support Group (PSG)
 
 <p align="Justify">Pioneer Primary School (PPS) believes the importance of a strong partnership with parents in enhancing the development and learning of our students. Recognising this, the Parents Support Group was set up to promote friendship and mutual support between the parents and the school. The Parents Support Group is a voluntary association of Pioneers’ parents. Together with PSG, our key partner, we can achieve our school mission of nurturing students to be lifelong learners, leaders in their own rights, anchored in sound values through a holistic education.</p>
@@ -34,4 +33,4 @@ description: ""
 * Parenting talks or workshops for parents
 * Networking amongst parents and sharing of experiences in parenting
 
-[Click here](https://tinyurl.com/PIONEERPSG) to be part of our Pioneer family.
+[Click here](https://forms.gle/ddua2FLbjRvkr62DA) to be part of our Pioneer family.

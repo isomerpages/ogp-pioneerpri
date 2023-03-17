@@ -1,6 +1,6 @@
 ---
 title: School Information
-permalink: /pioneer-engagement/General-Information/school-information/
+permalink: /pioneer-engagement/general-information/school-information/
 description: ""
 third_nav_title: General Information
 ---

@@ -1,6 +1,6 @@
 ---
 title: Allied Educator
-permalink: /about-pioneer/Staff-Directory/allied-educator/
+permalink: /about-pioneer/staff-directory/allied-educator/
 description: ""
 third_nav_title: Staff Directory
 ---

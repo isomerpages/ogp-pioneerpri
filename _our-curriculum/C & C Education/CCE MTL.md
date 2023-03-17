@@ -1,6 +1,6 @@
 ---
 title: CCE MTL
-permalink: /our-curriculum/Character-and-Citizenship-Edu/cce-mtl/
+permalink: /our-curriculum/character-and-citizenship-edu/cce-mtl/
 description: ""
 third_nav_title: C & C Education
 ---

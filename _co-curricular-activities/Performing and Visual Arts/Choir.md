@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /signature-programmes/co-curriculum-activities/Performing-and-Visual-Arts/choir/
+permalink: /signature-programmes/co-curriculum-activities/performing-and-visual-arts/choir/
 description: ""
 third_nav_title: Performing and Visual Arts
 ---

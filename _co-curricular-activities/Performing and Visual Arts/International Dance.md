@@ -1,6 +1,6 @@
 ---
 title: International Dance
-permalink: /signature-programmes/co-curriculum-activities/Performing-and-Visual-Arts/contemporary-dance/
+permalink: /signature-programmes/co-curriculum-activities/performing-and-visual-arts/contemporary-dance/
 description: ""
 third_nav_title: Performing and Visual Arts
 ---

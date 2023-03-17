@@ -1,6 +1,6 @@
 ---
 title: School Services
-permalink: /pioneer-engagement/General-Information/school-services/
+permalink: /pioneer-engagement/general-information/school-services/
 description: ""
 third_nav_title: General Information
 ---

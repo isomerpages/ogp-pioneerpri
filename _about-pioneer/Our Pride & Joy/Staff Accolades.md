@@ -1,6 +1,6 @@
 ---
 title: Staff Accolades
-permalink: /about-pioneer/Our-Pride-and-Joy/staff-accolades/
+permalink: /about-pioneer/our-pride-and-joy/staff-accolades/
 description: ""
 third_nav_title: Our Pride & Joy
 ---

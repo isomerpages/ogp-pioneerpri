@@ -1,6 +1,6 @@
 ---
 title: National Education
-permalink: /our-curriculum/Character-and-Citizenship-Edu/national-education/
+permalink: /our-curriculum/character-and-citizenship-edu/national-education/
 description: ""
 third_nav_title: C & C Education
 ---

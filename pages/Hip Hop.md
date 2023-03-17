@@ -1,6 +1,6 @@
 ---
 title: Hip Hop
-permalink: /signature-programmes/co-curriculum-activities/Performing-and-Visual-Arts/hip-hop/
+permalink: /signature-programmes/co-curriculum-activities/performing-and-visual-arts/hip-hop/
 description: ""
 ---
 

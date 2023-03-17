@@ -1,6 +1,6 @@
 ---
 title: Chinese Orchestra
-permalink: /signature-programmes/co-curriculum-activities/Performing-and-Visual-Arts/chinese-orchestra/
+permalink: /signature-programmes/co-curriculum-activities/performing-and-visual-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing and Visual Arts
 ---

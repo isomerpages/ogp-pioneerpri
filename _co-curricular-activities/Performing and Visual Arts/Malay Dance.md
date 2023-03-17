@@ -1,6 +1,6 @@
 ---
 title: Malay Dance
-permalink: /signature-programmes/co-curriculum-activities/Performing-and-Visual-Arts/malay-dance/
+permalink: /signature-programmes/co-curriculum-activities/performing-and-visual-arts/malay-dance/
 description: ""
 third_nav_title: Performing and Visual Arts
 ---

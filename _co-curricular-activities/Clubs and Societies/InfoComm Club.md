@@ -1,6 +1,6 @@
 ---
 title: InfoComm Club
-permalink: /signature-programmes/co-curriculum-activities/Clubs-and-Societies/infocomm-club/
+permalink: /signature-programmes/co-curriculum-activities/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---

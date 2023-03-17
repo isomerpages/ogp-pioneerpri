@@ -1,6 +1,6 @@
 ---
 title: Wushu
-permalink: /signature-programmes/co-curriculum-activities/Physical-Sports/wushu/
+permalink: /signature-programmes/co-curriculum-activities/physical-sports/wushu/
 description: ""
 third_nav_title: Physical Sports
 ---

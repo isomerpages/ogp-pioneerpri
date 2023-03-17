@@ -1,6 +1,6 @@
 ---
 title: Education & Career Guidance
-permalink: /our-curriculum/Character-and-Citizenship-Edu/education-and-career-guidance/
+permalink: /our-curriculum/character-and-citizenship-edu/education-and-career-guidance/
 description: ""
 third_nav_title: C & C Education
 ---
