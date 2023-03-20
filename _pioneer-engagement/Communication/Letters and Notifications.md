@@ -11,9 +11,10 @@ third_nav_title: Communication
 
 ##### Booklist for Textbooks and Stationery for AY2023
 
-[Pioneer Primary School - Booklist AY 2023 - P3](https://pioneerpri.moe.edu.sg/qql/slot/u519/2022/Our%20Engagement/Communication/2023%20Booklist/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P3.pdf)  
-[Pioneer Primary School - Booklist AY 2023 - P4](https://pioneerpri.moe.edu.sg/qql/slot/u519/2022/Our%20Engagement/Communication/2023%20Booklist/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P4.pdf)  
-[Pioneer Primary School - Booklist AY 2023 - P5](https://pioneerpri-moe-edu-sg-admin.cwp.sg/qql/slot/u519/2022/Our%20Engagement/Communication/2023%20Booklist/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P5.pdf)  
-[Pioneer Primary School - Booklist AY 2023 - P5 Foundation](https://pioneerpri.moe.edu.sg/qql/slot/u519/2022/Our%20Engagement/Communication/2023%20Booklist/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P5%20FDN.pdf)  
-[Pioneer Primary School - Booklist AY 2023 - P6](https://pioneerpri.moe.edu.sg/qql/slot/u519/2022/Our%20Engagement/Communication/2023%20Booklist/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P6.pdf)  
-[Pioneer Primary School - Booklist AY 2023 - P6 Foundation](https://pioneerpri.moe.edu.sg/qql/slot/u519/2022/Our%20Engagement/Communication/2023%20Booklist/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P6%20FDN.pdf)
+
+[Pioneer Primary School - Booklist AY 2023 - P3](/files/Book%20List/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P3.pdf)  
+[Pioneer Primary School - Booklist AY 2023 - P4](/files/Book%20List/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P4.pdf)  
+[Pioneer Primary School - Booklist AY 2023 - P5](/files/Book%20List/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P5.pdf)  
+[Pioneer Primary School - Booklist AY 2023 - P5 Foundation](/files/Book%20List/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P5%20FDN.pdf)  
+[Pioneer Primary School - Booklist AY 2023 - P6](/files/Book%20List/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P6.pdf)  
+[Pioneer Primary School - Booklist AY 2023 - P6 Foundation](/files/Book%20List/Pioneer%20Primary%20School%20%20-%20Booklist%20AY%202023%20-%20caa%20061122%20-%20P6%20FDN.pdf)
