@@ -17,7 +17,7 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td >
+<td style="width:40%">
 <p>NUS High School Primary Math Project Competition</p>
 </td>
 <td>
