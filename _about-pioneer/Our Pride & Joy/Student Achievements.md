@@ -216,3 +216,123 @@ third_nav_title: Our Pride & Joy
 </tr>
 </tbody>
 </table>
+
+
+
+
+<table width="676">
+<tbody>
+<tr>
+<td colspan="2" width="676">
+<h3><strong>2022 Pioneer Primary School CCA Achievements</strong></h3>
+</td>
+</tr>
+<tr>
+<td width="172">
+<p>Boys&rsquo; Brigade</p>
+</td>
+<td width="504">
+<p><u>J M Fraser Award for Excellence</u> (Silver)</p>
+<p><u>Boys&rsquo; Brigade Week</u> (Gold)</p>
+<p>&nbsp;</p>
+<p>Gold Badge Winners</p>
+<ul style="list-style-type: circle;">
+<li><em>Prabaharan Yoges (6RS2)</em></li>
+<li><em>Dharma Kingsline Soniya Joshan Sline(6RS1)</em></li>
+</ul>
+<p>Best Boy Award</p>
+<ul style="list-style-type: circle;">
+<li><em>Prabaharan Yoges (6RS2)</em></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="172">
+<p>Athletics</p>
+</td>
+<td width="504">
+<p><u>SPSSC Nationals Track &amp; Field Championships</u></p>
+<p>4 x 50m relay Junior 1 Boys (Bronze)</p>
+<br />
+<p>Senior 2 Boys Shot Put (Bronze)</p>
+<ul style="list-style-type: circle;">
+<li><em>Qian Yue (6RS2) </em></li>
+</ul>
+<p>Multi-skill event (Bronze)</p>
+<ul style="list-style-type: circle;">
+<li><em>Lim Yu Xuan Hannah (4IG1) </em></li>
+<li><em>Senthilkumar Tarinisre (4IG6) </em></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="172">
+<p>Basketball</p>
+</td>
+<td width="504">
+<p><u>NSG West Zone Basketball Championship </u></p>
+<p><em>Senior Division &ndash; 4<sup>th</sup></em></p>
+</td>
+</tr>
+<tr>
+<td width="172">
+<p>Netball</p>
+</td>
+<td width="504">
+<p><u>NSG West Zone Netball Championship </u></p>
+<p><em>Junior Division &ndash; Top 8</em></p>
+</td>
+</tr>
+<tr>
+<td width="172">
+<p>Wushu</p>
+</td>
+<td width="504">
+<p><u>SPSSC Nationals Wushu Championships</u></p>
+<p><u>Junior Boys</u></p>
+<p>3-duan Chang Quan &ndash; Champion</p>
+<ul style="list-style-type: circle;">
+<li><em>Tan Suang Hang Ronan (3R2)</em></li>
+</ul>
+<p>4-duan Broad Sword &ndash; Champion</p>
+<ul style="list-style-type: circle;">
+<li><em>Tan Suang Hang Ronan (3R2)</em></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="172">
+<p>Robotics</p>
+</td>
+<td width="504">
+<p><u>IDE (Innovation, Design and Engineering) Robotics (Primary - School Category) </u></p>
+<ul style="list-style-type: circle;">
+<li>&nbsp;3<sup>rd</sup>, 5<sup>th</sup> &amp; 6<sup>th</sup></li>
+</ul>
+<p><u>IDE Robotics (Primary - Open Category) </u></p>
+<ul style="list-style-type: circle;">
+<li>9<sup>th</sup></li>
+</ul>
+<p><u>IDE Sprint (Primary - School Category) </u></p>
+<ul style="list-style-type: circle;">
+<li>3<sup>rd</sup> &amp; 7<sup>th</sup></li>
+</ul>
+<p><u>IDE Sprint (Primary - Open Category)</u></p>
+<ul style="list-style-type: circle;">
+<li>9<sup>th</sup></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="172">
+<p>Toastmasters Club</p>
+</td>
+<td width="504">
+<p><u>Mythos Junior Orators 2022 (</u>Semi-finalist)</p>
+<ul style="list-style-type: circle;">
+<li><em>Muzfirah Bte Mohamed Elias (6RS1) </em></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
