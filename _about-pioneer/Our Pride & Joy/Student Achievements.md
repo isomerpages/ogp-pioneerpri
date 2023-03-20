@@ -4,23 +4,23 @@ permalink: /about-pioneer/our-pride-and-joy/student-achievements/
 description: ""
 third_nav_title: Our Pride & Joy
 ---
-<table style="width: 676px;">
+<table>
 <tbody>
 <tr>
-<td style="width: 674px;" colspan="2">
+<td colspan="2">
 <h3><strong>2022 Pioneer Primary School IP Achievements</strong></h3>
 </td>
 </tr>
 <tr>
-<td style="background-color: #dddddd; width: 674px;" colspan="2">
+<td style="background-color: #dddddd;" colspan="2">
 <p><strong>Mathematics</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 171.198px;">
+<td >
 <p>NUS High School Primary Math Project Competition</p>
 </td>
-<td style="width: 502.802px;">
+<td>
 <p>Craft of Creasing Project (Commendation Award)</p>
 <ul style="list-style-type: circle;">
 <li><em>Zhang Joy Huang (4IG1)</em></li>
@@ -30,10 +30,10 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="width: 171.198px;">
+<td>
 <p>SST Girls-in-STEM Challenge 2022</p>
 </td>
-<td style="width: 502.802px;">
+<td>
 <p>Facilitator&rsquo;s Pick (Team)</p>
 <ul style="list-style-type: circle;">
 <li><em>Fiona Ng Chin Thong (4IN1)</em></li>
@@ -44,15 +44,15 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="background-color: #dddddd; width: 674px;" colspan="2">
+<td style="background-color: #dddddd; " colspan="2">
 <p><strong>Science </strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 171.198px;">
+<td >
 <p>Singapore Primary Science Olympiad</p>
 </td>
-<td style="width: 502.802px;">
+<td >
 <p>Gold Award</p>
 <ul style="list-style-type: circle;">
 <li><em>Guo Wangxuanhe (5IN1) </em></li>
@@ -64,16 +64,16 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="background-color: #dddddd; width: 674px;" colspan="2">
+<td style="background-color: #dddddd; " colspan="2">
 <p><strong>Chinese Language </strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 171.198px;">
+<td >
 <p>22nd National Chinese Calligraphy Competition</p>
 <p>(第22届全国书法大赛)</p>
 </td>
-<td style="width: 502.802px;">
+<td>
 <p>Merit Award winners</p>
 <ul style="list-style-type: circle;">
 <li><em>Wang Xinran (5IN1) </em></li>
@@ -82,11 +82,11 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="width: 171.198px;">
+<td >
 <p>2022 Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition&nbsp;</p>
 <p>(2022年威德智海全国硬笔书法比赛)</p>
 </td>
-<td style="width: 502.802px;">
+<td >
 <p>Active Participation Award (School) 踊跃参与奖</p>
 <p>Culture Award winners</p>
 <ul style="list-style-type: circle;">
@@ -112,11 +112,11 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="width: 171.198px;">
+<td >
 <p>5th Text Recital Competition for Primary and Secondary Schools</p>
 <p>(第五届中小学华文课文朗诵比赛)</p>
 </td>
-<td style="width: 502.802px;">
+<td >
 <p>Bronze Award (Individual)</p>
 <ul style="list-style-type: circle;">
 <li><em>Then Zhi Qing (4IG1)</em></li>
@@ -150,15 +150,15 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="background-color: #dddddd; width: 674px;" colspan="2">
+<td style="background-color: #dddddd; " colspan="2">
 <p><strong>Malay Language </strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 171.198px;">
+<td >
 <p>Story-telling competition (Peraduan Saya Boleh Bercerita 2022)</p>
 </td>
-<td style="width: 502.802px;">
+<td >
 <p>Silver</p>
 <ul style="list-style-type: circle;">
 <li><em>Lutfil Hadi Bin Zaihazrol (4IG6)</em></li>
@@ -171,10 +171,10 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="width: 171.198px;">
+<td >
 <p>Creative Writing Competition (Karya Minda Kreatif 2022)</p>
 </td>
-<td style="width: 502.802px;">
+<td >
 <p>Gold</p>
 <ul style="list-style-type: circle;">
 <li><em>Nur Haziqah Binte Jeriko (6RSA)</em></li>
@@ -183,15 +183,15 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="background-color: #dddddd; width: 674px;" colspan="2">
+<td style="background-color: #dddddd; " colspan="2">
 <p><strong>Applied Learning Programme (ALP)</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 171.198px;">
+<td >
 <p>JA Singapore Lights of Our Future competition</p>
 </td>
-<td style="width: 502.802px;">
+<td >
 <p>1st Place</p>
 <ul style="list-style-type: circle;">
 <li><em>Namish Reddy Guvvala (5IN1)</em></li>
