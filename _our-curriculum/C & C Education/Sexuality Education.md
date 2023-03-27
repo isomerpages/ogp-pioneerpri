@@ -114,7 +114,8 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 
 
-**PRIMARY 6**
+**PRIMARY 6** <br>
+**CCE (FTGP) THEME :** Growing Years
 
 <table style="width: 100%;">
 <thead>
