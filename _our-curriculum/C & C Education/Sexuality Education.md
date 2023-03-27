@@ -54,13 +54,13 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 **Primary 5**<br>
 **CCE (FTGP) THEME :** Growing Years
 
-<table style="width: 100%;">
+<table style="width: 100%; border:1px solid black">
 <thead>
 <tr style="background-color: #dddddd;">
-<td style="text-align: center;" width="25%">
+<td width="25%" style="text-align: center;">
 <p><strong>LESSON TITLE / DURATION</strong></p>
 </td>
-<td style="text-align: center;" width="55%">
+<td width="55%" style="text-align: center;">
 <p><strong>Lesson OVERVIEW</strong></p>
 </td>
 <td width="20%">
@@ -75,7 +75,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 <p>(60 min)</p>
 </td>
 <td width="461">
-<p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one&rsquo;s identity need not be negatively affected, even when one&rsquo;s body is experiencing changes due to puberty.</p>
+<p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</p>
 <p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td width="180">
@@ -88,7 +88,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 <p>(60 min)</p>
 </td>
 <td width="461">
-<p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy &lsquo;<strong>Stop-Think-Do&rsquo;. </strong></p>
+<p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘<strong>Stop-Think-Do’. </strong></p>
 <p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td width="180">
@@ -117,16 +117,16 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 **PRIMARY 6** <br>
 **CCE (FTGP) THEME :** Growing Years
 
-<table style="width: 100%;">
+<table style="width: 100%; border:1px solid black">
 <thead>
 <tr style="background-color: #dddddd;">
-<td style="text-align: center;" width="25%">
+<td width="25%" style="text-align: center;">
 <p><strong>LESSON TITLE / DURATION</strong></p>
 </td>
-<td style="text-align: center;" width="55%">
+<td width="55%" style="text-align: center;">
 <p><strong>Lesson Overview</strong></p>
 </td>
-<td  style="text-align: center;" width="20%">
+<td width="20%" style="text-align: center;">
 <p><strong>TIME PERIOD</strong></p>
 </td>
 </tr>
@@ -164,7 +164,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 <p>(60 min)</p>
 </td>
 <td width="387">
-<p>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy &lsquo;<strong>Stop-Think-Do&rsquo;.</strong></p>
+<p>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘<strong>Stop-Think-Do’.</strong></p>
 <p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td width="208">
