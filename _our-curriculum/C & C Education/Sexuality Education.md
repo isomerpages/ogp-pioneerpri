@@ -53,196 +53,62 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 **Primary 5**
 
-<table style="width:595pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 0in 0in 0in" width="802" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable">
- <thead>
-  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
-   <td style="width:105.75pt;border:solid black 1.0pt;
-   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt" valign="top" width="141">
-   <p style="margin-top:0in;margin-right:0in;
-   margin-bottom:0in;margin-left:15.8pt;text-align:center;text-indent:-15.8pt;
-   line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:
-   EN-GB" lang="EN-GB">CCE (FTGP)</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-   <p style="margin-top:0in;margin-right:0in;
-   margin-bottom:0in;margin-left:15.8pt;text-align:center;text-indent:-15.8pt;
-   line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:
-   EN-GB" lang="EN-GB">THEME</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-   </td>
-   <td style="width:124.5pt;border:solid black 1.0pt;
-   border-left:none;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt" valign="top" width="166">
-   <p style="margin-bottom:0in;text-align:center;
-   line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:
-   EN-GB" lang="EN-GB">LESSON TITLE / DURATION</span></b><span style="font-size:12.0pt;
-   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-   color:black"></span></p>
-   </td>
-   <td style="width:273.75pt;border:solid black 1.0pt;
-   border-left:none;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt" valign="top" width="365">
-   <p style="margin-bottom:0in;text-align:center;
-   line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;text-transform:uppercase;
-   mso-ansi-language:EN-GB" lang="EN-GB">LESSON OVERVIEW</span></b><span style="font-size:
-   12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-   color:black"></span></p>
-   </td>
-   <td style="width:134.65pt;border:solid black 1.0pt;
-   border-left:none;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt" valign="top" width="180">
-   <p style="margin-bottom:0in;text-align:center;
-   line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:
-   EN-GB" lang="EN-GB">TIME PERIOD</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-   </td>
-  </tr>
- </thead>
- <tbody><tr style="mso-yfti-irow:1;height:143.95pt">
-  <td style="width:141.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:143.95pt" valign="top" rowspan="3" width="189">
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Growing
-  Years</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:170.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:143.95pt" valign="top" width="227">
-  <p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.05in;text-align:center;line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">The Changes in Me</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.05in;text-align:center;line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">(60 min)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:333.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:143.95pt" valign="top" width="444">
-  <p style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:18.0pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">This
-  lesson focuses on helping students identify the emotions and stress caused by
-  physical changes during puberty. Students will learn to describe the healthy
-  ways to manage their negative feelings during this time. They will also learn
-  to recognise that one’s identity <span class="GramE">need</span> not be
-  negatively affected, even when one’s body is experiencing changes due to
-  puberty.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:18.0pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">This
-  lesson is conducted separately for boys and girls in different classrooms, so
-  that the students will feel more comfortable during the discussions.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:134.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:143.95pt" valign="top" width="180">
-  <p style="margin-top:0in;margin-right:-5.2pt;
-  margin-bottom:0in;margin-left:0in;text-align:center;line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Term 2 Week 4</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:2;height:48.1pt">
-  <td style="width:170.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:48.1pt" valign="top" width="227">
-  <p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.05in;text-align:center;line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;Did You Know?</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.05in;text-align:center;line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">(60 min)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:333.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:48.1pt" valign="top" width="444">
-  <p style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:18.0pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">This
-  lesson focuses on helping students know what pornography is and how it can
-  affect themselves and others. Students will learn about the dangers of being
-  exposed to sexually explicit materials and reject the viewing and/or reading
-  of pornographic materials. They will learn to evaluate their own responses
-  when they encounter pornography by applying the strategy ‘<b>Stop-Think-Do’.</b></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:18.0pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">This
-  lesson is conducted separately for boys and girls in different classrooms, so
-  that the students will feel more comfortable during the discussions.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:134.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:48.1pt" valign="top" width="180">
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Term
-  2 Week 5</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:134.5pt">
-  <td style="width:170.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:134.5pt" valign="top" width="227">
-  <p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.05in;text-align:center;line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Keeping Myself Safe</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.05in;text-align:center;line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">(60 min)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:333.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:134.5pt" valign="top" width="444">
-  <p style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:18.0pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">In
-  this lesson, students will learn about sexual abuse, how it can happen during
-  online and offline interactions and the impact of such abuse on victims. They
-  also learn how to take precautionary measures to be safe and how to seek help
-  for themselves and their friends.</span><span style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:18.0pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">This
-  lesson is conducted separately for boys and girls in different classrooms, so
-  that the students will feel more comfortable during the discussions.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:134.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:134.5pt" valign="top" width="180">
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Term
-  2 Week 6</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
- </tr>
-</tbody></table>
+<table style="width: 100%;">
+<thead>
+<tr style="background-color: #dddddd;">
+<td style="; text-align: center;" width="25%">
+<p><strong>LESSON TITLE / DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="55%">
+<p><strong>Lesson OVERVIEW</strong></p>
+</td>
+<td width="20%">
+<p><strong>TIME PERIOD </strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="210">
+<p>The Changes in Me</p>
+<p>(60 min)</p>
+</td>
+<td width="461">
+<p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one&rsquo;s identity need not be negatively affected, even when one&rsquo;s body is experiencing changes due to puberty.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td width="180">
+<p>Term 2 Week 4</p>
+</td>
+</tr>
+<tr>
+<td width="210">
+<p>&nbsp;Did You Know?</p>
+<p>(60 min)</p>
+</td>
+<td width="461">
+<p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy &lsquo;<strong>Stop-Think-Do&rsquo;. </strong></p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td width="180">
+<p>Term 2 Week 5</p>
+</td>
+</tr>
+<tr>
+<td width="210">
+<p>Keeping Myself Safe</p>
+<p>(60 min)</p>
+</td>
+<td width="461">
+<p>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td width="180">
+<p>Term 2 Week 6</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
