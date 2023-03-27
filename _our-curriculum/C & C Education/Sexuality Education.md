@@ -51,7 +51,8 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 **At Pioneer Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
-**Primary 5**
+**Primary 5**<br>
+**CCE (FTGP) THEME :** Growing Years
 
 <table style="width: 100%;">
 <thead>
