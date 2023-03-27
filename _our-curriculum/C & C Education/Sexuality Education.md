@@ -57,7 +57,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 <table style="width: 100%;">
 <thead>
 <tr style="background-color: #dddddd;">
-<td style="; text-align: center;" width="25%">
+<td style="text-align: center;" width="25%">
 <p><strong>LESSON TITLE / DURATION</strong></p>
 </td>
 <td style="text-align: center;" width="55%">
@@ -116,211 +116,62 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 **PRIMARY 6**
 
-<table style="width:595pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 0in 0in 0in" width="817" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable">
- <thead>
-  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.45pt">
-   <td style="width:156.0pt;border:solid black 1.0pt;
-   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:23.45pt" valign="top" width="208">
-   <p style="margin-top:0in;margin-right:0in;
-   margin-bottom:0in;margin-left:1.6pt;text-align:center;text-indent:-1.6pt;
-   line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:
-   EN-GB" lang="EN-GB">CCE (FTGP)&nbsp;</span></b><span style="font-size:12.0pt;font-family:
-   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-   <p style="margin-top:0in;margin-right:0in;
-   margin-bottom:0in;margin-left:1.6pt;text-align:center;text-indent:-1.6pt;
-   line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:
-   EN-GB" lang="EN-GB">THEME</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-   </td>
-   <td style="width:163.05pt;border:solid black 1.0pt;
-   border-left:none;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:23.45pt" valign="top" width="217">
-   <p style="margin-bottom:0in;text-align:center;
-   line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:
-   EN-GB" lang="EN-GB">LESSON TITLE / DURATION</span></b><span style="font-size:12.0pt;
-   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-   color:black"></span></p>
-   </td>
-   <td style="width:217.5pt;border:solid black 1.0pt;
-   border-left:none;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:23.45pt" valign="top" width="290">
-   <p style="margin-bottom:0in;text-align:center;
-   line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;text-transform:uppercase;
-   mso-ansi-language:EN-GB" lang="EN-GB">LESSON OVERVIEW</span></b><span style="font-size:
-   12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-   color:black"></span></p>
-   </td>
-   <td style="width:114.75pt;border:solid black 1.0pt;
-   border-left:none;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:23.45pt" valign="top" width="153">
-   <p style="margin-bottom:0in;text-align:center;
-   line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:
-   EN-GB" lang="EN-GB">TIME PERIOD</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-   </td>
-  </tr>
- </thead>
- <tbody><tr style="mso-yfti-irow:1;height:128.65pt">
-  <td style="width:141.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:128.65pt" valign="top" rowspan="3" width="189">
-  <p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:1.6pt;text-align:center;text-indent:-1.6pt;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Growing
-  Years</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:163.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:128.65pt" valign="top" width="217">
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Are
-  We More than Friends?</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Lesson
-  1</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">(60
-  min)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:290.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:128.65pt" valign="top" width="387">
-  <p style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:18.0pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">In
-  this lesson, students will learn to distinguish between the characteristics
-  of love and <span class="GramE">infatuation, and</span> identify the strong
-  emotions that may arise from experiencing the feelings of infatuation. They
-  will recognise that experiencing&nbsp;</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-ansi-language:EN-SG" lang="EN-SG">feelings of infatuation is part of
-  growing up and becoming infatuated with someone does not mean that they
-  should be involved in a romantic relationship. Instead, they should focus on
-  building strong and healthy friendships with their circles of friends.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:155.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:128.65pt" valign="top" width="208">
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Term
-  2 Week 4</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:2;height:105.7pt">
-  <td style="width:163.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:105.7pt" valign="top" width="217">
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Are
-  We More than Friends?</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Lesson
-  2</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">(60
-  min)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:290.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:105.7pt" valign="top" width="387">
-  <p style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:18.0pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">In
-  this lesson, students will learn healthy ways to manage the emotions arising
-  from infatuation and recognise the importance of respecting the boundaries of
-  any relationship. They will also recognise the negative impact of teasing
-  their peers who may be experiencing the feelings of infatuation and learn to
-  behave maturely towards each other.</span><span style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black"></span></p>
-  </td>
-  <td style="width:155.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:105.7pt" valign="top" width="208">
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Term
-  2 Week 5</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:157.0pt">
-  <td style="width:163.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:157.0pt" valign="top" width="217">
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Did
-  You Know?&nbsp;<b>*</b></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">(60
-  min)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-bottom:0in;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:290.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:157.0pt" valign="top" width="387">
-  <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:18.0pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">This
-  lesson focuses on helping students to know what pornography is and how it can
-  affect themselves and others. Students will learn the dangers of being
-  exposed to sexually explicit materials and reject the viewing and/or reading
-  of pornographic materials. They will learn to evaluate their own responses
-  when they encounter pornography by applying the strategy ‘<b>Stop-Think-Do’.</b></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:18.0pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:18.0pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">This
-  lesson is conducted separately for boys and girls in different classrooms, so
-  that the students will feel more comfortable during the discussions.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
-  <td style="width:155.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:157.0pt" valign="top" width="208">
-  <p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:1.95pt;text-align:center;line-height:18.0pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB" lang="EN-GB">Term 2 Week 6</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p>
-  </td>
- </tr>
-</tbody></table>
+<table style="width: 100%;">
+<thead>
+<tr style="background-color: #dddddd;">
+<td style="text-align: center;" width="25%">
+<p><strong>LESSON TITLE / DURATION</strong></p>
+</td>
+<td style="text-align: center;" width="55%">
+<p><strong>Lesson Overview</strong></p>
+</td>
+<td  style="text-align: center;" width="20%">
+<p><strong>TIME PERIOD</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="217">
+<p>Are We More than Friends?</p>
+<p>Lesson 1</p>
+<p>(60 min)</p>
+</td>
+<td width="387">
+<p>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p>
+</td>
+<td width="208">
+<p>Term 2 Week 4</p>
+</td>
+</tr>
+<tr>
+<td width="217">
+<p>Are We More than Friends?</p>
+<p>Lesson 2</p>
+<p>(60 min)</p>
+</td>
+<td width="387">
+<p>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</p>
+</td>
+<td width="208">
+<p>Term 2 Week 5</p>
+</td>
+</tr>
+<tr>
+<td width="217">
+<p>Did You Know? <strong>*</strong></p>
+<p>(60 min)</p>
+</td>
+<td width="387">
+<p>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy &lsquo;<strong>Stop-Think-Do&rsquo;.</strong></p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td width="208">
+<p>Term 2 Week 6</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Please Note:
 
