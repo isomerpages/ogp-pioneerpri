@@ -118,6 +118,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 **PRIMARY 6** <br>
 **CCE (FTGP) THEME :** Growing Years
 
+<small>
 <table style="width: 100%; border:1px solid black">
 <thead>
 <tr style="background-color: #dddddd;">
@@ -174,7 +175,9 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 </tr>
 </tbody>
 </table>
-
+</small>
+	
+	
 Please Note:
 
 \*For&nbsp;2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.
