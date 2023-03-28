@@ -55,7 +55,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 **CCE (FTGP) THEME :** Growing Years
 
 	
-<table style="width: 100%; border:1px solid black; font-size:50%;">
+<table style="width: 100%; border:1px solid black; font-size:60%;">
 <thead>
 <tr style="background-color: #dddddd;">
 <td width="25%" style="text-align: center;">
@@ -119,7 +119,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 **CCE (FTGP) THEME :** Growing Years
 
 	
-<table style="width: 100%; border:1px solid black; font-size:50%;">
+<table style="width: 100%; border:1px solid black; font-size:60%;">
 <thead>
 <tr style="background-color: #dddddd;">
 <td width="25%" style="text-align: center;">
