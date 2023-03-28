@@ -118,9 +118,8 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 **PRIMARY 6** <br>
 **CCE (FTGP) THEME :** Growing Years
 
-<small>
 	
-<table style="width: 100%; border:1px solid black">
+<table style="width: 100%; border:1px solid black; font-size:70%;">
 <thead>
 <tr style="background-color: #dddddd;">
 <td width="25%" style="text-align: center;">
@@ -177,7 +176,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 </tbody>
 </table>
 	
-</small>
 	
 	
 Please Note:
