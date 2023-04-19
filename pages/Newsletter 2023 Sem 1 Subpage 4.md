@@ -3,7 +3,6 @@ title: Newsletter 2023 Sem 1 Subpage 4
 permalink: /newsletter2023sem1sub4/
 description: ""
 ---
-
 # Sem 1 Sub 4
 <p>Content 123</p>
 <p>Content 123</p>
