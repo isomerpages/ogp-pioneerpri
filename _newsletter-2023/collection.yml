@@ -1,5 +1,0 @@
-collections:
-  newsletter-2023:
-    output: true
-    order:
-      - terms-of-use.md
