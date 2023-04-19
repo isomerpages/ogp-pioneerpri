@@ -2,9 +2,9 @@ logo: /images/pioneer-primary-school.jpg
 links:
   - title: About Pioneer
     collection: about-pioneer
-  - title: "Our Curriculum "
+  - title: Our Curriculum
     collection: our-curriculum
-  - title: "Signature Programme "
+  - title: Signature Programme
     url: /signature-programmes/thinking-curriculum
     sublinks:
       - title: Thinking Curriculum
@@ -27,7 +27,7 @@ links:
         url: /signature-programmes/talent-development
       - title: Internationalisation
         url: /signature-programmes/internationalisation
-  - title: "Our Community "
+  - title: Our Community
     collection: our-community
   - title: Pioneer Engagement
     collection: pioneer-engagement
