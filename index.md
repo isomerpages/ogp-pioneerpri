@@ -14,7 +14,7 @@ sections:
         - title: Form Teachers 2023
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
-        - title: School Information
+        - title: Newsletter
           description: Address, Contact Number, Email
           url: /pioneer-engagement/general-information/school-information/
       background: /images/Homepage/Banner 04.gif
