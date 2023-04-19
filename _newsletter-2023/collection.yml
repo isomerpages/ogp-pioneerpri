@@ -1,4 +1,5 @@
 collections:
   newsletter-2023:
     output: true
-    order: []
+    order:
+      - terms-of-use.md
