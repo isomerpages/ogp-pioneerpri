@@ -2,5 +2,6 @@ collections:
   newsletter:
     output: true
     order:
+      - Archive/2023 Semester 1.md
       - Archive/.keep
       - Newsletter.md
