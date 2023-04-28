@@ -34,6 +34,6 @@ sections:
         delighted...
       button: Read more
       url: https://online.fliphtml5.com/obrr/qkde
-      image: /images/InfoPic Thumb/we stories 2023 gif.gif
+      image: /images/InfoPic Thumb/we stories website gif infopic.gif
       alt: Image alt text
 ---
