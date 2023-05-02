@@ -3,16 +3,10 @@ title: 2023 Semester 1
 permalink: /newsletter/newsletter2023sem1/
 description: ""
 ---
+#### Page content will be updated soon. Stay tuned.
 
-<p>Newletter 2023 Sem 1 Main</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
+<br>
+<br>
 <table style="width: 100%;">
 <tbody>
 <tr>
