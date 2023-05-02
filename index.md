@@ -33,7 +33,7 @@ sections:
       description: Every secondary school has a fascinating story to share. May you be
         delighted...
       button: Read more
-      url: https://online.fliphtml5.com/obrr/qkde
+      url: https://go.gov.sg/westories-official
       image: /images/InfoPic Thumb/we stories website gif infopic 1.gif
       alt: Image alt text
 ---
