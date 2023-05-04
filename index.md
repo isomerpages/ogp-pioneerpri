@@ -14,9 +14,9 @@ sections:
         - title: Form Teachers 2023
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
-        - title: School Information
-          description: Address, Contact Number, Email
-          url: /pioneer-engagement/general-information/school-information/
+        - title: Newsletter
+          description: 2023 Semester 1
+          url: /newsletter/newsletter2023sem1
       background: /images/Homepage/Banner 04.gif
   - infopic:
       title: "Welcome to Pioneer Primary School! "
@@ -28,12 +28,12 @@ sections:
       button: Read more
       alt: principal desk
   - infopic:
-      title: WE STories 2022
+      title: WE STories 2023
       subtitle: A collection of stories
       description: Every secondary school has a fascinating story to share. May you be
         delighted...
       button: Read more
-      url: https://online.fliphtml5.com/obrr/qkde
-      image: /images/InfoPic Thumb/WESTories Isomer Thumb.png
+      url: https://go.gov.sg/westories-official
+      image: /images/InfoPic Thumb/we stories website gif infopic 1.gif
       alt: Image alt text
 ---

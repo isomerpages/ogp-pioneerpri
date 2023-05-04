@@ -1,0 +1,7 @@
+collections:
+  newsletter:
+    output: true
+    order:
+      - 2023 Semester 1.md
+      - 2023 Semester 2.md
+      - Archive/.keep
