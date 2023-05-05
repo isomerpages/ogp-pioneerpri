@@ -2,14 +2,14 @@ collections:
   pioneer-engagement:
     output: true
     order:
-      - Newsletter/Newsletter.md
-      - Newsletter/.keep
       - General Information/.keep
       - General Information/School Information.md
       - General Information/School Services.md
       - School Safety.md
       - Counselling Services.md
       - Commemorative Events.md
+      - Newsletter/.keep
+      - Newsletter/Newsletter.md
       - Communication/.keep
       - Communication/Letters and Notifications.md
       - Useful Links.md
