@@ -2,6 +2,7 @@ collections:
   pioneer-engagement:
     output: true
     order:
+      - Newsletter/Newsletter.md
       - Newsletter/.keep
       - General Information/.keep
       - General Information/School Information.md
