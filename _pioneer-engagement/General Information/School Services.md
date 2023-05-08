@@ -16,7 +16,7 @@ third_nav_title: General Information
 <td>Bus Operator</td>
 <td>JK59 Transport Pte Ltd<br>Tel: 6465 5959<br>Email: <a href="mailto:student@jk59.com">student@jk59.com</a><br>Contact Person: Cynthia / Mei Qi
 <br><br>
-<a href="/files/Attachments/bus%20operator%202023.pdf">School Bus Operator and Bus Fare</a>
+<a target="_blank" href="/files/Attachments/bus%20operator%202023.pdf">School Bus Operator and Bus Fare</a>
 	
 </td>
 </tr>
