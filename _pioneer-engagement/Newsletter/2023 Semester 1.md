@@ -1,7 +1,8 @@
 ---
 title: 2023 Semester 1
-permalink: /newsletter/newsletter2023sem1/
+permalink: /pioneer-engagement/newsletter/2023-semester-1/
 description: ""
+third_nav_title: Newsletter
 ---
 #### Page content will be updated soon. Stay tuned.
 
