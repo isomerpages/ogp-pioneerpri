@@ -18,11 +18,11 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td><p>I wish all students and staff a fulfilling year ahead, making every effort to 
+<td>I wish all students and staff a fulfilling year ahead, making every effort to 
 	<b>Go for Excellence</b>!
 
 Mrs Lee Wai Ling<br>
-Principal</p></td>
+Principal</td>
 <td><img src="/images/Newsletter/newsletter01.jpeg"></td>
 </tr>
 </tbody>
