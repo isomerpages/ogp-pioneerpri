@@ -19,10 +19,10 @@ description: ""
 <tbody>
 <tr>
 <td><p>I wish all students and staff a fulfilling year ahead, making every effort to 
-	<b>Go for Excellence</b>!<br><br>
+	<b>Go for Excellence</b>!</p><br><br>
 
 Mrs Lee Wai Ling<br>
-Principal</p></td>
+Principal</td>
 	<td><img src="/images/Newsletter/newsletter01.jpeg"><p></p></td>
 </tr>
 </tbody>
@@ -36,7 +36,7 @@ Principal</p></td>
 <tbody>
 <tr>
 <td style="text-align: center;"><a href="/newsletterprincipalmessage/">Principal Message</a></td>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub2">Subpage 2</a></td>
+<td style="text-align: center;"><a href="/newsletterstartwell">Start Well </a></td>
 <td style="text-align: center;"><a href="/newsletter2023sem1sub3">Subpage 3</a></td>
 <td style="text-align: center;"><a href="/newsletter2023sem1sub4">Subpage 4</a></td>
 </tr>
