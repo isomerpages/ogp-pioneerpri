@@ -4,7 +4,7 @@ permalink: /newsletterprincipalmessage/
 description: ""
 ---
 # Sem 1 Sub 1
-<p align="justify">Our school vision is to groom our students to be Passionate Learners, Confident Leaders and Gracious Citizens. Indeed, Pioneer Primary School has been true in our mission to create a vibrant learning environment, setting our students on a path of discovery and growth. The school’s programmes and activities are geared towards ensuring that students are developed holistically and equipped with 21st Century Competencies.</p>
+<p align="justify">Our school vision is to groom our students to be <b>Passionate Learners, Confident Leaders and Gracious Citizens</b>. Indeed, Pioneer Primary School has been true in our mission to create a vibrant learning environment, setting our students on a path of discovery and growth. The school’s programmes and activities are geared towards ensuring that students are developed holistically and equipped with 21st Century Competencies.</p>
 
 <p align="justify">To pique students’ curiosity and to stretch their creative and critical thinking, we have thoughtfully designed many interesting platforms to stimulate and nurture students’ imagination and intellectual curiosity. For example, in the Applied Learning Programme (ALP – Design Thinking), the students collaborated and immersed themselves in rich discussions on the issues and challenges of a given problem. They worked together to interview the stakeholders (students and staff) to define the problem and brainstorm for solutions. They went on a learning journey to broaden their perspectives before creating and testing their prototypes. </p>
 
