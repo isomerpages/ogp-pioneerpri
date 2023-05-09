@@ -23,7 +23,7 @@ description: ""
 
 Mrs Lee Wai Ling<br>
 Principal</p></td>
-<td>&nbsp;</td>
+<td><img src="/images/Newsletter/newsletter01.jpeg"></td>
 </tr>
 </tbody>
 </table>
