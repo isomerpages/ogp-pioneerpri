@@ -3,6 +3,7 @@ title: Principal Message
 permalink: /newsletterprincipalmessage/
 description: ""
 ---
+### Principals's Message May 2023
 
 <p align="justify">Our school vision is to groom our students to be <b>Passionate Learners, Confident Leaders and Gracious Citizens</b>. Indeed, Pioneer Primary School has been true in our mission to create a vibrant learning environment, setting our students on a path of discovery and growth. The school’s programmes and activities are geared towards ensuring that students are developed holistically and equipped with 21st Century Competencies.</p>
 
