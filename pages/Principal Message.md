@@ -34,17 +34,20 @@ Principal</td>
 <br>
 <table style="width: 100%;">
 <tbody>
-<tr>
-<td style="text-align: center;"><a href="/newsletterprincipalmessage/">Principal Message</a></td>
+<tr><td style="text-align: center;"><a href="/newsletterprincipalmessage/">Principal Message</a></td>
 <td style="text-align: center;"><a href="/newsletterstartwell">Start Well </a></td>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub3">Subpage 3</a></td>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub4">Subpage 4</a></td>
-</tr>
+<td style="text-align: center;"><a href="/newsletteralp">Applied Learning Programme (ALP)</a></td>
+<td style="text-align: center;"><a href="/newslettersportcarnival">Sports Carnival</a></td>
+</tr></tbody>
+</table>
+	
+<table style="width: 100%;">
+<tbody>
 <tr>
 <td style="text-align: center;"><a href="/newsletter2023sem1sub5">Subpage 5</a></td>
 <td style="text-align: center;"><a href="/newsletter2023sem1sub6">Subpage 6</a></td>
 <td style="text-align: center;"><a href="/newsletter2023sem1sub7">Subpage 7</a></td>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub8">Subpage 8</a></td>
+
 </tr>
 </tbody>
 </table>
