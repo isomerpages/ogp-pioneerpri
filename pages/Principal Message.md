@@ -43,11 +43,8 @@ Principal</td>
 	
 <table style="width: 100%;">
 <tbody>
-<tr>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub5">Subpage 5</a></td>
+<tr><td style="text-align: center;"><a href="/newsletter2023sem1sub5">Subpage 5</a></td>
 <td style="text-align: center;"><a href="/newsletter2023sem1sub6">Subpage 6</a></td>
 <td style="text-align: center;"><a href="/newsletter2023sem1sub7">Subpage 7</a></td>
-
-</tr>
-</tbody>
+</tr></tbody>
 </table>
