@@ -15,11 +15,20 @@ description: ""
 
 <p align="justify">Do you know what a bumblebee looks like? The bumblebee has a heavy body and tiny wings. Have you ever wondered how their tiny wings support their heavy bodies? According to the scientists, their wings beat at a high frequency and generate a lift through a figure-eight motion, allowing them to hover and fly efficiently. The bumblebees do not impose limitations on themselves because they are not aware that their heavy body may inhibit flying, and they keep flying. So, the learning point here is not to limit yourself and think that you can’t do it! The only limitations a person has are those that are self-imposed. Have a growth mindset and say, “<b>I Can Do It</b>”! To all Pioneer students, we believe you are capable of achieving incredible things and l would like to encourage you to persevere and work at it! So, go ahead, take the first step and believe that <b>You Can Do It!</b></p>
 
-<p>I wish all students and staff a fulfilling year ahead, making every effort to 
+<table>
+<tbody>
+<tr>
+<td><p>I wish all students and staff a fulfilling year ahead, making every effort to 
 	<b>Go for Excellence</b>!
 
 Mrs Lee Wai Ling<br>
-Principal</p>
+Principal</p></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+
 
 
 <br>
