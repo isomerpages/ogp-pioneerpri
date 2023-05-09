@@ -39,7 +39,7 @@ Principal</td>
 <td style="text-align: center; width: 25%; vertical-align: middle;"><a href="/newsletteralp">Applied Learning Programme (ALP)</a></td>
 <td style="text-align: center; width: 25%; vertical-align: middle;"><a href="/newslettersportcarnival">Sports Carnival</a></td>
 </tr></tbody>
-</table>
+</table><br>
 	
 <table style="width: 100%;">
 <tbody>
