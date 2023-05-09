@@ -34,17 +34,17 @@ Principal</td>
 <br>
 <table style="width: 100%;">
 <tbody>
-<tr><td style="text-align: center; width: 25%;"><a href="/newsletterprincipalmessage/">Principal Message</a></td>
-<td style="text-align: center; width: 25%;"><a href="/newsletterstartwell">Start Well </a></td>
-<td style="text-align: center; width: 25%;"><a href="/newsletteralp">Applied Learning Programme (ALP)</a></td>
-<td style="text-align: center; width: 25%;"><a href="/newslettersportcarnival">Sports Carnival</a></td>
+<tr><td style="text-align: center; width: 25%; vertical-align: middle;"><a href="/newsletterprincipalmessage/">Principal Message</a></td>
+<td style="text-align: center; width: 25%; vertical-align: middle;"><a href="/newsletterstartwell">Start Well </a></td>
+<td style="text-align: center; width: 25%; vertical-align: middle;"><a href="/newsletteralp">Applied Learning Programme (ALP)</a></td>
+<td style="text-align: center; width: 25%; vertical-align: middle;"><a href="/newslettersportcarnival">Sports Carnival</a></td>
 </tr></tbody>
 </table>
 	
 <table style="width: 100%;">
 <tbody>
-<tr><td style="text-align: center; width: 33%;"><a href="/newsletter2023sem1sub5">Subpage 5</a></td>
-<td style="text-align: center; width: 33%"><a href="/newsletter2023sem1sub6">Subpage 6</a></td>
-<td style="text-align: center; width: 33%"><a href="/newsletter2023sem1sub7">Subpage 7</a></td>
+<tr><td style="text-align: center; width: 33%; vertical-align: middle;"><a href="/newsletter2023sem1sub5">Subpage 5</a></td>
+<td style="text-align: center; width: 33%; vertical-align: middle;"><a href="/newsletter2023sem1sub6">Subpage 6</a></td>
+<td style="text-align: center; width: 33%; vertical-align: middle;"><a href="/newsletter2023sem1sub7">Subpage 7</a></td>
 </tr></tbody>
 </table>
