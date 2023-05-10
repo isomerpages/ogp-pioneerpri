@@ -38,8 +38,8 @@ Principal</td>
 <td style="text-align: center; width: 25%; vertical-align: middle;background-color: #FFFAEA; border-color: white;"><a href="/newsletterstartwell">Start Well </a></td>
 <td style="text-align: center; width: 25%; vertical-align: middle;background-color: #FFF6D9; border-color: white;"><a href="/newsletteralp">Applied Learning Programme (ALP)</a></td>
 <td style="text-align: center; width: 25%; vertical-align: middle; background-color: #FFFAEA; border-color: white;"><a href="/newslettersportcarnival">Sports Carnival</a></td>
-</tr></tbody>
-</table><br>
+</tr><tr></tr></tbody>
+</table>
 	
 <table style="width: 100%;" border="0">
 <tbody>
