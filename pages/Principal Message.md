@@ -28,10 +28,10 @@ description: ""
 <tbody>
 <tr>
 <td><p>I wish all students and staff a fulfilling year ahead, making every effort to 
-	<b>Go for Excellence</b>!</p><br><br>
+	<b>Go for Excellence</b>!<br><br>
 
 Mrs Lee Wai Ling<br>
-Principal</td>
+Principal</p></td>
 	<td><img src="/images/Newsletter/newsletter01.jpeg"><p></p></td>
 </tr>
 </tbody>
