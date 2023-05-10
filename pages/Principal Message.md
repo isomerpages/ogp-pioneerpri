@@ -41,7 +41,7 @@ Principal</td>
 </tr></tbody>
 </table>
 	
-<table style="width: 100%;" border="10">
+<table style="width: 100%;" border="0">
 <tbody>
 <tr style="height: 75px;"><td style="text-align: center; width: 33%; vertical-align: middle;background-color: #FFF6D9; border-color: white;"><a href="/newsletter2023sem1sub5">Subpage 5</a></td>
 <td style="text-align: center; width: 33%; vertical-align: middle; background-color: #FFFAEA; border-color: white;"><a href="/newsletter2023sem1sub6">Subpage 6</a></td>
