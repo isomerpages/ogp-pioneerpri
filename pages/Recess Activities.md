@@ -79,6 +79,16 @@ description: ""
 </tr>
 </tbody></table>
 
+#### Sports/Games
+<table><tbody>
+<tr>
+<td style="text-align: center; width: 60%; border:0;"><p align="justify">To promote healthy activities and play during their break time, our school implemented recess play for Sports and Games. At the beginning of the term, PE representatives from each class underwent training to become effective student leaders. They learnt how to set up the play areas and manage the PE equipment for their peers during recess play.</p>
+	
+<p align="justify">Students were thrilled to play badminton, frisbee, and other sports with their friends, keeping themselves active and engaged during break time. The recess play activity has provided a meaningful and fun platform for our students to interact with each other while also promoting physical activity and healthy play.</p>
+	</td>
+</tr></tbody></table>
+
+
 
 
 
