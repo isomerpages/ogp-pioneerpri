@@ -12,6 +12,15 @@ description: ""
 </tr>
 </tbody></table>
 
+<table><tbody>
+<tr>
+<td style="text-align: center; width: 60%; border:0;"><p align="justify">In our endeavour to develop innovative leaders, we involved the student leaders in the brainstorming and designing phase of the Sports Carnival. They also facilitated in the games. Several new sports games such as the Modified Scooter Board Dodgeball, Modified Sitting Beachball Volley and Modified Human Foosball were introduced. </p>
+	
+<p align="justify">It was exhilarating to watch our students try their best to achieve honour and glory for their own Houses. Game tokens were awarded to the participants and points were subsequently added to the overall House points. Every participant was given a medal to celebrate their achievement.  </p>
+
+<p align="justify">This year, we also introduced the Teachers’ Challenge! Our teachers had the chance to let their hair down and participate in a game of Modified Scooter Board Dodgeball. The teachers gave their best for their Houses amidst the deafening cheers from the crowd. It was a fun-filled day packed with excitement and adrenaline. Students and teachers walked away not just with medals and tokens, but most importantly, memories!</p>
+</td></tr>
+</tbody></table>
 
 
 
