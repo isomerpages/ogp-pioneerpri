@@ -21,10 +21,19 @@ description: ""
 <td style="width: 50%;"><img src="/images/Newsletter/newsletter02_03.jpg"></td>
 <td style="width: 50%;"><img src="/images/Newsletter/newsletter02_04.jpg"></td>
 </tr>
-</tbody>
-</table>
+	<tr>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter02_05.jpg"></td>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter02_06.jpg"></td>
+</tr>
+</tbody></table>
 
-
+<table><tbody>
+<tr>
+<td style="width: 33%;"><img src="/images/Newsletter/newsletter02_07.jpg"></td>
+<td style="width: 33%;"><img src="/images/Newsletter/newsletter02_08.jpg"></td>
+<td style="width: 33%;"><img src="/images/Newsletter/newsletter02_09.jpg"></td>
+</tr>
+</tbody></table>
 
 
 
