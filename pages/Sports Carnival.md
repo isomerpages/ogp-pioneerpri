@@ -33,11 +33,13 @@ description: ""
 </tr>
 </tbody></table>
 
-<img src="/images/Newsletter/newsletter05_06.jpg"><table style="width: 50%><tbody>
+<table><tbody>
 <tr>
-<td style=">
-
-</table>
+<td style="width: 50%; border:0;">
+<img src="/images/Newsletter/newsletter05_06.jpg">
+</td>
+</tr>
+</tbody></table>
 
 
 <br>
