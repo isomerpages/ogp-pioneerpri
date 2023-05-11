@@ -43,8 +43,11 @@ description: ""
 </tr>
 </tbody></table>
 
-
-
+<table><tbody>
+<tr>
+<td style="text-align: center; width: 60%; border:0;"><p align="justify">As part of the Science Outreach Programme, students are given the opportunity to visit the Science Activity Room (i-Xperia), where they get to participate in various hands-on activities and experiments such as colour chromatography and water filtration listed in the Young Scientist Card. At i-Xperia, students get to engage in self-directed learning and develop their initiative and creativity.</p>
+	</td></tr>
+</tbody></table>
 
 <br>
 <table style="width: 100%;" border="0">
