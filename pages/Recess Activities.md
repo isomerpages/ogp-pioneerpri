@@ -88,7 +88,16 @@ description: ""
 	</td>
 </tr></tbody></table>
 
-
+<table><tbody>
+<tr>
+<td style="width: 50%; border:0;"><img src="/images/Newsletter/newsletter04_15.jpg"></td>
+<td style="width: 50%; border:0;"><img src="/images/Newsletter/newsletter04_16.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter04_17.jpg"></td>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter04_18.jpg"></td>
+</tr>
+</tbody></table>
 
 
 
