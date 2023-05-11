@@ -11,7 +11,7 @@ We would like to congratulate our staff on the following 2022 MOE awards and rec
 #### 2022 National Day Awards
 
 <b>The Commendation Medal</b><br>
-Mr Lim Soon Yang Joseph, HOD Mathematics
+Mr Lim Soon Yang Joseph, HOD Mathematics<br>
 Ms Suppiah Revathi, Year Head (Middle Primary)
 
 <b>The Long Service Medal</b><br>
