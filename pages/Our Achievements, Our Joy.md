@@ -20,8 +20,8 @@ Miss Rosita Binte Mohamed Yusoff, Teacher
 #### 2022 MOE Service Excellence Awards (MSEA)
 
 <b>Gold</b><br>
-Mr Kulwant Singh S/O Jassa Singh, Operations Manager
-Mr Lee Chien Shiong Desmond, School Staff Developer
+Mr Kulwant Singh S/O Jassa Singh, Operations Manager<br>
+Mr Lee Chien Shiong Desmond, School Staff Developer<br>
 Mr Lim Soon Yang Joseph, HOD Mathematics
 
 
