@@ -16,3 +16,10 @@ Ms Suppiah Revathi, Year Head (Middle Primary)
 
 <b>The Long Service Medal</b><br>
 Miss Rosita Binte Mohamed Yusoff, Teacher
+
+#### 2022 MOE Service Excellence Awards (MSEA)
+
+<b>Gold</b><br>
+Mr Kulwant Singh S/O Jassa Singh, Operations Manager
+Mr Lee Chien Shiong Desmond, School Staff Developer
+Mr Lim Soon Yang Joseph, HOD Mathematics
