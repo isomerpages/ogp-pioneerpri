@@ -26,9 +26,22 @@ description: ""
 </tr>
 </tbody></table>
 
+#### Science
+<table><tbody>
+<tr>
+<td style="text-align: center; width: 60%; border:0;"><p align="justify">As part of the Science Outreach Programme, students are given the opportunity to visit the Science Activity Room (i-Xperia), where they get to participate in various hands-on activities and experiments such as colour chromatography and water filtration listed in the Young Scientist Card. At i-Xperia, students get to engage in self-directed learning and develop their initiative and creativity.</p>
+	
+<p align="justify">In Semester 1, students made balloon-powered toy cars using recycled materials such as plastic drink bottles and bottle caps. They learnt how to make their toy car move with air from an inflated balloon. Students also had the chance to create a working model of the human hand using common art materials.</p>
+	</td>
+</tr></tbody></table>
 
-
-
+<table><tbody>
+<tr>
+<td style="width: 33%;"><img src="/images/Newsletter/newsletter04_05.jpg"></td>
+<td style="width: 33%;"><img src="/images/Newsletter/newsletter04_06.jpg"></td>
+<td style="width: 33%;"><img src="/images/Newsletter/newsletter04_07.jpg"></td>
+</tr>
+</tbody></table>
 
 
 
