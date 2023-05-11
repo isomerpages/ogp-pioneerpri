@@ -49,6 +49,23 @@ description: ""
 	</td></tr>
 </tbody></table>
 
+<table><tbody>
+<tr>
+<td style="width: 50%; border:0;"><img src="/images/Newsletter/newsletter04_08.jpg"></td>
+<td style="width: 50%; border:0;"><img src="/images/Newsletter/newsletter04_09.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter04_10.jpg"></td>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter04_11.jpg"></td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+
 <br>
 <table style="width: 100%;" border="0">
 <tbody>
