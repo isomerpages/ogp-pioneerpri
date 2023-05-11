@@ -3,28 +3,11 @@ title: Sports Carnival
 permalink: /newslettersportcarnival/
 description: ""
 ---
-# Sem 1 Sub 4
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<p>Content 123</p>
-<table style="width: 100%;">
-<tbody>
+### Sports Carnival
+
+<table><tbody>
 <tr>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub1">Subpage 1</a></td>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub2">Subpage 2</a></td>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub3">Subpage 3</a></td>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub4">Subpage 4</a></td>
+<td style="text-align: center; width: 60%; border:0;"><p align="justify">The Sports Carnival was truly memorable as we included our Primary 3 students for the very first time this year! Our students finally had the chance to pit their skills against one another as they represented their Houses. The Sports Carnival was separated into 2 main segments – House Challenge Sports Games and Carnival Games Stations. </p></td>
+<td style="text-align: center; width: 40%; border:0;"><img src="/images/Newsletter/newsletter05_01.jpg"></td>
 </tr>
-<tr>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub5">Subpage 5</a></td>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub6">Subpage 6</a></td>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub7">Subpage 7</a></td>
-<td style="text-align: center;"><a href="/newsletter2023sem1sub8">Subpage 8</a></td>
-</tr>
-</tbody>
-</table>
+</tbody></table>
