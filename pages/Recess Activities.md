@@ -60,6 +60,18 @@ description: ""
 </tr>
 </tbody></table>
 
+#### Maker Space
+<table><tbody>
+<tr>
+<td style="text-align: center; width: 60%; border:0;"><p align="justify">Maker Space is a new initiative that offers students a unique opportunity to engage in purposeful play and learning during recess. Equipped with a diverse array of maker kits, students are encouraged to explore, experiment, and express their creativity to the fullest.</p>
+	
+<p align="justify">In Term 1, our enthusiastic students embarked on an exhilarating journey with Ozobots, where they developed fundamental computational skills and mastered complex coding logics as they navigated through challenging obstacles and completed scavenger hunts.</p>
+	
+	<p align="justify">The self-directed and structured-play format not only enhanced their cognitive abilities but also fostered a strong sense of teamwork and camaraderie, preparing them to become future leaders and innovators.</p>
+	</td>
+</tr></tbody></table>
+
+
 
 
 
