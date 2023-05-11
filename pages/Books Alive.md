@@ -21,5 +21,11 @@ description: ""
 </tr>
 </tbody></table>
 
+<table><tbody>
+<tr>
+<td style="text-align: center; width: 60%; border:0;"><p align="justify">The pinnacle of Books Alive! was the captivating book talk by celebrated author Ms. Sharon Ismail. The students were delighted to listen to her engaging and enlightening talk, which offered a rare glimpse into the meticulous process of writing her remarkable book, What Sallamah Didn't Know. Ms. Sharon delivered a memorable presentation that left our students feeling inspired and encouraged to continue exploring the wonderful world of literature.</p></td>
+</tr></tbody></table>
+
+
 
 
