@@ -71,7 +71,13 @@ description: ""
 	</td>
 </tr></tbody></table>
 
-
+<table><tbody>
+<tr>
+<td style="width: 33%;"><img src="/images/Newsletter/newsletter04_12.jpg"></td>
+<td style="width: 33%;"><img src="/images/Newsletter/newsletter04_13.jpg"></td>
+<td style="width: 33%;"><img src="/images/Newsletter/newsletter04_14.jpg"></td>
+</tr>
+</tbody></table>
 
 
 
