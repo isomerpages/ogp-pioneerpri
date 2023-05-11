@@ -36,7 +36,7 @@ description: ""
 <table><tbody>
 <tr>
 <td style="width: 50%; border:0;">
-<img src="/images/Newsletter/newsletter05_06.jpg">
+<img style="width: 50%;" src="/images/Newsletter/newsletter05_06.jpg">
 </td>
 </tr>
 </tbody></table>
