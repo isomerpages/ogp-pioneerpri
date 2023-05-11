@@ -12,8 +12,8 @@ description: ""
 <td style="text-align: center; width: 40%;"><img src="/images/Newsletter/newsletter02_01.jpg"></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="text-align: center; width: 60%;"><p align="justify">By the end of the three days, our students had gotten to know their friends and teachers better and were prepared to blaze their way through the new year. We are excited to see what the future holds for our students, and we are confident that they will continue to embody our school values throughout the year.</p></td>
+<td style="text-align: center; width: 40%;"><img src="/images/Newsletter/newsletter02_02.jpg"></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
