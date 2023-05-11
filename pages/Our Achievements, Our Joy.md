@@ -26,10 +26,11 @@ Mr Lim Soon Yang Joseph, HOD Mathematics
 
 
 <b>Silver</b><br>
-Mdm Adeline Ng Hsu-I, Teacher
-Miss Chua Mei Sze April, HOD English Language
-Mr Fok Jun-Feng Bryan, Teacher
-Mdm Gunathilaga D/O Supiahmanian, OSO
-Mdm Hoe Lay Ding, CSO
-Mr Kuat Zhi Ming Shaun, HOD ICT &amp; MRL
+Mdm Adeline Ng Hsu-I, Teacher<br>
+Miss Chua Mei Sze April, HOD English Language<br>
+Mr Fok Jun-Feng Bryan, Teacher<br>
+Mdm Gunathilaga D/O Supiahmanian, OSO<br>
+Mdm Hoe Lay Ding, CSO<br>
+Mr Kuat Zhi Ming Shaun, HOD ICT &amp; MRL<br>
 Miss Li Sisi, Teacher
+
