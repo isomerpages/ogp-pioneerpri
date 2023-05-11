@@ -23,3 +23,13 @@ Miss Rosita Binte Mohamed Yusoff, Teacher
 Mr Kulwant Singh S/O Jassa Singh, Operations Manager
 Mr Lee Chien Shiong Desmond, School Staff Developer
 Mr Lim Soon Yang Joseph, HOD Mathematics
+
+
+<b>Silver</b><br>
+Mdm Adeline Ng Hsu-I, Teacher
+Miss Chua Mei Sze April, HOD English Language
+Mr Fok Jun-Feng Bryan, Teacher
+Mdm Gunathilaga D/O Supiahmanian, OSO
+Mdm Hoe Lay Ding, CSO
+Mr Kuat Zhi Ming Shaun, HOD ICT &amp; MRL
+Miss Li Sisi, Teacher
