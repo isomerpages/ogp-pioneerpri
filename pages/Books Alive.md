@@ -33,3 +33,8 @@ description: ""
 <td style="width: 33%;"><img src="/images/Newsletter/newsletter06_06.jpg"></td>
 </tr>
 </tbody></table>
+
+<table><tbody>
+<tr>
+<td style="border:0;"><img style="width: 50%;" src="/images/Newsletter/newsletter06_07.jpg"></td>
+</tr></tbody></table>
