@@ -22,7 +22,16 @@ description: ""
 </td></tr>
 </tbody></table>
 
-
+<table><tbody>
+<tr>
+<td style="width: 50%; border:0;"><img src="/images/Newsletter/newsletter05_02.jpg"></td>
+<td style="width: 50%; border:0;"><img src="/images/Newsletter/newsletter05_03.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter05_04.jpg"></td>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter05_05.jpg"></td>
+</tr>
+</tbody></table>
 
 
 <br>
