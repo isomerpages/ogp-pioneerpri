@@ -35,6 +35,27 @@ description: ""
 </tr>
 </tbody></table>
 
+<table><tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/Newsletter/newsletter02_10.jpg"></td>
+
+</tr>
+</tbody></table>
+
+<table><tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter02_11.jpg"></td>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter02_12.jpg"></td>
+</tr>
+	<tr>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter02_13.jpg"></td>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter02_14.jpg"></td>
+</tr>
+	<tr>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter02_15.jpg"></td>
+<td style="width: 50%;"><img src="/images/Newsletter/newsletter02_16.jpg"></td>
+</tr>
+</tbody></table>
 
 
 
