@@ -11,7 +11,6 @@ third_nav_title: Newsletter
 </center>
 
 <br>
-<br>
 <table style="width: 100%;" border="0">
 <tbody>
 <tr style="height: 75px;"><td style="text-align: center; width: 25%; vertical-align: middle;background-color: #FFF6D9; border-color: white;"><a href="/newsletterprincipalmessage/">Principal Message</a></td>
