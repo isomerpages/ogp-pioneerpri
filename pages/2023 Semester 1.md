@@ -2,13 +2,13 @@
 title: 2023 Semester 1
 permalink: /pioneer-engagement/newsletter/2023-semester-1/
 description: ""
-third_nav_title: Newsletter
 ---
 ### Highlights May 2023
 
-<br>
-<br>
-<br>
+
+<center><img style="width:70%" src="/images/Newsletter/newsletter_empty_video.png"><br>Coming soon. Stay tuned!
+</center>
+
 <table style="width: 100%;" border="0">
 <tbody>
 <tr style="height: 75px;"><td style="text-align: center; width: 25%; vertical-align: middle;background-color: #FFF6D9; border-color: white;"><a href="/newsletterprincipalmessage/">Principal Message</a></td>
