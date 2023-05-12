@@ -7,7 +7,7 @@ third_nav_title: Newsletter
 ### Highlights May 2023
 
 
-<center><img style="width:50%" src="/images/Newsletter/newsletter_empty_video.png"><br>Stay tuned!
+<center><img style="width:70%" src="/images/Newsletter/newsletter_empty_video.png"><br>Stay tuned!
 </center>
 
 <br>
