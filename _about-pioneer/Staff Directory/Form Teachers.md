@@ -107,6 +107,6 @@ third_nav_title: Staff Directory
 | 6 RESILIENCE 6 | Mrs Adeline Giam | adeline_ng_hsu-_i@schools.gov.sg |
 |  | Mr Hafiz | hafiz_asyraf@schools.gov.sg |
 |  | Ms Revathi | suppiah_revathi@schools.gov.sg |
-| 6 RESILIENCE 6 | Mr Samuel | samuel_samuel_palraj@schools.gov.sg |
+| 6 RESILIENCE 7 | Mr Samuel | samuel_samuel_palraj@schools.gov.sg |
 |  | Mr Ramzi | ramzi_saad@schools.gov.sg |
 |  | Mdm Niryanty | niryanty_abd_razak@schools.gov.sg |
