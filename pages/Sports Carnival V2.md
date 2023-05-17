@@ -13,7 +13,7 @@ description: ""
 <td style="text-align: right;"><a href="/newsletter2023sem1subf/"><img src="/images/Newsletter/btn_next.png"></a></td>
 </tr>
 </tbody>
-</table>
+</table><br>
 
 
 <table style="width: 100%;" border="0">
