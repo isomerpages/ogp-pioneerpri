@@ -14,11 +14,11 @@ description: ""
 <td style="text-align: center; width: 50%;"><img src="/images/Newsletter/newsletter_sem1_pg02.png"></td></tr></tbody></table>
 
 
-<table style="width: 100%; height:15px;">
+<table style="width: 100%; height:10px;">
 <tbody>
-<tr>
-<td style="text-align: left;">&nbsp;</td>
-<td style="text-align: right;"><a href="/newsletter2023sem1subb/"><img style="width:30%; align:right;" src="/images/Newsletter/btn_next.png"></a></td>
+<tr style="height:10px">
+<td style="text-align: left; height:10px">&nbsp; &nbsp; avc</td>
+<td style="text-align: right;"><a href="/newsletter2023sem1subb/"><img style="width:30%;" src="/images/Newsletter/btn_next.png"></a></td>
 </tr>
 </tbody>
 </table><br>
@@ -26,7 +26,7 @@ description: ""
 <table style="width: 100%;" border="0">
 <tbody>
 <tr style="height: 75px;">
-<td style="text-align: center; width: 25%; vertical-align: middle;background-color: #FFF6D9; border-color: white;"><a href="/newsletter2023sem1suba/">Principal Message</a></td>
+<td style="text-align: center; width:25%; vertical-align: middle;background-color: #FFF6D9; border-color: white;"><a href="/newsletter2023sem1suba/">Principal Message</a></td>
 <td style="text-align: center; width: 25%; vertical-align: middle;background-color: #FFFAEA; border-color: white;"><a href="/newsletter2023sem1subb/">Start Well </a></td>
 <td style="text-align: center; width: 25%; vertical-align: middle;background-color: #FFF6D9; border-color: white;"><a href="/newsletter2023sem1subc/">Applied Learning Programme (ALP)</a></td>
 <td style="text-align: center; width: 25%; vertical-align: middle; background-color: #FFFAEA; border-color: white;"><a href="/newsletter2023sem1subd/">Sports Carnival</a></td>
