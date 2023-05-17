@@ -17,8 +17,8 @@ description: ""
 <table style="width: 100%; height:10px;">
 <tbody>
 <tr style="height:10px">
-<td style="text-align: left; height:10px">&nbsp; &nbsp; avc</td>
-<td style="text-align: right;"><a href="/newsletter2023sem1subb/"><img style="width:30%;" src="/images/Newsletter/btn_next.png"></a></td>
+<td style="text-align: left; width:70%;">&nbsp; &nbsp; </td>
+<td style="text-align: right;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/btn_next.png"></a></td>
 </tr>
 </tbody>
 </table><br>
