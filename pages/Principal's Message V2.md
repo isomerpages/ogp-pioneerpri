@@ -18,7 +18,7 @@ description: ""
 <tbody>
 <tr>
 <td style="text-align: left;">&nbsp;</td>
-<td style="text-align: right;"><a href="/newsletter2023sem1subb/">Next - Start Well&nbsp;</a></td>
+<td style="text-align: right;"><a href="/newsletter2023sem1subb/"><img width="50%" src="/images/Newsletter/btn_next.png"></a></td>
 </tr>
 </tbody>
 </table><br>
