@@ -3,8 +3,7 @@ title: Newsletter 2023 Sem 1 Subpage 8
 permalink: /newsletter2023sem1sub8/
 description: ""
 ---
-
-# Sem 1 Sub 8
+# Page 1- Principal's Message
 <p>Content 123</p>
 <p>Content 123</p>
 <p>Content 123</p>
