@@ -4,6 +4,8 @@ permalink: /newsletter2023sem1subd/
 description: ""
 ---
 <img src="/images/Newsletter/newsletter_sem1_pg05.png">
+<img src="/images/Newsletter/newsletter_sem1_pg06.png">
+<img src="/images/Newsletter/newsletter_sem1_pg07.png">
 
 <br>
 
