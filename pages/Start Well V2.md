@@ -7,6 +7,14 @@ description: ""
 
 <br>
 
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td style="text-align: left;"><a href="/newsletter2023sem1suba/">&nbsp;Principal's Message </a></td>
+<td style="text-align: right;"><a href="/newsletter2023sem1subc/">Next - ALP</a></td>
+</tr>
+</tbody>
+</table>
 
 <table style="width: 100%;" border="0">
 <tbody>
