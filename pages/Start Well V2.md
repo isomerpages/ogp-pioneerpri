@@ -5,7 +5,6 @@ description: ""
 ---
 <img src="/images/Newsletter/newsletter_sem1_pg03.png">
 
-<br>
 
 <table style="width: 100%;">
 <tbody>
