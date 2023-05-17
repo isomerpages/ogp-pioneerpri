@@ -14,11 +14,11 @@ description: ""
 <td style="text-align: center; width: 50%;"><img src="/images/Newsletter/newsletter_sem1_pg02.png"></td></tr></tbody></table>
 
 
-<table style="width: 100%;">
+<table style="width: 100%; height:15px;">
 <tbody>
 <tr>
 <td style="text-align: left;">&nbsp;</td>
-<td style="text-align: right;"><a href="/newsletter2023sem1subb/"><img style="width:50%" src="/images/Newsletter/btn_next.png"></a></td>
+<td style="text-align: right;"><a href="/newsletter2023sem1subb/"><img style="width:30%; align:right;" src="/images/Newsletter/btn_next.png"></a></td>
 </tr>
 </tbody>
 </table><br>
