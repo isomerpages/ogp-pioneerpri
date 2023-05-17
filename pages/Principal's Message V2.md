@@ -14,10 +14,10 @@ description: ""
 <td style="text-align: center; width: 50%;"><img src="/images/Newsletter/newsletter_sem1_pg02.png"></td></tr></tbody></table>
 
 
-<table style="width: 100%; height:10px;">
+<table style="width: 100%;">
 <tbody>
-<tr style="height:10px">
-<td style="text-align: left; width:70%;">&nbsp; &nbsp; </td>
+<tr>
+<td style="text-align: left; width:70%;">&nbsp; </td>
 <td style="text-align: right;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/btn_next.png"></a></td>
 </tr>
 </tbody>
