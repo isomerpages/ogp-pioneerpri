@@ -25,7 +25,7 @@ description: ""
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/btn_btn02.png"></a></td>
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/btn_btn03.png"></a></td>
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/btn_btn04.png"></a></td>
-	</tr><tr><td></td></tr></tbody>
+	</tr></tbody>
 </table>
 
 <center>
