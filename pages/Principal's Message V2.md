@@ -31,7 +31,7 @@ description: ""
 </tr>
 <tr>
 	
-<td align="center" colspan="4" style="width:100%;">
+<td align="center" colspan="4">
 <table style="width: 80%; padding:0px; text-align: center;" border="0">
 <tbody>
 <tr style="height: 35px;">
