@@ -29,7 +29,7 @@ description: ""
 </table>
 
 <center>
-<table style="width: 75%;" border="0">
+<table style="width: 75%; padding:0px;" border="0">
 <tbody>
 <tr style="height: 25px;">
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1sube/"><img src="/images/Newsletter/btn_btn05.png"></a></td>
