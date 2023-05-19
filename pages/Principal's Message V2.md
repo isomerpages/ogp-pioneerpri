@@ -32,7 +32,7 @@ description: ""
 <tr>
 	
 <td align="center" colspan="4" style="width:100%;">
-<table style="width: 75%; padding:0px; text-align: center;" border="0">
+<table style="width: 80%; padding:0px; text-align: center;" border="0">
 <tbody>
 <tr style="height: 35px;">
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1sube/"><img src="/images/Newsletter/btn_btn05.png"></a></td>
