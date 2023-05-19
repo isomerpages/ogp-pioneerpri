@@ -7,12 +7,7 @@ description: ""
 <img src="/images/Newsletter/newsletter_sem1_pg02.png">
 
 
-<style>
-	img {
-   width: 100%;
-   display: block;
-	}
-	</style>
+
 	
 	
 	
