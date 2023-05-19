@@ -11,7 +11,7 @@ description: ""
 	
 	
 	
-	
+<center>
 <table style="width: 100%;">
 <tbody>
 <tr>
@@ -31,8 +31,8 @@ description: ""
 </tr>
 <tr>
 	
-<td align="center" colspan="4" style="width:100%;  text-align: center;">
-	<table style="width: 75%; padding:0px; text-align: center;" border="0">
+<td align="center" colspan="4" style="width:100%;">
+<table style="width: 75%; padding:0px; text-align: center;" border="0">
 <tbody>
 <tr style="height: 35px;">
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1sube/"><img src="/images/Newsletter/btn_btn05.png"></a></td>
@@ -45,3 +45,5 @@ description: ""
 	
 </tbody>
 </table>
+	
+</center>
