@@ -11,7 +11,7 @@ description: ""
 	
 	
 	
-<center>
+<!--                  Footer banner               -->
 <table style="width: 100%;">
 <tbody>
 <tr>
@@ -46,5 +46,3 @@ description: ""
 	
 </tbody>
 </table>
-	
-</center>
