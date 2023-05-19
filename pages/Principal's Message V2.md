@@ -18,7 +18,7 @@ description: ""
 </tbody>
 </table><br>
 
-<table style="width: 100%;" border="0">
+<table style="width: 100%; padding:0px;" border="0">
 <tbody>
 <tr style="height: 25px;">
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/btn_btn01.png"></a></td>
