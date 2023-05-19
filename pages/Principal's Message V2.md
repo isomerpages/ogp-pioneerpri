@@ -7,8 +7,16 @@ description: ""
 <img src="/images/Newsletter/newsletter_sem1_pg02.png">
 
 
-
-
+<style>
+	img {
+   width: 100%;
+   display: block;
+	}
+	</style>
+	
+	
+	
+	
 <table style="width: 100%;">
 <tbody>
 <tr>
@@ -25,11 +33,10 @@ description: ""
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/btn_btn02.png"></a></td>
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1subc/"><img src="/images/Newsletter/btn_btn03.png"></a></td>
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1subd/"><img src="/images/Newsletter/btn_btn04.png"></a></td>
-</tr></tbody>
-</table>
-
-<center>
-<table style="width: 75%; padding:0px;" border="0">
+</tr>
+<tr>
+<td align="center" colspan="4" style="100%;">
+	<table style="width: 75%; padding:0px;" border="0">
 <tbody>
 <tr style="height: 35px;">
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1sube/"><img src="/images/Newsletter/btn_btn05.png"></a></td>
@@ -37,4 +44,8 @@ description: ""
 <td style="width:25%; vertical-align: middle; border-width: 0px;"><a href="/newsletter2023sem1subg/"><img src="/images/Newsletter/btn_btn07.png"></a></td>
 </tr></tbody>
 </table>
-	</center>
+</td>
+</tr>
+	
+</tbody>
+</table>
