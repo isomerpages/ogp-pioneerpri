@@ -15,7 +15,7 @@ description: ""
 <td style="text-align: right;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/btn_next.png"></a></td>
 </tr>
 </tbody>
-</table>
+</table><br>
 
 <!--                  Footer banner               -->
 <table style="width: 100%; padding:0px;" border="0">
