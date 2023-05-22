@@ -1,13 +1,21 @@
 ---
-title: 2023 Semester 1
-permalink: /pioneer-engagement/newsletter/2023-semester-1/
+title: Principal's Message V2
+permalink: /newsletter2023sem1suba/
 description: ""
 ---
-### Highlights May 2023
+<img src="/images/Newsletter/newsletter_sem1_pg01.png">
+<img src="/images/Newsletter/newsletter_sem1_pg02.png">
 
 
-<center><img style="width:70%" src="/images/Newsletter/newsletter_empty_video.png"><br>Coming soon. Stay tuned!
-</center>
+
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td style="text-align: left; width:80%;"></td>
+<td style="text-align: right;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/btn_next.png"></a></td>
+</tr>
+</tbody>
+</table><br>
 
 <!--                  Footer banner               -->
 <table style="width: 100%; padding:0px;" border="0">

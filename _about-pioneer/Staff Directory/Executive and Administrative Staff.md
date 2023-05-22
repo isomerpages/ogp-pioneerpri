@@ -25,8 +25,9 @@ third_nav_title: Staff Directory
 | Mr Liow Swee Choi  | Operations Support Officer |    -  |
 | Mdm Soh Beng Chew                | Operations Support Officer |    -  |
 | Mr Yong Khik Luong               | Operations Support Officer |       -  |
-| Ms Wendy Ong Guat Ching          | Teacher Aide               |         wendy_ong_guat_ching@schools.gov.sg  |
-| Mdm Rozanita Binte Ajis    | Librarian                  |                         rozanita.ajis@staff_spydus.com.sg |
+| Ms Wendy Ong Guat Ching          | Teacher Aide               |         wendy_ong_guat_ching@moe.edu.sg  |
+|Mdm Pitrawati Binte Amin |Teacher Aide|pitrawati_amin@moe.edu.sg|
+| Mdm Rozanita Binte Ajis    | Librarian                  |                         rozanita.ajis@staff.spydus.com.sg |
 | Mrs Rajini Vijaya Kumar | Flexi Adjunct | rajini_vijaya_kumar@schools.gov.sg |
 | Fazlina B Mohamed Ibrahim | Flexi Adjunct | fazlina_mohamed_ibrahim@moe.edu.sg |
 | Gloria Poh Hui Khim | Flexi Adjunct | gloria_poh_hui_khim@moe.edu.sg |
