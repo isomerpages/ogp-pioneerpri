@@ -9,19 +9,29 @@ description: ""
 <center><img style="width:70%" src="/images/Newsletter/newsletter_empty_video.png"><br>Coming soon. Stay tuned!
 </center>
 
-<table style="width: 100%;" border="0">
+<!--                  Footer banner               -->
+<table style="width: 100%; padding:0px;" border="0">
 <tbody>
-<tr style="height: 75px;"><td style="text-align: center; width: 25%; vertical-align: middle;background-color: #FFF6D9; border-color: white;"><a href="/newsletterprincipalmessage/">Principal Message</a></td>
-<td style="text-align: center; width: 25%; vertical-align: middle;background-color: #FFFAEA; border-color: white;"><a href="/newsletterstartwell">Start Well </a></td>
-<td style="text-align: center; width: 25%; vertical-align: middle;background-color: #FFF6D9; border-color: white;"><a href="/newsletteralp">Applied Learning Programme (ALP)</a></td>
-<td style="text-align: center; width: 25%; vertical-align: middle; background-color: #FFFAEA; border-color: white;"><a href="/newslettersportcarnival">Sports Carnival</a></td>
-	</tr><tr><td></td></tr></tbody>
-</table>
+<tr style="height: 35px;">
+<td style="width:25%; vertical-align: middle; border-width: 0px; padding:0px;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/btn_btn01.png"></a></td>
+<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/btn_btn02.png"></a></td>
+<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subc/"><img src="/images/Newsletter/btn_btn03.png"></a></td>
+<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subd/"><img src="/images/Newsletter/btn_btn04.png"></a></td>
+</tr>
+<tr>
 	
-<table style="width: 100%;" border="0">
+<td align="center" colspan="4">
+<table style="width: 90%; padding:0px; text-align: center;" border="0">
 <tbody>
-<tr style="height: 75px;"><td style="text-align: center; width: 33%; vertical-align: middle;background-color: #FFF6D9; border-color: white;"><a href="/newsletterrecessactivities">Recess Activities</a></td>
-<td style="text-align: center; width: 33%; vertical-align: middle; background-color: #FFFAEA; border-color: white;"><a href="/newsletterbooksalive">Books Alive</a></td>
-<td style="text-align: center; width: 33%; vertical-align: middle;background-color: #FFF6D9; border-color: white;"><a href="/newsletterourachievements">Our Achievements, Our Joy</a></td>
+<tr style="height: 35px;">
+	<td style="width:10%;"></td>
+<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1sube/"><img src="/images/Newsletter/btn_btn05.png"></a></td>
+<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subf/"><img src="/images/Newsletter/btn_btn06.png"></a></td>
+<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subg/"><img src="/images/Newsletter/btn_btn07.png"></a></td>
 </tr></tbody>
+</table>
+</td>
+</tr>
+	
+</tbody>
 </table>
