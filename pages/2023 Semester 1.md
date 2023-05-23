@@ -6,7 +6,8 @@ description: ""
 ### Highlights May 2023
 
 
-<center><img style="width:70%" src="/images/Newsletter/newsletter_empty_video.png"><br>Coming soon. Stay tuned!
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gyE6LX2Eawk" height="315" width="560"></iframe>
+
 </center>
 
 <!--                  Footer banner               -->
