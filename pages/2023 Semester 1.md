@@ -7,13 +7,13 @@ description: ""
 
 
 <center>	
-</center><table style="width: 80%; height:350px; padding:0px;" border="0">
+<table style="width: 80%; height:300px; padding:0px;" border="0">
 <tbody>
-<tr><td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gyE6LX2Eawk" height="350" width="80%"></iframe>
+<tr><td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gyE6LX2Eawk" height="300" width="80%"></iframe>
 	
 </td></tr></tbody>
 </table>
-	
+</center>
 
 <!--                  Footer banner               -->
 <table style="width: 100%; padding:0px;" border="0">
