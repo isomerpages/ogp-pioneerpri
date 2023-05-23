@@ -9,7 +9,7 @@ description: ""
 <center>	
 <table style="width: 100%; height:300px; padding:0px;" border="0">
 <tbody>
-<tr><td style="width: 10%"></td><td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gyE6LX2Eawk" height="300" width="90%"></iframe>
+<tr><td style="width: 10%"></td><td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gyE6LX2Eawk&amp;autoplay=1" height="300" width="90%"></iframe>
 	
 </td></tr></tbody>
 </table>
