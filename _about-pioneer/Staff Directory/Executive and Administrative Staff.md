@@ -36,4 +36,3 @@ third_nav_title: Staff Directory
 | Loh Pui Teng | Flexi Adjunct | loh_pui_teng@moe.edu.sg |
 | Teoh Mengh Ngee | Flexi Adjunct | teoh_mengh_ngee@moe.edu.sg |
 | Tan Lee Meng | Flexi Adjunct | tan_lee_meng@moe.edu.sg |
-| Nooraisha B Mohamed Yusoff | Flexi Adjunct |nooraishayusoff@gmail.com  |

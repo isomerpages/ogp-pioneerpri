@@ -1,16 +1,26 @@
 ---
-title: Applied Learning Programme (ALP)
-permalink: /newsletter2023sem1subc/
+title: 2023 Semester 1
+permalink: /pioneer-engagement/newsletter/2023-semester-1/
 description: ""
+third_nav_title: Newsletter
 ---
-<img src="/images/Newsletter/newsletter_sem1_pg04.png">
+### Highlights May 2023
+
+
+<center>	
+<table style="width: 100%; height:300px; padding:0px;" border="0">
+<tbody>
+<tr><td style="width: 10%"></td><td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gyE6LX2Eawk" height="320" width="90%"></iframe>
+	
+</td></tr></tbody>
+</table>
+</center>
 
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="text-align: left; width:20%;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/btn_prev.png"></a></td>
-	<td style="text-align: left; width:60%;"></td>
-<td style="text-align: right; width:20%;"><a href="/newsletter2023sem1subd/"><img src="/images/Newsletter/btn_next.png"></a></td>
+<td style="text-align: left; width:80%;"></td>
+<td style="text-align: right;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/btn_next.png"></a></td>
 </tr>
 </tbody>
 </table><br>
