@@ -67,6 +67,7 @@ third_nav_title: Staff Directory
 |  | Mdm Wong Liyun | wong_liyun@schools.gov.sg |
 |  | Mdm Aisyah | siti_aisyah_jamal@schools.gov.sg |
 | 5 INNOVATION 4 | Mdm Chew Zeng Yee | chew_zeng_yee@schools.gov.sg |
+|  | Ms Chua Jia Min | chua_jia_min@schools.gov.sg |
 |  | Mdm Rebecca Lee | lee_szu_lian_rebecca@schools.gov.sg |
 | 5 INNOVATION 5 | Mdm Farhana | farhana_mohd_nazren@schools.gov.sg |
 |  | Mdm Anis | sultan_anis_fathima@schools.gov.sg |
