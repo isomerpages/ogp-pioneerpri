@@ -23,9 +23,9 @@ description: ""
 <tbody>
 <tr style="height: 35px;">
 <td style="width:25%; vertical-align: middle; border-width: 0px; padding:0px;"><a href="/pioneer-engagement/newsletter/2023-semester-1/"><img src="/images/Newsletter/btn_btn00.png"></a></td>
-<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/btn_btn01.png"></a></td>
-<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subc/"><img src="/images/Newsletter/btn_btn02.png"></a></td>
-<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subd/"><img src="/images/Newsletter/btn_btn03.png"></a></td>
+<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/btn_btn01.png"></a></td>
+<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/btn_btn02.png"></a></td>
+<td style="width:25%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subc/"><img src="/images/Newsletter/btn_btn03.png"></a></td>
 </tr>
 
 <tr style="height: 35px;">
