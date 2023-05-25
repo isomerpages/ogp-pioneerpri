@@ -15,6 +15,15 @@ description: ""
 </table>
 </center>
 
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td style="text-align: left; width:80%;"></td>
+<td style="text-align: right;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/btn_next.png"></a></td>
+</tr>
+</tbody>
+</table><br>
+
 <!--                  Footer banner               -->
 <table style="width: 100%; padding:0px;" border="0">
 <tbody>
