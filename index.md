@@ -16,10 +16,10 @@ sections:
           url: /about-pioneer/staff-directory/form-teachers/
         - title: Newsletter
           description: 2023 Semester 1
-          url: /newsletter/newsletter2023sem1
+          url: /pioneer-engagement/newsletter/2023-semester-1/
       background: /images/Homepage/Banner 04.gif
   - infopic:
-      title: "Welcome to Pioneer Primary School! "
+      title: Welcome to Pioneer Primary School!
       subtitle: From the Principal’s Desk
       url: /about-pioneer/from-the-principal-s-desk/
       image: /images/PPS2021 Photoshoot 26 of 31.jpg
