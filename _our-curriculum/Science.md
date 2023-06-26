@@ -5,13 +5,15 @@ description: ""
 ---
 # Science
 
-<p align="Justify">Science education in Pioneer Primary aims to enthuse and nurture all students to be scientifically literate and they learn to ask, find or determine answers to questions about everyday experiences.  Equipped with strong Science fundamentals and 21st Century Competencies such as critical and inventive thinking and effective communication, students will have the essential skills and knowledge, be prepared for future learning and work. To foster the joy of learning, students are provided with authentic experiences both in and out of classroom settings to promote self-directed and collaborative learning.</P>
+<p align="Justify">Science education in Pioneer Primary aims to enthuse and nurture all students to be scientifically literate and they learn to ask, find or determine answers to questions about everyday experiences.  Equipped with strong Science fundamentals and 21st Century Competencies such as critical and inventive thinking and effective communication, students will have the essential skills and knowledge, be prepared for future learning and work. To foster the joy of learning, students are provided with authentic experiences both in and out of classroom settings to promote self-directed and collaborative learning.</p>
 
 ![](/images/Science.jpg)
 
 **Our Key Strategies**
 
-<p align="Justify">Through <b><i>inquiry-based learning (IBL)</b></i>, students familiarise themselves with thinking routines to promote scientific thinking and communication, ie <b><i>Predict-Observe-Explain (POE)</b></i> for hands-on experiments and <b><i>Analyse-Concept-Explain (ACE)</b></i> for Science in daily context. Using these two thinking routines, students acquire basic concepts and hone process skills like analysing, comparing, interpreting and evaluating to explain scientific phenomenon around them. </p>
+<p align="Justify">
+	Through <strong>inquiry-based learning (IBL)</strong>, students familiarise themselves with thinking routines to promote scientific thinking and communication, ie <strong>Predict-Observe-Explain (POE)</strong> for hands-on experiments and <strong>Analyse-Concept-Explain (ACE)</strong> for Science in daily context. Using these two thinking routines, students acquire basic concepts and hone process skills like analysing, comparing, interpreting and evaluating to explain scientific phenomenon around them.
+</p>
 
 **Our Key Programmes**
 
@@ -43,12 +45,12 @@ Under this programme, each student is given access to an online platform, hosted
 	
 * stimulate interest in science activities among students,
 * enable students to carry out self-directed activities in various disciplines of science, and
-* provide opportunities for students to develop initiative and creativity.</p>
+* provide opportunities for students to develop initiative and creativity.<p></p>
 </td>
 </tr>
 <tr>
 <td style="background-color: #dddddd; width: 100%;" colspan="2" width="100%">
-<p style="text-align: center;"><strong>Experience</strong></p>
+<p style="text-align: center;"><strong>Explore</strong></p>
 </td>
 </tr>
 <tr>
