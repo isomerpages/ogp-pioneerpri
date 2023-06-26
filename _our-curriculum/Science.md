@@ -44,7 +44,7 @@ Environment education creates an awareness about the environment and the challen
 Under this programme, each student is given access to an online platform, hosted by Science Centre Singapore, where they can choose to complete Science-based activities from a given list and earn a badge. Support and guidance are made available for students during the various recess sessions in i-Xperia. With the Young Scientist Programme, we hope to:<br><br>
 
 <p style="font-size: 12px">
-</p><li> stimulate interest in science activities among students,
+</p><li>  stimulate interest in science activities among students,
 </li><li> enable students to carry out self-directed activities in various disciplines of science, and
 </li><li> provide opportunities for students to develop initiative and creativity.
 </li>
