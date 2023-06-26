@@ -46,7 +46,7 @@ Under this programme, each student is given access to an online platform, hosted
 
 <li> stimulate interest in science activities among students,
 </li><li> enable students to carry out self-directed activities in various disciplines of science, and
-</li><li> provide opportunities for students to develop initiative and creativity.<p></p>
+</li><li> provide opportunities for students to develop initiative and creativity.
 </li></td>
 </tr>
 <tr>
