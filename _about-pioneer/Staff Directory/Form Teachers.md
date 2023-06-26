@@ -26,7 +26,6 @@ third_nav_title: Staff Directory
 | 3 RESPONSIBILITY 5 | Mrs Yvonne Ong | yeoh_dyit_fung@schools.gov.sg |
 |  | Mdm Ashikin | nor_ashikin_buang@schools.gov.sg |
 |  | Mdm Sabariah | sabariah_mohamed_samuni@schools.gov.sg |
-|  | Mdm Indhu | muthukumarasamy_indhumathi@schools.gov.sg |
 | 3 RESPONSIBILITY 6 | Ms Rosita | rosita_mohamed_yusoff@schools.gov.sg |
 |  | Mrs Bala | sudar_oly_sambasivam@schools.gov.sg |
 |  | Mr Simon Diong | diong_chong_huat_simon@schools.gov.sg |
