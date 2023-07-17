@@ -29,10 +29,9 @@ third_nav_title: Staff Directory
 |Mdm Pitrawati Binte Amin |Teacher Aide|pitrawati_amin@moe.edu.sg|
 | Mdm Rozanita Binte Ajis    | Librarian                  |                         rozanita.ajis@staff.spydus.com.sg |
 | Mrs Rajini Vijaya Kumar | Flexi Adjunct | rajini_vijaya_kumar@schools.gov.sg |
-| Fazlina B Mohamed Ibrahim | Flexi Adjunct | fazlina_mohamed_ibrahim@moe.edu.sg |
-| Gloria Poh Hui Khim | Flexi Adjunct | gloria_poh_hui_khim@moe.edu.sg |
-| Junaidah Begum B Hameed | Flexi Adjunct | junaidah_begum_hameed@moe.edu.sg |
-| Koh Siow Ngoh Jenny | Flexi Adjunct |koh_siow_ngoh_jenny@moe.edu.sg  |
-| Loh Pui Teng | Flexi Adjunct | loh_pui_teng@moe.edu.sg |
-| Teoh Mengh Ngee | Flexi Adjunct | teoh_mengh_ngee@moe.edu.sg |
-| Tan Lee Meng | Flexi Adjunct | tan_lee_meng@moe.edu.sg |
+| Mdm Fazlina B Mohamed Ibrahim | Flexi Adjunct | fazlina_mohamed_ibrahim@moe.edu.sg |
+| Mdm Gloria Poh Hui Khim | Flexi Adjunct | gloria_poh_hui_khim@moe.edu.sg |
+| Mdm Junaidah Begum B Hameed | Flexi Adjunct | junaidah_begum_hameed@moe.edu.sg |
+| Mdm Koh Siow Ngoh Jenny | Flexi Adjunct |koh_siow_ngoh_jenny@moe.edu.sg  |
+| Mrs Loh Pui Teng | Flexi Adjunct | loh_pui_teng@moe.edu.sg |
+| Mdm Teoh Mengh Ngee | Flexi Adjunct | teoh_mengh_ngee@moe.edu.sg |
