@@ -90,3 +90,6 @@ Facilitator of Networked Learning Communities (NLCs) <br>
 Nor Erwiena Bte Winarno P<br>
 &nbsp; &nbsp; • &nbsp; &nbsp;
 Foo Shi Ping Melissa<br>
+Facilitator of Workshops<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Shanti d/o Govindasamy<br>
