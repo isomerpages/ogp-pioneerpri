@@ -5,77 +5,91 @@ description: ""
 third_nav_title: Our Pride & Joy
 ---
 # Staff Accolades
-### 2022 MOE Service Excellence Awards
+### 2023 MOE Service Excellence Awards
 
 <strong>Gold</strong><br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mr Kulwant Singh S/O Jassa Singh, Operations Manager<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mr Lee Chien Shiong Desmond, School Staff Developer<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mr Lim Soon Yang Joseph, HOD Mathematics<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Chee Fong Siong<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Chen Sujing<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Gunathilaga D/O Supiahmanian<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Liow Siew Choi<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Ng Ai Ling<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Siti Aisyah Binte Jamal<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Soh Beng Chew<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Suppiah Revathi<br>
 
 <strong>Silver</strong><br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Adeline Ng Hsu-I, Teacher<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Miss Chua Mei Sze April, HOD English Language<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mr Fok Jun-Feng Bryan, Teacher<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Gunathilaga D/O Supiahmanian, OSO<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Hoe Lay Ding, CSO<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mr Kuat Zhi Ming Shaun, HOD ICT & MRL<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Miss Li Sisi, Teacher<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mr Liow Siew Choi, OSO<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Ng Ai Ling, Senior Teacher (Chinese Language)<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Nor Ashikin Bte Buang, Teacher<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Norly Bte Abdullah, HOD Student Management<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Nor Shaheila Binte Sahat, LH English Language<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Nurmahfuzah Mossadats, SEN Officer<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Sabariah Binte Mohamed Samuni, SH Malay Language<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mr Simon Diong Chong Huat, SH PE & PAL<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Siti Aisyah Binte Jamal, Year Head (Middle Primary)<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Miss Siti Nadzirah Binte Ahmad, CSO<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Soh Beng Chew, OSO<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mdm Suppiah Revathi, Year Head (Middle Primary)<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mr Wong Keng Soon, Teacher<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Chong Seow Hwei<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Chua Sok Hun<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Jamie Yip Wan Ching<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Lee Yit Kiong<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Lim Kok Leong<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Lynnette Sim Ai Li<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Marty D/O Suriyakkannu<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Ng Lay Khim<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Nurulfizah Binti Mohamed Ali<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Salamat Bin Rachey<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Shahira Binti Madzan<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Siti Rosniah Binte Md Isa<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Sophiana Bte Ramli<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Teo Woon Teng<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Wang Linzi<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Yang Qi<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Yang Shihui<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Zubaidah Binte Mahamood<br>
 
 
-### 2022 National Day Awards
+### 2023 National Day Awards
 
 <strong>The Commendation Medal</strong><br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Ms Suppiah Revathi, Year Head (Middle Primary)<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mr Lim Soon Yang Joseph, HOD Mathematics<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Norly Bte Abdullah<br>
 
 
 ### The Long Service Medal 
 
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Miss Rosita Binte Mohamed Yusoff, Teacher<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Chua Mei Sze<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Ridzwan Bin Jamil<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+S Zanariah Bte Ahmad<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Samuel s/o Samuel Palraj<br>
 
 
-### Academy Awards for Professional Development 2022
-<strong>Associates of the Academy of Singapore Teachers</strong><br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Mr Lim Soon Yang Joseph, HOD Mathematics<br>
-&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;
-Miss Nor Erwiena, Senior Teacher (Mathematics)<br>
+### MOE Academy Awards for Professional Development 2023
+<strong>Associate of AST Award Recipients 2023 [Education Officers]</strong><br>
+Facilitator of Networked Learning Communities (NLCs) <br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Nor Erwiena Bte Winarno P<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Foo Shi Ping Melissa<br>
+Facilitator of Workshops<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Shanti d/o Govindasamy<br>

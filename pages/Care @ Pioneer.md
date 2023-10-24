@@ -28,7 +28,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 130.641px; text-align: center;">3</td>
-<td style="width: 304.859px; text-align: center;">Let&rsquo;s Rock</td>
+<td style="width: 304.859px; text-align: center;">Let’s Rock</td>
 </tr>
 <tr>
 <td style="width: 130.641px; text-align: center;">4</td>
