@@ -64,19 +64,23 @@ Yang Shihui<br>
 Zubaidah Binte Mahamood<br>
 
 
-### 2022 National Day Awards
+### 2023 National Day Awards
 
 <strong>The Commendation Medal</strong><br>
 &nbsp; &nbsp; • &nbsp; &nbsp;
-Ms Suppiah Revathi, Year Head (Middle Primary)<br>
-&nbsp; &nbsp; • &nbsp; &nbsp;
-Mr Lim Soon Yang Joseph, HOD Mathematics<br>
+Norly Bte Abdullah<br>
 
 
 ### The Long Service Medal 
 
 &nbsp; &nbsp; • &nbsp; &nbsp;
-Miss Rosita Binte Mohamed Yusoff, Teacher<br>
+Chua Mei Sze<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Ridzwan Bin Jamil<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+S Zanariah Bte Ahmad<br>
+&nbsp; &nbsp; • &nbsp; &nbsp;
+Samuel s/o Samuel Palraj<br>
 
 
 ### Academy Awards for Professional Development 2022
