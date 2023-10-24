@@ -83,9 +83,10 @@ S Zanariah Bte Ahmad<br>
 Samuel s/o Samuel Palraj<br>
 
 
-### Academy Awards for Professional Development 2022
-<strong>Associates of the Academy of Singapore Teachers</strong><br>
+### MOE Academy Awards for Professional Development 2023
+<strong>Associate of AST Award Recipients 2023 [Education Officers]</strong><br>
+Facilitator of Networked Learning Communities (NLCs) <br>
 &nbsp; &nbsp; • &nbsp; &nbsp;
-Mr Lim Soon Yang Joseph, HOD Mathematics<br>
+Nor Erwiena Bte Winarno P<br>
 &nbsp; &nbsp; • &nbsp; &nbsp;
-Miss Nor Erwiena, Senior Teacher (Mathematics)<br>
+Foo Shi Ping Melissa<br>
