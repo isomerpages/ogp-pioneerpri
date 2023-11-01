@@ -36,4 +36,11 @@ sections:
       url: https://go.gov.sg/westories-official
       image: /images/InfoPic Thumb/we stories website gif infopic 1.gif
       alt: Image alt text
+  - infopic:
+      title: Pioneer Primary School @ Tengah
+      id: infopic
+      description: Take a first look at the model for Pioneer Primary School @ Tengah!
+      button: Click here for the video
+      url: https://www.facebook.com/pioneerprisch/videos/3660171534310278/
+      alt: PPS@Tengah
 ---
