@@ -19,6 +19,14 @@ sections:
           url: /pioneer-engagement/newsletter/2023-semester-1/
       background: /images/Homepage/Banner 04.gif
   - infopic:
+      title: Pioneer Primary School @ Tengah
+      id: infopic
+      description: Take a first look at the model for Pioneer Primary School @ Tengah!
+      button: Click here for the video
+      url: https://www.facebook.com/pioneerprisch/videos/3660171534310278/
+      image: /images/InfoPic Thumb/pps at tengah.jpg
+      alt: PPS@Tengah
+  - infopic:
       title: Welcome to Pioneer Primary School!
       subtitle: From the Principal’s Desk
       url: /about-pioneer/from-the-principal-s-desk/
@@ -27,21 +35,4 @@ sections:
         wish one and all a Happy New Year! ...
       button: Read more
       alt: principal desk
-  - infopic:
-      title: WE STories 2023
-      subtitle: A collection of stories
-      description: Every secondary school has a fascinating story to share. May you be
-        delighted...
-      button: Read more
-      url: https://go.gov.sg/westories-official
-      image: /images/InfoPic Thumb/we stories website gif infopic 1.gif
-      alt: Image alt text
-  - infopic:
-      title: Pioneer Primary School @ Tengah
-      id: infopic
-      description: Take a first look at the model for Pioneer Primary School @ Tengah!
-      button: Click here for the video
-      url: https://www.facebook.com/pioneerprisch/videos/3660171534310278/
-      image: /images/InfoPic Thumb/pps at tengah.jpg
-      alt: PPS@Tengah
 ---
