@@ -42,5 +42,6 @@ sections:
       description: Take a first look at the model for Pioneer Primary School @ Tengah!
       button: Click here for the video
       url: https://www.facebook.com/pioneerprisch/videos/3660171534310278/
+      image: /images/InfoPic Thumb/pps at tengah.jpg
       alt: PPS@Tengah
 ---
