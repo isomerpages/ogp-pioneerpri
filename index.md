@@ -35,7 +35,7 @@ sections:
         inspiring work.
       button: Click here for the magazine
       url: https://heyzine.com/flip-book/c656bdae26.html
-      image: /images/InfoPic Thumb/soar_coverpage1.jpg
+      image: /images/InfoPic Thumb/soar_coverpage2.jpg
       alt: soar
   - infopic:
       title: Welcome to Pioneer Primary School!
