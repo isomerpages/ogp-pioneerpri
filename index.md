@@ -27,6 +27,16 @@ sections:
       image: /images/InfoPic Thumb/pps at tengah.jpg
       alt: PPS@Tengah
   - infopic:
+      title: SOAR
+      subtitle: SOAR subtitle
+      id: infopic
+      description: "SOAR description description description description description
+        description "
+      button: Button Text
+      url: https://heyzine.com/flip-book/c656bdae26.html
+      image: /images/InfoPic Thumb/soar_coverpage.jpg
+      alt: soar
+  - infopic:
       title: Welcome to Pioneer Primary School!
       subtitle: From the Principal’s Desk
       url: /about-pioneer/from-the-principal-s-desk/
