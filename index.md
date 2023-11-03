@@ -27,12 +27,13 @@ sections:
       image: /images/InfoPic Thumb/pps at tengah.jpg
       alt: PPS@Tengah
   - infopic:
-      title: SOAR
+      title: "Inspirations Unleashed: SOAR Magazine"
       subtitle: SOAR subtitle
       id: infopic
-      description: "SOAR description description description description description
-        description "
-      button: Button Text
+      description: Dive into the pages of SOAR magazine, where our talented students
+        showcase their creativity and insights. Click now to explore their
+        inspiring work.
+      button: Click here for the magazine
       url: https://heyzine.com/flip-book/c656bdae26.html
       image: /images/InfoPic Thumb/soar_coverpage.jpg
       alt: soar
