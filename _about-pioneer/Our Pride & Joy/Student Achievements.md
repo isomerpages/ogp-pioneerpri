@@ -129,85 +129,46 @@ variant: markdown
 </tr>
 <tr>
 <td>
-<p>22nd National Chinese Calligraphy Competition</p>
-<p>(第22届全国书法大赛)</p>
-</td>
+<p>2023 Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition  
+(2023年威德智海全国硬笔书法比赛)
+</p>
+	</td>
 <td>
-<p>Merit Award winners</p>
-<ul style="list-style-type: circle;">
-<li><em>Wang Xinran (5IN1) </em></li>
-<li><em>Bu Junyang (6RSA)</em></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>
-<p>2022 Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition&nbsp;</p>
-<p>(2022年威德智海全国硬笔书法比赛)</p>
-</td>
-<td>
-<p>Active Participation Award (School) 踊跃参与奖</p>
 <p>Culture Award winners</p>
 <ul style="list-style-type: circle;">
-<li><em>Shin Thant Eaindril Min (4IG1)</em></li>
-<li><em>Lee Seungha (4IG1)</em></li>
-<li><em>Yoon Eaindra Zin Win (3R2)</em></li>
+<li><em>Nadi Wai (5IN1)</em></li>
+<li><em>Lin Myat Aung (5IN1)</em></li>
+<li><em>Tapas Letreese Valenciano (5IN1)</em></li>
+<li><em>Eva Shanel Binte Abdul Mharsani (5IN3)</em></li>
+<li><em>Htet Eaindra Win (6RS3)</em></li>
 </ul>
-<p>Merit Award winner</p>
+<p>Merit Award winners</p>
 <ul style="list-style-type: circle;">
-<li><em>Bu Junyang (6RSA)</em></li>
-</ul>
-<p>Active Participation Award winners</p>
-<ul style="list-style-type: circle;">
-<li><em>Yeap Zhe Kai Cedrik (3R3)</em></li>
-<li><em>Li Zi Tong (4IG1)</em></li>
-<li><em>Samantha Koh E Xin (4IG1)</em></li>
-<li><em>Cherelle Chong Han Lin (6RS2)</em></li>
-<li><em>Liang Ya Chien (6RSA)</em></li>
-<li><em>Wang Yi Ting (4IG2)</em></li>
-<li><em>Chai Jia Yu (6RS2)</em></li>
-<li><em>Soh Zee Xuan (5IN1)</em></li>
+<li><em>Wang Yi Ting (5IN2)</em></li>
 </ul>
 </td>
 </tr>
 <tr>
 <td>
-<p>5th Text Recital Competition for Primary and Secondary Schools</p>
-<p>(第五届中小学华文课文朗诵比赛)</p>
+<p>6th Text Recital Competition for Primary and Secondary Schools 
+(第六届中小学华文课文朗诵比赛)
+</p>
 </td>
 <td>
 <p>Bronze Award (Individual)</p>
 <ul style="list-style-type: circle;">
-<li><em>Then Zhi Qing (4IG1)</em></li>
-</ul>
-<p>Silver Award (Individual)</p>
-<ul style="list-style-type: circle;">
-<li><em>Li Zi Tong (4IG1)</em></li>
+<li><em>Tay Xi Hui (4IG4)</em></li>
+<li><em>Li Zitong (5IN2)</em></li>
 </ul>
 <p>Bronze Award (Group)</p>
 <ul style="list-style-type: circle;">
-<li><em>Pan Shiyu (3R2)</em></li>
-<li><em>Ngiow Qin Kai (3R4)</em></li>
-<li><em>Tay Xi Hui (3R5)</em></li>
-</ul>
-<p>Silver Award (Group)</p>
-<ul style="list-style-type: circle;">
-<li><em>Ishanvi Lin Rao (3R1)</em></li>
-<li><em>Wong Min Hui (3R1)</em></li>
-</ul>
-<p>Silver Award (Group)</p>
-<ul style="list-style-type: circle;">
-<li><em>Lim Yu Xuan (4IG1)</em></li>
-<li><em>Koh E Xin (4IG1)</em></li>
-</ul>
-<p>Silver Award (Group)</p>
-<ul style="list-style-type: circle;">
-<li><em>Wang Xin Ran (5IN1)</em></li>
-<li><em>Soh Zee Xuan (5IN1)</em></li>
-<li><em>Chan Zi Ning (5IN1)</em></li>
+<li><em>Chen Shihan (3R2)</em></li>
+<li><em>Dora Ng Chin Yi (3R2)</em></li>
+<li><em>Angeline Lai Yi Ning (3R5)</em></li>
 </ul>
 </td>
 </tr>
+
 <tr>
 <td style="background-color: #dddddd;" colspan="2">
 <p><strong>Malay Language </strong></p>
@@ -215,32 +176,30 @@ variant: markdown
 </tr>
 <tr>
 <td>
-<p>Story-telling competition (Peraduan Saya Boleh Bercerita 2022)</p>
+<p>Creative Writing Competition (Karya Minda Kreatif 2023)</p>
 </td>
 <td>
-<p>Silver</p>
+<p>Gold Award</p>
 <ul style="list-style-type: circle;">
-<li><em>Lutfil Hadi Bin Zaihazrol (4IG6)</em></li>
+<li><em>Nur Laila Sumaiyah Binte Muhammad Hasanul Arifin (4IG1)</em></li>
 </ul>
-<p>Bronze</p>
+<li><em>Sheerin Nassah (5IN7)</em></li>
+
+<li><em>Andi’ Syakirah Binte Andi’ Khalid (6RS1)</em></li>
+
+<li><em>Putri Eva Natasha Binte Eruwan (6RS1)</em></li>
+
+<p>Silver Award</p>
 <ul style="list-style-type: circle;">
-<li><em>Nur Aniyah Firlyana Binte Muhammad Firdaus (4IG7)</em></li>
-<li><em>Nur Haziqah Binte Jeriko (6RSA)</em></li>
+<li><em>Nazihah Binte Kazi (4IG1)</em></li>
 </ul>
-</td>
-</tr>
-<tr>
-<td>
-<p>Creative Writing Competition (Karya Minda Kreatif 2022)</p>
-</td>
-<td>
-<p>Gold</p>
+<p>Bronze Award</p>
 <ul style="list-style-type: circle;">
-<li><em>Nur Haziqah Binte Jeriko (6RSA)</em></li>
-<li><em>Nurfatihah Binte Abdullah (6RSA)</em></li>
+<li><em>Aqasha Bahzi Bin Masrani (4IG2)</em></li>
 </ul>
 </td>
 </tr>
+
 <tr>
 <td style="background-color: #dddddd;" colspan="2">
 <p><strong>Applied Learning Programme (ALP)</strong></p>
