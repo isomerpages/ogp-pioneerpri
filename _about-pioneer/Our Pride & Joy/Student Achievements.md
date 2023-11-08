@@ -54,6 +54,24 @@ variant: markdown
 </td>
 </tr>
 <tr>
+</tr><tr>
+<td>
+<p>National Mathematical Olympiad of Singapore</p>
+</td>
+<td>
+<p>Bronze Award</p>
+<ul style="list-style-type: circle;">
+<li><em>Pang Rui Yang (5IN1)</em></li>
+<li><em>Phone Wati Maung Maung (5IN1)
+</em></li><li><em><em>Voo Yi You (5IN1)</em></em></li><em>
+<li><em>Xie Zixuan (5IN1)</em></li>
+<li><em>Yoon Me Me Phyo (5IN1)</em></li>
+<li><em>Lu Yejun Joel (5IN2)</em></li>
+<li><em>Tan Chin Hean (4IG1)</em></li>
+</em></ul><em>
+</em></td>
+</tr>
+<tr>
 <td style="background-color: #dddddd;" colspan="2">
 <p><strong>Science </strong></p>
 </td>
