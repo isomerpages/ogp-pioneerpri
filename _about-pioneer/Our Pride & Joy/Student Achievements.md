@@ -111,6 +111,17 @@ variant: markdown
 </ul>
 </td>
 </tr>
+	<tr>
+<td>
+<p>Science Buskers</p>
+</td>
+<td>
+<p>Primary School Category Finalist</p>
+<ul style="list-style-type: circle;">
+<li><em>Nalla Vishwaan Reddy (4IG1)</em></li>
+</ul>
+</td>
+</tr>
 <tr>
 <td style="background-color: #dddddd;" colspan="2">
 <p><strong>Chinese Language </strong></p>
