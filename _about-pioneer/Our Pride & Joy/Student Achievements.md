@@ -3,6 +3,7 @@ title: Student Achievements
 permalink: /about-pioneer/our-pride-and-joy/student-achievements/
 description: ""
 third_nav_title: Our Pride & Joy
+variant: markdown
 ---
 <table>
 <tbody>
@@ -18,14 +19,18 @@ third_nav_title: Our Pride & Joy
 </tr>
 <tr>
 <td style="width:40%">
-<p>NUS High School Primary Math Project Competition</p>
+<p>Annual Visual &amp; Spatial Mathlympics</p>
 </td>
 <td>
-<p>Craft of Creasing Project (Commendation Award)</p>
+<p>Silver Award</p>
 <ul style="list-style-type: circle;">
-<li><em>Zhang Joy Huang (4IG1)</em></li>
-<li><em>Phone Wati Maung (4IG1)</em></li>
-<li><em>Fiona Ng Chin Thong (4IG1)</em></li>
+<li><em>Guo Wangxuanhe (6RS1)</em></li>
+<li><em>Chutamas Ong (6RS1)</em></li>
+</ul>
+	<p>Bronze Award</p>
+<ul style="list-style-type: circle;">
+<li><em>Gan Yao Kai (6RS1)</em></li>
+<li><em>Liang Zihao (6RS1)</em></li>
 </ul>
 </td>
 </tr>
@@ -34,7 +39,7 @@ third_nav_title: Our Pride & Joy
 <p>SST Girls-in-STEM Challenge 2022</p>
 </td>
 <td>
-<p>Facilitator&rsquo;s Pick (Team)</p>
+<p>Facilitator’s Pick (Team)</p>
 <ul style="list-style-type: circle;">
 <li><em>Fiona Ng Chin Thong (4IN1)</em></li>
 <li><em>Nishitha Manivannan (5IN1)</em></li>
@@ -44,15 +49,15 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="background-color: #dddddd; " colspan="2">
+<td style="background-color: #dddddd;" colspan="2">
 <p><strong>Science </strong></p>
 </td>
 </tr>
 <tr>
-<td >
+<td>
 <p>Singapore Primary Science Olympiad</p>
 </td>
-<td >
+<td>
 <p>Gold Award</p>
 <ul style="list-style-type: circle;">
 <li><em>Guo Wangxuanhe (5IN1) </em></li>
@@ -64,12 +69,12 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="background-color: #dddddd; " colspan="2">
+<td style="background-color: #dddddd;" colspan="2">
 <p><strong>Chinese Language </strong></p>
 </td>
 </tr>
 <tr>
-<td >
+<td>
 <p>22nd National Chinese Calligraphy Competition</p>
 <p>(第22届全国书法大赛)</p>
 </td>
@@ -82,11 +87,11 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td >
+<td>
 <p>2022 Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition&nbsp;</p>
 <p>(2022年威德智海全国硬笔书法比赛)</p>
 </td>
-<td >
+<td>
 <p>Active Participation Award (School) 踊跃参与奖</p>
 <p>Culture Award winners</p>
 <ul style="list-style-type: circle;">
@@ -112,11 +117,11 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td >
+<td>
 <p>5th Text Recital Competition for Primary and Secondary Schools</p>
 <p>(第五届中小学华文课文朗诵比赛)</p>
 </td>
-<td >
+<td>
 <p>Bronze Award (Individual)</p>
 <ul style="list-style-type: circle;">
 <li><em>Then Zhi Qing (4IG1)</em></li>
@@ -150,15 +155,15 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="background-color: #dddddd; " colspan="2">
+<td style="background-color: #dddddd;" colspan="2">
 <p><strong>Malay Language </strong></p>
 </td>
 </tr>
 <tr>
-<td >
+<td>
 <p>Story-telling competition (Peraduan Saya Boleh Bercerita 2022)</p>
 </td>
-<td >
+<td>
 <p>Silver</p>
 <ul style="list-style-type: circle;">
 <li><em>Lutfil Hadi Bin Zaihazrol (4IG6)</em></li>
@@ -171,10 +176,10 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td >
+<td>
 <p>Creative Writing Competition (Karya Minda Kreatif 2022)</p>
 </td>
-<td >
+<td>
 <p>Gold</p>
 <ul style="list-style-type: circle;">
 <li><em>Nur Haziqah Binte Jeriko (6RSA)</em></li>
@@ -183,15 +188,15 @@ third_nav_title: Our Pride & Joy
 </td>
 </tr>
 <tr>
-<td style="background-color: #dddddd; " colspan="2">
+<td style="background-color: #dddddd;" colspan="2">
 <p><strong>Applied Learning Programme (ALP)</strong></p>
 </td>
 </tr>
 <tr>
-<td >
+<td>
 <p>JA Singapore Lights of Our Future competition</p>
 </td>
-<td >
+<td>
 <p>1st Place</p>
 <ul style="list-style-type: circle;">
 <li><em>Namish Reddy Guvvala (5IN1)</em></li>
@@ -229,11 +234,11 @@ third_nav_title: Our Pride & Joy
 </tr>
 <tr>
 <td width="172">
-<p>Boys&rsquo; Brigade</p>
+<p>Boys’ Brigade</p>
 </td>
 <td width="504">
 <p><u>J M Fraser Award for Excellence</u> (Silver)</p>
-<p><u>Boys&rsquo; Brigade Week</u> (Gold)</p>
+<p><u>Boys’ Brigade Week</u> (Gold)</p>
 <p>&nbsp;</p>
 <p>Gold Badge Winners</p>
 <ul style="list-style-type: circle;">
@@ -253,7 +258,7 @@ third_nav_title: Our Pride & Joy
 <td width="504">
 <p><u>SPSSC Nationals Track &amp; Field Championships</u></p>
 <p>4 x 50m relay Junior 1 Boys (Bronze)</p>
-<br />
+<br>
 <p>Senior 2 Boys Shot Put (Bronze)</p>
 <ul style="list-style-type: circle;">
 <li><em>Qian Yue (6RS2) </em></li>
@@ -271,7 +276,7 @@ third_nav_title: Our Pride & Joy
 </td>
 <td width="504">
 <p><u>NSG West Zone Basketball Championship </u></p>
-<p><em>Senior Division &ndash; 4<sup>th</sup></em></p>
+<p><em>Senior Division – 4<sup>th</sup></em></p>
 </td>
 </tr>
 <tr>
@@ -280,7 +285,7 @@ third_nav_title: Our Pride & Joy
 </td>
 <td width="504">
 <p><u>NSG West Zone Netball Championship </u></p>
-<p><em>Junior Division &ndash; Top 8</em></p>
+<p><em>Junior Division – Top 8</em></p>
 </td>
 </tr>
 <tr>
@@ -290,11 +295,11 @@ third_nav_title: Our Pride & Joy
 <td width="504">
 <p><u>SPSSC Nationals Wushu Championships</u></p>
 <p><u>Junior Boys</u></p>
-<p>3-duan Chang Quan &ndash; Champion</p>
+<p>3-duan Chang Quan – Champion</p>
 <ul style="list-style-type: circle;">
 <li><em>Tan Suang Hang Ronan (3R2)</em></li>
 </ul>
-<p>4-duan Broad Sword &ndash; Champion</p>
+<p>4-duan Broad Sword – Champion</p>
 <ul style="list-style-type: circle;">
 <li><em>Tan Suang Hang Ronan (3R2)</em></li>
 </ul>
