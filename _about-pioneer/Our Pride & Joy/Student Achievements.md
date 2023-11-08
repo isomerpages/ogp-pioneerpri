@@ -71,6 +71,7 @@ variant: markdown
 </em></ul><em>
 </em></td>
 </tr>
+	
 <tr>
 <td style="background-color: #dddddd;" colspan="2">
 <p><strong>Science </strong></p>
@@ -78,16 +79,35 @@ variant: markdown
 </tr>
 <tr>
 <td>
+<p>West Zone Junior Science Whiz Challenge </p>
+</td>
+<td>
+<p>Individual Category (5th position)</p>
+<ul style="list-style-type: circle;">
+<li><em>Guo Wangxuanhe (6RS1)</em></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
 <p>Singapore Primary Science Olympiad</p>
 </td>
 <td>
-<p>Gold Award</p>
+<p>Bronze Award</p>
 <ul style="list-style-type: circle;">
-<li><em>Guo Wangxuanhe (5IN1) </em></li>
+<li><em>Lin Htet Kyaw (5IN1)</em></li>
+<li><em>Voo Yi You (5IN1)</em></li>
+<li><em>Petros Kirsten Aira Atanacio (5IN1)</em></li>
 </ul>
 <p>Merit Award</p>
 <ul style="list-style-type: circle;">
-<li><em>Karuppaiya Barani Tharun (5IN1) </em></li>
+<li><em>Lee Seungha (5IN1)</em></li>
+<li><em>Lim Jing Rui (5IN1)</em></li>
+<li><em>Phone Wati Maung Maung (5IN1)</em></li>
+<li><em>Ramesh Raja Kavin (5IN1)</em></li>
+<li><em>Raguraman Hiya Sri (5IN1)</em></li>
+<li><em>Then Zhi Qing (5IN1)</em></li>
+<li><em>Yoon Me Me Phyo (5IN1)</em></li>
 </ul>
 </td>
 </tr>
