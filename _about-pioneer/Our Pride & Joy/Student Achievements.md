@@ -34,17 +34,22 @@ variant: markdown
 </ul>
 </td>
 </tr>
+	
 <tr>
 <td>
-<p>SST Girls-in-STEM Challenge 2022</p>
+<p>Annual Mathlympics</p>
 </td>
 <td>
-<p>Facilitator’s Pick (Team)</p>
+<p>Silver Award</p>
 <ul style="list-style-type: circle;">
-<li><em>Fiona Ng Chin Thong (4IN1)</em></li>
-<li><em>Nishitha Manivannan (5IN1)</em></li>
-<li><em>R S Jessica Christal (5IN1)</em></li>
-<li><em>Wang Xinran (5IN1)</em></li>
+<li><em>Saw Kai Wen (5IN1)</em></li>
+</ul>
+<p>Bronze Award</p>
+<ul style="list-style-type: circle;">
+<li><em>Pang Rui Yang (5IN1)</em></li>
+<li><em>Tan Jing Terng (5IN1)</em></li>
+<li><em>Zhao Xinde Jadon (5IN2)</em></li>
+<li><em>Qin Haoyi (4IG1)</em></li>
 </ul>
 </td>
 </tr>
