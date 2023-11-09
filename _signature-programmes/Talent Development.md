@@ -74,5 +74,8 @@ variant: markdown
 
 #### SOAR Magazine publication
 
-<p align="Justify">Our SOAR participants from P4 and P5 have poured their creativity into this captivating magazine. In this edition, they explore the world of magazine journalism, bringing us a delightful collection of poems, engaging narrative stories, and thought-provoking articles. Not only did they write the content, but these budding journalists also delved into the art of layout and design, meticulously piecing together every page of this magazine.
-We invite you to discover their hard work and creativity as you dive into the pages of SOAR Magazine. Get ready to be captivated, inspired, and thoroughly enjoy their remarkable achievements!</p>
+<p align="Justify">Our SOAR participants from P4 and P5 have poured their creativity into this captivating magazine. In this edition, they explore the world of magazine journalism, bringing us a delightful collection of poems, engaging narrative stories, and thought-provoking articles. Not only did they write the content, but these budding journalists also delved into the art of layout and design, meticulously piecing together every page of this magazine.</p>
+
+<p align="Justify">	We invite you to discover their hard work and creativity as you dive into the pages of SOAR Magazine. Get ready to be captivated, inspired, and thoroughly enjoy their remarkable achievements!</p>
+
+![SOAR](/images/InfoPic%20Thumb/soar_coverpage.jpg)
