@@ -185,6 +185,7 @@ variant: markdown
 <li><em>Sheerin Nassah (5IN7)</em></li>
 <li><em>Andi’ Syakirah Binte Andi’ Khalid (6RS1)</em></li>
 <li><em>Putri Eva Natasha Binte Eruwan (6RS1)</em></li>
+	</ul>
 <p>Silver Award</p>
 <ul style="list-style-type: circle;">
 <li><em>Nazihah Binte Kazi (4IG1)</em></li>
@@ -193,7 +194,7 @@ variant: markdown
 <ul style="list-style-type: circle;">
 <li><em>Aqasha Bahzi Bin Masrani (4IG2)</em></li>
 </ul>
-</ul></td>
+</td>
 </tr>
 
 <tr>
@@ -250,10 +251,10 @@ variant: markdown
 <p><u>J M Fraser Award for Excellence</u> (Silver)</p>
 <p>Gold Badge Winners</p>
 <ul style="list-style-type: circle;">
-<li><em>-	Tharun Shanmugam (6RS1)</em></li>
-<li><em>-	Chidambaram Eshv Varraaj (6RS2)</em></li>
-<li><em>-	Gershom Nathanael Daniel (6RS4)</em></li>
-<li><em>-	Lim Jing Wei (6RS5)</em></li>
+<li><em>Tharun Shanmugam (6RS1)</em></li>
+<li><em>Chidambaram Eshv Varraaj (6RS2)</em></li>
+<li><em>Gershom Nathanael Daniel (6RS4)</em></li>
+<li><em>Lim Jing Wei (6RS5)</em></li>
 </ul>
 <p>Best Boy Award</p>
 <ul style="list-style-type: circle;">
