@@ -248,7 +248,6 @@ variant: markdown
 </td>
 <td width="504">
 <p><u>J M Fraser Award for Excellence</u> (Silver)</p>
-<p>&nbsp;</p>
 <p>Gold Badge Winners</p>
 <ul style="list-style-type: circle;">
 <li><em>-	Tharun Shanmugam (6RS1)</em></li>
