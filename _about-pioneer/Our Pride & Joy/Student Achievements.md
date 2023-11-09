@@ -62,13 +62,13 @@ variant: markdown
 <p>Bronze Award</p>
 <ul style="list-style-type: circle;">
 <li><em>Pang Rui Yang (5IN1)</em></li>
-<li><em>Phone Wati Maung Maung (5IN1)
-</em></li><li><em><em>Voo Yi You (5IN1)</em></em></li><em>
+<li><em>Phone Wati Maung Maung (5IN1)</em></li>
+<li><em>Voo Yi You (5IN1)</em></li>
 <li><em>Xie Zixuan (5IN1)</em></li>
 <li><em>Yoon Me Me Phyo (5IN1)</em></li>
 <li><em>Lu Yejun Joel (5IN2)</em></li>
 <li><em>Tan Chin Hean (4IG1)</em></li>
-</em></ul><em>
+</ul><em>
 </em></td>
 </tr>
 	
@@ -184,11 +184,8 @@ variant: markdown
 <li><em>Nur Laila Sumaiyah Binte Muhammad Hasanul Arifin (4IG1)</em></li>
 </ul>
 <li><em>Sheerin Nassah (5IN7)</em></li>
-
 <li><em>Andi’ Syakirah Binte Andi’ Khalid (6RS1)</em></li>
-
 <li><em>Putri Eva Natasha Binte Eruwan (6RS1)</em></li>
-
 <p>Silver Award</p>
 <ul style="list-style-type: circle;">
 <li><em>Nazihah Binte Kazi (4IG1)</em></li>
