@@ -243,7 +243,7 @@ variant: markdown
 <tbody>
 <tr>
 <td colspan="2" width="676">
-<h3><strong>2022 Pioneer Primary School CCA Achievements</strong></h3>
+<h3><strong>2023 Pioneer Primary School CCA Achievements</strong></h3>
 </td>
 </tr>
 <tr>
@@ -252,16 +252,17 @@ variant: markdown
 </td>
 <td width="504">
 <p><u>J M Fraser Award for Excellence</u> (Silver)</p>
-<p><u>Boys’ Brigade Week</u> (Gold)</p>
 <p>&nbsp;</p>
 <p>Gold Badge Winners</p>
 <ul style="list-style-type: circle;">
-<li><em>Prabaharan Yoges (6RS2)</em></li>
-<li><em>Dharma Kingsline Soniya Joshan Sline(6RS1)</em></li>
+<li><em>-	Tharun Shanmugam (6RS1)</em></li>
+<li><em>-	Chidambaram Eshv Varraaj (6RS2)</em></li>
+<li><em>-	Gershom Nathanael Daniel (6RS4)</em></li>
+<li><em>-	Lim Jing Wei (6RS5)</em></li>
 </ul>
 <p>Best Boy Award</p>
 <ul style="list-style-type: circle;">
-<li><em>Prabaharan Yoges (6RS2)</em></li>
+<li><em>Tharun Shanmugam (6R1</em></li>
 </ul>
 </td>
 </tr>
