@@ -202,36 +202,37 @@ variant: markdown
 
 <tr>
 <td style="background-color: #dddddd;" colspan="2">
-<p><strong>Applied Learning Programme (ALP)</strong></p>
+<p><strong>Tamil Language </strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>JA Singapore Lights of Our Future competition</p>
+<p>Vasantham Pongal Competition</p>
 </td>
 <td>
-<p>1st Place</p>
+<p>Top 10 Awardees</p>
 <ul style="list-style-type: circle;">
-<li><em>Namish Reddy Guvvala (5IN1)</em></li>
-<li><em>KB. Tharun (5IN1)</em></li>
-<li><em>Jordan Lau Chun Hao (5IN1)</em></li>
-<li><em>M. Kamalesh Pandi (5IN1)</em></li>
-</ul>
-<p>2nd Place</p>
-<ul style="list-style-type: circle;">
-<li><em>Chutamas Ong (5IN1)</em></li>
-<li><em>Keh Zhi Ying (5IN1)</em></li>
-<li><em>Soh Zee Xuan (5IN1)</em></li>
-</ul>
-<p>3rd Place</p>
-<ul style="list-style-type: circle;">
-<li><em>Guo Wang Xuanhe (5IN1)</em></li>
-<li><em>Liang Zihao (5IN1)</em></li>
-<li><em>Tan Jia Feng (5IN1)</em></li>
-<li><em>Balaji Shyam (5IN1)</em></li>
+<li><em>Raguraman Hiya Sri (5INI)</em></li>
+<li><em>Eezha Venba (5IN3)</em></li>
 </ul>
 </td>
 </tr>
+<tr>
+<td>
+<p>Mediacorp National Tamil Spelling Bee Competition</p>
+</td>
+<td>
+<p>Third Prize</p>
+<ul style="list-style-type: circle;">
+<li><em>Raguraman Hiya Sri (5INI)</em></li>
+<li><em>R S Jerolyn Christal (5IN2)</em></li>
+<li><em>Pazhanivel Avaneesh (5IN2)</em></li>
+<li><em>Jagadish Sanjay (5IN2)</em></li>
+<li><em>Sasikumar Hashika (5IN2)</em></li>
+</ul>
+</td>
+</tr>
+
 </tbody>
 </table>
 <br>
