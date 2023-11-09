@@ -78,6 +78,5 @@ variant: markdown
 
 <p align="Justify">	We invite you to discover their hard work and creativity as you dive into the pages of SOAR Magazine. Get ready to be captivated, inspired, and thoroughly enjoy their remarkable achievements!</p>
 
-![SOAR](/images/InfoPic%20Thumb/soar_coverpage.jpg)
-
-<a href="https://gsk-hosting.com/JYPS_flipbook/" target="_blank">Click here for SOAR Magazine<img border="1" align="center" src="/images/InfoPic%20Thumb/soar_coverpage.jpg" style="width:90%"></a>
+<center>
+<a href="https://gsk-hosting.com/JYPS_flipbook/" target="_blank">Click here for SOAR Magazine<img border="1" align="center" src="/images/InfoPic%20Thumb/soar_coverpage.jpg" style="width:90%"></a></center>
