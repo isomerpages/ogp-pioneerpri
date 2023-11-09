@@ -344,7 +344,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td style="background-color: #dddddd;" colspan="2">
 <p><strong>Mathematics</strong></p>
 </td>
 </tr>
@@ -376,7 +376,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td style="background-color: #dddddd;" colspan="2">
 <p><strong>Science</strong></p>
 </td>
 </tr>
@@ -396,7 +396,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td style="background-color: #dddddd;" colspan="2">
 <p><strong>Chinese Language</strong></p>
 </td>
 </tr>
@@ -482,7 +482,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td style="background-color: #dddddd;" colspan="2">
 <p><strong>Malay Language</strong></p>
 </td>
 </tr>
@@ -515,7 +515,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td style="background-color: #dddddd;" colspan="2">
 <p><strong>Applied Learning Programme (ALP)</strong></p>
 </td>
 </tr>
