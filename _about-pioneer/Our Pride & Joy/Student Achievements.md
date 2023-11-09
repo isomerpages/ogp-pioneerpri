@@ -182,7 +182,6 @@ variant: markdown
 <p>Gold Award</p>
 <ul style="list-style-type: circle;">
 <li><em>Nur Laila Sumaiyah Binte Muhammad Hasanul Arifin (4IG1)</em></li>
-</ul>
 <li><em>Sheerin Nassah (5IN7)</em></li>
 <li><em>Andi’ Syakirah Binte Andi’ Khalid (6RS1)</em></li>
 <li><em>Putri Eva Natasha Binte Eruwan (6RS1)</em></li>
@@ -194,7 +193,7 @@ variant: markdown
 <ul style="list-style-type: circle;">
 <li><em>Aqasha Bahzi Bin Masrani (4IG2)</em></li>
 </ul>
-</td>
+</ul></td>
 </tr>
 
 <tr>
