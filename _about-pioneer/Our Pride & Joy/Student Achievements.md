@@ -266,6 +266,26 @@ variant: markdown
 </ul>
 </td>
 </tr>
+	
+<tr>
+<td width="172">
+<p>Club Scouts</p>
+</td>
+<td width="504">
+<p><u>Frank Cooper Sands Award </u>(Gold)</p>
+</td>
+</tr>
+
+<tr>
+<td width="172">
+<p>Art Expressions</p>
+</td>
+<td width="504">
+<p><u>Singapore Youth Festival (Category B)</u></p>
+<p><em>Certificate of Recognition</em></p>
+</td>
+</tr>
+	
 <tr>
 <td width="172">
 <p>Athletics</p>
