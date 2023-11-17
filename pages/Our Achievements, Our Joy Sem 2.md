@@ -11,9 +11,9 @@ description: ""
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="text-align: left; width:20%;"><a href="/newsletter2023sem2sube/"><img src="/images/Newsletter/btn_prev.png"></a></td>
+<td style="text-align: left; width:20%;"><a href="/newsletter2023sem2subk/"><img src="/images/Newsletter/btn_prev.png"></a></td>
 	<td style="text-align: left; width:60%;"></td>
-<td style="text-align: right; width:20%;"><a href="/newsletter2023sem2subg/"><img src="/images/Newsletter/btn_next.png"></a></td>
+<td style="text-align: right; width:20%;"></td>
 </tr>
 </tbody>
 </table><br>
