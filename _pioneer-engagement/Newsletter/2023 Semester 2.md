@@ -45,5 +45,13 @@ third_nav_title: Newsletter
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subg/"><img src="/images/Newsletter/btn_btn07.png"></a></td>
 </tr>
 	
+<tr style="height: 35px;">
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subd/"><img src="/images/Newsletter/btn_btn04.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1sube/"><img src="/images/Newsletter/btn_btn05.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subf/"><img src="/images/Newsletter/btn_btn06.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subg/"><img src="/images/Newsletter/btn_btn07.png"></a></td>
+
+</tr>
+	
 </tbody>
 </table>
