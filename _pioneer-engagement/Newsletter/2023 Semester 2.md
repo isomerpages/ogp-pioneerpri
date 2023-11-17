@@ -30,10 +30,10 @@ third_nav_title: Newsletter
 <table style="width: 100%; padding:0px;" border="0">
 <tbody>
 <tr style="height: 35px;">
-<td style="width:20%; vertical-align: middle; border-width: 0px; padding:0px;"><a href="/pioneer-engagement/newsletter/2023-semester-1/"><img src="/images/Newsletter/btn_btn00.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/btn_btn01.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/btn_btn02.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subc/"><img src="/images/Newsletter/btn_btn03.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px; padding:0px;"><a href="/pioneer-engagement/newsletter/2023-semester-1/"><img src="/images/Newsletter/Sem22023/btn_btn00s2.pngg"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/Sem22023/btn_btn01s2.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/Sem22023/btn_btn02s2.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subc/"><img src="/images/Newsletter/Sem22023/btn_btn03s2.png"></a></td>
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subc/"><img src="/images/Newsletter/btn_btn03.png"></a></td>
 </tr>
 
@@ -52,6 +52,7 @@ third_nav_title: Newsletter
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subg/"><img src="/images/Newsletter/btn_btn07.png"></a></td>
 
 </tr>
-	
+
+
 </tbody>
 </table>
