@@ -4,7 +4,7 @@ permalink: /newsletter2023sem2subg/
 variant: markdown
 description: ""
 ---
-<img src="/images/Newsletter/Sem22023/newsletter_sem2_pg13.png">
+<img src="/images/Newsletter/Sem22023/newsletter_sem2_pg12.png">
 
 <table style="width: 100%;">
 <tbody>
