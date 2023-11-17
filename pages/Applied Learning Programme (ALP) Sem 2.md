@@ -10,9 +10,9 @@ description: ""
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="text-align: left; width:20%;"><a href="/newsletter2023sem1subc/"><img src="/images/Newsletter/btn_prev.png"></a></td>
+<td style="text-align: left; width:20%;"><a href="/newsletter2023sem2subc/"><img src="/images/Newsletter/btn_prev.png"></a></td>
 	<td style="text-align: left; width:60%;"></td>
-<td style="text-align: right; width:20%;"><a href="/newsletter2023sem1sube/"><img src="/images/Newsletter/btn_next.png"></a></td>
+<td style="text-align: right; width:20%;"><a href="/newsletter2023sem2sube/"><img src="/images/Newsletter/btn_next.png"></a></td>
 </tr>
 </tbody>
 </table><br>
