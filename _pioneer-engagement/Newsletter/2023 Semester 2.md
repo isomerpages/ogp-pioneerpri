@@ -34,23 +34,22 @@ third_nav_title: Newsletter
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/Sem22023/btn_btn01s2.png"></a></td>
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/Sem22023/btn_btn02s2.png"></a></td>
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subc/"><img src="/images/Newsletter/Sem22023/btn_btn03s2.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subc/"><img src="/images/Newsletter/btn_btn03.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subc/"><img src="/images/Newsletter/Sem22023/btn_btn04s2.png"></a></td>
 </tr>
 
 <tr style="height: 35px;">
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subd/"><img src="/images/Newsletter/btn_btn04.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1sube/"><img src="/images/Newsletter/btn_btn05.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subf/"><img src="/images/Newsletter/btn_btn06.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subg/"><img src="/images/Newsletter/btn_btn07.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subg/"><img src="/images/Newsletter/btn_btn07.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subd/"><img src="/images/Newsletter/Sem22023/btn_btn05s2.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1sube/"><img src="/images/Newsletter/Sem22023/btn_btn06s2.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subf/"><img src="/images/Newsletter/Sem22023/btn_btn07s2.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subg/"><img src="/images/Newsletter/Sem22023/btn_btn08s2.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subg/"><img src="/images/Newsletter/Sem22023/btn_btn09s2.png"></a></td>
 </tr>
-	
-<tr style="height: 35px;">
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subd/"><img src="/images/Newsletter/btn_btn04.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1sube/"><img src="/images/Newsletter/btn_btn05.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subf/"><img src="/images/Newsletter/btn_btn06.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subg/"><img src="/images/Newsletter/btn_btn07.png"></a></td>
 
+<tr style="height: 35px;">
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subd/"><img src="/images/Newsletter/Sem22023/btn_btn10s2.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1sube/"><img src="/images/Newsletter/Sem22023/btn_btn11s2.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subf/"><img src="/images/Newsletter/Sem22023/btn_btn12s2.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subg/"><img src="/images/Newsletter/Sem22023/btn_btn13s2.pngg"></a></td>
 </tr>
 
 
