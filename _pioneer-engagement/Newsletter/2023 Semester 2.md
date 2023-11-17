@@ -21,7 +21,7 @@ third_nav_title: Newsletter
 <tbody>
 <tr>
 <td style="text-align: left; width:80%;"></td>
-<td style="text-align: right;"><a href="/newsletter2023sem1suba/"><img src="/images/Newsletter/btn_next.png"></a></td>
+<td style="text-align: right;"><a href="/newsletter2023sem2suba/"><img src="/images/Newsletter/btn_next.png"></a></td>
 </tr>
 </tbody>
 </table><br>
