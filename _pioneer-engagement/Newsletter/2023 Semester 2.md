@@ -46,9 +46,11 @@ third_nav_title: Newsletter
 </tr>
 
 <tr style="height: 35px;">
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"></td>
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem2subj/"><img src="/images/Newsletter/Sem22023/btn_btn10s2.png"></a></td>
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem2subk/"><img src="/images/Newsletter/Sem22023/btn_btn11s2.png"></a></td>
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem2subl/"><img src="/images/Newsletter/Sem22023/btn_btn12s2.png"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"></td>
 </tr>
 </tbody>
 </table>
