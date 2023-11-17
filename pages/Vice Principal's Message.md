@@ -12,7 +12,7 @@ description: ""
 <tr>
 <td style="text-align: left; width:20%;"><a href="/pioneer-engagement/newsletter/2023-semester-2/"><img src="/images/Newsletter/btn_prev.png"></a></td>
 <td style="text-align: left; width:60%;"></td>
-<td style="text-align: right; width:20%;"><a href="/newsletter2023sem1subb/"><img src="/images/Newsletter/btn_next.png"></a></td>
+<td style="text-align: right; width:20%;"><a href="/newsletter2023sem2subb/"><img src="/images/Newsletter/btn_next.png"></a></td>
 </tr>
 </tbody>
 </table><br>
