@@ -41,7 +41,7 @@ description: ""
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subj/"><img src="/images/Newsletter/Sem22023/btn_btn10s2.png"></a></td>
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subk/"><img src="/images/Newsletter/Sem22023/btn_btn11s2.png"></a></td>
 <td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subl/"><img src="/images/Newsletter/Sem22023/btn_btn12s2.png"></a></td>
-<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subm/"><img src="/images/Newsletter/Sem22023/btn_btn13s2.pngg"></a></td>
+<td style="width:20%; vertical-align: middle; border-width: 0px;padding:0px;"><a href="/newsletter2023sem1subm/"><img src="/images/Newsletter/Sem22023/btn_btn13s2.png"></a></td>
 </tr>
 </tbody>
 </table>
