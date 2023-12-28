@@ -3,14 +3,13 @@ title: Allied Educator
 permalink: /about-pioneer/staff-directory/allied-educator/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
 # Allied Educators
 
 | Name                          | Designation              | Email                                |
 |-------------------------------|--------------------------|--------------------------------------|
-| Mdm Goh Lay Hoon              | Senior AED (LBS)         | goh_lay_hoon_a@schools.gov.sg        |
 | Mdm Shahira Binti Madzan      | AED (SEN)                | shahira_madzan@schools.gov.sg        |
 | Mdm Nurmahfuzah Bte Mossadats | AED (SEN)                | nurmahfuzah_mossadats@schools.gov.sg |
-|Ms V Hemaarubini|AED (SEN)|v_hemaarubini@schools.gov.sg|
 | Mdm Marty Suriyakkannu        | Senior School Counsellor | marty_suriyakkannu@schools.gov.sg    |
 |Ms Sim Xin Yi Sarah|School Counsellor|sim_xin_yi_d@schools.gov.sg|
