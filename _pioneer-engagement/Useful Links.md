@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /pioneer-engagement/useful-links/
 description: ""
+variant: markdown
 ---
 # Useful Links
 
@@ -31,6 +32,12 @@ description: ""
 <td>Online Public Access Catalogue (OPAC)</td>
 <td><a href="https://schoolibrary.moe.edu.sg/pioneerpri">https://schoolibrary.moe.edu.sg/pioneerpri</a></td>
 </tr>
+<tr>
+<td>Group Personal Accident Insurance for Students</td>
+<td><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students">https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students</a>
+
+Click [here](/files/Parents-Gateway-User-Guide.pdf) for the PG User Guide</td>
+</tr>
 </tbody>
 </table>
 
@@ -59,4 +66,4 @@ Click [here](/files/Parents-Gateway-User-Guide.pdf) for the PG User Guide
 
 #### Online Public Access Catalogue (OPAC)
 
-<p align="Justify">OPAC (Online Public Access Catalogue) is the Library's search tool used to locate printed  books and journals available in the library. You can search for physical books and other reading materials through OPAC by author, title, ISBN, publisher, keyword and year of publication.</p>
+<p align="Justify">OPAC (Online Public Access Catalogue) is the Library's search tool used to locate printed&nbsp; books and journals available in the library. You can search for physical books and other reading materials through OPAC by author, title, ISBN, publisher, keyword and year of publication.</p>
