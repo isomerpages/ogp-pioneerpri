@@ -2,9 +2,10 @@
 title: School Advisory Commitee
 permalink: /our-community/school-advisory-commitee/
 description: ""
+variant: markdown
 ---
 # School Advisory Committee
-<P align="Justify">The School Advisory Committee (SAC) is a key partner of Pioneer Primary School. Members of the Committee come from diverse backgrounds and bring along with them a range of professional skills and expertise to support the school in delivering quality holistic education for its stakeholders. The SAC assists in sourcing and making provisions for resources that the school requires. These include financial contributions, expertise and networks that link the school to the community.</P>
+<p align="Justify">The School Advisory Committee (SAC) is a key partner of Pioneer Primary School. Members of the Committee come from diverse backgrounds and bring along with them a range of professional skills and expertise to support the school in delivering quality holistic education for its stakeholders. The SAC assists in sourcing and making provisions for resources that the school requires. These include financial contributions, expertise and networks that link the school to the community.</p>
 
 
 <table style="width: 80%;">
@@ -52,14 +53,8 @@ description: ""
 <td>Member</td>
 </tr>
 <tr>
-<td>Mr Srinivasan S Iyer</td>
-<td>Member</td>
-</tr>
-<tr>
 <td>Mr Wong Chee Meng</td>
 <td>Member</td>
 </tr>
 </tbody>
 </table>
-
-
