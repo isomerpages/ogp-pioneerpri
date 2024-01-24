@@ -1,0 +1,31 @@
+logo: /images/pioneer-primary-school.jpg
+links:
+  - title: About Pioneer
+    collection: about-pioneer
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Signature Programme
+    url: /signature-programmes/thinking-curriculum
+    sublinks:
+      - title: Thinking Curriculum
+        url: /signature-programmes/thinking-curriculum
+      - title: Applied Learning Programme
+        url: /signature-programmes/applied-learning-programme
+      - title: Learning for Life Programme
+        url: /signature-programmes/learning-for-life-programme
+      - title: Co-Curricular Activities
+        url: /signature-programmes/co-curriculum-activities/
+      - title: House System
+        url: /signature-programmes/house-system
+      - title: Student Well Being
+        url: /signature-programmes/student-well-being
+      - title: Student Leadership Development
+        url: /signature-programmes/student-leadership-development
+      - title: Talent Development
+        url: /signature-programmes/talent-development
+      - title: Internationalisation
+        url: /signature-programmes/internationalisation
+  - title: Our Community
+    collection: our-community
+  - title: Pioneer Engagement
+    collection: pioneer-engagement

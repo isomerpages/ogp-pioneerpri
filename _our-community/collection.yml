@@ -1,0 +1,6 @@
+collections:
+  our-community:
+    output: true
+    order:
+      - School Advisory Commitee.md
+      - Parent Support Group (PSG).md

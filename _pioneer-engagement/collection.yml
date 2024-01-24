@@ -1,0 +1,18 @@
+collections:
+  pioneer-engagement:
+    output: true
+    order:
+      - General Information/School Canteen Advertisement.md
+      - General Information/.keep
+      - General Information/School Information.md
+      - General Information/School Services.md
+      - School Safety.md
+      - Counselling Services.md
+      - Commemorative Events.md
+      - Newsletter/.keep
+      - Newsletter/2023 Semester 1.md
+      - Newsletter/2023 Semester 2.md
+      - Communication/.keep
+      - Communication/Letters and Notifications.md
+      - Useful Links.md
+      - Privacy Policy.md
