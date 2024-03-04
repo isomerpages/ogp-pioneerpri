@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff Directory
 variant: tiptap
 ---
-<h1>Executive and Adminstrative Staff</h1>
+<h1>Executive and Administrative Staff</h1>
 <table>
 <tbody>
 <tr>
