@@ -2,6 +2,6 @@ collections:
   our-community:
     output: true
     order:
-      - Page Title (Mrs Lynnette).md
       - School Advisory Commitee.md
       - Parent Support Group (PSG).md
+      - Page Title (Mrs Lynnette).md
