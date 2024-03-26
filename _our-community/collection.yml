@@ -2,8 +2,8 @@ collections:
   our-community:
     output: true
     order:
-      - Main 01/Page 03.md
-      - Main 01/Page 02.md
       - Main 01/.keep
+      - Main 01/Page 02.md
+      - Main 01/Page 03.md
       - School Advisory Commitee.md
       - Parent Support Group (PSG).md
