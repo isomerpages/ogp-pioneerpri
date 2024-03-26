@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Main 01
 ---
-<p>Content will be here.</p>
+<p>Sub Page 01 Content will be here.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Para 1</p>
