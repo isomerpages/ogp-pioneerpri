@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Sub Folder Page/.keep
       - School Advisory Commitee.md
       - Parent Support Group (PSG).md
       - Page Title (Mrs Lynnette).md
