@@ -35,6 +35,9 @@ in Phase 2B exceeds the vacancies available.</p>
 <p>Click here to <a href="https://form.gov.sg/65c35a28422a4d6b0ac95636" rel="noopener noreferrer nofollow" target="_blank">APPLY</a> (Application
 Period 1 April 2024 to 30 April 2024)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
