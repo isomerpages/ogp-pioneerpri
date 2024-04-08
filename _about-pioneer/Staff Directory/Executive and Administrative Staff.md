@@ -148,8 +148,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:andi.binriduan@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">andi.binriduan@ncs.com.sg</a>
-</p>
+<p>andi.binriduan@ncs.com.sg</p>
 </td>
 </tr>
 <tr>
@@ -226,8 +225,7 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Thatchaini.Kumaran@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Thatchaini.Kumaran@staff.spydus.com.sg</a>
-</p>
+<p>Thatchaini.kumaran@staff.spydus.com.sg</p>
 </td>
 </tr>
 <tr>
