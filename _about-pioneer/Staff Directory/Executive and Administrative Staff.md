@@ -142,6 +142,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Dapareskiriandi Bin Riduan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:andi.binriduan@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">andi.binriduan@ncs.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lee Yit Kiong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,13 +220,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rozanita Binte Ajis</p>
+<p>Ms Thatchaini Kumaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rozanita.ajis@staff.spydus.com.sg</p>
+<p><a href="mailto:Thatchaini.Kumaran@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Thatchaini.Kumaran@staff.spydus.com.sg</a>
+</p>
 </td>
 </tr>
 <tr>
