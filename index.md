@@ -46,4 +46,15 @@ sections:
         wish one and all a Happy New Year! ...
       button: Read more
       alt: principal desk
+  - infopic:
+      title: The Phoenix Rises
+      subtitle: Like and follow our FB and IG
+      id: infopic
+      description: Pioneer Primary School has specially prepared a song and MTV “The
+        Phoenix Rises” to celebrate our impending move to the Tengah District in
+        2026.
+      button: Watch Here
+      url: https://fb.watch/rwBWEAhWXS/
+      image: /images/InfoPic Thumb/The_Phoenix_Rises.jpg
+      alt: Image alt text
 ---
