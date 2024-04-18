@@ -19,6 +19,17 @@ sections:
           url: /pioneer-engagement/newsletter/2023-semester-2/
       background: /images/Homepage/Banner 04.gif
   - infopic:
+      title: The Phoenix Rises
+      subtitle: Like and follow our FB and IG
+      id: infopic
+      description: Pioneer Primary School has specially prepared a song and MTV “The
+        Phoenix Rises” to celebrate our impending move to the Tengah District in
+        2026.
+      button: Watch Here
+      url: https://fb.watch/rwBWEAhWXS/
+      image: /images/InfoPic Thumb/The_Phoenix_Rises.jpg
+      alt: Image alt text
+  - infopic:
       title: Pioneer Primary School @ Tengah
       id: infopic
       description: Take a first look at the model for Pioneer Primary School @ Tengah!
