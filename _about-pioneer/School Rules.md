@@ -39,7 +39,7 @@ must abide by the rules at the respective facilities to ensure safety is
 not compromised.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>Attendance</strong>
@@ -61,7 +61,7 @@ Without Valid Reasons. Reasons other than vacation will be considered on
 a case-by-case basis. The school will have to be informed in writing.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>School Attire and General Appearances</strong>
@@ -145,7 +145,7 @@ bangles, whether religious or not, is not allowed.</p>
 </ul>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong>Classroom Conduct (Before/During/After Lessons)</strong>
@@ -168,7 +168,7 @@ the following good attitude and behaviours:</p>
 <p>Complete your homework daily and submit it on time.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p><strong>Mobile Phones / Smart Watches</strong>
@@ -193,7 +193,7 @@ during school hours.</p>
 <p>Confiscated mobile phones / smart watches will be returned <strong><u>only to parents/guardians</u></strong>.</p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;</p>
+<p></p>
 <ol start="7" data-tight="true" class="tight">
 <li>
 <p><strong>Prohibited Items</strong>
