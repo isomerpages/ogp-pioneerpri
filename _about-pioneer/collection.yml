@@ -2,7 +2,6 @@ collections:
   about-pioneer:
     output: true
     order:
-      - School Rules and Regulations.md
       - From the Principal’s Desk.md
       - School Information.md
       - School Crest.md
@@ -18,4 +17,5 @@ collections:
       - Our Pride & Joy/The Pioneer Stories.md
       - Our Pride & Joy/Staff Accolades.md
       - Our Pride & Joy/Student Achievements.md
+      - School Rules and Regulations.md
       - Positive Discipline.md
