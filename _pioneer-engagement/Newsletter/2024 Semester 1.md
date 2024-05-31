@@ -12,6 +12,6 @@ third_nav_title: Newsletter
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PPS_2024_Sem_1_Newsletter_CP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PPS_2024_Sem_1_Newsletter_CP_2.jpg">
 </div>
 <p></p>
