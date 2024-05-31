@@ -15,7 +15,7 @@ sections:
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
         - title: Newsletter
-          description: 2023 Semester 2
+          description: 2024 Semester 1
           url: /pioneer-engagement/newsletter/2023-semester-2/
       background: /images/Homepage/Banner 04.gif
   - infopic:
