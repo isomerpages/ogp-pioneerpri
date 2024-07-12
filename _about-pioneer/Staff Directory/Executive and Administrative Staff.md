@@ -6,7 +6,12 @@ third_nav_title: Staff Directory
 variant: tiptap
 ---
 <h1>Executive and Administrative Staff</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,17 +66,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_jianhui@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Chin Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_chin_chin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -131,17 +125,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Raziff Bin Abd Azis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohamadraa@ncs.com.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Dapareskiriandi Bin Riduan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,6 +132,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>andi.binriduan@ncs.com.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Amir Zulfadhli Bin Zulkifly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>amir.binzulkifly@ncs.com.sg</p>
 </td>
 </tr>
 <tr>
