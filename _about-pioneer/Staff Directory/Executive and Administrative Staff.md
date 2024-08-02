@@ -26,13 +26,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Lay Khim</p>
+<p>Mr Chin Boon Kean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Administration Manager (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng_Lay_Khim@schools.gov.sg</p>
+<p>chin_boon_kean@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -48,17 +48,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chin Boon Kean</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chin_boon_kean@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Lee Jianhui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,6 +55,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_jianhui@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Samantha Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_seow_hwei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -81,13 +81,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Samantha Chong</p>
+<p>Ms Ng Kai Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adminstrative Executive</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_seow_hwei@schools.gov.sg</p>
+<p>ng_kai_li_d@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -99,17 +99,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>hoe_lay_ding@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Kai Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adminstrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_kai_li_d@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
