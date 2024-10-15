@@ -23,7 +23,9 @@ of Pioneer Primary School in the Tengah Estate. The song is also dedicated
 to the teaching fraternity who are committed to “lead, care and inspire”.</p>
 <p>For the noble work that teachers do daily, they have every reason to “lift
 their heads high, beaming with pride”!</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=AaiHfPLr1XQ"></iframe>
+</div>
 <h4>Peanut Butter and Jelly</h4>
 <p>We would like to share with you a song written by our very own P6 students.
 It is about their journey in PPS and how they have not only acquired knowledge
