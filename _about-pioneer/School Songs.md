@@ -24,7 +24,7 @@ to the teaching fraternity who are committed to “lead, care and inspire”.</p
 <p>For the noble work that teachers do daily, they have every reason to “lift
 their heads high, beaming with pride”!</p>
 <div class="iframe-wrapper">
-<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=AaiHfPLr1XQ"></iframe>
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AaiHfPLr1XQ"></iframe>
 </div>
 <h4>Peanut Butter and Jelly</h4>
 <p>We would like to share with you a song written by our very own P6 students.
