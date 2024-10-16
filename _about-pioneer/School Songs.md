@@ -32,8 +32,6 @@ their heads high, beaming with pride”!</p>
 care and inspire. The lyrics express the loving and caring relationship
 between teachers and students and the hope of seeing our students work
 hard, preparing to ride the rainbow towards a glorious future.”</p>
-<p>Lyrics By Mr Charles Tan
-<br>Music By Mrs Tan Ying Qing</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="500" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fzg899wlz8c"></iframe>
 </div>
