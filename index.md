@@ -26,7 +26,7 @@ sections:
         students.
       button: Watch Here
       url: https://fb.watch/vf623Htiv0/
-      image: /images/InfoPic Thumb/The_Phoenix_Rises.jpg
+      image: /images/Peanut_and_Butter_Jelly_Cover.png
       alt: Image alt text
   - infopic:
       title: Pioneer Primary School @ Tengah
