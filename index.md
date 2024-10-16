@@ -19,14 +19,13 @@ sections:
           url: /2024-semester-1/
       background: /images/Homepage/Banner 04.gif
   - infopic:
-      title: The Phoenix Rises
+      title: Peanut Butter and Jelly
       subtitle: Like and follow our FB and IG
       id: infopic
-      description: Pioneer Primary School has specially prepared a song and MTV “The
-        Phoenix Rises” to celebrate our impending move to the Tengah District in
-        2026.
+      description: We would like to share with you a song written by our very own P6
+        students.
       button: Watch Here
-      url: https://fb.watch/rwBWEAhWXS/
+      url: https://fb.watch/vf623Htiv0/
       image: /images/InfoPic Thumb/The_Phoenix_Rises.jpg
       alt: Image alt text
   - infopic:
