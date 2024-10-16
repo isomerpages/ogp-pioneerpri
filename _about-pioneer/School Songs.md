@@ -13,9 +13,8 @@ like peanut butter and jelly and how they would stick together like honey.
 This is part of our Learning for Life Programme (LLP) and the students
 have demonstrated their creative talents in the production of this song.</p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpioneerprisch%2Fvideos%2F911143714162957%2F&amp;show_text=false&amp;width=600&amp;t=0"></iframe>
+<iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpioneerprisch%2Fvideos%2F911143714162957%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
 </div>
-<hr>
 <h4>The Phoenix Rises</h4>
 <p>Pioneer Primary School has specially prepared a song and MTV “The Phoenix
 Rises” to celebrate our impending move to the Tengah District in 2026.
@@ -36,7 +35,7 @@ hard, preparing to ride the rainbow towards a glorious future.”</p>
 <p>Lyrics By Mr Charles Tan
 <br>Music By Mrs Tan Ying Qing</p>
 <div class="iframe-wrapper">
-<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fzg899wlz8c"></iframe>
+<iframe height="400" width="500" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fzg899wlz8c"></iframe>
 </div>
 <hr>
 <p><em>Copyright © Pioneer Primary School<br>ALL RIGHTS RESERVED</em>
