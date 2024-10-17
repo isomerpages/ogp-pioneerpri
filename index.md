@@ -19,15 +19,14 @@ sections:
           url: /2024-semester-1/
       background: /images/Homepage/Banner 04.gif
   - infopic:
-      title: SOAR Magazine
-      subtitle: Inspirations Unleashed
+      title: 2024 issue SOAR Magazine launched!
+      subtitle: ✨ Exciting News! ✨
       id: infopic
-      description: Dive into the pages of SOAR magazine, where our talented students
-        showcase their creativity and insights. Click now to explore their
-        inspiring work.
-      button: Click here for the magazine
-      url: https://heyzine.com/flip-book/c656bdae26.html
-      image: /images/InfoPic Thumb/soar_coverpage2.jpg
+      description: We are thrilled to announce the FIRST edition of our Mother Tongue
+        SOAR Magazine and the THIRD issue of our English SOAR Magazine.
+      button: Click to explore
+      url: www.google.com
+      image: /images/2024_SOAR_Magazine.jpg
       alt: soar
   - infopic:
       title: Peanut Butter and Jelly
