@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Talent Development/Talent Development.md
       - Talent Development/.keep
       - 2024 SOAR Magazine.md
       - Thinking Curriculum.md
