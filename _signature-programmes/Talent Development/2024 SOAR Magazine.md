@@ -32,16 +32,10 @@ creativity and insights. Click now to explore their inspiring work.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_SOAR_Magazine__521_x_642_.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/c32cdaf230.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_SOAR_Magazine__521_x_642_.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_SOAR_Magazine__496_x_642_.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/d6c21f7711.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_SOAR_Magazine__496_x_642_.jpg"></a>
 </th>
 </tr>
 </tbody>
