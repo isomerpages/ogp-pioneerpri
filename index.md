@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Commemorative Events
+        - title: 2024 SOAR Magazine
           description: Check it out
           url: /pioneer-engagement/commemorative-events/commemorative-events/
         - title: Form Teachers 2024
