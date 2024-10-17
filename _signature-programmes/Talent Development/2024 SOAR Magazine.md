@@ -25,7 +25,9 @@ creativity and insights. Click now to explore their inspiring work.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>📖 Click here for the MT SOAR Magazine: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 <a href="https://heyzine.com/flip-book/d6c21f7711.html" rel="noopener noreferrer nofollow" target="_new">Mother Tongue SOAR Magazine</a></strong>
+<p><strong>📖 Click here for the MT SOAR Magazine:</strong>
+</p>
+<p><strong>👉 <a href="https://heyzine.com/flip-book/d6c21f7711.html" rel="noopener noreferrer nofollow" target="_new">Mother Tongue SOAR Magazine</a></strong>
 </p>
 </td>
 </tr>
