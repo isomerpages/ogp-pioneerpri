@@ -19,6 +19,17 @@ sections:
           url: /2024-semester-1/
       background: /images/Homepage/Banner 04.gif
   - infopic:
+      title: SOAR Magazine
+      subtitle: Inspirations Unleashed
+      id: infopic
+      description: Dive into the pages of SOAR magazine, where our talented students
+        showcase their creativity and insights. Click now to explore their
+        inspiring work.
+      button: Click here for the magazine
+      url: https://heyzine.com/flip-book/c656bdae26.html
+      image: /images/InfoPic Thumb/soar_coverpage2.jpg
+      alt: soar
+  - infopic:
       title: Peanut Butter and Jelly
       subtitle: Like and follow our FB and IG
       id: infopic
@@ -36,17 +47,6 @@ sections:
       url: https://www.facebook.com/pioneerprisch/videos/3660171534310278/
       image: /images/InfoPic Thumb/pps at tengah.jpg
       alt: PPS@Tengah
-  - infopic:
-      title: SOAR Magazine
-      subtitle: Inspirations Unleashed
-      id: infopic
-      description: Dive into the pages of SOAR magazine, where our talented students
-        showcase their creativity and insights. Click now to explore their
-        inspiring work.
-      button: Click here for the magazine
-      url: https://heyzine.com/flip-book/c656bdae26.html
-      image: /images/InfoPic Thumb/soar_coverpage2.jpg
-      alt: soar
   - infopic:
       title: Welcome to Pioneer Primary School!
       subtitle: From the Principal’s Desk
