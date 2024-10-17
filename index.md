@@ -25,7 +25,7 @@ sections:
       description: We are thrilled to announce the FIRST edition of our Mother Tongue
         SOAR Magazine and the THIRD issue of our English SOAR Magazine.
       button: Click to explore
-      url: www.google.com
+      url: /2024-soar-magazine/
       image: /images/2024_SOAR_Magazine.jpg
       alt: soar
   - infopic:
