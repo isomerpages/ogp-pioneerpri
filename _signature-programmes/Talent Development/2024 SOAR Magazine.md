@@ -11,19 +11,38 @@ third_nav_title: Talent Development
 the <strong>THIRD </strong>issue of our <strong>English SOAR Magazine.</strong> Dive
 into the pages of SOAR magazine, where our talented students showcase their
 creativity and insights. Click now to explore their inspiring work.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>📖 Click here for the English SOAR Magazine:</strong>
+</p>
+<p><strong>👉 <a href="https://heyzine.com/flip-book/c32cdaf230.html" rel="noopener noreferrer nofollow" target="_new">English SOAR Magazine</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>📖 Click here for the MT SOAR Magazine: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 <a href="https://heyzine.com/flip-book/d6c21f7711.html" rel="noopener noreferrer nofollow" target="_new">Mother Tongue SOAR Magazine</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://heyzine.com/flip-book/c32cdaf230.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="English SOAR Magazine" src="/images/English_SOAR_Magazine.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">📖 Click here for the English SOAR Magazine: </div><div class="isomer-card-link">👉 English SOAR Magazine</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_SOAR_Magazine.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_SOAR_Magazine.png">
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
-</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
