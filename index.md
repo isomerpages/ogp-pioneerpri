@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: 2024 SOAR Magazine
           description: Check it out
-          url: /pioneer-engagement/commemorative-events/commemorative-events/
+          url: /signature-programmes/Talent-Development/2024-soar-magazine/
         - title: Form Teachers 2024
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
