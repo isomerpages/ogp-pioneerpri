@@ -33,13 +33,13 @@ creativity and insights. Click now to explore their inspiring work.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_SOAR_Magazine.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_SOAR_Magazine__521_x_642_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_SOAR_Magazine.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_SOAR_Magazine__496_x_642_.jpg">
 </div>
 </th>
 </tr>
