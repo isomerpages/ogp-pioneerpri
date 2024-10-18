@@ -13,7 +13,7 @@ like peanut butter and jelly and how they would stick together like honey.
 This is part of our Learning for Life Programme (LLP) and the students
 have demonstrated their creative talents in the production of this song.</p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="350" width="650" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpioneerprisch%2Fvideos%2F911143714162957%2F&amp;show_text=false&amp;width=650&amp;t=0"></iframe>
+<iframe style="border:none;overflow:hidden" height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpioneerprisch%2Fvideos%2F911143714162957%2F&amp;show_text=false&amp;width=650&amp;t=0"></iframe>
 </div>
 <h4>The Phoenix Rises</h4>
 <p>Pioneer Primary School has specially prepared a song and MTV “The Phoenix
@@ -24,7 +24,7 @@ to the teaching fraternity who are committed to “lead, care and inspire”.
 For the noble work that teachers do daily, they have every reason to “lift
 their heads high, beaming with pride”!</p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="350" width="650" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpioneerprisch%2Fvideos%2F387389244259629%2F&amp;show_text=false&amp;width=650&amp;t=0"></iframe>
+<iframe style="border:none;overflow:hidden" height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpioneerprisch%2Fvideos%2F387389244259629%2F&amp;show_text=false&amp;width=650&amp;t=0"></iframe>
 </div>
 <h4>Glorious Future</h4>
 <p>“Behind the song is the heartbeat of every educator who is called to lead,
@@ -32,7 +32,7 @@ care and inspire. The lyrics express the loving and caring relationship
 between teachers and students and the hope of seeing our students work
 hard, preparing to ride the rainbow towards a glorious future.”</p>
 <div class="iframe-wrapper">
-<iframe height="350" width="650" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fzg899wlz8c"></iframe>
+<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fzg899wlz8c"></iframe>
 </div>
 <hr>
 <p><em>Copyright © Pioneer Primary School<br>ALL RIGHTS RESERVED</em>
