@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Commemorative Events
+        - title: 2024 SOAR Magazine
           description: Check it out
-          url: /pioneer-engagement/commemorative-events/commemorative-events/
+          url: /2024-soar-magazine/
         - title: Form Teachers 2024
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
@@ -19,15 +19,24 @@ sections:
           url: /2024-semester-1/
       background: /images/Homepage/Banner 04.gif
   - infopic:
-      title: The Phoenix Rises
+      title: 2024 issue SOAR Magazine launched!
+      subtitle: ✨ Exciting News! ✨
+      id: infopic
+      description: We are thrilled to announce the FIRST edition of our Mother Tongue
+        SOAR Magazine and the THIRD issue of our English SOAR Magazine.
+      button: Click to explore
+      url: /2024-soar-magazine/
+      image: /images/2024_SOAR_Magazine.jpg
+      alt: soar
+  - infopic:
+      title: Peanut Butter and Jelly
       subtitle: Like and follow our FB and IG
       id: infopic
-      description: Pioneer Primary School has specially prepared a song and MTV “The
-        Phoenix Rises” to celebrate our impending move to the Tengah District in
-        2026.
+      description: We would like to share with you a song written by our very own P6
+        students.
       button: Watch Here
-      url: https://fb.watch/rwBWEAhWXS/
-      image: /images/InfoPic Thumb/The_Phoenix_Rises.jpg
+      url: https://fb.watch/vf623Htiv0/
+      image: /images/Peanut_and_Butter_Jelly_Cover.png
       alt: Image alt text
   - infopic:
       title: Pioneer Primary School @ Tengah
@@ -37,17 +46,6 @@ sections:
       url: https://www.facebook.com/pioneerprisch/videos/3660171534310278/
       image: /images/InfoPic Thumb/pps at tengah.jpg
       alt: PPS@Tengah
-  - infopic:
-      title: SOAR Magazine
-      subtitle: Inspirations Unleashed
-      id: infopic
-      description: Dive into the pages of SOAR magazine, where our talented students
-        showcase their creativity and insights. Click now to explore their
-        inspiring work.
-      button: Click here for the magazine
-      url: https://heyzine.com/flip-book/c656bdae26.html
-      image: /images/InfoPic Thumb/soar_coverpage2.jpg
-      alt: soar
   - infopic:
       title: Welcome to Pioneer Primary School!
       subtitle: From the Principal’s Desk
