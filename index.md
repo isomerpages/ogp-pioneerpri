@@ -20,7 +20,6 @@ sections:
       background: /images/Homepage/Banner 04.gif
   - infopic:
       title: Possible Enrolment to P2 and/or P3 in 2026 at Tengah!
-      subtitle: Add an image and text
       id: infopic
       button: Click here
       url: https://form.gov.sg/6729e2dd0cda3689a6d16d6e
