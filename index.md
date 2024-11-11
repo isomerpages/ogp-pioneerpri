@@ -19,6 +19,14 @@ sections:
           url: /2024-semester-1/
       background: /images/Homepage/Banner 04.gif
   - infopic:
+      title: Possible Admission to P2 and/or P3 in 2026
+      subtitle: Add an image and text
+      id: infopic
+      button: Click here
+      url: https://form.gov.sg/6729e2dd0cda3689a6d16d6e
+      image: /images/InfoPic Thumb/pps_p2p3.png
+      alt: Image alt text
+  - infopic:
       title: 2024 issue SOAR Magazine launched!
       subtitle: ✨ Exciting News! ✨
       id: infopic
