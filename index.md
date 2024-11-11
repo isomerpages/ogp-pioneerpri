@@ -19,7 +19,7 @@ sections:
           url: /2024-semester-1/
       background: /images/Homepage/Banner 04.gif
   - infopic:
-      title: Possible Admission to P2 and/or P3 in 2026 at Tengah!
+      title: Possible Enrolment to P2 and/or P3 in 2026 at Tengah!
       subtitle: Add an image and text
       id: infopic
       button: Click here
