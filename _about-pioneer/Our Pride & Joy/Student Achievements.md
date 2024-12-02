@@ -149,7 +149,7 @@ variant: tiptap
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Lu Bing Cheng(5IN1)&nbsp;&nbsp;</em>
+<p><em>Lu Bing Cheng (5IN1)&nbsp;&nbsp;</em>
 </p>
 </li>
 </ul>
@@ -213,8 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7th National Text Recital Competition</p>
-<p>(第七届全国课文朗诵比赛2024)</p>
+<p>7th National Text Recital Competition (第七届全国课文朗诵比赛2024)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -248,8 +247,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 “Awe-Inspiring Virtue and Ocean of Wisdom” National Calligraphy Competition</p>
-<p>(2024年威德智海全国硬笔书法比赛)</p>
+<p>2024 “Awe-Inspiring Virtue and Ocean of Wisdom” National Calligraphy Competition
+(2024年威德智海全国硬笔书法比赛)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit</p>
@@ -879,11 +878,13 @@ variant: tiptap
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1015,6 +1016,11 @@ variant: tiptap
 </p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 </tbody>
