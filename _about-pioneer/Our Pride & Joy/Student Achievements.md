@@ -261,6 +261,11 @@ variant: tiptap
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
