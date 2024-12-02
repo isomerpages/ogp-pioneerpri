@@ -292,12 +292,8 @@ variant: tiptap
 <p>Boys’ Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>J M Fraser Award for Excellence</u>
-</p>
-<p>(Silver)</p>
-<p><u>BB Adventure Quest</u>
-</p>
-<p>(Bronze Honour Roll)</p>
+<p><u>J M Fraser Award for Excellence</u> (Silver)</p>
+<p><u>BB Adventure Quest</u> (Bronze Honour Roll)</p>
 <p>Best Boy Award</p>
 <ul data-tight="true" class="tight">
 <li>
