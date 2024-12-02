@@ -58,22 +58,22 @@ variant: tiptap
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Lu Bing Cheng(5IN1)&nbsp;&nbsp;&nbsp;</em>
+<p><em>Lu Bing Cheng (5IN1)&nbsp;&nbsp;&nbsp;</em>
 </p>
 </li>
 </ul>
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Fan Ren Wen(6RS1)&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<p><em>Fan Ren Wen (6RS1)&nbsp;&nbsp;&nbsp;&nbsp;</em>
 </p>
 </li>
 <li>
-<p><em>Tey Way Eun(6RS1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<p><em>Tey Way Eun (6RS1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
 </p>
 </li>
 <li>
-<p><em>Tan Jing Tern(6RS1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<p><em>Tan Jing Tern (6RS1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
 </p>
 </li>
 </ul>
@@ -225,7 +225,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><em>Ishanvi Lin Rao (<a rel="noopener noreferrer nofollow" target="_blank">5IN1</a>)</em>
+<p><em>Ishanvi Lin Rao (5IN1)</em>
 </p>
 </li>
 <li>
@@ -290,11 +290,9 @@ variant: tiptap
 <p><u>J M Fraser Award for Excellence</u>
 </p>
 <p>(Silver)</p>
-<p>&nbsp;</p>
 <p><u>BB Adventure Quest</u>
 </p>
 <p>(Bronze Honour Roll)</p>
-<p>&nbsp;</p>
 <p>Best Boy Award</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -302,7 +300,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Junior Programme Gold Award</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -322,13 +319,11 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>International Dance</p>
-<p>(Chinese Dance)</p>
+<p>International Dance (Chinese Dance)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SYF Certificate of Distinction</p>
@@ -386,7 +381,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>S2 Boys Division</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -419,7 +413,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><u>SPSSC Nationals Wushu Championships</u>
 </p>
-<p>&nbsp;</p>
 <p>3-duan Chang Quan– Champion</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -427,7 +420,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <p>4-Duan Broadsword– Champion</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -435,7 +427,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>4 Duan broadsword - 9th</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -443,7 +434,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>1st International Cudgel – Champion</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -451,7 +441,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>1st Internation Cudgel - 10th</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -459,7 +448,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>1st international Nan Dao - 9th</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -467,7 +455,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -477,7 +464,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><u>Obstacle Challenge</u>
 </p>
-<p>&nbsp;</p>
 <p>Category A2 (2nd)</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -493,7 +479,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Category A2 (3rd)</p>
 <ul data-tight="true" class="tight">
 <li>
