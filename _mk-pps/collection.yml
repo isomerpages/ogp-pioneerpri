@@ -2,28 +2,28 @@ collections:
   mk-pps:
     output: true
     order:
-      - Parent Resources/Parent Resources.md
-      - Parent Resources/.keep
-      - Contact Us/Contact Us.md
-      - Contact Us/.keep
-      - Register for MK@PPS now/Register for MK@PPS now.md
-      - Register for MK@PPS now/.keep
-      - Fees/Fees.md
-      - Fees/.keep
-      - Testimonials/Testimonials.md
-      - Testimonials/.keep
-      - Our Early Years Centre Partner/Our Early Years Centre Partner.md
-      - Our Early Years Centre Partner/.keep
-      - Our KCare/Our KCare.md
-      - Our KCare/.keep
-      - Our Environment/Our Environment.md
-      - Our Environment/.keep
-      - Our Curriculum/Transition support for MK children.md
-      - Our Curriculum/Overview of MK curriculum.md
-      - Our Curriculum/.keep
-      - Our People/Meet Our Teachers.md
-      - Our People/A note from CH and DyCH”.md
-      - Our People/.keep
       - Our Kindergarten/.keep
       - Our Kindergarten/News and Updates.md
       - Our Kindergarten/About MK@PPS.md
+      - Our People/.keep
+      - Our People/Meet Our Teachers.md
+      - Our People/A note from CH and DyCH”.md
+      - Our Curriculum/.keep
+      - Our Curriculum/Transition support for MK children.md
+      - Our Curriculum/Overview of MK curriculum.md
+      - Our Environment/.keep
+      - Our Environment/Our Environment.md
+      - Our KCare/.keep
+      - Our KCare/Our KCare.md
+      - Our Early Years Centre Partner/.keep
+      - Our Early Years Centre Partner/Our Early Years Centre Partner.md
+      - Testimonials/.keep
+      - Testimonials/Testimonials.md
+      - Fees/.keep
+      - Fees/Fees.md
+      - Register for MK@PPS now/.keep
+      - Register for MK@PPS now/Register for MK@PPS now.md
+      - Contact Us/.keep
+      - Contact Us/Contact Us.md
+      - Parent Resources/.keep
+      - Parent Resources/Parent Resources.md
