@@ -2,6 +2,7 @@ collections:
   mk-pps:
     output: true
     order:
+      - Our Environment/Our Environment.md
       - Our Environment/.keep
       - Our Curriculum/Transition support for MK children.md
       - Our Curriculum/Overview of MK curriculum.md
