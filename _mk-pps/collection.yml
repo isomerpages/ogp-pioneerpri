@@ -2,6 +2,7 @@ collections:
   mk-pps:
     output: true
     order:
+      - Fees/Fees.md
       - Fees/.keep
       - Testimonials/Testimonials.md
       - Testimonials/.keep
