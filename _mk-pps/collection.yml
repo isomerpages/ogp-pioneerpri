@@ -2,6 +2,6 @@ collections:
   mk-pps:
     output: true
     order:
-      - Our Kindergarten/About MK@PPS.md
-      - Our Kindergarten/News and Updates.md
       - Our Kindergarten/.keep
+      - Our Kindergarten/News and Updates.md
+      - Our Kindergarten/About MK@PPS.md
