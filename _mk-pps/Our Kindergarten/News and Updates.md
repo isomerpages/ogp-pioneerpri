@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Kindergarten
 ---
-<p></p>
-<h1>Quality and Affordable Kindergarten Experience at MK@XX</h1>
-<h2>A Strong Start for Every Child at MK@PPS</h2>
+<h1>A Strong Start for Every Child at MK@PPS</h1>
 <p>News and updates:</p>
 <p>➢ regularly update the site with news about children’s achievements, school/educator
 awards, notable events</p>
