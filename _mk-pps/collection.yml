@@ -2,6 +2,7 @@ collections:
   mk-pps:
     output: true
     order:
+      - Parent Resources/Parent Resources.md
       - Parent Resources/.keep
       - Contact Us/Contact Us.md
       - Contact Us/.keep
