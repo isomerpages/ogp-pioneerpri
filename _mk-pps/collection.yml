@@ -1,4 +1,5 @@
 collections:
   mk-pps:
     output: true
-    order: []
+    order:
+      - News and Updates/.keep
