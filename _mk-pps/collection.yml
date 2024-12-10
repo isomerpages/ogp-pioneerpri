@@ -2,4 +2,5 @@ collections:
   mk-pps:
     output: true
     order:
+      - About MK@PPS/.keep
       - News and Updates/.keep
