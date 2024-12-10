@@ -2,6 +2,7 @@ collections:
   mk-pps:
     output: true
     order:
+      - Fees/.keep
       - Testimonials/Testimonials.md
       - Testimonials/.keep
       - Our Early Years Centre Partner/Our Early Years Centre Partner.md
