@@ -2,4 +2,5 @@ collections:
   mk-pps:
     output: true
     order:
+      - Our Kindergarten/.keep
       - News and Updates.md
