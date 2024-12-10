@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - News and Updates.md
-      - About MK@PPS/.keep
       - News and Updates/.keep
