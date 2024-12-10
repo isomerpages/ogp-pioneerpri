@@ -2,6 +2,7 @@ collections:
   mk-pps:
     output: true
     order:
+      - Our KCare/Our KCare.md
       - Our KCare/.keep
       - Our Environment/Our Environment.md
       - Our Environment/.keep
