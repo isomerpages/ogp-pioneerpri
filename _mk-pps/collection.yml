@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - News and Updates.md
-      - News and Updates/.keep
