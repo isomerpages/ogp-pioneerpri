@@ -13,4 +13,4 @@ third_nav_title: Fees
 trips”</p>
 <p>➢ Kindergarten fee assistance – insert link to KiFAS</p>
 <p>➢ KCare subsidies and additional subsidies</p>
-<p>➢ uniform expenses –</p>
+<p>➢ uniform expenses – present both Beau Voix and Jeep Sing Fashion’s prices</p>
