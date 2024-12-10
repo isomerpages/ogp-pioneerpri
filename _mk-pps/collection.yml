@@ -2,6 +2,7 @@ collections:
   mk-pps:
     output: true
     order:
+      - Our People/Meet Our Teachers.md
       - Our People/A note from CH and DyCH”.md
       - Our People/.keep
       - Our Kindergarten/.keep
