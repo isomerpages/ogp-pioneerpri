@@ -2,6 +2,7 @@ collections:
   mk-pps:
     output: true
     order:
+      - Register for MK@PPS now/Register for MK@PPS now.md
       - Register for MK@PPS now/.keep
       - Fees/Fees.md
       - Fees/.keep
