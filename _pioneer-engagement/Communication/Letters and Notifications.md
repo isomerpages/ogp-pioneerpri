@@ -7,8 +7,7 @@ variant: markdown
 ---
 # Letters and Notifications
 
-##### Communications Letter
-[Letter to Parents PPS/031/2023](/files/Letters%20and%20Notifications/PPS_031_End%20of%20Term%201%20LTP%202023-2_230320_101002.pdf)
+
 
 ##### Booklist for Textbooks and Stationery for AY2025
 

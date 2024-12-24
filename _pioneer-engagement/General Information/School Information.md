@@ -3,6 +3,7 @@ title: School Information
 permalink: /pioneer-engagement/general-information/school-information/
 description: ""
 third_nav_title: General Information
+variant: markdown
 ---
 # General Information
 
@@ -56,8 +57,7 @@ third_nav_title: General Information
 <td>Dismissal Time:</td>
 </tr>
 <tr>
-<td>Primary 3 and 4</td>
-<td>1.25 pm</td>
+
 </tr>
 <tr>
 <td>Primary 5 and 6</td>
@@ -65,33 +65,33 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td rowspan="2">Dismissal</td>
-<td>Primary 3 and 4<br />Primary 5 and 6</td>
-<td>Gate 1<br />Gate 4</td>
+<td>Primary 5 and 6<br> </td>
+<td>Gate 4<br> </td>
 </tr>
 <tr>
-<td colspan="2">Students will gather in the School Hall if they are:<br />&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;Taking School Bus<br />&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;Attending student care<br />&nbsp; &nbsp; &#x2022; &nbsp; &nbsp;Students with siblings will meet in the canteen and may leave together using either Gate 1 or Gate 4.</td>
+<td colspan="2">Students will gather in the School Hall if they are:<br>&nbsp; &nbsp; • &nbsp; &nbsp;Taking School Bus<br>&nbsp; &nbsp; • &nbsp; &nbsp;Attending student care<br>&nbsp; &nbsp; • &nbsp; &nbsp;Students with siblings will meet in the canteen and may leave together using either Gate 1 or Gate 4.</td>
 </tr>
 <tr>
 <td rowspan="3">School Gates Opening Hours</td>
 <td>Gate 1 (Indoor Sports Hall)</td>
-<td>6.30 am - 7.30 am<br />1.15 pm - 2.00 pm<br />3.00 pm - 7.00 pm</td>
+<td>6.30 am - 7.30 am<br>1.15 pm - 2.00 pm<br>3.00 pm - 7.00 pm</td>
 </tr>
 <tr>
 <td>Gate 2 (Security Post)</td>
-<td>6.30 am - 6.30 pm<br />(Closed from 1.20 pm - 1.45 pm)</td>
+<td>6.30 am - 6.30 pm<br>(Closed from 1.20 pm - 1.45 pm)</td>
 </tr>
 <tr>
 <td>Gate 4 (Juying Secondary School entrance)</td>
-<td>6.30 am - 7.30 am<br />1.15 pm - 2.00 pm<br /><br />3.45 pm - 4.15 pm<br />(closing time will extend to 4.45 pm during wet weather)</td>
+<td>6.30 am - 7.30 am<br>1.15 pm - 2.00 pm<br><br>3.45 pm - 4.15 pm<br>(closing time will extend to 4.45 pm during wet weather)</td>
 </tr>
 <tr>
 <td rowspan="2">School Library Opening Hours</td>
 <td>Monday, Wednesday (school term)</td>
-<td>7.30 am to 12.30 pm<br />1.00 pm to 4.30 pm</td>
+<td>7.30 am to 12.30 pm<br>1.00 pm to 4.30 pm</td>
 </tr>
 <tr>
 <td>Tuesday, Thursday, Friday (school term)</td>
-<td>7.30 am to 12.30 pm<br />1.00 pm to 5.00 pm</td>
+<td>7.30 am to 12.30 pm<br>1.00 pm to 5.00 pm</td>
 </tr>
 </tbody>
 </table>

@@ -3,6 +3,7 @@ title: School Services
 permalink: /pioneer-engagement/general-information/school-services/
 description: ""
 third_nav_title: General Information
+variant: markdown
 ---
 # School Services
 
@@ -16,13 +17,13 @@ third_nav_title: General Information
 <td>Bus Operator</td>
 <td>JK59 Transport Pte Ltd<br>Tel: 6465 5959<br>Email: <a href="mailto:student@jk59.com">student@jk59.com</a><br>Contact Person: Cynthia / Mei Qi
 <br><br>
-<a target="_blank" href="/files/Attachments/bus%20operator%202023.pdf">School Bus Operator and Bus Fare</a>
+<a target="_blank" href="/files/Attachments/bus%20operator%202025.pdf">School Bus Operator and Bus Fare</a>
 	
 </td>
 </tr>
 <tr>
 <td>Dental Service</td>
-<td>School Dental Clinic (Health Promotion Board)<br>Tel: 9115 3862<br>Contact Person: Ms Rozi<br><br>Opening Hours (school term):<br>Monday to Thursday<br>8.00 am to 5.30 pm<br>Friday<br>8.00 am to 5.00 pm <br>Lunch Break<br>1.00 pm to 2.00 pm<br><br>As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.</td>
+<td>School Dental Clinic (Health Promotion Board)<br><br>Contact Person: Ms Zainun Saad<br><br>Opening Hours (school term):<br>Monday to Thursday<br>8.00 am to 5.30 pm<br>Friday<br>8.00 am to 5.00 pm <br>Lunch Break<br>1.00 pm to 2.00 pm<br><br>As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.</td>
 </tr>
 <tr>
 <td>Student Care Centre</td>
@@ -30,7 +31,7 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td>Uniform Supplier</td>
-<td>Shanghai School Uniforms Pte Ltd<br>Tel: 6352 2741<br>Email: contact@shanghai-uniforms.com<br>Retail Outlet: 63 Ubi Avenue 1 #04-09, 63@Ubi, Singapore 408937<br><br>Retail Opening Hours (school term): <br>Monday to Saturday<br>10.00 am to 6.00 pm<br>Lunch Break<br>1.00 pm to 2.00 pm</td>
+<td>Shanghai School Uniforms Pte Ltd<br>Tel: 6352 2741<br>Email: contact@shanghai-uniforms.com<br>Retail Outlet: 63 Ubi Avenue 1 #04-09, 63@Ubi, Singapore 408937<br><br>Retail Outlet at Ubi - Opening Hours (school term): <br>Monday to Saturday<br>10.00 am to 6.00 pm<br>Lunch Break<br>1.00 pm to 2.00 pm</td>
 </tr>
 </tbody>
 </table>
