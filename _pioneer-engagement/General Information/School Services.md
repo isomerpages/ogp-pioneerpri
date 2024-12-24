@@ -3,6 +3,7 @@ title: School Services
 permalink: /pioneer-engagement/general-information/school-services/
 description: ""
 third_nav_title: General Information
+variant: markdown
 ---
 # School Services
 
@@ -22,7 +23,7 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td>Dental Service</td>
-<td>School Dental Clinic (Health Promotion Board)<br>Tel: 9115 3862<br>Contact Person: Ms Rozi<br><br>Opening Hours (school term):<br>Monday to Thursday<br>8.00 am to 5.30 pm<br>Friday<br>8.00 am to 5.00 pm <br>Lunch Break<br>1.00 pm to 2.00 pm<br><br>As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.</td>
+<td>School Dental Clinic (Health Promotion Board)<br><br>Contact Person: Ms Zainun Saad<br><br>Opening Hours (school term):<br>Monday to Thursday<br>8.00 am to 5.30 pm<br>Friday<br>8.00 am to 5.00 pm <br>Lunch Break<br>1.00 pm to 2.00 pm<br><br>As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.</td>
 </tr>
 <tr>
 <td>Student Care Centre</td>
