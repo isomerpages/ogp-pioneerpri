@@ -162,7 +162,7 @@ Library</p>
 <p>Ms Melissa Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / 21st Century Competencies</p>
+<p>HOD / 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>foo_shi_ping_melissa@schools.gov.sg</p>
@@ -184,21 +184,10 @@ Library</p>
 <p>Mdm Nur Shaheila Binte Sahat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Covering)</p>
+<p>SH / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_shaheila_sahat@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Kok Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AYH (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_kok_leong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
