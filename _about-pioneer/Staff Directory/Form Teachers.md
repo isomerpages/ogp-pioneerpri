@@ -571,10 +571,43 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Li Sisi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>li_si_si@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Charis Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_wei_ju_charis_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shaheila</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_shaheila_sahat@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nuraihan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nuraihan_mohd_bashir@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -582,10 +615,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Christopher Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_hung_choon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -593,10 +626,10 @@ variant: tiptap
 <p>6 RESILIENCE 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Rosita</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>rosita_mohamed_yusoff@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
