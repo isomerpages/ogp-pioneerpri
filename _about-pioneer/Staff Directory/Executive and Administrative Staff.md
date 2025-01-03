@@ -213,17 +213,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fazlina B Mohamed Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi Adjunct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fazlina_mohamed_ibrahim@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Gloria Poh Hui Khim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,6 +286,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>hoon_yeng_hau@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vahida (Mrs Rafi)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi Adjunct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>vahida_habeeb_mohamed@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
