@@ -26,6 +26,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nur Amalina Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_amalina_abdul_rahim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Chin Boon Kean</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,17 +125,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dapareskiriandi Bin Riduan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>andi.binriduan@ncs.com.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Amir Zulfadhli Bin Zulkifly</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,6 +202,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Soh Leng Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher Aide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soh_Leng_Leng_B@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Thatchaini Kumaran</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,17 +231,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>rajini_vijaya_kumar@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Fazlina B Mohamed Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi Adjunct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fazlina_mohamed_ibrahim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -308,6 +308,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>hoon_yeng_hau@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vahida (Mrs Rafi)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi Adjunct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>vahida_habeeb_mohamed@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
