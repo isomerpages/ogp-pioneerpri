@@ -117,7 +117,7 @@ variant: tiptap
 <p>Mr Nelson Nai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / PE &amp; Aesthetics</p>
+<p>HOD / Physical Education &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nai_chin_kiong_nelson@schools.gov.sg</p>
@@ -239,7 +239,7 @@ Library</p>
 <p>Mr Simon Diong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / PE &amp; PAL</p>
+<p>SH / Physical Education &amp; Programme for Active Learning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>diong_chong_huat_simon@schools.gov.sg</p>
@@ -272,7 +272,7 @@ Library</p>
 <p>Mr Muhammad Hafiz Asyraf Bin Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Leadership &amp; PE</p>
+<p>SH / Student Leadership &amp; Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hafiz_asyraf@schools.gov.sg</p>
