@@ -114,17 +114,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dapareskiriandi Bin Riduan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>andi.binriduan@ncs.com.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Amir Zulfadhli Bin Zulkifly</p>
 </td>
 <td rowspan="1" colspan="1">
