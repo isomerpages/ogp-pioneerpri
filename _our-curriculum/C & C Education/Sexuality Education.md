@@ -62,7 +62,7 @@ more information on MOE Sexuality Education.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Overview of PIONEER Primary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of PIONEER Primary School’s Sexuality Education Programme for 2025</strong>
 </p>
 </li>
 <li>
@@ -111,12 +111,12 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>At PIONEER Primary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+<p><strong>At PIONEER Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/OurCurriculum/moesg.jpg">
 </div>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <h3><strong>&nbsp;Primary 5</strong></h3>
 <table style="minWidth: 100px">
@@ -165,7 +165,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 1</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 4</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -213,7 +213,7 @@ and how to seek help for themselves and their friends.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/OurCurriculum/moesg.jpg">
 </div>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <h3><strong>Primary 6</strong></h3>
 <table style="minWidth: 100px">
@@ -263,7 +263,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 1 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -280,19 +280,28 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <h4>Information for Parents</h4>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents may opt their children out
-of Sexuality Education lessons, and/or supplementary Sexuality Education
-programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to opt their children
-out of the Sexuality Education lessons need to complete an opt-out form.
-This form will be sent to parents via Parents Gateway.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents can contact the school
-at 67932039 for discussion or to seek clarification about the school’s
-Sexuality Education programme.</p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+<p></p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be sent to parents
+via Parents Gateway.</p>
+<p></p>
+</li>
+<li>
+<p>Parents can contact the school at 67932039 for discussion or to seek clarification
+about the school’s Sexuality Education programme.</p>
+</li>
+</ol>
+<p></p>
