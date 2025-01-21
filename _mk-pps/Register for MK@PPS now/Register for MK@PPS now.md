@@ -7,9 +7,10 @@ third_nav_title: Register for MK@PPS now
 ---
 <h2>Register Now to Give Your Child A Strong Start!</h2>
 <p></p>
-<p>The online registration for 20XX Kindergarten 1 (K1) admissions has closed.</p>
-<p>To register your child, you may fill in the waitlist application form.
-MK@XX will get back to you as soon as possible. Alternatively, you may
-also contact MK@XX at &lt;MK contact number&gt; if you have further questions.
-Alternatively, you may visit MOE’s website on FAQs at ,&lt;MK’s generic
-email&gt;</p>
+<h3><strong>Online registration</strong></h3>
+<p>Online registration for 2026 K1 admissions for both Open Admissions (OA)
+and Early Years Centre (EYC) children will open from <strong>9am on Friday, 7 February 2025 and close at 4pm on Monday, 17 February 2025</strong>.</p>
+<p></p>
+<p>Click here to find out more.</p>
+<p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/preschool/moe-kindergarten/register</u></a>
+</p>
