@@ -11,7 +11,7 @@ variant: markdown
 <tbody>
 <tr>
 <td>Bookshop</td>
-<td>Ricky Book Centre<br>Tel: 8875 9459<br>Email: sales@rickybookcentre.com.sg<br><br>Opening Hours (school term):<br>Monday to Friday<br>9.00 am to 2.30 pm<br><br>Parents/Guardians/Caregivers can make purchases from Monday to Friday between 1.45 pm to 2.30 pm.</td>
+<td>Asencio Pte Ltd <br>Tel: 8875 9459<br>Email: sales@rickybookcentre.com.sg<br><br>Opening Hours (school term):<br>Every Tuesday and Thursday<br>9.30 am to 2.00 pm<br><br>Parents/Guardians/Caregivers can make purchases on Tuesday and Thursday between 1.30 pm to 2.00 pm.</td>
 </tr>
 <tr>
 <td>Bus Operator</td>
@@ -23,7 +23,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Dental Service</td>
-<td>School Dental Clinic (Health Promotion Board)<br><br>Contact Person: Ms Zainun Saad<br><br>Opening Hours (school term):<br>Monday to Thursday<br>8.00 am to 5.30 pm<br>Friday<br>8.00 am to 5.00 pm <br>Lunch Break<br>1.00 pm to 2.00 pm<br><br>As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.</td>
+<td>School Dental Clinic (Health Promotion Board)<br><br>Contact Person: Ms Zainun Saad<br>Tel: 90185052<br>Opening Hours (school term):<br>Monday to Thursday<br>8.00 am to 5.30 pm<br>Friday<br>8.00 am to 5.00 pm <br>Lunch Break<br>1.00 pm to 2.00 pm<br><br>As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.</td>
 </tr>
 <tr>
 <td>Student Care Centre</td>
