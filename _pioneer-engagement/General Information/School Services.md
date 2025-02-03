@@ -23,7 +23,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Dental Service</td>
-<td>School Dental Clinic (Health Promotion Board)<br><br>Contact Person: Ms Zainun Saad<br>Tel: 9115 3862<br>Opening Hours (school term):<br>Thursday: 8.00 am to 5.30 pm<br>Friday: 8.00 am to 5.00 pm <br>Lunch Break: 1.00 pm to 2.00 pm<br>Closed on alternate weeks<br><br>As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.
+<td>School Dental Clinic (Health Promotion Board)<br><br>Contact Person: Ms Zainun Saad<br>Tel: 9115 3862<br><i>(whatsapp for appointment)</i><br><br>Opening Hours (school term):<br>Thursday: 8.00 am to 5.30 pm<br>Friday: 8.00 am to 5.00 pm <br>Lunch Break: 1.00 pm to 2.00 pm<br>Closed on alternate weeks<br><br>As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.
 	<br>
 	<br>
 	In case of dental emergency during the clinic closure, please <u>call /whatsapp</u> any of the dental clinics for an appointment: <br>
