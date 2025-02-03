@@ -11,7 +11,7 @@ variant: markdown
 <tbody>
 <tr>
 <td>Bookshop</td>
-<td>Ricky Book Centre<br>Tel: 8875 9459<br>Email: sales@rickybookcentre.com.sg<br><br>Opening Hours (school term):<br>Monday to Friday<br>9.00 am to 2.30 pm<br><br>Parents/Guardians/Caregivers can make purchases from Monday to Friday between 1.45 pm to 2.30 pm.</td>
+<td>Asencio Pte Ltd <br>Tel: 6764 3102<br>Email: bookshop@asencio.com.sg<br><br>Opening Hours (school term):<br>Every Tuesday and Thursday<br>9.30 am to 2.00 pm<br><br>Parents/Guardians/Caregivers can make purchases on Tuesday and Thursday between 1.30 pm to 2.00 pm.</td>
 </tr>
 <tr>
 <td>Bus Operator</td>
@@ -23,7 +23,18 @@ variant: markdown
 </tr>
 <tr>
 <td>Dental Service</td>
-<td>School Dental Clinic (Health Promotion Board)<br><br>Contact Person: Ms Zainun Saad<br><br>Opening Hours (school term):<br>Monday to Thursday<br>8.00 am to 5.30 pm<br>Friday<br>8.00 am to 5.00 pm <br>Lunch Break<br>1.00 pm to 2.00 pm<br><br>As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.</td>
+<td>School Dental Clinic (Health Promotion Board)<br><br>Contact Person: Ms Zainun Saad<br>Tel: 9115 3862<br><i>(whatsapp for appointment)</i><br><br>Opening Hours (school term):<br>Thursday: 8.00 am to 5.30 pm<br>Friday: 8.00 am to 5.00 pm <br>Lunch Break: 1.00 pm to 2.00 pm<br>Closed on alternate weeks<br><br>As the dental clinic is not open everyday for walk-ins, students who require treatment should call the clinic to book an appointment beforehand.
+	<br>
+	<br>
+	In case of dental emergency during the clinic closure, please <u>call /whatsapp</u> any of the dental clinics for an appointment: <br>
+	Xingnan Primary School Dental Clinic<br>
+	5 Jurong West Street 91 S649036<br>
+	Tel: 9832 6884
+<br>
+	<br>
+	Boon Lay Garden Primary School Dental Clinic<br>
+	20 Boon Lay Drive S649930<br>
+	Tel: 9114 1896</td>
 </tr>
 <tr>
 <td>Student Care Centre</td>
