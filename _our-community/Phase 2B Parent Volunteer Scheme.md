@@ -23,7 +23,7 @@ criteria:</p>
 </li>
 <li>
 <p>Parent(s) has contributed at least 40 hours of voluntary service to the
-school within the PV service period (1 July 2024 to 30 June 2025).</p>
+school within the PV service period (1 July 2025 to 30 June 2026).</p>
 </li>
 </ul>
 <p></p>
@@ -32,11 +32,11 @@ that the child will be admitted into Pioneer Primary School @ Tengah Garden
 Avenue. Balloting will be conducted if the number of qualifying applicants
 in Phase 2B exceeds the vacancies available.</p>
 <p></p>
-<p>Click here to <a href="https://form.gov.sg/65c35a28422a4d6b0ac95636" rel="noopener noreferrer nofollow" target="_blank">APPLY</a> (Application
-Period 1 April 2024 to 30 April 2024)</p>
+<p>Click here to <a href="https://go.gov.sg/pps-phase2b-2025" rel="noopener nofollow" target="_blank">APPLY</a> (Application
+Period 3 March 2025 to 30 April 2025)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/InfoPic Thumb/PV2025.jpg">
 </div>
 <p></p>
 <p></p>
