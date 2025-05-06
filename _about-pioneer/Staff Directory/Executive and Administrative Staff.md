@@ -37,13 +37,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chin Boon Kean</p>
+<p>Mr Tham Peng Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager (ICT)</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chin_boon_kean@schools.gov.sg</p>
+<p>Tham_Peng_Seng_A@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
