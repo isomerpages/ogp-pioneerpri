@@ -19,10 +19,8 @@ sections:
           url: /2024-semester-2/
       background: /images/Homepage/Banner 04.gif
   - infopic:
-      title: Possible Enrolment to P2 and/or P3 in 2026 at Tengah!
+      title: Registration for P2 and P3 vacancies has closed.
       id: infopic
-      button: Click here
-      url: https://form.gov.sg/6729e2dd0cda3689a6d16d6e
       image: /images/InfoPic Thumb/pps_p2_p3_2026.png
       alt: Image alt text
   - infopic:
