@@ -19,7 +19,7 @@ sections:
           url: /2024-semester-2/
       background: /images/Homepage/Banner 04.gif
   - infopic:
-      title: Registration for P2 and P3 vacancies has closed.
+      title: Registration of interest for P2 and P3 vacancies has closed.
       id: infopic
       image: /images/InfoPic Thumb/pps_p2_p3_2026.png
       alt: Image alt text
