@@ -23,7 +23,6 @@ sections:
       id: infopic
       image: /images/InfoPic Thumb/pps_p2_p3_2026.png
       alt: Image alt text
-      subtitle: Update
   - infopic:
       title: 2024 issue SOAR Magazine launched!
       subtitle: ✨ Exciting News! ✨
