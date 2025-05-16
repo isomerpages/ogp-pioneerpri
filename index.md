@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Registration of interest for P2 and P3 vacancies has closed.
       id: infopic
-      image: /images/InfoPic Thumb/pps_p2_p3_2026.png
+      image: /images/Slide2.jpg
       alt: Image alt text
   - infopic:
       title: 2024 issue SOAR Magazine launched!
