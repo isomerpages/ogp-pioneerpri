@@ -5,7 +5,7 @@ description: ""
 third_nav_title: C & C Education
 variant: tiptap
 ---
-<h1>Education and Career Guidance</h1>
+<h3><strong>Education and Career Guidance</strong></h3>
 <p>Education and Career Guidance (ECG) aims to equip our students with the&nbsp;<strong>necessary knowledge, skills and values</strong>&nbsp;to&nbsp;<strong>make informed decisions</strong>&nbsp;at
 every education milestone. Through ECG lessons, students learnt to&nbsp;<strong>appreciate all occupations, be adaptable and resilient</strong>,
 thus developing their&nbsp;<strong>motivation in learning</strong>&nbsp;to
