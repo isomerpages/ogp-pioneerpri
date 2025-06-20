@@ -5,7 +5,7 @@ description: ""
 third_nav_title: C & C Education
 variant: tiptap
 ---
-<h1>Sexuality Education</h1>
+<h3><strong>Sexuality Education</strong></h3>
 <h4><strong>Moe Sexuality Education in Schools</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
