@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: PE, ART and Music (PAM)
 ---
-<h3><strong><u>The Music Curriculum</u></strong></h3>
+<h3><strong>The Music Curriculum</strong></h3>
 <p>Our music education philosophy rests on the conviction that every child
 possesses inherent musicality and unique talents. These natural abilities—including
 listening, singing, playing, creating and expressing—flourish through meaningful
