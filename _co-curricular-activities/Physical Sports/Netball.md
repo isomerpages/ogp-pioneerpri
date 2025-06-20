@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h1>Netball</h1>
+<h3><strong>Netball</strong></h3>
 <p>Welcome to&nbsp;<strong>PPS Netball</strong>, where students develop athletic
 skills, strong character, and meaningful connections. Through structured
 training sessions and competitive matches, our players cultivate&nbsp;<strong>resilience, responsibility, teamwork, discipline, and perseverance</strong>—qualities
