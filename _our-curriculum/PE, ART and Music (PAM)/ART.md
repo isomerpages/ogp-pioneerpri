@@ -39,28 +39,30 @@ and connected learners.</p>
 <p>P4 Learning Journey will provide students with authentic art engagement
 sessions to promote discussions and critical thinking in a museum setting.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ART_1.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <p><strong>2.&nbsp;&nbsp; Animation</strong>
 </p>
 <p>P5 Stop Motion Programme introduces students to digital art form and how
 technology c. an be incorporated into the art.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_2.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ART_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_3.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ART_3.jpg">
 </div>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <p><strong>3. Photography</strong>
 </p>
 <p></p>
@@ -68,17 +70,18 @@ technology c. an be incorporated into the art.</p>
 using iPads, encouraging them to capture artistic elements such as lines,
 colors, and shapes in their surroundings.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ART_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_5.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ART_5.jpg">
 </div>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="3" colspan="1">
+<p></p>
 <p><strong>4. Art Fiesta</strong>
 </p>
 <p>Our annual Art Fiesta serves as a vibrant platform where students unite
@@ -86,15 +89,15 @@ to design the cover for the school handbook. Following the competition,
 students participated in a variety of creative booth activities, skillfully
 facilitated by our dedicated student councilors.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_6.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ART_6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_7.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ART_7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_8.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ART_8.jpg">
 </div>
 </td>
 </tr>
@@ -102,6 +105,7 @@ facilitated by our dedicated student councilors.</p>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>5. In House Art Exhibition</strong>
 </p>
 <p>The display of students' talent within the school community serves as
@@ -113,7 +117,7 @@ students to share their work, we encourage creativity, self-expression,
 and confidence, while celebrating the diverse talents that enrich our school
 environment.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_9.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ART_9.jpg">
 </div>
 </td>
 </tr>
