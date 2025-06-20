@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h1>Wushu</h1>
+<h3><strong>Wushu</strong></h3>
 <p>In Pioneer Primary School, Wushu is more than just a martial art—it is
 a journey of discipline, resilience, and teamwork. Through sustained participation,
 students progressively develop essential Wushu techniques, enhancing their
