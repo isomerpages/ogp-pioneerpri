@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing and Visual Arts
 variant: tiptap
 ---
-<h1>International Dance</h1>
+<h3><strong>International Dance</strong></h3>
 <p>The International Dance CCA is more than just dance—it’s a journey of
 growth and self-discovery. Our students refine their techniques while building
 essential values such as discipline, focus, and perseverance. Through dynamic
