@@ -41,6 +41,7 @@ survival skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Upper Primary Sports Carnival</strong>
 </p>
 <p>Experiential Programme for upper primary students to display their skills
@@ -49,6 +50,7 @@ learnt through the PE syllabus in a social and competitive setting.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Lower Primary Sports Day</strong>
 </p>
 <p>Experiential Programme for lower primary students to display their skills
@@ -57,6 +59,7 @@ learnt through PE syllabus in a social and competitive setting.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>SEP Enrichment Programme</strong>
 </p>
 <p>A variety of sport enrichment programme to open the wide spectrum of games
@@ -66,6 +69,7 @@ for a healthy living.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Health &amp; Fitness Week</strong>
 </p>
 <p>A Programme to encourage all our students to maintain their fitness through
