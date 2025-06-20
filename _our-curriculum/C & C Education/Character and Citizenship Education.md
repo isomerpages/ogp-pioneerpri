@@ -5,7 +5,7 @@ description: ""
 third_nav_title: C & C Education
 variant: tiptap
 ---
-<h3>Character and Citizenship Education</h3>
+<h3><strong>Character and Citizenship Education</strong></h3>
 <p>Character and Citizenship Education (CCE) plays a vital part in our students’
 holistic development, equipping them with the values, social-emotional
 skills, and civic consciousness they need to thrive in an increasingly
