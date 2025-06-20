@@ -22,7 +22,7 @@ while growing as a performer and an individual!</p>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/International_Dance_CCA_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/International_Dance_CCA_1.jpg">
 </div>
 </td>
 </tr>
@@ -30,7 +30,7 @@ while growing as a performer and an individual!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 72%;" height="auto" width="100%" alt="" src="/images/International_Dance_CCA_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/International_Dance_CCA_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
