@@ -36,13 +36,13 @@ creativity and express themselves through diverse artistic forms.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Expression_Club_3.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Art_Expression_Club_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Expression_Club_4.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Art_Expression_Club_4.jpg">
 </div>
 </td>
 </tr>
