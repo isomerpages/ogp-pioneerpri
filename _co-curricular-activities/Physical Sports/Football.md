@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h1>Football</h1>
+<h3><strong>Football</strong></h3>
 <p>We aim to develop the love for football in our young players and cultivate
 a passion for the sport. Through the skills acquisition and endurance training,
 we hope to build resilience and tenacity in our players.&nbsp; Group play
