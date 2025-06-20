@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing and Visual Arts
 variant: tiptap
 ---
-<h1>Chinese Orchestra</h1>
+<h3><strong>Chinese Orchestra</strong></h3>
 <p><strong>"Every child can be a musician."</strong>
 <br>At Pioneer Primary School, we believe that music transcends language,
 and every child should have the opportunity to explore its beauty. We provide
