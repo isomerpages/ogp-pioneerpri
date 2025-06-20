@@ -153,6 +153,8 @@ BINGO Challenge, STAR Programme, House System, CCA</p>
 <p>• Student Leadership Development</p>
 <p>• National Education</p>
 <p>• Kindness Day SG</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• STAR Programme</p>
@@ -175,6 +177,8 @@ BINGO Challenge, STAR Programme, House System, CCA</p>
 <p>• VIA – Grow Me (Indoor greens)</p>
 <p>• ECG Talk</p>
 <p>• Integration Programme</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
