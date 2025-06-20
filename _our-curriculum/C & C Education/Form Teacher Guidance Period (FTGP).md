@@ -5,7 +5,7 @@ description: ""
 third_nav_title: C & C Education
 variant: tiptap
 ---
-<h3>Form Teacher Guidance Period (FTGP)</h3>
+<h3><strong>Form Teacher Guidance Period (FTGP)</strong></h3>
 <p>Form Teachers play a central role in shaping the development of their
 young charges. They use Form Teacher Guidance Period to bond with their
 students through interaction activities and build positive Teacher-Student
