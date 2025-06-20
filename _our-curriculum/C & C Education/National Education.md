@@ -5,7 +5,7 @@ description: ""
 third_nav_title: C & C Education
 variant: tiptap
 ---
-<h1>National Education</h1>
+<h3><strong>National Education</strong></h3>
 <p>National Education (NE) is part of holistic education. It aims to develop
 national cohesion, cultivate the instinct for survival as a nation and
 boost students’ confidence in our nation's future. It also emphasises on
