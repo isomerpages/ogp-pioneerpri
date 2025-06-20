@@ -5,7 +5,7 @@ description: ""
 third_nav_title: C & C Education
 variant: tiptap
 ---
-<h1>Character and Citizenship Education</h1>
+<h3>Character and Citizenship Education</h3>
 <p>Character and Citizenship Education (CCE) plays a vital part in our students’
 holistic development, equipping them with the values, social-emotional
 skills, and civic consciousness they need to thrive in an increasingly
@@ -21,7 +21,7 @@ nurturing good character and a strong sense of identity and belonging,
 CCE lays the foundation for students to grow into confident, moral, and
 active citizens of Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/image1.png">
 </div>
 <p>Abundant learning opportunities are curated and integrated in the school’s
 academic, non-academic and school-based CCE programmes. We provide a series
@@ -30,7 +30,7 @@ equip students with the essential skills, knowledge and dispositions to
 manage self and relationships. Different experiential learning platforms
 and opportunities are also made available to enable students apply their
 learning in practice and strengthen their socio-emotional competencies.</p>
-<h2>Our Approaches</h2>
+<h4>Our Approaches</h4>
 <p>The curriculum content of CCE is based on the three big ideas of Identity,
 Relationships and Choices, and focused on developing a sense of purpose
 in our students. CCE programmes are curated centering on the principles
@@ -99,8 +99,8 @@ students develop the habit of self-reflection and gratitude. CCE provides
 the skills and knowledge to help students make sense of their life experiences
 and the language to express their learning and development.</p>
 <p>We offer the following to all students:
-<br>&nbsp; &nbsp; • &nbsp; &nbsp; <a href="https://www.pioneerpri.moe.edu.sg/signature-programmes/student-leadership-development/hip-development" rel="noopener noreferrer nofollow" target="_blank">Student Leadership Development (SLD) Programmes</a>
-<br>&nbsp; &nbsp; • &nbsp; &nbsp; <a href="/our-curriculum/Character-and-Citizenship-Edu/national-education/" rel="noopener noreferrer nofollow" target="_blank">National Education (NE)</a>
+<br>&nbsp; &nbsp; • &nbsp; &nbsp; <a href="https://www.pioneerpri.moe.edu.sg/signature-programmes/student-leadership-development/" rel="noopener noreferrer nofollow" target="_blank">Student Leadership Development (SLD) Programmes</a>
+<br>&nbsp; &nbsp; • &nbsp; &nbsp; <a href="https://www.pioneerpri.moe.edu.sg/our-curriculum/character-and-citizenship-edu/national-education/" rel="noopener noreferrer nofollow" target="_blank">National Education (NE)</a>
 <br>&nbsp; &nbsp; • &nbsp; &nbsp; Values in Action (VIA)
 <br>&nbsp; &nbsp; • &nbsp; &nbsp; <a href="https://www.pioneerpri.moe.edu.sg/signature-programmes/internationalisation/" rel="noopener noreferrer nofollow" target="_blank">Internationalisation</a>
 <br>&nbsp; &nbsp; • &nbsp; &nbsp; <a href="https://www.pioneerpri.moe.edu.sg/signature-programmes/house-system/" rel="noopener noreferrer nofollow" target="_blank">House System</a>
