@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h1>Robotics Club</h1>
+<h3><strong>Robotics Club</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
