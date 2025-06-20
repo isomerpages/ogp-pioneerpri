@@ -5,7 +5,7 @@ description: ""
 third_nav_title: C & C Education
 variant: tiptap
 ---
-<h3>Cyber Wellness</h3>
+<h3><strong>Cyber Wellness</strong></h3>
 <h4>MOE's Cyber Wellness Curriculum in Schools</h4>
 <p>The goal of CW lessons is to equip students with life-long social-emotional
 competencies and sound values so that they can navigate safely and respectfully
