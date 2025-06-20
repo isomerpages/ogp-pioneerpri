@@ -18,14 +18,13 @@ build resilience and discipline—essential life skills that extend beyond
 sports. Our aim is to empower every student to embrace an active, healthy
 lifestyle whilst experiencing the physical, social and emotional benefits
 of movement.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p>Key Programme</p>
 </th>
 </tr>
@@ -35,11 +34,8 @@ of movement.</p>
 </p>
 <p>P3 Engagement Programme to provide students with water confidence &amp;
 survival skills.</p>
-</td>
-<td rowspan="3" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PE_1.jpg">
 </div>
 </td>
 </tr>
@@ -67,12 +63,6 @@ learnt through PE syllabus in a social and competitive setting.</p>
 and sports that are not taught in the syllabus to enrich and enthuse students
 for a healthy living.</p>
 </td>
-<td rowspan="2" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2.png">
-</div>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -80,6 +70,9 @@ for a healthy living.</p>
 </p>
 <p>A Programme to encourage all our students to maintain their fitness through
 healthy tips and physical activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PE_2.png">
+</div>
 </td>
 </tr>
 </tbody>
