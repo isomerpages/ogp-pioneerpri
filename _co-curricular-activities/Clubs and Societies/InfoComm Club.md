@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h1>InfoComm Club</h1>
+<h3><strong>InfoComm Club</strong></h3>
 <p>In today's fast-paced digital world, technological literacy is more important
 than ever. At Infocomm Club, we equip our members with essential digital
 skills through exciting, hands-on activities that inspire creativity and
