@@ -227,10 +227,10 @@ concepts and skills.</p>
 <p><strong>In-house packages</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>Factual Fluency Practices, Interleaved Distributed Packages, Maths Heuristic Packages</strong>
-</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Factual Fluency Practices, Interleaved Distributed Packages, Maths Heuristic
+Packages</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
