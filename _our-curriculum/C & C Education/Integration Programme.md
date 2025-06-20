@@ -5,7 +5,7 @@ description: ""
 third_nav_title: C & C Education
 variant: tiptap
 ---
-<h1>Integration Programme</h1>
+<h3><strong>Integration Programme</strong></h3>
 <p>Our Integration Programme aims to&nbsp;<strong>assimilate</strong>&nbsp;our
 International and/or Permanent Residents students into our local learning
 environment and culture through&nbsp;<strong>authentic learning experiences</strong>.
