@@ -2,42 +2,91 @@
 title: Co Curricular Activities
 permalink: /signature-programmes/co-curriculum-activities/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# Co-Curricular Activities
-<p align="Justify">Co-Curricular Activities (CCA) provides students with a platform to discover their interests and talents. It is incorporated into our curriculum time and after school extra training is provided for selected students. The activities planned help develop in the individual, a life-long love for a particular activity, be it a sport or musical pursuit. This helps the individual to lead a balanced life in adulthood. </p>
-
-<p align="Justify">In Pioneer Primary School, we offer various types of CCAs which are categorised into 4 main categories namely, Physical Sports, Performing and Visual Arts, Uniformed Groups, and Clubs and Societies.</p>
-
-<p align="Justify">Each CCA has its specific objectives. For instance, Physical Sports develop raggedness, fair play and team spirit in students. The Performing and Visual Arts instill in students a sense of graciousness and an appreciation for finer things in life. Uniformed Group activities aim to make good citizens of students by inculcating in them self-reliance, resilience, discipline and a spirit of service to others. Clubs and Societies allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive for mastery in the specialised areas. </p>
-
-<p align="Justify">Students progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation in any of the CCA groups. CCAs also offer excellent platforms for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies. </p>
-
-<p align="Justify">All CCAs emphasise on social interactions and provide a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA participation, students develop a sense of identity and belonging to the school. </p>
-
-#### CCA Categories
-
-<table>
+<h1><strong>Our Co–Curricular Activities</strong></h1>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Co-Curricular Activities (CCAs) play a vital role in nurturing well-rounded
+individuals, providing students with meaningful opportunities to explore
+their interests, uncover their talents and develop lifelong passions. Our
+CCA programme, seamlessly integrated into curriculum time with additional
+training sessions for selected students, is designed to ignite a lasting
+love for activities such as sports and the arts—ultimately encouraging
+students to pursue their interests and achieve a holistic education.</p>
+<p>&nbsp;</p>
+<p>We offer a diverse range of CCAs across Physical Sports, Performing and
+Visual Arts, Uniformed Groups and Clubs. Each CCA is thoughtfully designed
+to build character and essential life skills. Physical Sports cultivate
+resilience, teamwork and sportsmanship, whilst the Performing and Visual
+Arts foster creativity and deepen appreciation for our rich multicultural
+heritage. Uniformed Groups develop discipline, responsibility and a spirit
+of service, and our Clubs encourage both exploration and mastery in specialised
+areas whilst enhancing students' information, communication and technical
+capabilities.</p>
+<p>&nbsp;</p>
+<p>Consistent participation in CCAs enables students to progressively develop
+activity-specific skills, values and attitudes, whilst nurturing social
+and emotional competencies and essential 21st Century skills such as creativity,
+critical thinking, collaboration and leadership. Beyond skill development,
+CCAs serve as a powerful platform for social interaction, creating inclusive
+spaces where friendships flourish and students from diverse backgrounds
+unite in shared purpose. Through these experiences, students develop a
+stronger sense of identity, belonging and pride in their school community.</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>Information on the CCAs</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="background-color: #bbbbbb; text-align: center;width: 40%;"><strong>Category <br></strong></td>
-<td style="background-color: #bbbbbb; text-align: center;  vertical-align: middle;"><strong>CCAs</strong></td>
+<td rowspan="1" colspan="1">
+<p><strong>Category (Click on each category to view the CCAs information)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Example CCAs</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td>Physical Sports</td>
-<td>Basketball, Football, Netball and Wushu</td>
+<td rowspan="1" colspan="1">
+<p>Physical Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball, Football, Netball and Wushu</p>
+</td>
 </tr>
 <tr>
-<td>Performing and Visual Arts</td>
-<td>Art Expression, Chinese Orchestra, Choir, International Dance, Indian Dance and Malay Dance</td>
+<td rowspan="1" colspan="1">
+<p>Performing and Visual</p>
+<p>Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Expression, Chinese Orchestra and International Dance</p>
+</td>
 </tr>
 <tr>
-<td>Uniformed Groups</td>
-<td>Boys’ Brigade and Cub Scouts</td>
+<td rowspan="1" colspan="1">
+<p>Uniformed Groups</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cub Scouts</p>
+</td>
 </tr>
 <tr>
-<td>Clubs and Societies</td>
-<td>Infocomm club and Robotics</td>
+<td rowspan="1" colspan="1">
+<p>Clubs and Societies</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Club, Robotics Club</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
