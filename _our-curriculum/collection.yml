@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - PE, ART and Music/.keep
       - Physical Education.md
       - English Language.md
       - Mathematics.md
