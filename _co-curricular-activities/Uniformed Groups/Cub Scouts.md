@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1>Cub Scouts</h1>
+<h3><strong>Cub Scouts</strong></h3>
 <p>The Cub Scouts is a uniformed group CCA where every child can learn diverse
 new skills, stay active, and build self-confidence by taking on various
 challenges. Through hands-on activities, they develop important life skills
