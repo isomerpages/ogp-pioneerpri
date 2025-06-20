@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing and Visual Arts
 variant: tiptap
 ---
-<h1>Art Expression Club</h1>
+<h3><strong>Art Expression Club</strong></h3>
 <p>The Art Expression Club is dedicated to nurturing a passion for the visual
 arts and fostering creativity among our members. Through engaging weekly
 hands-on activities, we aim to instill positive values and develop essential
