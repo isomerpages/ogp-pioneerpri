@@ -22,14 +22,13 @@ for navigating future challenges. Our Art programme supports holistic developmen
 by engaging both mind and heart, empowering students to become confident
 and connected learners.</p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p>Key Programme</p>
 </th>
 </tr>
@@ -39,9 +38,6 @@ and connected learners.</p>
 </p>
 <p>P4 Learning Journey will provide students with authentic art engagement
 sessions to promote discussions and critical thinking in a museum setting.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_1.jpg">
 </div>
@@ -53,81 +49,60 @@ sessions to promote discussions and critical thinking in a museum setting.</p>
 </p>
 <p>P5 Stop Motion Programme introduces students to digital art form and how
 technology c. an be incorporated into the art.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_2.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_3.jpg">
 </div>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>3.  Photography</strong>
+<p><strong>3. Photography</strong>
 </p>
 <p></p>
 <p>The P6 Photography Programme engages students in exploring photography
 using iPads, encouraging them to capture artistic elements such as lines,
 colors, and shapes in their surroundings.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_4.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_5.jpg">
 </div>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>4.  Art Fiesta</strong>
+<p><strong>4. Art Fiesta</strong>
 </p>
 <p>Our annual Art Fiesta serves as a vibrant platform where students unite
 to design the cover for the school handbook. Following the competition,
 students participated in a variety of creative booth activities, skillfully
 facilitated by our dedicated student councilors.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_6.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_7.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_8.jpg">
 </div>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5.  In House Art Exhibition</strong>
+<p><strong>5. In House Art Exhibition</strong>
 </p>
 <p>The display of students' talent within the school community serves as
 a dynamic platform where students can proudly showcase their creative creations.
@@ -137,9 +112,6 @@ among students, teachers, and parents. By providing an opportunity for
 students to share their work, we encourage creativity, self-expression,
 and confidence, while celebrating the diverse talents that enrich our school
 environment.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART_9.jpg">
 </div>
