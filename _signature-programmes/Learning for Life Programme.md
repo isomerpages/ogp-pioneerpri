@@ -2,83 +2,303 @@
 title: Learning for Life Programme
 permalink: /signature-programmes/learning-for-life-programme/
 description: ""
+variant: tiptap
 ---
-# Learning for Life Programme
-<p align="Justify">Pioneer Primary’s Learning for Life Programme (LLP), “Graciousness and Fitness Through Dance” aims to expose students to various dance genres. The rigorous training enables students to develop their confidence and perseverance, learn to work cooperatively with each other and show respect for different ideas/opinions. </p>
-
-<p align="Justify">Our LLP is a 6-year programme, with progressive levels of difficulty. It caters to students’ interest and provides opportunities for those who show talent in dance to develop their skills further. </p>
-
-#### Learning Outcomes
-At the end of the 6-year programme, students will be able to
-* Develop body coordination and physical fitness through dance
-* Develop an appreciation for aesthetics and cultures associated with the various dance genres 
-* Develop creativity, social skills and cross-cultural skills
-
-#### Our Approach
-**Tier 1** 
-
-* Adopt a developmental approach to condition students’ fitness
-* Create multiple platforms for school/public performances 
-* Collaborate with English Language Department to promote joy of learning and empower students to express different ideas through creative movements 
-* Work closely with CCE Department to instil values and cultivate an appreciation for the diversity of cultures and arts
-
-**Tier 2**
-
-* Scout for young talents at lower primary to join the Dance CCA
-* Design and create learning experiences for P3 to P6 students who show interest and talent in dance to further develop their skills
-* Organise annual “We Can Dance” competition 
-
-#### 6-year LLP Programme
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e14l">Level</th>
-    <th class="tg-e14l">Genre/ Movement</th>
-    <th class="tg-e14l">Platform to <br>showcase skills</th>
-    <th class="tg-e14l">Inculcate values <br>through Dance </th>
-    <th class="tg-e14l">21CC</th>
-  </tr>
-</thead>
+<h1>Learning for Life Programme (LLP)</h1>
+<p>Our Learn for Life Programme (LLP), "Graciousness and Fitness Through
+Dance and Music", aims to develop students' confidence through enrichment
+and exploratory opportunities in various dance forms whilst strengthening
+the connection between music and dance within our curriculum. Through dance
+training, students develop important values such as perseverance, respect
+for others and teamwork. Our dance modules progress systematically over
+six years, offering varying levels of challenge, diverse dance forms to
+suit different interests, and a structured pathway for talented students.
+Beyond teaching ethnic, cultural and modern dance, the school offers a
+two-tiered programme for Primary 5 and 6 students, introducing them to
+music composition and lyric writing. We strive to provide enhanced opportunities
+for students to become creators, connectors and contributors.</p>
+<h4>Programme Outcomes By the end of the six-year programme, students will:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop creativity, social skills, cross-cultural understanding and appreciation
+for aesthetics and cultures</p>
+</li>
+<li>
+<p>Build confidence, perseverance, respect for others and teamwork abilities</p>
+</li>
+<li>
+<p>Cultivate an appreciation for dance and music</p>
+</li>
+<li>
+<p>Demonstrate graciousness and care for others through dance movements</p>
+</li>
+<li>
+<p>Enhance body coordination and physical fitness through dance</p>
+</li>
+</ul>
+<p>Progress to advanced levels of dance and songwriting (for students showing
+particular aptitude)</p>
+<h4>Our Approach</h4>
+<p><strong>Tier 1</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Instils sound values and cultivates appreciation for diverse cultures
+and arts</p>
+</li>
+<li>
+<p>Takes a developmental approach to improving students' fitness</p>
+</li>
+<li>
+<p>Engages students in fundamental music creation through keyboard skills
+and digital tools like GarageBand</p>
+</li>
+<li>
+<p>Develops interest and skills in lyric writing</p>
+</li>
+<li>
+<p>Provides performance opportunities to build confidence</p>
+</li>
+</ul>
+<p><strong>Tier 2</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Identifies talented lower primary students for placement in our international
+dance CCA</p>
+</li>
+<li>
+<p>Creates enhanced learning experiences for Primary 3 to 6 students who
+demonstrate strong interest and talent in dance</p>
+</li>
+<li>
+<p>Offers specialised songwriting opportunities for musically inclined upper
+primary students</p>
+</li>
+<li>
+<p>Showcases talent through the Pioneer Talent Show in Dance and Music</p>
+</li>
+</ul>
+<h4>6-year LLP Programme</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">P1 &amp; P2</span></td>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">Creative Dance / Focus on body parts and coordination</span><br><span style="font-weight:300;color:#000">Students create a simple dance movement. </span><br><span style="font-weight:300;color:#000">Incorporated Speech and Drama into the dance movement</span></td>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">Speech and Drama Performance for Parents</span></td>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">Performances for the kindergarten children </span></td>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">Developing self-confidence</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">P3</span></td>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">Ethnic Dance / With Focus on ASEAN culture</span></td>
-    <td class="tg-0lax" rowspan="2"><span style="font-weight:300;color:#000">Dance showcase during IFD celebration /Aesthetics Week  </span></td>
-    <td class="tg-0lax" rowspan="2"><span style="font-weight:300;color:#000">Students learn different cultural and international dances. </span><br><span style="font-weight:300;color:#000">Students also learn about the history of these dances and appreciate the unique culture of other countries</span></td>
-    <td class="tg-0lax" rowspan="2"><span style="font-weight:300;color:#000">Developing self-confidence</span><br><br><span style="font-weight:300;color:#000">Cross-Cultural Skills</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">P4</span></td>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">International Dance / With focus on other culture in the world </span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">P5</span></td>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">Modern Dance/ Hip Hop or Jazz with part of the dance choreograph by the students.</span></td>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">Inter–Class Dance competition / Teachers’ Day concert showcase</span></td>
-    <td class="tg-0lax" rowspan="2"><span style="font-weight:300;color:#000">Promoting teamwork and resilience by working as a team to overcome challenges and doing their best</span></td>
-    <td class="tg-0lax" rowspan="2"><span style="font-weight:300;color:#000">Developing self-confidence</span><br><span style="font-weight:300;color:#000">Cross-Cultural Skills</span><br><span style="font-weight:300;color:#000">Collaboration and teamwork</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">P6</span></td>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">Modern Dance/ Hip Hop or Jazz with part of the dance choreograph by the students. </span><br><span style="font-weight:300;color:#000">Dance chosen has a  higher intensity and complexity </span></td>
-    <td class="tg-0lax"><span style="font-weight:300;color:#000">Graduation Concert</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Genre/ Movement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Platform to
+<br>showcase skills</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>21CC/E21CC</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 &amp; P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Creative Dance / Focus on body parts and coordination</p>
+</li>
+<li>
+<p>Students create a simple dance movement.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Programme for Active Learining</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Developing self-confidence</p>
+</li>
+<li>
+<p>Inventive Thinking</p>
+</li>
+<li>
+<p>Collaboration</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cultural Dance / With Focus on ASEAN culture</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Dance showcase during International Friendship Day / Racial Harmony Day
+commemoration</p>
+</td>
+<td rowspan="2" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Developing self-confidence</p>
+</li>
+<li>
+<p>Cross-Cultural Literacy</p>
+</li>
+<li>
+<p>Adaptive Thinking</p>
+</li>
+<li>
+<p>Collaboration</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ethnic Fusion Dance / With focus on other culture in the world</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Dance/ Hip Hop or Jazz with part of the dance choreograph by the
+students.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inter–Class Dance competition / Teachers’ Day concert showcase</p>
+</td>
+<td rowspan="2" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Developing self-confidence</p>
+</li>
+<li>
+<p>Cross-Cultural Literacy</p>
+</li>
+<li>
+<p>Collaboration</p>
+</li>
+<li>
+<p>Inventive Thinking</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Melody composing using GarageBand&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class Showcase</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Dance/ Hip Hop or Jazz with part of the dance choreograph by the
+students.</p>
+<p>Dance chosen has a higher intensity and complexity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Graduation Concert</p>
+</td>
+<td rowspan="2" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Developing self-confidence</p>
+</li>
+<li>
+<p>Cross-Cultural Literacy</p>
+</li>
+<li>
+<p>Collaboration</p>
+</li>
+<li>
+<p>Inventive Thinking</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lyrics writing for Chorus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class Showcase</p>
+</td>
+</tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LLP_1.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LLP_2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/LLP_3.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LLP_4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LLP_5.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LLP_6.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

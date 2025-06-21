@@ -3,12 +3,40 @@ title: Chinese Orchestra
 permalink: /signature-programmes/co-curriculum-activities/performing-and-visual-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing and Visual Arts
+variant: tiptap
 ---
-# Chinese Orchestra
-<p align="Justify">“Every child can be a musician”. Pioneer Primary School is one of the few schools in the West that offers Chinese Orchestra. We believe that music has no language barrier.  Our Chinese Orchestra takes part in school-based performances to allow our students to build their confidence and gain stage experience. Our students also learn values such as perseverance, responsibility and teamwork.</p>
-
-<table width="100%"><tbody>
-<tr><td style="width:47%"><img src="/images/OurCurriculum/cca13.jpg" style="width:100%">
+<h3><strong>Chinese Orchestra</strong></h3>
+<p><strong>"Every child can be a musician."</strong>
+<br>At Pioneer Primary School, we believe that music transcends language,
+and every child should have the opportunity to explore its beauty. We provide
+our students with a unique platform to learn traditional Chinese instruments
+and appreciate the rich heritage behind the music.</p>
+<p>Through various school-based performances and events, our Chinese Orchestra
+members gain valuable stage experience and build confidence in expressing
+themselves through music. Along the way, they also develop important values
+such as perseverance, responsibility, and teamwork—skills that extend far
+beyond the music room.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese_Orchestra_1.jpg">
+</div>
 </td>
-<td style="width:50%"><img src="/images/OurCurriculum/cca14.jpg" style="width:1000%"></td>
-</tr></tbody></table>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chinese_Orchestra_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

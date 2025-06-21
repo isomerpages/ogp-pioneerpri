@@ -5,7 +5,7 @@ description: ""
 third_nav_title: C & C Education
 variant: tiptap
 ---
-<h1>Sexuality Education</h1>
+<h3><strong>Sexuality Education</strong></h3>
 <h4><strong>Moe Sexuality Education in Schools</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -54,11 +54,9 @@ foundation for strong families);</p>
 <p>Make responsible decisions for yourself, your family and society; and</p>
 </li>
 <li>
-<p>Abstinence before marriage is the best protection against STIs/HIV and
-unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
+<p>o&nbsp;&nbsp; Abstinence before marriage is the best protection against
+STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and
+your loved ones.</p>
 <p></p>
 </li>
 </ul>
@@ -69,8 +67,9 @@ more information on MOE Sexuality Education.</p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on the scope of Sexuality Education in the school curriculum.</p>
+Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
+<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
+in the school curriculum.</p>
 <p></p>
 </li>
 <li>
@@ -179,7 +178,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
+own responses when they encounter pornography by applying the strategy&nbsp;<strong>‘Stop-Think-Do’.</strong>
 </p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
