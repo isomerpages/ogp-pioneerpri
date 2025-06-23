@@ -4,7 +4,7 @@ permalink: /our-curriculum/mother-tongue-languages/
 description: ""
 variant: tiptap
 ---
-<h3>Mother Tongue Languages</h3>
+<h3><strong>Mother Tongue Languages</strong></h3>
 <p>Mother Tongue Languages (MTL) Department strives to develop Pioneer students
 to become passionate and confident communicators who have a deep appreciation
 of their cultural heritages.</p>
