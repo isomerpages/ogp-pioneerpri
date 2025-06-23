@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: PE, ART and Music (PAM)
 ---
-<h3><strong>The Physical Education Curriculum</strong></h3>
+<h3>The Physical Education Curriculum</h3>
 <p>Our PE curriculum establishes a strong foundation in fundamental movement
 skills whilst instilling core values that promote an active and healthy
 lifestyle. We encourage students to maintain physical activity through
