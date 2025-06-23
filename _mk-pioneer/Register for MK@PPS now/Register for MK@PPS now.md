@@ -14,6 +14,6 @@ out more.</p>
 </p>
 <p></p>
 <h3><strong>Waiting List application</strong></h3>
-<p>If you wish to enroll your child in MK@Pioneer, please submit your waiting
+<p>If you wish to enroll your child in MK @ Pioneer, please submit your waiting
 list application via this url: <a href="https://go.gov.sg/mkppswl-25" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkppswl-25</a>
 </p>
