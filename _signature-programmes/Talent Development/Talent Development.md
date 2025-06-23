@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Talent Development
 ---
-<h3>Talent Development</h3>
+<h3><strong>Talent Development</strong></h3>
 <p>We believe that every child is uniquely gifted, with the potential to
 excel in one or more areas. Each student carries within them the drive
 to grow, achieve, and pursue their personal goals and dreams. We are committed
