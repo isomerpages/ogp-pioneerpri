@@ -4,7 +4,7 @@ permalink: /signature-programmes/student-leadership-development/
 description: ""
 variant: tiptap
 ---
-<h3>Student Leadership Development</h3>
+<h3><strong>Student Leadership Development</strong></h3>
 <p>Our Student Leadership Development (SLD) Programme aims to equip Student
 Leaders with the necessary leadership know-how and skills to lead self
 and others in school projects, events and activities, serving the school
