@@ -349,64 +349,26 @@ voices of our young communicators!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Snacks review: Best Brand Showdown!</strong>
+<p><strong>Snacks review: Best Brand Showdown! Click </strong><a href="https://drive.google.com/file/d/1DcPlKKHOdADYQi2bDujmylK7RWvtWy6r/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1DcPlKKHOdADYQi2bDujmylK7RWvtWy6r/view?usp=drive_link</a>
+<p><strong>Introduction to Makerspace. Click </strong><a href="https://drive.google.com/file/d/1t_Gwre08pjBZtAQ5DJx_F4xXaHeO8oIb/view?usp=drive_lin" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Introduction to Makerspace</strong>
+<p><strong>Reporting on PPS Go with the beat event. Click </strong><a href="https://drive.google.com/drive/u/0/folders/1bYx44rOacuC9w42iCf0iOPvlaWmNBtJd" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1t_Gwre08pjBZtAQ5DJx_F4xXaHeO8oIb/view?usp=drive_lin</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting on PPS Go with the beat event:</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/drive/u/0/folders/1bYx44rOacuC9w42iCf0iOPvlaWmNBtJd</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Story-telling: Believe me! I never felt a pea!</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/drive/u/0/folders/1bahw6qFeWYCPzQ6ETUl9hxpUwLL_osFx</a>
+<p><strong>Story-telling: Believe me! I never felt a pea! Click </strong>
+<a href="https://drive.google.com/drive/u/0/folders/1bahw6qFeWYCPzQ6ETUl9hxpUwLL_osFx" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
