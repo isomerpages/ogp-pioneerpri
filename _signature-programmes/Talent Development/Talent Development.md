@@ -257,12 +257,7 @@ enjoy their remarkable achievements!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Text: English SOAR Magazine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Link: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://heyzine.com/flip-book/f64beeef62.html</a>
+<p>English SOAR Magazine. Click <a href="https://heyzine.com/flip-book/f64beeef62.html" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
@@ -280,12 +275,7 @@ enjoy their remarkable achievements!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Text: English SOAR Magazine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Link: <a rel="noopener noreferrer nofollow" target="_blank">https://heyzine.com/flip-book/c656bdae26.html</a>
+<p>English SOAR Magazine. Click <a href="https://heyzine.com/flip-book/c656bdae26.html" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
@@ -303,28 +293,13 @@ enjoy their remarkable achievements!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Text: English SOAR Magazine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Link: <a rel="noopener noreferrer nofollow" target="_blank">https://heyzine.com/flip-book/c32cdaf230.html</a>
+<p>English SOAR Magazine. Click <a href="https://heyzine.com/flip-book/c32cdaf230.html" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Text: Mother Tongue SOAR Magazine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Link: <a rel="noopener noreferrer nofollow" target="_blank">https://heyzine.com/flip-book/d6c21f7711.html</a>
+<p>Mother Tongue SOAR Magazine. Click <a href="https://heyzine.com/flip-book/d6c21f7711.html" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
