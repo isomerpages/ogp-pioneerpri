@@ -1,5 +1,5 @@
 collections:
-  m-pioneer:
+  mk-pioneer:
     output: true
     order:
       - Our Kindergarten/.keep
