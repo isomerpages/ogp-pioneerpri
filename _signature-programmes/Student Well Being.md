@@ -4,7 +4,7 @@ permalink: /signature-programmes/student-well-being/
 description: ""
 variant: tiptap
 ---
-<h3>Student Well-Being</h3>
+<h3><strong>Student Well-Being</strong></h3>
 <p>In Pioneer Primary School, ‘Students are our Gems’. We adopt the Self-Determination
 Theory (Edward Deci and Richard Ryanto, 1985) as a broad framework in creating
 purposeful experiences that promote positive psychological health and well-being
