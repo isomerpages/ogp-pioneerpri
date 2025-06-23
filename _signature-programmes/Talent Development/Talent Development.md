@@ -125,7 +125,6 @@ programmes that cater to the specific needs of different students.</p>
 <p>P1 - P6 Learning for Life Programme&nbsp;(LLP)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><em>(Do refer to Signature Programmes tab for more information)</em>
 </p>
 </td>
@@ -145,7 +144,6 @@ participation in activities of interest.</p>
 <p>Pioneer Talent Showcase (Dance and Music)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Pioneer Talent Showcase provides opportunities for our students to discover
 their interest, nurture their abilities and showcase their talents in various
 art forms. Through this platform, the school offers Art, Dance and Music
@@ -176,7 +174,6 @@ involvement and learning in specific talent areas.&nbsp;</p>
 <p>LLP Dance Ambassadors Programme</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><em>(Do refer to Our Curriculum tab for more information)</em>
 </p>
 </td>
@@ -206,7 +203,6 @@ content areas to students with interest and aptitude.</p>
 <p>Peer Mentoring&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>P4 – P6 PPS SOAR (External) Programmes</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -219,7 +215,6 @@ content areas to students with interest and aptitude.</p>
 <p>Science Centre Science Buskers</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>PPS SOAR Programme aims to engage students with interest and aptitude
 in programmes and projects that will develop their potential to the fullest
 and allow them to build their learning portfolio. Under the guidance of
