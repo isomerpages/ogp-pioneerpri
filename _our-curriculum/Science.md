@@ -4,7 +4,7 @@ permalink: /our-curriculum/science/
 description: ""
 variant: tiptap
 ---
-<h3>Science</h3>
+<h3><strong>Science</strong></h3>
 <p>Science education in Pioneer Primary aims to enthuse and nurture all students
 to be scientifically literate and they learn to ask, find or determine
 answers to questions about everyday experiences. Equipped with strong Science
