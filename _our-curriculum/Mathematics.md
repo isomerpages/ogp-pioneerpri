@@ -4,7 +4,7 @@ permalink: /our-curriculum/mathematics/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Mathematics</strong></h3>
+<h3>Mathematics</h3>
 <p>At Pioneer Primary School, we believe that every student possesses the
 potential and ability to learn and thrive in Mathematics. Our teaching
 approach is anchored in mathematical problem-solving and is designed to
@@ -19,14 +19,14 @@ part of their daily lives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fig 1: Taken from the Primary Mathematics Teaching and Learning Syllabus" src="/images/Maths_1.png">
 </div>
-<p><em>                       Fig 1: Taken from the Primary Mathematics Teaching and Learning Syllabus</em>
+<p><em>Fig 1: Taken from the Primary Mathematics Teaching and Learning Syllabus</em>
 </p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths_2.png">
 </div>
-<p><em>                    Fig 2: Overview of programmes in the Mathematics department</em>
+<p><em>Fig 2: Overview of programmes in the Mathematics department</em>
 </p>
 <p></p>
 <p><strong>SPARKLE (S</strong><em>tudy, </em><strong>P</strong><em>onder, </em><strong>A</strong><em>pply, </em><strong>R</strong><em>eview , </em><strong>K</strong><em>nowledge </em><strong>L</strong><em>eap, </em><strong>E</strong><em>xtend</em><strong>)</strong>
