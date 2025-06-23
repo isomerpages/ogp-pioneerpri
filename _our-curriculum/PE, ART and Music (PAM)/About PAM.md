@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: PE, ART and Music (PAM)
 ---
-<h3>About PAM</h3>
+<h3><strong>About PAM</strong></h3>
 <p>Physical Education, Art and Music (PAM) are essential in developing the
 whole child—morally, cognitively, physically, socially and aesthetically.
 Our PAM curriculum nurtures students' physical well-being and creative
