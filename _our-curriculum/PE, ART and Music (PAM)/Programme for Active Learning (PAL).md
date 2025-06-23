@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: PE, ART and Music (PAM)
 ---
-<h3>Programme for Active Learning (PAL)</h3>
+<h3><strong>Programme for Active Learning (PAL)</strong></h3>
 <p>Rapid technological advancements, changing social contexts, global conflicts
 and economic disruptions are some of the key driving forces of our current
 times, and they will continue to shape our future, bringing about new norms
