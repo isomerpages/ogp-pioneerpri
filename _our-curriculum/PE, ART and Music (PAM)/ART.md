@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: PE, ART and Music (PAM)
 ---
-<h3>The Art Curriculum</h3>
+<h3><strong>The Art Curriculum</strong></h3>
 <p>Our Art curriculum offers every student the opportunity to experience
 the joy of artistic expression, communicate ideas visually and forge meaningful
 connections with diverse art forms and cultures. Aligned with the goals
