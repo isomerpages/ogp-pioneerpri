@@ -4,7 +4,7 @@ permalink: /our-curriculum/mathematics/
 description: ""
 variant: tiptap
 ---
-<h3>Mathematics</h3>
+<h3><strong>Mathematics</strong></h3>
 <p>At Pioneer Primary School, we believe that every student possesses the
 potential and ability to learn and thrive in Mathematics. Our teaching
 approach is anchored in mathematical problem-solving and is designed to
