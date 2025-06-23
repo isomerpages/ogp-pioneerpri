@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Kindergarten
 ---
-<h1>A Strong Start for Every Child at MK@PPS</h1>
+<h1>A Strong Start for Every Child at MK @ Pioneer</h1>
 <h3>News and updates:</h3>
 <h3><strong>Online registration</strong></h3>
 <p>Online registration for 2026 K1 admissions for both Open Admissions (OA)

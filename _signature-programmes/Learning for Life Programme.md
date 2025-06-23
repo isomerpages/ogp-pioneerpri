@@ -4,7 +4,7 @@ permalink: /signature-programmes/learning-for-life-programme/
 description: ""
 variant: tiptap
 ---
-<h1>Learning for Life Programme (LLP)</h1>
+<h3><strong>Learning for Life Programme (LLP)</strong></h3>
 <p>Our Learn for Life Programme (LLP), "Graciousness and Fitness Through
 Dance and Music", aims to develop students' confidence through enrichment
 and exploratory opportunities in various dance forms whilst strengthening
