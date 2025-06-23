@@ -4,7 +4,7 @@ permalink: /our-curriculum/english-language/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Programmes from the English Department</strong></h3>
+<h3>Programmes from the English Department</h3>
 <p>We enrich the national STELLAR curriculum with our English programmes
 that bring language learning to life. We believe every child can be a confident,
 engaging, and effective communicator. Through a variety of thoughtfully
