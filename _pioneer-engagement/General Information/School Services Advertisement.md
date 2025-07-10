@@ -12,20 +12,24 @@ procedure below:</p>
 <h2>Service Requirement</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Call for Proposal</p>
+<p><a href="/files/School Services Advertisement/Call_for_Proposals__For_Single_Bus_Service__Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+</p>
 </li>
 <li>
-<p>Terms and Conditions for School Bus Operator to Provide School Bus Services</p>
+<p><a href="/files/School Services Advertisement/TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service__Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+</p>
 </li>
 <li>
-<p>Request for School Bus Services</p>
+<p><a href="/files/School Services Advertisement/Request_for_School_Bus_Svc___TC_Governing_the_Requests_for_Services__For_Single_Bus_Service__Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
+</p>
 </li>
 </ol>
 <p></p>
 <h2>Application Procedures</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the Call for Proposal- Annex A (Information Required from Vendor)</p>
+<p><a href="/files/School Services Advertisement/Call_for_Proposals__For_Single_Bus_Service__Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Complete the Call for Proposal- Annex A</a> (Information
+Required from Vendor)</p>
 </li>
 <li>
 <p>Submit the completed Call for Proposal <strong>in a sealed envelope</strong> by
