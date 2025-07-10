@@ -28,8 +28,7 @@ procedure below:</p>
 <h2>Application Procedures</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/School Services Advertisement/Call_for_Proposals__For_Single_Bus_Service__Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Complete the Call for Proposal-</a>
-<a href="/files/School Services Advertisement/Information_from_Vendor__For_Single_Bus_Service__Final.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/School Services Advertisement/Call_for_Proposals__For_Single_Bus_Service__Final.pdf" rel="noopener noreferrer nofollow" target="_blank"> Annex A</a> (Information
+<p>Complete the <a href="/files/School Services Advertisement/Information_from_Vendor__For_Single_Bus_Service__Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
 Required from Vendor)</p>
 </li>
 <li>
