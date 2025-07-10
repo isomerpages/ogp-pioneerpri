@@ -9,7 +9,7 @@ third_nav_title: General Information
 <p>To apply, please refer to the service requirements and the application
 procedure below:</p>
 <p></p>
-<h4>Service Requirement</h4>
+<h2>Service Requirement</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Call for Proposal</p>
@@ -22,7 +22,7 @@ procedure below:</p>
 </li>
 </ol>
 <p></p>
-<h4>Application Procedures</h4>
+<h2>Application Procedures</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Complete the Call for Proposal- Annex A (Information Required from Vendor)</p>
@@ -39,14 +39,19 @@ the closing date <u>5 pm, 23 July 2025</u> to the School’s General Office</p>
 </li>
 <li>
 <p>Contact Person: Ms Nur Amalina Binte Abdul Rahim</p>
-<p></p>
-<p><strong>How to get there?</strong>
-</p>
-<p>Nearest MRT: Pioneer MRT (EW28)</p>
-<p>Nearest Bus Stop: Juying Pr Sch (Stop ID: 27149) or Jurong West St 91
-Blk 920 (Stop ID: 27141)</p>
 </li>
 </ul>
+</li>
+</ol>
+<p></p>
+<h2>How to get there?</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Nearest MRT: Pioneer MRT (EW28)</p>
+</li>
+<li>
+<p>Nearest Bus Stop: Juying Pr Sch (Stop ID: 27149) or Jurong West St 91
+Blk 920 (Stop ID: 27141)</p>
 </li>
 </ol>
 <p></p>
