@@ -9,7 +9,7 @@ third_nav_title: General Information
 <p>To apply, please refer to the service requirements and the application
 procedure below:</p>
 <p></p>
-<h2>Service Requirement</h2>
+<h4>Service Requirement</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/School Services Advertisement/Call_for_Proposals__For_Single_Bus_Service__Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
@@ -25,7 +25,7 @@ procedure below:</p>
 </li>
 </ol>
 <p></p>
-<h2>Application Procedures</h2>
+<h4>Application Procedures</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Complete the <a href="/files/School Services Advertisement/Information_from_Vendor__For_Single_Bus_Service__Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
@@ -48,7 +48,7 @@ the closing date <u>5 pm, 23 July 2025</u> to the School’s General Office</p>
 </li>
 </ol>
 <p></p>
-<h2>How to get there?</h2>
+<h4>How to get there?</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Nearest MRT: Pioneer MRT (EW28)</p>
