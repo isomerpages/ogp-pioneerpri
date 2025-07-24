@@ -91,7 +91,7 @@ prompt engineering to create digital artefacts and innovative solutions</p>
 <p>Some of our programmes and activities are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Primary 1 and 2 Genius Hour (click <em>HERE</em> for more details)</p>
+<p>Primary 1 and 2 Genius Hour</p>
 </li>
 <li>
 <p>Primary 3 to 6 Coding Enrichment</p>
@@ -134,7 +134,7 @@ meaningful solutions.</p>
 <p>Some of our programmes and activities are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Primary 1 and 2 Passion Time (click <em>HERE</em> for more details)</p>
+<p>Primary 1 and 2 Passion Time</p>
 </li>
 <li>
 <p>Primary 3 to 6 Curriculum Integration</p>
