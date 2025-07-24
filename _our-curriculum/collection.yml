@@ -2,8 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Infor Comm Technology/Information and Communication Technology.md
-      - Infor Comm Technology/.keep
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -23,3 +21,5 @@ collections:
       - Character & Citizenship/Sexuality Education.md
       - Character & Citizenship/National Education.md
       - Character & Citizenship/Integration Programme.md
+      - Infor Comm Technology/.keep
+      - Infor Comm Technology/Information and Communication Technology.md
