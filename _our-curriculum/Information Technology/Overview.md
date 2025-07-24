@@ -77,73 +77,7 @@ others online, and practise safe, responsible, and ethical use of technology</p>
 <p>Coaching and Mentoring (Intervention for At-Risk Students)</p>
 </li>
 </ul>
-<h4>Computational Thinking, Coding and Programming</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Computational Thinking – Students employ computational thinking (Pattern
-Recognition, Decomposition, Algorithm, and Abstraction) together with technological
-tools to solve problems</p>
-</li>
-<li>
-<p>Coding and Programming – Students utilise block-based programming and
-prompt engineering to create digital artefacts and innovative solutions</p>
-</li>
-</ul>
-<p>Some of our programmes and activities are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Primary 1 and 2 Genius Hour</p>
-</li>
-<li>
-<p>Primary 3 to 6 Coding Enrichment</p>
-</li>
-<li>
-<p>Primary 6 Code for Fun (in partnership for IMDA)</p>
-</li>
-</ul>
-<p>Our comprehensive programmes equip our students with essential competencies,
-literacy and skills; nurturing them to become digitally-empowered, future-ready
-learners and innovators who can thrive in tomorrow's digital landscape.</p>
-<p></p>
-<h4>Maker Education</h4>
-<p>Maker Education is an innovative, student-centred approach that promotes
-experiential learning and cultivates curiosity and creativity. Through
-hands-on experiences, our students learn to empathise, design, prototype,
-and create solutions for real-world problems; strengthening their competencies
-in Critical, Adaptive and Inventive Thinking, and Communication.</p>
-<p>Our maker programmes are strategically designed with the following learning
-approaches:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Play-based Creation – Students explore making with physical materials
-and tools, discover the joy of crafting and building, and develop practical
-skills and spatial thinking.</p>
-</li>
-<li>
-<p>Challenge-based Creation – Students develop critical, adaptive and inventive
-thinking when generating and testing solutions in the context of a challenge
-with presence of constraints.</p>
-</li>
-<li>
-<p>User-centric Solutioning – Students nurture empathy as they understand
-the needs and feel the pain points of users when generating solutions.</p>
-</li>
-</ul>
-<p>Through these approaches, our students develop into confident creators
-and innovative problem-solvers who can effectively translate ideas into
-meaningful solutions.</p>
-<p>Some of our programmes and activities are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Primary 1 and 2 Passion Time</p>
-</li>
-<li>
-<p>Primary 3 to 6 Curriculum Integration</p>
-</li>
-<li>
-<p>Recess Play at the Makerspace</p>
-</li>
-</ul>
+<h4></h4>
 <p></p>
 <h4>Media Resource Library</h4>
 <p>At Pioneer Primary School, we cultivate a deep love for reading through
