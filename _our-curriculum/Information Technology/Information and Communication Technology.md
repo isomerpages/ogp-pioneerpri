@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Information Technology
 ---
-<h1>Info-Comm Technology and MRL</h1>
+<h1>Information &amp; Communication Technology</h1>
 <p>We recognise the importance of digital and technological competency as
 a pivot to our students' success in an increasingly fast-paced and connected
 world. In school, we are dedicated to equipping our students the essential
