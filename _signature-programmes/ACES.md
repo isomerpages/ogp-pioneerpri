@@ -47,8 +47,8 @@ Arts and Performing Arts. PAL nurtures curiosity, confidence and cooperation,
 while helping students build friendships and develop social-emotional skills.
 It also offers meaningful opportunities for teachers and students to bond
 through reflection and discussions on self-awareness and relationships.
-(<strong>Click </strong><a href="https://www.pioneerpri.moe.edu.sg/programme-for-active-learning-pal/" rel="noopener nofollow" target="_blank">HERE</a><strong> to read more about PAL)</strong>
-</p>
+(click <a href="https://www.pioneerpri.moe.edu.sg/programme-for-active-learning-pal/" rel="noopener nofollow" target="_blank">HERE</a> to
+read more about PAL)</p>
 </li>
 <li>
 <p><strong>Genius Hour</strong>: Genius Hour introduces lower primary students
