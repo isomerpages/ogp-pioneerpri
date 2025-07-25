@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - ACES.md
       - Thinking Curriculum.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
