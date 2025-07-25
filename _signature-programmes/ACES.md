@@ -46,8 +46,8 @@ Learning (PAL), which includes Sports and Games, Outdoor Education, Visual
 Arts and Performing Arts. PAL nurtures curiosity, confidence and cooperation,
 while helping students build friendships and develop social-emotional skills.
 It also offers meaningful opportunities for teachers and students to bond
-through reflection and discussions on self-awareness and relationships. <strong>Read more about PAL</strong> LINK
-TO PAL page</p>
+through reflection and discussions on self-awareness and relationships. <strong>Click  to read more about PAL</strong>
+</p>
 </li>
 <li>
 <p><strong>Genius Hour</strong>: Genius Hour introduces lower primary students
