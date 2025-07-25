@@ -25,6 +25,9 @@ and ability.&nbsp; This gradually builds pupils’ competency and understanding
 in the language. Explicit teaching of Malay Language will help pupils to
 improve on their mastery of the language.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/MTL/ML_2_.jpg">
+</div>
 <p></p>
 <p>The ML syllabus focuses on listening, speaking, reading, writing, and
 written interaction as well as oral interaction skills. These skills are
