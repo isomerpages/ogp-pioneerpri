@@ -7,7 +7,9 @@ third_nav_title: Mother Tongue Languages
 ---
 <h3>Teaching of Tamil Language</h3>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/MTL/TL.jpg">
+</div>
 <p></p>
 <p>At Pioneer Primary School, we cultivate confident Tamil speakers through
 an engaging and culturally rich curriculum. The TL programme empowers students
