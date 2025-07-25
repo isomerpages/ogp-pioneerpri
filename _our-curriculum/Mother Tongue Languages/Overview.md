@@ -35,6 +35,8 @@ in their Mother Tongue.</p>
 <p></p>
 <p><strong>Our Key Programmes</strong>
 </p>
+<p><strong>Holistic Development of Language Skills</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -44,13 +46,8 @@ in their Mother Tongue.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Holistic Development of Language Skills</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Student programmes that build essential skills in oral communication,
+<p>Programmes for students that build essential skills in oral communication,
 listening, reading, writing, and interaction</p>
-</li>
-</ul>
 </th>
 </tr>
 <tr>
@@ -110,7 +107,7 @@ addressing each student's unique learning requirements.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Cultivate the Love for Reading and Writing</p>
+<p>Programmes for Students that Cultivate the Love for Reading and Writing</p>
 </th>
 </tr>
 <tr>
@@ -132,15 +129,19 @@ addressing each student's unique learning requirements.</p>
 <p>P1 to P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To inspire a love of reading in students, we have many reading initiatives/activities/resources
-such as “Have Enjoyment And Read Together” (HEART) Programme, Mother Tongue
-Language book reading on every Friday mornings, P1 to P5 weekly reading
-period, classroom library, newspapers and magazines subscriptions.</p>
+<p>To inspire a love of reading in our students, we implement a variety of
+initiatives and resources, including the “Have Enjoyment And Read Together”
+(HEART) Programme, weekly Mother Tongue Language book reading sessions,
+classroom libraries, and newspaper and magazine subscriptions.</p>
+<p>&nbsp;</p>
+<p>Additionally, our Primary 1 to Primary 3 students will take part in the
+MTL SOAR programme, which is designed to Spark interest, Open minds, Appreciate
+cultural heritage, and help them Rise as confident readers.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cluster Magazine Publication</p>
+<p>Mother Tongue Writing Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 to P6</p>
@@ -148,8 +149,8 @@ period, classroom library, newspapers and magazines subscriptions.</p>
 <td rowspan="1" colspan="1">
 <p>Teaching our students to write well has benefits that go beyond the school
 years. To help our students improve their writing ability and develop a
-love for writing, Mother Tongue teachers collaborate with cluster schools
-to publish yearly cluster magazine with selected students’ articles.</p>
+love for writing, we actively create opportunities for them to participate
+in a wide range of writing activities.</p>
 </td>
 </tr>
 </tbody>
@@ -163,7 +164,7 @@ to publish yearly cluster magazine with selected students’ articles.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Student programmes that focus on Culture and Values</p>
+<p>Programmes for Students that Instill Values through Cultural Experiences</p>
 </th>
 </tr>
 <tr>
@@ -185,8 +186,8 @@ to publish yearly cluster magazine with selected students’ articles.</p>
 <p>P1 to P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Various festive celebrations to bring about awareness among students of
-different races and cultivate a strong cultural belief in them.</p>
+<p>Various festive celebrations are held to promote multicultural understanding
+and nurture students' respect for diverse traditions and values.</p>
 </td>
 </tr>
 <tr>
@@ -197,23 +198,24 @@ different races and cultivate a strong cultural belief in them.</p>
 <p>P1 to P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In addition to the fun, excitement and hands on activities through the
-language and cultural activities, students will gain a deeper insight into
-their own culture and learn to appreciate it better.</p>
+<p>Through interactive language and cultural activities, students gain deeper
+insights into their heritage while cultivating stronger appreciation for
+their cultural identity.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cultural Performance Exposure Scheme (CPES)</p>
+<p>Cultural Performance Exposure Scheme / Fund (CPES / CPEF)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 to P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPES aims to provide the necessary funding and support to expose students
-to MT-related cultural performances and programmes.</p>
+<p>CPES / CPEF aims to provide essential funding and support to give students
+exposure to Mother Tongue-related cultural performances and programmes.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
