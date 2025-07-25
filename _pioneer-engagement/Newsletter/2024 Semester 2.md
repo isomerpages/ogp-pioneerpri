@@ -7,9 +7,9 @@ third_nav_title: Newsletter
 ---
 <p>Dear Parents,</p>
 <p>We are excited to share Pioneer Highlights for this semester with you.</p>
-<p>Click <a href="https://heyzine.com/flip-book/b8bec97a9c.html" rel="noopener nofollow" target="_blank">Here</a> to
+<p>Click <strong><a href="https://heyzine.com/flip-book/b8bec97a9c.html" rel="noopener nofollow" target="_blank">Here</a></strong> to
 access our newsletter for Semester 2.</p>
-<p><a href="https://heyzine.com/flip-book/b8bec97a9c.html" rel="noopener noreferrer nofollow" target="_blank">https://heyzine.com/flip-book/b8bec97a9c.html</a>
+<p><strong><a href="https://heyzine.com/flip-book/b8bec97a9c.html" rel="noopener noreferrer nofollow" target="_blank">https://heyzine.com/flip-book/b8bec97a9c.html</a></strong>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/b8bec97a9c.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsletter_2_Image_1.jpg"></a>
 <p></p>
