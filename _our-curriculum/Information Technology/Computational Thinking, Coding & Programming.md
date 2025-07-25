@@ -20,7 +20,7 @@ prompt engineering to create digital artefacts and innovative solutions</p>
 <p>Some of our programmes and activities are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Primary 1 and 2 Genius Hour</p>
+<p>Primary 1 and 2 Genius Hour (click <a href="https://www.pioneerpri.moe.edu.sg/aces/" rel="noopener nofollow" target="_blank">HERE</a> for more details)</p>
 </li>
 <li>
 <p>Primary 3 to 6 Coding Enrichment</p>
