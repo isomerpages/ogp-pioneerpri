@@ -46,9 +46,6 @@ to achieve progressive learning outcomes throughout their 6 years of primary
 education with Pioneer. These outcomes are shared with parents and students
 through formative and summative assessments, and daily lessons.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/CL/CL.png">
-</div>
 <p></p>
 <p>In line with MOE’s syllabus, the teaching and learning of CL is conducted
 via the modular approach that caters to the different learning needs of
@@ -68,9 +65,6 @@ to hone and strengthen their language skills.</p>
 <p></p>
 <p><strong>Teaching of Malay Language</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/image4.jpg">
-</div>
 <p>In line with MOE’s Malay Language vision of ‘Arif Budiman’, at the end
 of the 6-year primary education in Pioneer, our students will be active
 and proficient in the use of Malay Language (ML) and develop deep appreciation
