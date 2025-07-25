@@ -15,24 +15,24 @@ sections:
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
         - title: Newsletter
-          description: 2024 Semester 2
-          url: /2024-semester-2/
+          description: 2025 Semester 1
+          url: /2025-semester-1/
       background: /images/Homepage/Banner 04.gif
+  - infopic:
+      title: Newsletter 2025 Semester 1
+      subtitle: ✨ Exciting News! ✨
+      id: infopic
+      description: Dear Parents,  We are excited to share Pioneer Highlights for
+        Semester 1 with you.  Click Here to access our newsletter!
+      button: Click here to access
+      url: https://heyzine.com/flip-book/84adb79c0d.html
+      image: /images/Sem1_2025.jpg
+      alt: soar
   - infopic:
       title: Registration of interest for P2 and P3 vacancies has closed.
       id: infopic
       image: /images/Slide2.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 issue SOAR Magazine launched!
-      subtitle: ✨ Exciting News! ✨
-      id: infopic
-      description: We are thrilled to announce the FIRST edition of our Mother Tongue
-        SOAR Magazine and the THIRD issue of our English SOAR Magazine.
-      button: Click to explore
-      url: /2024-soar-magazine/
-      image: /images/2024_SOAR_Magazine.jpg
-      alt: soar
   - infopic:
       title: Peanut Butter and Jelly
       subtitle: Like and follow our FB and IG
