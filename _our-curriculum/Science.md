@@ -26,6 +26,13 @@ and <strong>Analyse-Concept-Explain (ACE)</strong> for Science in daily context.
 Using these two thinking routines, students acquire basic concepts and
 hone process skills like analysing, comparing, interpreting and evaluating
 to explain scientific phenomenon around them.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/Science/DSC04923.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/Science/EL_4.jpg">
+</div>
 <p><strong>Our Key Programmes</strong>
 </p>
 <table style="minWidth: 50px">
