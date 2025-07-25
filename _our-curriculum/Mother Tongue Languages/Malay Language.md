@@ -24,6 +24,6 @@ improve on their mastery of the language.</p>
 <p></p>
 <p></p>
 <p>The ML syllabus focuses on listening, speaking, reading, writing, and
-written interaction as well as oral interaction skills.&nbsp; These skills
-are taught so that pupils are able to communicate and interact effectively
+written interaction as well as oral interaction skills. These skills are
+taught so that pupils are able to communicate and interact effectively
 and with confidence.</p>
