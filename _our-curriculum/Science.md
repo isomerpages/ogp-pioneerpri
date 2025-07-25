@@ -84,7 +84,6 @@ using the 3Rs (Reduce, Reuse and Recyle) and give them opportunities to
 put them into action. This will empower students to take action to protect
 the environment and promote sustainable development, leading to a better
 quality of life for everyone and a healthier planet.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -112,7 +111,6 @@ of science, and</p>
 <p>provide opportunities for students to develop initiative and creativity.</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -132,9 +130,7 @@ hands-on experiments conducted in the Science laboratories, build scientific
 thinking and communication in students by equipping them with scientific
 knowledge, skills, processes and ethics to enable them to explain daily
 scientific phenomenon around them and make informed decisions. Through
-their learning experience, we aim to build their E21CC for the future.
-<br>
-</p>
+their learning experience, we aim to build their E21CC for the future.</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +149,6 @@ their learning experience, we aim to build their E21CC for the future.
 hone their adaptive and inventive thinking skills (part of E21CC) through
 exploration and play. These programmes take different forms, like project-work,
 workshops or learning journeys.</p>
-<p></p>
 </td>
 </tr>
 </tbody>
