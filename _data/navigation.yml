@@ -9,6 +9,8 @@ links:
     sublinks:
       - title: Thinking Curriculum
         url: /signature-programmes/thinking-curriculum
+      - title: ACES
+        url: https://www.pioneerpri.moe.edu.sg/aces/
       - title: Applied Learning Programme
         url: /signature-programmes/applied-learning-programme
       - title: Learning for Life Programme
@@ -25,8 +27,6 @@ links:
         url: /signature-programmes/talent-development
       - title: Internationalisation
         url: /signature-programmes/internationalisation
-      - title: ACES
-        url: /permalink
   - title: Our Community
     collection: our-community
   - title: Pioneer Engagement
