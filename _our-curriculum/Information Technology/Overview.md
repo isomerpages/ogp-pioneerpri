@@ -25,3 +25,7 @@ and thrive confidently in the digital age.</p>
 <p>These competencies prepare our students to become confident, critical
 and responsible users of technology in an increasingly digital world.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ICT/Melissa__1_.jpg">
+</div>
+<p></p>
