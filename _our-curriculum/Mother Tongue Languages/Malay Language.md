@@ -7,6 +7,9 @@ third_nav_title: Mother Tongue Languages
 ---
 <h3>Teaching of Malay Language</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/MTL/ML.jpg">
+</div>
 <p></p>
 <p>In line with MOE Malay Language vision of ‘Arif Budiman’, at the end of
 primary school, we hope that the pupils will be able to build their knowledge,
