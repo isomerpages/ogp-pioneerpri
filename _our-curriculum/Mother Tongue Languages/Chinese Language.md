@@ -19,7 +19,9 @@ to achieve progressive learning outcomes throughout their 6 years of primary
 education with Pioneer.&nbsp; These outcomes are shared with parents and
 students through formative and summative assessments, and daily lessons.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/MTL/CL.png">
+</div>
 <p></p>
 <p>In line with MOE’s syllabus, the teaching and learning of CL is conducted
 via the modular approach that caters to the different learning needs of
