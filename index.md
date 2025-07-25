@@ -23,7 +23,7 @@ sections:
         Semester 1 with you.
       button: Click here to access!
       url: https://heyzine.com/flip-book/84adb79c0d.html
-      image: /images/Sem1_2025__60_.jpg
+      image: /images/Newsletter/2025/Sem1_2025__60_.jpg
       alt: soar
   - infopic:
       title: Registration of interest for P2 and P3 vacancies has closed.
