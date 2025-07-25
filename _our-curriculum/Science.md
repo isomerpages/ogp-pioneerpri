@@ -17,15 +17,27 @@ learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science.jpg">
 </div>
+<p></p>
 <p><strong>Our Key Strategies</strong>
 </p>
-<p>Through <strong>inquiry-based learning (IBL)</strong>, students familiarise
-themselves with thinking routines to promote scientific thinking and communication,
-ie <strong>Predict-Observe-Explain (POE)</strong> for hands-on experiments
-and <strong>Analyse-Concept-Explain (ACE)</strong> for Science in daily context.
-Using these two thinking routines, students acquire basic concepts and
-hone process skills like analysing, comparing, interpreting and evaluating
-to explain scientific phenomenon around them.</p>
+<p>Through <strong>inquiry-based learning (IBL)</strong>, students develop
+a spirit of curiosity as they explore their surroundings using scientific
+thinking and communication. We employ thinking routines such as <strong>Predict-Observe-Explain (POE)</strong> for
+hands-on investigations and <strong>Claim-Evidence-Reasoning (CER)</strong> for
+evidence-based explanations to guide their learning journey. These approaches
+deepen students' grasp of scientific concepts whilst nurturing critical
+process skills including analysis, comparison, interpretation and evaluation.
+By cultivating curiosity and encouraging methodical exploration, students
+learn to understand scientific phenomena in meaningful and engaging ways.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/Science/EL_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/Science/DSC04923.jpg">
+</div>
+<p></p>
 <p><strong>Our Key Programmes</strong>
 </p>
 <table style="minWidth: 50px">
@@ -46,50 +58,47 @@ to explain scientific phenomenon around them.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Science Recess Play @ i-Xperia: </em></strong>
-<br>As part of the Science Outreach Programme, activities are curated to ignite
+<p><strong>Science Recess Play @ i-Xperia:</strong>
+</p>
+<p>As part of the Science Outreach Programme, activities are curated to ignite
 curiosity in students to learn Science beyond the classroom. Students engage
 in simple hands-on activities and experiments conducted during the various
-recess sessions in the Science activity room (i-Xperia). These experiences
+recess sessions in the Science activity space (i-Xperia). These experiences
 allow students to hone their process skills and acquire scientific knowledge
-through play.
-<br>
-<br><strong><em>Science Discovery: </em></strong>
-<br>Conducted fortnightly, the Science Discovery presentations before morning
+through play.</p>
+<p></p>
+<p><strong>Science Discovery:</strong>
+</p>
+<p>Conducted fortnightly, the Science Discovery presentations before morning
 assembly introduces students to scientific concepts as applied in real-world
 situations. By seeing how scientific concepts can be used to explain everyday
 phenomenon, students can develop a greater appreciation for the value of
-scientific knowledge and be inspired to be life-long learners.
-<br>
-<br><strong><em>Environmental Education: </em></strong>
-<br>Environment education creates an awareness about the environment and the
+scientific knowledge and be inspired to be life-long learners.</p>
+<p></p>
+<p><strong>Environmental Education:</strong>
+</p>
+<p>Environment education creates an awareness about the environment and the
 challenges it faces. Through this programme, we also aim to equip the students
 with knowledge and skills to do their part in the care for environment
 using the 3Rs (Reduce, Reuse and Recyle) and give them opportunities to
 put them into action. This will empower students to take action to protect
 the environment and promote sustainable development, leading to a better
-quality of life for everyone and a healthier planet.
-<br>
-<br>
-</p>
+quality of life for everyone and a healthier planet.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Young Scientist Programme</strong>
 </p>
-<p><em>(online)</em>
+<p><em>(self-directed online learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Under this programme, each student is given access to an online platform,
 hosted by Science Centre Singapore, where they can choose to complete Science-based
-activities from a given list and earn a badge. Support and guidance are
-made available for students during the various recess sessions in i-Xperia.
-With the Young Scientist Programme, we hope to:
-<br>
-<br>
-</p>
+activities from a given list and earn badges. Through the Young Scientist
+Programme, we hope to:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>stimulate interest in science activities among students,</p>
@@ -121,11 +130,7 @@ hands-on experiments conducted in the Science laboratories, build scientific
 thinking and communication in students by equipping them with scientific
 knowledge, skills, processes and ethics to enable them to explain daily
 scientific phenomenon around them and make informed decisions. Through
-their learning experience, we aim to build their 21<sup>st</sup> century
-competencies for the future.
-<br>
-<br>
-</p>
+their learning experience, we aim to build their E21CC for the future.</p>
 </td>
 </tr>
 <tr>
@@ -136,19 +141,14 @@ competencies for the future.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Excellence 2000 (E2K) Science</strong>
+<p><strong>Level Programmes</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A Science enrichment programme for Primary 4 and 5 high ability students
-that engages them in scientific investigations involving advanced science
-concepts. It aims to engage students in scientific inquiry that will help
-them to develop the habits, attitudes and dispositions scientists possess
-as well as to gain important 21st century competencies such as critical
-and inventive thinking and effective communication skills.
-<br>
-<br>
-</p>
+<p>Level programmes are curated such that students have the opportunity to
+hone their adaptive and inventive thinking skills (part of E21CC) through
+exploration and play. These programmes take different forms, like project-work,
+workshops or learning journeys.</p>
 </td>
 </tr>
 </tbody>

@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Thinking Curriculum.md
+      - ACES.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Co Curriculum Activities/.keep

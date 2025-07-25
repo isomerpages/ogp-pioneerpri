@@ -5,20 +5,28 @@ collections:
       - English Language.md
       - Mathematics.md
       - Science.md
-      - Mother Tongue Languages.md
-      - PE, ART and Music (PAM)/.keep
-      - PE, ART and Music (PAM)/About PAM.md
-      - PE, ART and Music (PAM)/Physical Education.md
-      - PE, ART and Music (PAM)/ART.md
-      - PE, ART and Music (PAM)/Music.md
-      - PE, ART and Music (PAM)/Programme for Active Learning (PAL).md
-      - C & C Education/.keep
-      - C & C Education/Character and Citizenship Education.md
-      - C & C Education/CCE MTL.md
-      - C & C Education/Form Teacher Guidance Period (FTGP).md
-      - C & C Education/Cyber Wellness.md
-      - C & C Education/Education & Career Guidance.md
-      - C & C Education/Sexuality Education.md
-      - C & C Education/National Education.md
-      - C & C Education/Integration Programme.md
-      - ICT and MRL.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Overview.md
+      - Mother Tongue Languages/Chinese Language.md
+      - Mother Tongue Languages/Malay Language.md
+      - Mother Tongue Languages/Tamil Language.md
+      - PE, Art and Music (PAM)/.keep
+      - PE, Art and Music (PAM)/Overview.md
+      - PE, Art and Music (PAM)/Physical Education.md
+      - PE, Art and Music (PAM)/Aesthetics.md
+      - PE, Art and Music (PAM)/Programme for Active Learning (PAL).md
+      - Character & Citizenship/.keep
+      - Character & Citizenship/Overview.md
+      - Character & Citizenship/CCE MTL.md
+      - Character & Citizenship/Form Teacher Guidance Period (FTGP).md
+      - Character & Citizenship/Cyber Wellness.md
+      - Character & Citizenship/Education & Career Guidance.md
+      - Character & Citizenship/Sexuality Education.md
+      - Character & Citizenship/National Education.md
+      - Character & Citizenship/Integration Programme.md
+      - Information Technology/.keep
+      - Information Technology/Overview.md
+      - Information Technology/Digital Literacy & Skills.md
+      - Information Technology/Computational Thinking, Coding & Programming.md
+      - Information Technology/Maker Education.md
+      - Information Technology/Media Resource Library.md
