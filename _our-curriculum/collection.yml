@@ -2,11 +2,11 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Mother Tongue Languages/Mother Tongue Languages.md
-      - Mother Tongue Languages/.keep
       - English Language.md
       - Mathematics.md
       - Science.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
       - PE, Art and Music (PAM)/.keep
       - PE, Art and Music (PAM)/Overview.md
       - PE, Art and Music (PAM)/Physical Education.md
