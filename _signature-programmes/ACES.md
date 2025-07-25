@@ -61,3 +61,10 @@ in everyday life.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ACES/ACES.jpg">
+</div>
+<p>Through ACES, we commit to nurturing passionate learners, confident leaders
+and gracious citizens. Anchored in our school motto—Go For Excellence—we
+empower students with the mindset and skills to make a positive difference
+in school and beyond.</p>
