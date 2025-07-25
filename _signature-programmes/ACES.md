@@ -4,7 +4,7 @@ permalink: /aces/
 variant: tiptap
 description: ""
 ---
-<h3>ACES (Agency, Competency, Excellence, Students@PPS)</h3>
+<h3>ACES (Agency, Competency, Excellence in Students@PPS)</h3>
 <p>The ACES framework empowers students to act effectively in a VUCA world
 by integrating student agency with 21st Century Competencies (21CC). It
 helps students cultivate adaptive and inventive thinking, improve communication
