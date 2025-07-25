@@ -10,6 +10,8 @@ third_nav_title: Newsletter
 <p>Click <strong><a href="https://heyzine.com/flip-book/84adb79c0d.html" rel="noopener nofollow" target="_blank">Here</a></strong> to
 access our newsletter!</p>
 <p><strong><a href="https://heyzine.com/flip-book/84adb79c0d.html" rel="noopener noreferrer nofollow" target="_blank">https://heyzine.com/flip-book/84adb79c0d.html</a></strong>
-</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/84adb79c0d.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sem1_2025.jpg"></a>
-<p></p>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsletter/2025/Sem1_2025.jpg">
+</div>
 <p></p>
