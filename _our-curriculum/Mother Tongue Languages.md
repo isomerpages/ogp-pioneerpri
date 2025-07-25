@@ -5,59 +5,65 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Mother Tongue Languages</strong></h3>
-<p>Mother Tongue Languages (MTL) Department strives to develop Pioneer students
-to become passionate and confident communicators who have a deep appreciation
-of their cultural heritages.</p>
+<p>At Pioneer Primary School, the Mother Tongue Languages (MTL) Department
+is deeply committed to develop students into passionate and confident communicators
+who not only master their MTL but also develop a meaningful connection
+to their cultural heritage. Through a wide range of engaging pedagogies,
+innovative teaching strategies, and authentic learning experiences, we
+bring the language to life for our students, helping them see its value
+in everyday situations and future contexts.</p>
+<p>Our P1 to P6 curriculum and school-based programmes, including various
+vibrant cultural celebrations immerse students in rich traditions and heritage,
+deepening their understanding and appreciation of their own culture. These
+experiences are crafted to spark curiosity and encourage students to embrace
+their MTL with enthusiasm and strive for excellence in its use.</p>
+<p>Guided by our MTL Curriculum Framework, which focuses on four key areas,
+our dedicated teachers are equipped to create impactful learning journeys
+that inspire students to connect, communicate, and grow with confidence
+in their Mother Tongue.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/image1.jpeg">
 </div>
-<p>We adopt a vast array of teaching and learning pedagogies and strategies
-to <strong>Engage</strong> our students in joyful learning and the use of
-MTL beyond the classroom. Our customised school-based programmes and cultural
-events celebrations aim to provide authentic and purposeful learning <strong>Experiences</strong> for
-our students to develop a deep understanding and appreciation of their
-MTL and cultures, in the hope of inspiring them to <strong>Excel</strong> in
-the use of their MTL to the best of their ability.</p>
-<p>Our MTL Curriculum Framework addresses 4 main areas that set the direction
-for the Department and guide our teachers to effectively teach and engage
-our students, and achieve the Department’s desired learning outcomes.</p>
+<p></p>
 <p><strong>Our Key Strategies</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/image2.jpeg">
 </div>
+<p></p>
 <p><strong>Teaching of Chinese Language</strong>
 </p>
 <p>In the teaching of the Chinese Language (CL), we adopt a thematic-based
 approach to foster our students’ interest in the language and build their
 confidence and motivation to learn the language from young.</p>
 <p>To make language learning enjoyable for students, various strategies including
-story-telling, hands-on activities and role-play are used to make the learning
+storytelling, hands-on activities and role-play are used to make the learning
 process fun, memorable and meaningful.</p>
 <p>We strive to develop students’ linguistic skills in CL, in terms of listening,
 speaking, reading and writing in a structured manner. Students are guided
 to achieve progressive learning outcomes throughout their 6 years of primary
-education with Pioneer.&nbsp; These outcomes are shared with parents and
-students through formative and summative assessments, and daily lessons.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/image3.png">
-</div>
+education with Pioneer. These outcomes are shared with parents and students
+through formative and summative assessments, and daily lessons.</p>
+<p></p>
+<p></p>
+<p></p>
 <p>In line with MOE’s syllabus, the teaching and learning of CL is conducted
 via the modular approach that caters to the different learning needs of
 our students.</p>
-<p>All students take Core Modules throughout Primary 1 to Primary 6.&nbsp;
-At Lower Primary, Bridging Modules serve as a form of additional support
-for students who have little exposure to CL prior to entering primary school.&nbsp;
-These modules focus on building students’ listening and speaking skills
-and competencies, giving them more confidence in the learning of CL and
-helping them to cope well with the CL Curriculum.&nbsp;&nbsp; At Middle
-Primary, students who need additional support will be introduced the Reinforcement
-Modules.&nbsp; To give further support, we introduced the Mother Tongue
-Support Programme (MTSP), an in-house programme specially designed for
-Middle Primary students who need extra guidance and support.&nbsp; Students
-who demonstrate strong ability and interest for CL are offered Enrichment
-Modules at Upper Primary where they get the opportunity to hone and strengthen
-their language skills.</p>
+<p>All students take Core Modules throughout Primary 1 to Primary 6. At Lower
+Primary, Bridging Modules serve as a form of additional support for students
+who have little exposure to CL prior to entering primary school. These
+modules focus on building students’ listening and speaking skills and competencies,
+giving them more confidence in the learning of CL and helping them to cope
+well with the CL Curriculum. At Middle Primary, students who need additional
+support will be introduced the Reinforcement Modules. To give further support,
+we introduced the Mother Tongue Support Programme (MTSP), an in-house programme
+specially designed for Middle Primary students who need extra guidance
+and support. Students who demonstrate strong ability and interest for CL
+are offered Enrichment Modules at Upper Primary where they get the opportunity
+to hone and strengthen their language skills.</p>
+<p></p>
 <p><strong>Teaching of Malay Language</strong>
 </p>
 <div class="isomer-image-wrapper">
