@@ -5,107 +5,105 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Applied Learning Programme</strong></h3>
-<p>Pioneer Primary believes in developing Deep Learning Competencies in students
-to lay a solid foundation in our students for the VUCA world in the future.
-In alignment to the school’s vision, the school conceptualises Advocacy
-through Thinking, an Applied Learning Programme (ALP), to nurture Critical
-and Innovative Thinkers, and Advocates with Empathy and Enterprising Spirit.</p>
+<p>At Pioneer Primary School, we empower our students to become thoughtful
+problem-solvers and confident advocates who can make a positive impact
+in their community. Through our Applied Learning Programme, students develop
+essential 21st century competencies, skills and dispositions needed for
+an increasingly complex world.</p>
+<p><em>Advocacy through Thinking</em> leverages the Design Thinking framework,
+together with the use of Knowledge Building approach and experiential learning
+opportunities, to guide our students on a journey of discovery and innovation.</p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/ALP.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ALP/1.jpg">
 </div>
+<p><strong>Key Features</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Real-world problem solving through Design Thinking</p>
+</li>
+<li>
+<p>Collaborative Knowledge Building</p>
+</li>
+<li>
+<p>Hands-on experiential learning</p>
+</li>
+<li>
+<p>Community engagement projects</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ALP/DT_Framework.jpg">
+</div>
+<p>Using the Design Thinking framework, students explore meaningful issues
+ranging from school improvement to sustainability, public transport and
+animal welfare and learn to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Empathise with users through research and interviews</p>
+</li>
+<li>
+<p>Define real-world problems and user needs</p>
+</li>
+<li>
+<p>Ideate creative solutions</p>
+</li>
+<li>
+<p>Build, test and refine prototypes of their ideas</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ALP/2.jpg">
+</div>
+<p>Through the programme, we aim to develop the following 21st Century Competencies
+in our student:</p>
 <h4>Critical, Creative and Inventive Thinking</h4>
-<p>Through the programme, our students build the competency to think critically
-by learning Elements of Thought (EoT) defined by Paul’s Wheel of Reasoning.
-With Elements of Thought, students generate ideas, and explore possibilities
-in the Inter-Disciplinary learning of Environmental Literacy. The learning
-experiences are founded on the Kolb’s Experiential Learning Cycle (Primary
-1 to 3) and Design Thinking (Primary 4 to 6) pedagogical approaches. The
-programme further strengthens the inculcation of Critical, Inventive and
-Creative Thinking through Computational Thinking and Maker-Centred Learning.</p>
-<h4>Effective Communication with Confidence</h4>
-<p>In addition, the programme also nurtures students to be Confident and
-Effective Communicators. Our students apply the Elements of Thought to
-understand different points of view, and gain deep insights through asking
-questions, interpreting information and making inferences. With greater
-awareness of Purpose, Context and Audience, they communicate more effectively
-and confidently to share ideas, convey opinions and rally support from
-their peers.</p>
+<p>Through our Design Thinking framework, students learn to analyse problems
+systematically, challenge assumptions, and generate innovative solutions.
+They develop metacognitive skills by reflecting on their thinking processes
+and learning to ask deeper questions. Students are encouraged to view challenges
+from multiple perspectives and think outside conventional boundaries.</p>
+<h4>Effective Communication and Presentation Skills</h4>
+<p>Students develop confidence in articulating their ideas through various
+platforms. They learn to structure their thoughts logically, present compelling
+arguments and adapt their communication style to different audiences. Through
+project showcases, they master the art of engaging presentations and learn
+to receive and respond to feedback constructively.</p>
+<h4>Collaborative Learning and Civic Literacy</h4>
+<p>Working in teams, students learn to value diverse perspectives and build
+on one another's strengths. They develop skills in active listening, constructive
+discussion and collective problem-solving. Through exploring community
+issues, they gain awareness of social responsibilities and understand how
+their actions can contribute to society's well-being.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ALP/4.jpg">
 </div>
-<h4>Stewardship and Advocacy</h4>
-<p>The programme capitalises on Environmental Literacy as its central theme.
-It is an approach that integrates Inquiry-based Learning, Experiential
-Learning and Stewardship into a dynamic and cohesive pedagogical framework.
-As good stewards of the environment, our students engage in environmental
-inquiry to ask questions and explore issues about the environment. They
-collaborate and advocate to the wider community their passion, beliefs
-and solutions to environmental issues and problems, thus contributing and
-making a positive impact to the community. The focus on advocacy is consistent
-with MOE’s desired outcome to bring about active contributors as part of
-active citizenry.</p>
-<h4>Learning Outcomes</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p><strong>Competency Areas</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Critical, Creative &amp;</strong>
-<br><strong>Inventive Thinking</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Innovation</strong>
-<br><strong>with Technology</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Stewardship and</strong>
-<br><strong>Advocacy</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Elements</strong>
-<br><strong>of Thoughts</strong>
-<br>Evaluate Problems through Questioning
-<br>Reason with a Purpose
-<br>Reason based on Data, Information &amp; Evidence
-<br>Generate Ideas and Reason with Concepts
-<br>Infer, Interpret, Conclude to give meaning to Data
-<br>Evaluate various Points of View
-<br>Identify and clarify Assumptions
-<br>Evaluate Implications and Consequences</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>New Media Literacy</strong>
-<br><strong>Computational Thinking</strong>
-<br>Accessing and Using Information
-<br>Designing and Producing Digital Artefacts
-<br>Solving Problems using Coding and Prototyping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sustainable</strong>
-<br><strong>Living</strong>
-<br>Clean and Green Environment
-<br>4Rs – Refuse, Reduce, Reuse and Recycle
-<br>Plastic Waste Pollution
-<br>Sustainable Food Source
-<br>Clean Water and Conservation
-<br>Clean Energy, Global Warming and Climate Change</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Beyond skills, we also cultivate important values and dispositions:</p>
+<h4>Care and Empathy</h4>
+<p>Students develop deep understanding of others' needs and perspectives
+through user interviews and community engagement. They learn to recognise
+and respond to others' emotions and challenges, fostering a genuine desire
+to create positive change in their community.</p>
+<h4>Growth Mindset</h4>
+<p>We encourage students to view challenges as opportunities for learning
+and improvement. They learn to embrace feedback, persist through difficulties
+and understand that abilities can be developed through effort, good strategies,
+and input from others.</p>
+<h4>Creative Confidence</h4>
+<p>Students build belief in their creative abilities through hands-on experiences.
+They learn that creativity is not just about artistic expression but about
+finding novel solutions to problems. We nurture their confidence to share
+unique ideas and take calculated risks.</p>
+<h4>Maker Mindset</h4>
+<p>Students develop the disposition to learn by doing, experimenting and
+iterating. They understand that failure is part of the learning process
+and gain confidence in their ability to create, build and improve their
+ideas through practical experimentation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ALP/3.jpg">
+</div>
+<p>Through Pioneer Primary’s Applied Learning Programme, we empower our students
+to become thoughtful problem-solvers and confident advocates who can make
+a positive impact in their community.</p>
 <p></p>

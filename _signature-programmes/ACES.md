@@ -1,6 +1,6 @@
 ---
 title: ACES
-permalink: /aces/
+permalink: /signature-programmes/aces/
 variant: tiptap
 description: ""
 ---
