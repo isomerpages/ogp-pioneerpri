@@ -13,7 +13,9 @@ an increasingly complex world.</p>
 <p><em>Advocacy through Thinking</em> leverages the Design Thinking framework,
 together with the use of Knowledge Building approach and experiential learning
 opportunities, to guide our students on a journey of discovery and innovation.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ALP/1.jpg">
+</div>
 <p><strong>Key Features</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -48,10 +50,11 @@ animal welfare and learn to:</p>
 <p>Build, test and refine prototypes of their ideas</p>
 </li>
 </ul>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ALP/2.jpg">
+</div>
 <p>Through the programme, we aim to develop the following 21st Century Competencies
 in our student:</p>
-<p></p>
 <h4>Critical, Creative and Inventive Thinking</h4>
 <p>Through our Design Thinking framework, students learn to analyse problems
 systematically, challenge assumptions, and generate innovative solutions.
@@ -70,6 +73,9 @@ on one another's strengths. They develop skills in active listening, constructiv
 discussion and collective problem-solving. Through exploring community
 issues, they gain awareness of social responsibilities and understand how
 their actions can contribute to society's well-being.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ALP/4.jpg">
+</div>
 <p>Beyond skills, we also cultivate important values and dispositions:</p>
 <h4>Care and Empathy</h4>
 <p>Students develop deep understanding of others' needs and perspectives
@@ -91,7 +97,9 @@ unique ideas and take calculated risks.</p>
 iterating. They understand that failure is part of the learning process
 and gain confidence in their ability to create, build and improve their
 ideas through practical experimentation.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ALP/3.jpg">
+</div>
 <p>Through Pioneer Primary’s Applied Learning Programme, we empower our students
 to become thoughtful problem-solvers and confident advocates who can make
 a positive impact in their community.</p>
