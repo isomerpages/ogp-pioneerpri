@@ -33,6 +33,9 @@ opportunities, to guide our students on a journey of discovery and innovation.</
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OurCurriculum/ALP/DT_Framework.jpg">
+</div>
 <p>Using the Design Thinking framework, students explore meaningful issues
 ranging from school improvement to sustainability, public transport and
 animal welfare and learn to:</p>
