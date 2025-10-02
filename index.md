@@ -16,6 +16,16 @@ sections:
           url: /2025-semester-1/
       background: /images/Homepage/Banner 04.gif
   - infopic:
+      title: Shining Moments
+      subtitle: Follow us on FB and IG
+      id: infopic
+      description: Our Primary 6 students created a song “Shining Memories” to capture
+        the cherished moments, friendships, and deep bonds forged in our school.
+      button: Click here to watch
+      url: https://fb.watch/CtPyv_zOSG/
+      image: /images/Shining_Moments.jpg
+      alt: Image alt text
+  - infopic:
       title: Newsletter 2025 Semester 1
       subtitle: ✨ Exciting News! ✨
       id: infopic
@@ -32,11 +42,11 @@ sections:
       alt: Image alt text
   - infopic:
       title: Peanut Butter and Jelly
-      subtitle: Like and follow our FB and IG
+      subtitle: Follow us on FB and IG
       id: infopic
       description: We would like to share with you a song written by our very own P6
         students.
-      button: Watch Here
+      button: Click here to watch
       url: https://fb.watch/vf623Htiv0/
       image: /images/Peanut_and_Butter_Jelly_Cover.png
       alt: Image alt text
