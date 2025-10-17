@@ -317,35 +317,4 @@ these students brought stories to life using their own voice and style.
 Their work reflects not only skill but also creativity and passion.</p>
 <p>We invite you to enjoy their efforts and be inspired by the confident
 voices of our young communicators!</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Snacks review: Best Brand Showdown! Click</strong>  <a href="https://heyzine.com/flip-book/f64beeef62.html" rel="noopener nofollow" target="_blank">here</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Introduction to Makerspace. Click <a href="https://drive.google.com/file/d/1t_Gwre08pjBZtAQ5DJx_F4xXaHeO8oIb/view?usp=drive_lin" rel="noopener nofollow" target="_blank">here</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting on PPS Go with the beat event. Click <a href="https://drive.google.com/drive/u/0/folders/1bYx44rOacuC9w42iCf0iOPvlaWmNBtJd" rel="noopener nofollow" target="_blank">here</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Story-telling: Believe me! I never felt a pea! Click <a href="https://drive.google.com/drive/u/0/folders/1bahw6qFeWYCPzQ6ETUl9hxpUwLL_osFx" rel="noopener nofollow" target="_blank">here</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
