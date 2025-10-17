@@ -37,7 +37,7 @@ ideas, this magazine celebrates how our students <strong><em>speak up, write bol
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/16a9a33954.html"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Newsletter/2025/SOAR_2025_Pic_2.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/16a9a33954.html"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Newsletter/2025/SOAR_2025_Pic_2.png"></a>
 </td>
 </tr>
 </tbody>
