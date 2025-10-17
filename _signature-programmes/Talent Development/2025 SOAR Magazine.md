@@ -44,7 +44,7 @@ ideas, this magazine celebrates how our students <strong><em>speak up, write bol
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Newsletter/2025/SOAR_2025_Pic_2.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Newsletter/2025/SOAR_2025_Pic_2.png">
 </div>
 </td>
 </tr>
