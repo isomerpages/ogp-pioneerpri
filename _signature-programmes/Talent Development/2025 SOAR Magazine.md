@@ -23,10 +23,14 @@ ideas, this magazine celebrates how our students <strong><em>speak up, write bol
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>👉English SOAR Magazine</strong>:</p>
+<p> <a href="https://heyzine.com/flip-book/b46c538c99.html" rel="noopener nofollow" target="_blank">(Click Here)</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>👉Mother Tongue  SOAR Magazine</strong>:</p>
+<p><a href="https://heyzine.com/flip-book/16a9a33954.html" rel="noopener nofollow" target="_blank">(Click Here)</a>
+</p>
 </th>
 </tr>
 <tr>
@@ -35,11 +39,12 @@ ideas, this magazine celebrates how our students <strong><em>speak up, write bol
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newsletter/2025/SOAR_2025_Pic_1.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Newsletter/2025/SOAR_2025_Pic_2.png">
+<img style="width: 74%;" height="auto" width="100%" alt="" src="/images/Newsletter/2025/SOAR_2025_Pic_2.png">
 </div>
 </td>
 </tr>
