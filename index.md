@@ -15,36 +15,13 @@ sections:
           description: Click to access
           url: /2025-soar-magazine/
       background: /images/Homepage/Banner 04.gif
-  - textcards:
+  - infobar:
       title: Admin Day 2025
-      id: textcards
-      description: 13 & 14 October
-      cards:
-        - title: Primary 1
-          description: ""
-          linktext: Presentation Slides
-          url: /admin-day-2025/
-        - title: Primary 2
-          description: ""
-          linktext: Presentation Slides
-          url: /admin-day-2025/
-        - title: Student Care Centre
-          description: ""
-          linktext: Presentation Slides
-          url: /admin-day-2025/
-  - textcards:
-      title: Admin Day 2025
-      id: textcards
-      description: 13 & 14 October
-      cards:
-        - title: MOE Kindergarten
-          description: ""
-          linktext: Presentation Slides
-          url: /admin-day-2025/
-        - title: KCare
-          description: ""
-          linktext: Presentation Slides
-          url: /admin-day-2025/
+      subtitle: For Your Reference
+      id: infobar
+      description: Presentation Slides
+      button: Click HERE to Download
+      url: /admin-day-2025/
   - infopic:
       title: OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026
       subtitle: Nomination Opens For
@@ -52,9 +29,10 @@ sections:
       description: The OYEA gives national recognition to young teachers (35 y/o and
         below) who are role models for the teaching profession. Nomination
         closes on 9 January 2026.
-      button: Button Text
+      button: Click here to nominate
       alt: Image alt text
       image: /images/OYEA_2026.jpg
+      url: go.gov.sg/oyea2026
   - infopic:
       title: PRESIDENT’S AWARD FOR TEACHERS (PAT) 2026
       subtitle: Nomination Opens For
@@ -62,14 +40,15 @@ sections:
       description: The PAT gives national recognition to experienced teachers who are
         role models for the teaching profession. Nomination closes on 9 January
         2026.
-      button: Button Text
+      button: Click HERE to Nominate
       alt: Image alt text
       image: /images/PAT_2026.jpg
+      url: go.gov.sg/pat2026
   - infopic:
-      title: 2025 SOAR Magazine
+      title: SOAR Magazine 2025
       subtitle: ✨ Exciting News!✨
       id: infopic
-      description: 2025 SOAR Magazine is here!
+      description: SOAR Magazine is here!
       button: Click here to access!
       url: /2025-soar-magazine/
       image: /images/Newsletter/2025/SOAR_2025_Magazine__Combined_.jpg
