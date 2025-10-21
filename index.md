@@ -60,16 +60,6 @@ sections:
       image: /images/Slide2.jpg
       alt: Image alt text
   - infopic:
-      title: Peanut Butter and Jelly
-      subtitle: Follow us on FB and IG
-      id: infopic
-      description: We would like to share with you a song written by our very own P6
-        students.
-      button: Click here to watch
-      url: https://fb.watch/vf623Htiv0/
-      image: /images/Peanut_and_Butter_Jelly_Cover.png
-      alt: Image alt text
-  - infopic:
       title: Pioneer Primary School @ Tengah
       id: infopic
       description: Take a first look at the model for Pioneer Primary School @ Tengah!
