@@ -32,7 +32,7 @@ sections:
       button: Click here to nominate
       alt: Image alt text
       image: /images/OYEA_2026.jpg
-      url: go.gov.sg/oyea2026
+      url: https://go.gov.sg/oyea2026
   - infopic:
       title: PRESIDENT’S AWARD FOR TEACHERS (PAT) 2026
       subtitle: Nomination Opens For
@@ -43,7 +43,7 @@ sections:
       button: Click HERE to Nominate
       alt: Image alt text
       image: /images/PAT_2026.jpg
-      url: go.gov.sg/pat2026
+      url: https://go.gov.sg/pat2026
   - infopic:
       title: SOAR Magazine 2025
       subtitle: ✨ Exciting News!✨
