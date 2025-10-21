@@ -23,15 +23,15 @@ sections:
         - title: Primary 1
           description: ""
           linktext: Presentation Slides
-          url: ""
+          url: /admin-day-2025/
         - title: Primary 2
           description: ""
           linktext: Presentation Slides
-          url: ""
+          url: /admin-day-2025/
         - title: Student Care Centre
           description: ""
           linktext: Presentation Slides
-          url: ""
+          url: /admin-day-2025/
   - textcards:
       title: Admin Day 2025
       id: textcards
@@ -40,11 +40,11 @@ sections:
         - title: MOE Kindergarten
           description: ""
           linktext: Presentation Slides
-          url: ""
+          url: /admin-day-2025/
         - title: KCare
           description: ""
           linktext: Presentation Slides
-          url: ""
+          url: /admin-day-2025/
   - infopic:
       title: OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026
       subtitle: Nomination Opens For
