@@ -24,6 +24,7 @@ sections:
         2026.
       button: Button Text
       alt: Image alt text
+      image: /images/PAT_2026.jpg
   - infopic:
       title: Shining Moments
       subtitle: Follow us on FB and IG
