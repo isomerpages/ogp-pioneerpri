@@ -24,6 +24,8 @@ variant: markdown
 <td>Bus Operator (2026)</td>
 <td>DKJ Transport Service<br>Tel: 9371 9191<br>Email: <a href="mailto:dkjtransport.pps@gmail.com">dkjtransport.pps@gmail.com</a><br><br>
 <a target="_blank" href="/files/Attachments/School_Bus_Service_NTE_Price_DKJ_Transport.pdf">School Bus Operator and Bus Fare</a>
+<br>
+<br> If you are interested, please register your interest HERE[HERE](https://forms.gle/1TsER2KBFzpJQww59).
 </td>
 </tr>
 <tr>
