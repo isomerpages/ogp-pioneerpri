@@ -41,7 +41,7 @@ sections:
       id: infopic
       description: 2025 SOAR Magazine is here!
       button: Click here to access!
-      url: https://heyzine.com/flip-book/84adb79c0d.html
+      url: /2025-soar-magazine/
       image: /images/Newsletter/2025/SOAR_2025_Magazine__Combined_.jpg
       alt: soar
   - infopic:
