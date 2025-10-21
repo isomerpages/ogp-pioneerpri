@@ -18,7 +18,8 @@ variant: markdown
 <td>JK59 Transport Pte Ltd<br>Tel: 6465 5959<br>Email: <a href="mailto:student@jk59.com">student@jk59.com</a><br>Contact Person: Cynthia / Mei Qi
 <br><br>
 <a target="_blank" href="/files/Attachments/bus_operator_2025.pdf">School Bus Operator and Bus Fare</a>
-</td></tr>
+</td>
+</tr>
 <tr>
 <td>Bus Operator (2026)</td>
 <td>DKJ Transport Service<br>Tel: 9371 9191<br>Email: <a href="mailto:dkjtransport.pps@gmail.com">dkjtransport.pps@gmail.com</a><br><br>
