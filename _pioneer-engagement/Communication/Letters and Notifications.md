@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Communication
 variant: markdown
 ---
-# Letters and Notifications
+# Booklist for Textbooks and Stationery
 
-
-
-##### Booklist for Textbooks and Stationery for AY2025
 
 [Pri 5 Standard Booklist 2025](/files/Book%20List/Pioneer_Primary_School____Booklist_AY_2025___caa_251024___Final___P5.pdf)<br>
 [Pri 5 Foundation Booklist 2025](/files/Book%20List/Pioneer_Primary_School____Booklist_AY_2025___caa_251024___Final___P5_FDN.pdf)
