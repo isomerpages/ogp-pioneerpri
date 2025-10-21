@@ -15,6 +15,36 @@ sections:
           description: Click to access
           url: /2025-soar-magazine/
       background: /images/Homepage/Banner 04.gif
+  - textcards:
+      title: Admin Day 2025
+      id: textcards
+      description: 13 & 14 October
+      cards:
+        - title: Primary 1
+          description: ""
+          linktext: Presentation Slides
+          url: ""
+        - title: Primary 2
+          description: ""
+          linktext: Presentation Slides
+          url: ""
+        - title: Student Care Centre
+          description: ""
+          linktext: Presentation Slides
+          url: ""
+  - textcards:
+      title: Admin Day 2025
+      id: textcards
+      description: 13 & 14 October
+      cards:
+        - title: MOE Kindergarten
+          description: ""
+          linktext: Presentation Slides
+          url: ""
+        - title: KCare
+          description: ""
+          linktext: Presentation Slides
+          url: ""
   - infopic:
       title: OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026
       subtitle: Nomination Opens For
