@@ -16,6 +16,15 @@ sections:
           url: /2025-semester-1/
       background: /images/Homepage/Banner 04.gif
   - infopic:
+      title: PRESIDENT’S AWARD FOR TEACHERS (PAT) 2026
+      subtitle: Nomination Opens For
+      id: infopic
+      description: The PAT gives national recognition to experienced teachers who are
+        role models for the teaching profession. Nomination closes on 9 January
+        2026.
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Shining Moments
       subtitle: Follow us on FB and IG
       id: infopic
