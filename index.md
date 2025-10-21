@@ -36,6 +36,15 @@ sections:
       alt: Image alt text
       image: /images/PAT_2026.jpg
   - infopic:
+      title: 2025 SOAR Magazine
+      subtitle: ✨ Exciting News!✨
+      id: infopic
+      description: 2025 SOAR Magazine is here!
+      button: Click here to access!
+      url: https://heyzine.com/flip-book/84adb79c0d.html
+      image: /images/Newsletter/2025/Sem1_2025__60_.jpg
+      alt: soar
+  - infopic:
       title: Shining Moments
       subtitle: Follow us on FB and IG
       id: infopic
@@ -45,16 +54,6 @@ sections:
       url: https://fb.watch/CtPyv_zOSG/
       image: /images/Shining_Moments.jpg
       alt: Image alt text
-  - infopic:
-      title: Newsletter 2025 Semester 1
-      subtitle: ✨ Exciting News! ✨
-      id: infopic
-      description: Dear Parents,  We are excited to share Pioneer Highlights for
-        Semester 1 with you.
-      button: Click here to access!
-      url: https://heyzine.com/flip-book/84adb79c0d.html
-      image: /images/Newsletter/2025/Sem1_2025__60_.jpg
-      alt: soar
   - infopic:
       title: Registration of interest for P2 and P3 vacancies has closed.
       id: infopic
