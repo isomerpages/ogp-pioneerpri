@@ -11,9 +11,9 @@ sections:
         - title: Form Teachers 2025
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
-        - title: Newsletter
-          description: 2025 Semester 1
-          url: /2025-semester-1/
+        - title: 2025 SOAR Magazine
+          description: Click to access
+          url: /2025-soar-magazine/
       background: /images/Homepage/Banner 04.gif
   - infopic:
       title: OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026
