@@ -42,7 +42,7 @@ sections:
       description: 2025 SOAR Magazine is here!
       button: Click here to access!
       url: https://heyzine.com/flip-book/84adb79c0d.html
-      image: /images/Newsletter/2025/Sem1_2025__60_.jpg
+      image: /images/Newsletter/2025/SOAR_2025_Magazine__Combined_.jpg
       alt: soar
   - infopic:
       title: Shining Moments
