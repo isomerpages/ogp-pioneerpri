@@ -16,6 +16,15 @@ sections:
           url: /2025-semester-1/
       background: /images/Homepage/Banner 04.gif
   - infopic:
+      title: OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026
+      subtitle: Nomination Opens For
+      id: infopic
+      description: The OYEA gives national recognition to young teachers (35 y/o and
+        below) who are role models for the teaching profession. Nomination
+        closes on 9 January 2026.
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: PRESIDENT’S AWARD FOR TEACHERS (PAT) 2026
       subtitle: Nomination Opens For
       id: infopic
