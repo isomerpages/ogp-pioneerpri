@@ -24,6 +24,7 @@ sections:
         closes on 9 January 2026.
       button: Button Text
       alt: Image alt text
+      image: /images/OYEA_2026.jpg
   - infopic:
       title: PRESIDENT’S AWARD FOR TEACHERS (PAT) 2026
       subtitle: Nomination Opens For
