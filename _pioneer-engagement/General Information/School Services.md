@@ -14,11 +14,15 @@ variant: markdown
 <td>Asencio Pte Ltd <br>Tel: 6764 3102<br>Email: <a href="mailto:bookshop@asencio.com.sg">bookshop@asencio.com.sg</a><br><br>Opening Hours (school term):<br>Every Tuesday and Thursday<br>9.30 am to 2.00 pm<br><br>Parents/Guardians/Caregivers can make purchases on Tuesday and Thursday between 1.30 pm to 2.00 pm.</td>
 </tr>
 <tr>
-<td>Bus Operator</td>
+<td>Bus Operator (2025)</td>
 <td>JK59 Transport Pte Ltd<br>Tel: 6465 5959<br>Email: <a href="mailto:student@jk59.com">student@jk59.com</a><br>Contact Person: Cynthia / Mei Qi
 <br><br>
 <a target="_blank" href="/files/Attachments/bus_operator_2025.pdf">School Bus Operator and Bus Fare</a>
-	
+</td></tr>
+<tr>
+<td>Bus Operator (2026)</td>
+<td>DKJ Transport Service<br>Tel: 9371 9191<br>Email: <a href="mailto:dkjtransport.pps@gmail.com">dkjtransport.pps@gmail.com</a><br><br>
+<a target="_blank" href="/files/Attachments/bus_operator_2025.pdf">School Bus Operator and Bus Fare</a>
 </td>
 </tr>
 <tr>
