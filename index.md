@@ -11,10 +11,48 @@ sections:
         - title: Form Teachers 2025
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
-        - title: Newsletter
-          description: 2025 Semester 1
-          url: /2025-semester-1/
+        - title: 2025 SOAR Magazine
+          description: Click to access
+          url: /2025-soar-magazine/
       background: /images/Homepage/Banner 04.gif
+  - infobar:
+      title: Admin Day 2025
+      subtitle: For Your Reference
+      id: infobar
+      description: Presentation Slides
+      button: Click HERE to Download
+      url: /admin-day-2025/
+  - infopic:
+      title: OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026
+      subtitle: Nomination Opens For
+      id: infopic
+      description: The OYEA gives national recognition to young teachers (35 y/o and
+        below) who are role models for the teaching profession. Nomination
+        closes on 9 January 2026.
+      button: Click here to nominate
+      alt: Image alt text
+      image: /images/OYEA_2026.jpg
+      url: https://go.gov.sg/oyea2026
+  - infopic:
+      title: PRESIDENT’S AWARD FOR TEACHERS (PAT) 2026
+      subtitle: Nomination Opens For
+      id: infopic
+      description: The PAT gives national recognition to experienced teachers who are
+        role models for the teaching profession. Nomination closes on 9 January
+        2026.
+      button: Click HERE to Nominate
+      alt: Image alt text
+      image: /images/PAT_2026.jpg
+      url: https://go.gov.sg/pat2026
+  - infopic:
+      title: SOAR Magazine 2025
+      subtitle: ✨ Exciting News!✨
+      id: infopic
+      description: SOAR Magazine is here!
+      button: Click here to access!
+      url: /2025-soar-magazine/
+      image: /images/Newsletter/2025/SOAR_2025_Magazine__Combined_.jpg
+      alt: soar
   - infopic:
       title: Shining Moments
       subtitle: Follow us on FB and IG
@@ -26,29 +64,9 @@ sections:
       image: /images/Shining_Moments.jpg
       alt: Image alt text
   - infopic:
-      title: Newsletter 2025 Semester 1
-      subtitle: ✨ Exciting News! ✨
-      id: infopic
-      description: Dear Parents,  We are excited to share Pioneer Highlights for
-        Semester 1 with you.
-      button: Click here to access!
-      url: https://heyzine.com/flip-book/84adb79c0d.html
-      image: /images/Newsletter/2025/Sem1_2025__60_.jpg
-      alt: soar
-  - infopic:
       title: Registration of interest for P2 and P3 vacancies has closed.
       id: infopic
       image: /images/Slide2.jpg
-      alt: Image alt text
-  - infopic:
-      title: Peanut Butter and Jelly
-      subtitle: Follow us on FB and IG
-      id: infopic
-      description: We would like to share with you a song written by our very own P6
-        students.
-      button: Click here to watch
-      url: https://fb.watch/vf623Htiv0/
-      image: /images/Peanut_and_Butter_Jelly_Cover.png
       alt: Image alt text
   - infopic:
       title: Pioneer Primary School @ Tengah
