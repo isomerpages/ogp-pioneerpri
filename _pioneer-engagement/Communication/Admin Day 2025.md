@@ -7,10 +7,14 @@ third_nav_title: Communication
 ---
 <h1>Presentation Slides for Admin Day</h1>
 <p></p>
-<p>Primary 1 (Briefing by Principal)</p>
-<p>Primary 1 (Briefing by Senior School Counsellor and Year Head)</p>
-<p>Primary 2 (Briefing by Principal)</p>
-<p>Primary 2 (Briefing by Year Head)</p>
+<p><a href="/files/Admin Day/Admin_Day_2025__Primary_1__for_school_website__by_Principal_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 (Briefing by Principal)</a>
+</p>
+<p><a href="/files/Admin Day/Admin_Day_2025__Primary_1__for_school_website__by_SC_and_YH_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 (Briefing by Senior School Counsellor and Year Head)</a>
+</p>
+<p><a href="/files/Admin Day/Admin_Day_2025__Primary_2__for_school_website__by_Principal_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 (Briefing by Principal)</a>
+</p>
+<p><a href="/files/Admin Day/Admin_Day_2025__Primary_2__for_school_website__by_SC_and_YH_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 (Briefing by Year Head)</a>
+</p>
 <p><a href="/files/Admin Day/Admin_Day_2025__MK__for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten (MK)</a>
 </p>
 <p><a href="/files/Admin Day/Admin_Day_2025__KCare__for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Care (KCare)</a>
