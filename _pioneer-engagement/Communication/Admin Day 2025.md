@@ -7,8 +7,10 @@ third_nav_title: Communication
 ---
 <h1>Presentation Slides for Admin Day</h1>
 <p></p>
-<p>Primary 1 (to be uploaded)</p>
-<p>Primary 2 (to be uploaded)</p>
+<p>Primary 1 (Briefing by Principal)</p>
+<p>Primary 1 (Briefing by Senior School Counsellor and Year Head)</p>
+<p>Primary 2 (Briefing by Principal)</p>
+<p>Primary 2 (Briefing by Year Head)</p>
 <p><a href="/files/Admin Day/Admin_Day_2025__MK__for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten (MK)</a>
 </p>
 <p><a href="/files/Admin Day/Admin_Day_2025__KCare__for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Care (KCare)</a>
