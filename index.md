@@ -15,13 +15,14 @@ sections:
           description: Click to access
           url: /2025-soar-magazine/
       background: /images/Homepage/Banner 04.gif
-  - infobar:
+  - infopic:
       title: Admin Day 2025
-      subtitle: For Your Reference
-      id: infobar
-      description: Presentation Slides
-      button: Click HERE to Download
+      subtitle: For Your reference
+      id: infopic
+      description: Briefing Slides
+      button: Click here to download
       url: /admin-day-2025/
+      alt: Image alt text
   - infopic:
       title: OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026
       subtitle: Nomination Opens For
