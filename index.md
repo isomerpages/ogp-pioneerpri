@@ -23,6 +23,7 @@ sections:
       button: Click here to download
       url: /admin-day-2025/
       alt: Image alt text
+      image: /images/Homepage/Admin_Day_2025.jpg
   - infopic:
       title: OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026
       subtitle: Nomination Opens For
