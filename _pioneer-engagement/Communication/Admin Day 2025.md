@@ -17,7 +17,7 @@ third_nav_title: Communication
 </p>
 <p><a href="/files/Admin Day/Admin_Day_2025__MK__for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten (MK)</a>
 </p>
-<p><a href="/files/Admin Day/Admin_Day_2025__KCare__for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Care (KCare)</a>
-</p>
+<p><a href="/files/Admin Day/Admin_Day_2025__KCare__for_school_website__updated_on_13_Nov_.pdf" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Care (KCare)</a> [Updated
+on 13 Nov]</p>
 <p><a href="/files/Admin Day/Admin_Day_2025__SCC__for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Care Centre (Commit Learning Schoolhouse)</a>
 </p>
