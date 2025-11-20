@@ -6,8 +6,12 @@ description: ""
 third_nav_title: Communication
 ---
 <h1>Booklist for 2026</h1>
-<p>Primary 1</p>
-<p>Primary 2</p>
-<p>Primary 6 (Standard)</p>
-<p>Primary 6 (Foundation)</p>
+<p><a href="/files/Booklist/2026_Pioneer_Primary_School_Booklist_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+</p>
+<p><a href="/files/Booklist/2026_Pioneer_Primary_School_Booklist_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+</p>
+<p><a href="/files/Booklist/2026_Pioneer_Primary_School_Booklist_P6S.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (Standard)</a>
+</p>
+<p><a href="/files/Booklist/2026_Pioneer_Primary_School_Booklist_P6F.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (Foundation)</a>
+</p>
 <p></p>
