@@ -11,9 +11,6 @@ sections:
         - title: Form Teachers 2025
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
-        - title: 2025 Semester 2 Newsletter
-          description: Click to access
-          url: /2025-semester-2/
         - title: 2025 SOAR Magazine
           description: Click to access
           url: /2025-soar-magazine/
