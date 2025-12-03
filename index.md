@@ -16,6 +16,15 @@ sections:
           url: /2025-soar-magazine/
       background: /images/Homepage/Banner 04.gif
   - infopic:
+      title: Newsletter 2025 Semester 2
+      id: infopic
+      description: Dear Parents,  We are excited to share Pioneer Highlights for
+        Semester 2 with you.
+      button: Click Here to access our newsletter!
+      url: https://heyzine.com/flip-book/ec59148651.html#page/1
+      image: /images/Newsletter/Newsletter_Sem2_Photo.jpg
+      alt: Image alt text
+  - infopic:
       title: Admin Day 2025
       subtitle: For Your reference
       id: infopic
