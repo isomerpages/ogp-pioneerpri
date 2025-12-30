@@ -45,7 +45,8 @@ variant: markdown
 <td>8.00 am to 5.00 pm</td>
 </tr>
 <tr>
-<td>School is closed on Saturdays, Sundays and Public Holidays. </td>
+<td>Saturdays, Sundays and Public Holidays<br></td>
+<td>Closed<br></td>
 </tr>
 <tr>
 <td rowspan="4">School Hours</td>
@@ -80,9 +81,8 @@ variant: markdown
 <td>Gate 2<br> </td>
 </tr>
 <tr>
-	<td>Students with Siblings<br> </td>
+<td>Students with Siblings<br> </td>
 <td>Gather at the Canteen<br> </td>
-
 </tr>
 <tr>
 <td rowspan="3">School Gates Opening Hours</td>
