@@ -63,7 +63,7 @@ variant: markdown
 <tr>
 </tr>
 <tr>
-<td rowspan="4">Dismissal</td>
+<td rowspan="5">Dismissal</td>
 <td>Primary 1C1 to 1C5<br> </td>
 <td>Gate 2<br> </td>
 </tr>
@@ -73,6 +73,10 @@ variant: markdown
 </tr>
 <tr>
 <td>Primary 2<br> </td>
+<td>Gate 2<br> </td>
+</tr>
+<tr>
+<td>Primary 6<br> </td>
 <td>Gate 2<br> </td>
 </tr>
 <tr>
