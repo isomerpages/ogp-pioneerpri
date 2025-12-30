@@ -11,7 +11,7 @@ variant: markdown
 <tbody>
 <tr>
 <td>Bookshop</td>
-<td>Asencio Pte Ltd <br>Tel: 6764 3102<br>Email: <a href="mailto:bookshop@asencio.com.sg">bookshop@asencio.com.sg</a><br><br>Opening Hours (school term):<br>Monday to Friday<br>9.00 am to 2.00 pm<br><br>Parents/Guardians/Caregivers can make purchases on between 1.30 pm to 2.00 pm.</td>
+<td>Asencio Pte Ltd <br>Tel: 6764 3102<br>Email: <a href="mailto:bookshop@asencio.com.sg">bookshop@asencio.com.sg</a><br><br>Opening Hours (school term):<br>Monday to Friday: 9.00 am to 2.00 pm<br><br>Parents/Guardians/Caregivers can make purchases on between 1.30 pm to 2.00 pm.</td>
 </tr>
 <tr>
 <td>Bus Operator</td>
@@ -26,11 +26,11 @@ variant: markdown
 </td></tr>
 <tr>
 <td>Student Care Centre</td>
-<td>Commit Learning Schoolhouse @ Pioneer Primary<br>Tel: 80357438<br>Email: <a href="mailto:admission_cls_pps@commitlearning.com.sg">admission_cls_pps@commitlearning.com.sg</a><br><br>Opening Hours: <br> Monday to Friday (School Term) 1.30pm to 7:00pm<br>Monday to Friday (School Holiday) 7:30am to 7:00pm</td>
+<td>Commit Learning Schoolhouse @ Pioneer Primary<br>Tel: 80357438<br>Email: <a href="mailto:admission_cls_pps@commitlearning.com.sg">admission_cls_pps@commitlearning.com.sg</a><br><br>Opening Hours: <br> Monday to Friday (School Term): 1.30pm to 7:00pm<br>Monday to Friday (School Holiday): 7:30am to 7:00pm</td>
 </tr>
 <tr>
 <td>Uniform Supplier</td>
-<td>Shanghai School Uniforms Pte Ltd<br>Tel: 6352 2741<br>Email: <a href="mailto:contact@shanghai-uniforms.com">contact@shanghai-uniforms.com</a><br>Retail Outlet: 63 Ubi Avenue 1 #04-09, 63@Ubi, Singapore 408937<br> Website: <a href="https://shanghai-uniforms.sg/">https://shanghai-uniforms.sg/</a><br><br>Retail Outlet at Ubi - Opening Hours (school term): <br>Monday to Saturday<br>10.00 am to 6.00 pm<br>Lunch Break<br>1.00 pm to 2.00 pm</td>
+<td>Shanghai School Uniforms Pte Ltd<br>Tel: 6352 2741<br>Email: <a href="mailto:contact@shanghai-uniforms.com">contact@shanghai-uniforms.com</a><br>Website: <a href="https://shanghai-uniforms.sg/">https://shanghai-uniforms.sg/</a><br>Retail Outlet: 63 Ubi Avenue 1 #04-09, 63@Ubi, Singapore 408937<br> <br>Opening Hours at Retail Outlet: <br>Monday to Saturday: 10.00 am to 6.00 pm<br>Lunch Break: 1.00 pm to 2.00 pm</td>
 </tr>
 </tbody>
 </table>
