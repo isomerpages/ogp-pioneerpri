@@ -54,11 +54,11 @@ variant: markdown
 <td>7.30 am to 1.30 pm</td>
 </tr>
 <tr>
-<td>Primary 6 (Monday &amp; Thursday)</td>
+<td>Primary 6 (Monday and Thursday)</td>
 <td>7.45 am to 2.45 pm</td>
 </tr>
 <tr>
-<td>Primary 6 (Tuesday, Wednesday &amp; Friday)</td>
+<td>Primary 6 (Tuesday, Wednesday and Friday)</td>
 <td>7.45 am to 1.30 pm</td>
 </tr>
 <tr>
@@ -99,11 +99,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2">School Library Opening Hours</td>
-<td>Monday, Wednesday (School Term)</td>
+<td>Monday and Wednesday (School Term)</td>
 <td>7.30 am to 12.30 pm<br>1.00 pm to 4.30 pm</td>
 </tr>
 <tr>
-<td>Tuesday, Thursday, Friday (School Term)</td>
+<td>Tuesday, Thursday and Friday (School Term)</td>
 <td>7.30 am to 12.30 pm<br>1.00 pm to 5.00 pm</td>
 </tr>
 </tbody>
