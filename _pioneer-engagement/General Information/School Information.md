@@ -66,19 +66,19 @@ variant: markdown
 <tr>
 <td rowspan="5">Dismissal</td>
 <td>Primary 1C1 to 1C5<br> </td>
-<td>Gate 2<br> </td>
+<td>Gate 2 (Next to Security Post)<br> </td>
 </tr>
 <tr>
 <td>Primary 1C6 to 1C11<br> </td>
-<td>Gate 1<br> </td>
+<td>Gate 1 (Near MK@Pioneer)<br> </td>
 </tr>
 <tr>
 <td>Primary 2<br> </td>
-<td>Gate 2<br> </td>
+<td>Gate 2 (Next to Security Post)<br> </td>
 </tr>
 <tr>
 <td>Primary 6<br> </td>
-<td>Gate 2<br> </td>
+<td>Gate 2 (Next to Security Post)<br> </td>
 </tr>
 <tr>
 <td>Students with Siblings<br> </td>
