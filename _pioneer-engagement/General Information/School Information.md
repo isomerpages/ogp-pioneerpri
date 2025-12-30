@@ -78,7 +78,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Primary 6<br> </td>
-<td>Gate 2 (Next to Security Post)<br> </td>
+<td>Gate 1 &amp; 2<br> </td>
 </tr>
 <tr>
 <td>Students with Siblings<br> </td>
