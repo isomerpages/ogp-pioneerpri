@@ -95,7 +95,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Gate 3 (Main Gate Entrance)</td>
-<td>6.30 am to 7.00 pm (Cars are only allowed to enter the school premises for drop-off before 7.30 am and dismissal after 2.00 pm, and no parking is allowed)<br></td>
+<td>6.30 am to 7.00 pm (Cars are only allowed to enter the school premises for drop-off before 7.30 am and for dismissal after 2.00 pm, and no parking is allowed)<br></td>
 </tr>
 <tr>
 <td rowspan="2">School Library Opening Hours</td>
