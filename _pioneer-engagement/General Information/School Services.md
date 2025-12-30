@@ -30,7 +30,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Uniform Supplier</td>
-<td>Shanghai School Uniforms Pte Ltd<br>Tel: 6352 2741<br>Email: <a href="mailto:contact@shanghai-uniforms.com">contact@shanghai-uniforms.com</a><br>Retail Outlet: 63 Ubi Avenue 1 #04-09, 63@Ubi, Singapore 408937<br> Website: https://shanghai-uniforms.sg/<br><br>Retail Outlet at Ubi - Opening Hours (school term): <br>Monday to Saturday<br>10.00 am to 6.00 pm<br>Lunch Break<br>1.00 pm to 2.00 pm</td>
+<td>Shanghai School Uniforms Pte Ltd<br>Tel: 6352 2741<br>Email: <a href="mailto:contact@shanghai-uniforms.com">contact@shanghai-uniforms.com</a><br>Retail Outlet: 63 Ubi Avenue 1 #04-09, 63@Ubi, Singapore 408937<br> Website: <a href="https://shanghai-uniforms.sg/">https://shanghai-uniforms.sg/</a><br><br>Retail Outlet at Ubi - Opening Hours (school term): <br>Monday to Saturday<br>10.00 am to 6.00 pm<br>Lunch Break<br>1.00 pm to 2.00 pm</td>
 </tr>
 </tbody>
 </table>
