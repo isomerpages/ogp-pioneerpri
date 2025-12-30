@@ -80,20 +80,22 @@ variant: markdown
 <td>Gate 2<br> </td>
 </tr>
 <tr>
-<td colspan="2">For students taking the School Bus and Shuttle Bus, and attending Student Care:<br>&nbsp; &nbsp; • &nbsp; &nbsp;Gathering Point for Primary 1 &amp; 2: Canteen<br>&nbsp; &nbsp; • &nbsp; &nbsp;Gathering Point for Primary 6: Parade Square<br>&nbsp; &nbsp; • &nbsp; &nbsp;Gathering Point for Students with Siblings: Canteen</td>
+	<td>Students with Siblings<br> </td>
+<td>Gather at the Canteen<br> </td>
+
 </tr>
 <tr>
 <td rowspan="3">School Gates Opening Hours</td>
 <td>Gate 1 (Near MK@Pioneer)</td>
-<td>6.30 am - 7.30 am<br>1.15 pm - 2.00 pm<br></td>
+<td>6.30 am to 7.30 am<br>1.15 pm to 2.00 pm<br></td>
 </tr>
 <tr>
 <td>Gate 2 (Next to Security Post)</td>
-<td>6.30 am - 7.30 am<br>1.15 pm - 2.00 pm<br>3.00pm - 4.00pm<br></td>
+<td>6.30 am to 7.30 am<br>1.15 pm to 2.00 pm<br>3.00pm to 4.00pm<br></td>
 </tr>
 <tr>
 <td>Gate 3 (Main Gate Entrance)</td>
-<td>6.30 am - 7.00 pm (Cars will only be allowed to enter the school premises for dismissal after 2.00 pm)<br></td>
+<td>6.30 am to 7.00 pm (Cars will only be allowed to enter the school premises for dismissal after 2.00 pm and no parking is allowed in the school premises)<br></td>
 </tr>
 <tr>
 <td rowspan="2">School Library Opening Hours</td>
