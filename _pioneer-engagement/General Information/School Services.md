@@ -14,7 +14,7 @@ variant: markdown
 <td>Asencio Pte Ltd <br>Tel: 6764 3102<br>Email: <a href="mailto:bookshop@asencio.com.sg">bookshop@asencio.com.sg</a><br><br>Opening Hours (school term):<br>Monday to Friday<br>9.00 am to 2.00 pm<br><br>Parents/Guardians/Caregivers can make purchases on between 1.30 pm to 2.00 pm.</td>
 </tr>
 <tr>
-<td>Bus Operator (2026)</td>
+<td>Bus Operator</td>
 <td>DKJ Transport Service<br>Tel: 9371 9191 (Contact via WhatsApp only)<br>Email: <a href="mailto:dkjtransport.pps@gmail.com">dkjtransport.pps@gmail.com</a><br><br>
 <a target="_blank" href="/files/Attachments/School_Bus_Service_NTE_Price_DKJ_Transport.pdf">School Bus Operator and Bus Fare</a>
 <br><br colspan="2">If you are interested, please register your interest <a href="https://forms.gle/1TsER2KBFzpJQww59">HERE</a>.</td>
