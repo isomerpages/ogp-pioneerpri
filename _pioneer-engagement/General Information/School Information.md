@@ -37,15 +37,15 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="3">School Operating Hours</td>
-<td>Monday to Friday (school term)</td>
+<td>Monday to Friday (School Term)</td>
 <td>7.30 am to 5.30 pm</td>
 </tr>
 <tr>
-<td>Monday to Friday (school holidays)</td>
+<td>Monday to Friday (School Holidays)</td>
 <td>8.00 am to 5.00 pm</td>
 </tr>
 <tr>
-<td>School is closed on Saturdays, Sundays and Public Holidays.</td>
+<td>School is closed on Saturdays, Sundays and Public Holidays. </td>
 </tr>
 <tr>
 <td rowspan="4">School Hours</td>
@@ -80,7 +80,7 @@ variant: markdown
 <td>Gate 2<br> </td>
 </tr>
 <tr>
-<td colspan="2">For students taking the School Bus and Shuttle Bus, and attending Student Care:<br>&nbsp; &nbsp; • &nbsp; &nbsp;Primary 1 &amp; 2 - Gather in the Canteen<br>&nbsp; &nbsp; • &nbsp; &nbsp;Primary 6 - Gather in the Parade Square<br>&nbsp; &nbsp; • &nbsp; &nbsp;Students with siblings will meet in the canteen and may leave together using either Gate 1 or Gate 4.</td>
+<td colspan="2">For students taking the School Bus and Shuttle Bus, and attending Student Care:<br>&nbsp; &nbsp; • &nbsp; &nbsp;Gathering Point for Primary 1 &amp; 2: Canteen<br>&nbsp; &nbsp; • &nbsp; &nbsp;Gathering Point for Primary 6: Parade Square<br>&nbsp; &nbsp; • &nbsp; &nbsp;Gathering Point for Students with Siblings: Canteen</td>
 </tr>
 <tr>
 <td rowspan="3">School Gates Opening Hours</td>
@@ -97,11 +97,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2">School Library Opening Hours</td>
-<td>Monday, Wednesday (school term)</td>
+<td>Monday, Wednesday (School Term)</td>
 <td>7.30 am to 12.30 pm<br>1.00 pm to 4.30 pm</td>
 </tr>
 <tr>
-<td>Tuesday, Thursday, Friday (school term)</td>
+<td>Tuesday, Thursday, Friday (School Term)</td>
 <td>7.30 am to 12.30 pm<br>1.00 pm to 5.00 pm</td>
 </tr>
 </tbody>
