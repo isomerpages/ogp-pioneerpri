@@ -34,7 +34,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Group Personal Accident Insurance for Students</td>
-<td><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students">https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students</a><br><br>
+<td><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students">https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students</a><br>
 
 Click <a target="_blank" href="/files/Attachments/Product_Fact_Sheet_2026.pdf">HERE</a> for Product Fact Sheet
 </td>
