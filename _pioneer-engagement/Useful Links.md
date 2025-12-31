@@ -52,7 +52,7 @@ For example:<br>
 Name: &nbsp; &nbsp; Mary Tan<br>
 BC number: &nbsp; &nbsp; T1234567A<br>
 SLS Username: &nbsp; &nbsp; MARYT4567A<br>
-Click HERE for SLS User Guide
+Click [HERE](https://www.learning.moe.edu.sg/teacher-user-guide/index/) for SLS User Guide
 
 #### Parents Gateway (PG)
 
