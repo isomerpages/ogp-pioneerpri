@@ -34,7 +34,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Group Personal Accident Insurance for Students</td>
-<td><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students">https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students</a><br>
+<td><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students">https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students</a><br><br>
 
 Click [HERE](/files/Attachments/Product_Fact_Sheet__Year_2026_.pdf) for Product Fact Sheet	
 </td></tr>
@@ -51,7 +51,7 @@ Click [HERE](/files/Attachments/Product_Fact_Sheet__Year_2026_.pdf) for Product 
 For example:<br>
 Name: &nbsp; &nbsp; Mary Tan<br>
 BC number: &nbsp; &nbsp; T1234567A<br>
-SLS Username: &nbsp; &nbsp; MARYT4567A<br>
+SLS Username: &nbsp; &nbsp; MARYT4567A<br><br>
 Click [HERE](https://www.learning.moe.edu.sg/teacher-user-guide/index/) for SLS User Guide
 
 #### Parents Gateway (PG)
@@ -62,7 +62,7 @@ Click [HERE](https://www.learning.moe.edu.sg/teacher-user-guide/index/) for SLS 
 
 <p align="Justify">Parents can use their SingPass accounts, SMS 2FA or OneKey Token1 to gain access to Parents Gateway.</p>
 
-Click [here](/files/Parents-Gateway-User-Guide.pdf) for the PG User Guide
+Click [HERE](/files/Parents-Gateway-User-Guide.pdf) for the PG User Guide
 
 #### Online Public Access Catalogue (OPAC)
 
