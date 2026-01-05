@@ -33,7 +33,15 @@ variant: markdown
 </tr>
 <tr>
 <td>Dental Service</td>
-<td>School Dental Clinic (Health Promotion Board)<br>Contact Person: Ms Tan Wei Wei<br>Tel: 9115 3862 <i>(Contact via Whatsapp for appointment)</i><br><br>Opening Hours: Closed from 2 Jan until further notice
+<td>School Dental Clinic (Health Promotion Board)<br>Contact Person: Ms Tan Wei Wei<br>Tel: 9115 3862 <i>(Contact via Whatsapp for appointment)</i><br><br>Opening Hours: Closed from 2 Jan until further notice<br><br>
+For urgent conditions such as fever due to toothache, facial swelling and injury to mouth and teeth, please contact the following Buddy Dental Clinic.<br><br>
+WhatsApp messages are preferred as our staff may be occupied with providing treatment for patients. If it is urgent, please call. <br><br>
+Princess Elizabeth Primary School<br>
+30 Bukit Batok West Ave 3, Singapore 659163<br>
+Tel: 9115 4622<br><br>
+Yuhua Primary School<br>
+158 Jurong East St 24, Singapore 609558<br>
+Tel: 9116 0583
 </td></tr>
 <tr>
 </tr>
