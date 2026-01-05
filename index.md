@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Form Teachers 2025
+        - title: Form Teachers 2026
           description: Get in touch
           url: /about-pioneer/staff-directory/form-teachers/
         - title: 2025 SOAR Magazine
