@@ -59,6 +59,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Andy_ANG@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Desmond Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +184,7 @@ Library</p>
 <p>Mr Christopher Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH / Primary 5 &amp; 6</p>
+<p>YH / Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_hung_choon@schools.gov.sg</p>
