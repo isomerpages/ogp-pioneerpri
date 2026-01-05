@@ -158,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wendy Ong Guat Ching</p>
+<p>Ms Wendy Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher Aide</p>
@@ -191,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Rajini Vijaya Kumar</p>
+<p>Mrs Vijay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
@@ -202,7 +202,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Gloria Poh Hui Khim</p>
+<p>Mrs Gloria Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
@@ -224,7 +224,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Siow Ngoh Jenny</p>
+<p>Mrs Jenny Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
@@ -268,7 +268,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hoon Yeng Hau</p>
+<p>Mr Freddie Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
@@ -279,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vahida (Mrs Rafi)</p>
+<p>Mrs Rafi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
