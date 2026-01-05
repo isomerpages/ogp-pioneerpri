@@ -33,7 +33,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Dental Service</td>
-<td>School Dental Clinic (Health Promotion Board)<br>Contact Person: Ms Tan Wei Wei<br>Tel: 9115 3862 <i>(Contact via Whatsapp for appointment)</i><br><br>Opening Hours: To Be Confimed
+<td>School Dental Clinic (Health Promotion Board)<br>Contact Person: Ms Tan Wei Wei<br>Tel: 9115 3862 <i>(Contact via Whatsapp for appointment)</i><br><br>Opening Hours: Closed from 2 Jan until further notice
 </td></tr>
 <tr>
 </tr>
