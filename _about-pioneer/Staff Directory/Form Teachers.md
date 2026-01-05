@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 CARE 1</p>
+<p>OG1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chua Jia Yi</p>
@@ -72,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 CARE 2</p>
+<p>OG2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nor Erwiena</p>
@@ -105,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 CARE 3</p>
+<p>OG3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Heng-Chen Yunhui</p>
@@ -138,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 CARE 4</p>
+<p>OG4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Christine Ng</p>
@@ -193,7 +193,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 CARE 5</p>
+<p>OG5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yoong Phay Sze</p>
@@ -248,7 +248,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 CARE 6</p>
+<p>OG6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Yvonne Ong</p>
@@ -292,7 +292,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 CARE 7</p>
+<p>OG7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pauline Ng</p>
@@ -336,7 +336,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 CARE 8</p>
+<p>OG8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sophiana</p>
@@ -369,7 +369,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 CARE 9</p>
+<p>OG9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Adeline Giam</p>
@@ -413,7 +413,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 CARE 10</p>
+<p>OG10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Keng Soon</p>
@@ -446,7 +446,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 CARE 11</p>
+<p>OG11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rameesa</p>
