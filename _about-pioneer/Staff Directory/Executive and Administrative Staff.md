@@ -125,6 +125,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ravin Tirumal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ravin_tirumal@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Amir Zulfadhli Bin Zulkifly</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,6 +143,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>amir.binzulkifly@ncs.com.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lash Jayaras</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lash.jayaras@ncs.com.sg</p>
 </td>
 </tr>
 <tr>
@@ -302,17 +324,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Soh Beng Chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yong Khik Luong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
