@@ -125,6 +125,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ravin Tirumal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ravin_tirumal@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Amir Zulfadhli Bin Zulkifly</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,13 +147,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wendy Ong Guat Ching</p>
+<p>Ms Lash Jayaras</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lash.jayaras@ncs.com.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wendy Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher Aide</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wendy_ong_guat_ching@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yati Kasiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher Aide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yati_kasiman@schools.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +202,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Rajini Vijaya Kumar</p>
+<p>Mrs Vijay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
@@ -180,7 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Gloria Poh Hui Khim</p>
+<p>Mrs Gloria Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
@@ -202,7 +235,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Siow Ngoh Jenny</p>
+<p>Mrs Jenny Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
@@ -246,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hoon Yeng Hau</p>
+<p>Mr Freddie Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
@@ -257,7 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vahida (Mrs Rafi)</p>
+<p>Mrs Rafi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
@@ -302,17 +335,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Soh Beng Chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yong Khik Luong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>

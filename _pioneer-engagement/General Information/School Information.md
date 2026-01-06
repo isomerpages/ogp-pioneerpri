@@ -11,14 +11,13 @@ variant: markdown
 <tbody>
 <tr>
 <td>Address</td>
-<td colspan="2">31 Jurong West Street 91 Singapore 649037</td>
+<td colspan="2">80 Tengah Garden Avenue Singapore 699915</td>
 </tr>
 <tr>
 <td rowspan="2">Contact Number</td>
 <td colspan="2">6793 2039 (General Office)</td>
 </tr>
 <tr>
-<td colspan="2">6793 2040 (Fax)</td>
 </tr>
 <tr>
 <td>Email</td>
@@ -34,63 +33,77 @@ variant: markdown
 </tr>
 <tr>
 <td>Public Bus Transport</td>
-<td colspan="2">Bus No. 99 &amp; 241</td>
+<td colspan="2">Bus No. 872 </td>
 </tr>
 <tr>
 <td rowspan="3">School Operating Hours</td>
-<td>Monday to Friday (school term)</td>
+<td>Monday to Friday (School Term)</td>
 <td>7.30 am to 5.30 pm</td>
 </tr>
 <tr>
-<td>Monday to Friday (school holidays)</td>
+<td>Monday to Friday (School Holidays)</td>
 <td>8.00 am to 5.00 pm</td>
 </tr>
 <tr>
-<td>School is closed on Saturdays, Sundays and Public Holidays.</td>
+<td>Saturdays, Sundays and Public Holidays<br></td>
+<td>Closed<br></td>
 </tr>
 <tr>
 <td rowspan="4">School Hours</td>
-<td>Monday to Friday</td>
+<td>Primary 1 &amp; 2 (Monday to Friday)</td>
 <td>7.30 am to 1.30 pm</td>
 </tr>
 <tr>
-<td>Dismissal Time:</td>
+<td>Primary 6 (Monday and Thursday)</td>
+<td>7.45 am to 2.45 pm</td>
 </tr>
 <tr>
-
+<td>Primary 6 (Tuesday, Wednesday and Friday)</td>
+<td>7.45 am to 1.30 pm</td>
 </tr>
 <tr>
-<td>Primary 5 and 6</td>
-<td>1.30 pm</td>
 </tr>
 <tr>
-<td rowspan="2">Dismissal</td>
-<td>Primary 5 and 6<br> </td>
-<td>Gate 4<br> </td>
+<td rowspan="5">Dismissal</td>
+<td>Primary 1C1 to 1C5<br> </td>
+<td>Gate 2 (Next to Security Post)<br> </td>
 </tr>
 <tr>
-<td colspan="2">Students will gather in the School Hall if they are:<br>&nbsp; &nbsp; • &nbsp; &nbsp;Taking School Bus<br>&nbsp; &nbsp; • &nbsp; &nbsp;Attending student care<br>&nbsp; &nbsp; • &nbsp; &nbsp;Students with siblings will meet in the canteen and may leave together using either Gate 1 or Gate 4.</td>
+<td>Primary 1C6 to 1C11<br> </td>
+<td>Gate 1 (Near MK@Pioneer)<br> </td>
+</tr>
+<tr>
+<td>Primary 2<br> </td>
+<td>Gate 2 (Next to Security Post)<br> </td>
+</tr>
+<tr>
+<td>Primary 6<br> </td>
+<td>Gate 1 &amp; 2<br> </td>
+</tr>
+<tr>
+<td>Students with Siblings<br> </td>
+<td>Gather at the Canteen<br> </td>
 </tr>
 <tr>
 <td rowspan="3">School Gates Opening Hours</td>
-<td>Gate 1 (Indoor Sports Hall)</td>
-<td>6.30 am - 7.30 am<br>1.15 pm - 2.00 pm<br>3.00 pm - 7.00 pm</td>
+<td>Gate 1 (Near MK@Pioneer)</td>
+<td>6.30 am to 7.30 am<br>1.15 pm to 2.00 pm<br></td>
 </tr>
 <tr>
-<td>Gate 2 (Security Post)</td>
-<td>6.30 am - 6.30 pm<br>(Closed from 1.20 pm - 1.45 pm)</td>
+<td>Gate 2 (Next to Security Post)</td>
+<td>6.30 am to 7.30 am<br>1.15 pm to 2.00 pm<br>3.00 pm to 4.00 pm<br></td>
 </tr>
 <tr>
-<td>Gate 4 (Juying Secondary School entrance)</td>
-<td>6.30 am - 7.30 am<br>1.15 pm - 2.00 pm<br><br>3.45 pm - 4.15 pm<br>(closing time will extend to 4.45 pm during wet weather)</td>
+<td>Gate 3 (Main Gate Entrance)</td>
+<td>6.30 am to 7.00 pm (Cars are only allowed to enter the school premises for drop-off before 7.30 am and for dismissal after 2.00 pm, and no parking is allowed)<br></td>
 </tr>
 <tr>
 <td rowspan="2">School Library Opening Hours</td>
-<td>Monday, Wednesday (school term)</td>
+<td>Monday and Wednesday (School Term)</td>
 <td>7.30 am to 12.30 pm<br>1.00 pm to 4.30 pm</td>
 </tr>
 <tr>
-<td>Tuesday, Thursday, Friday (school term)</td>
+<td>Tuesday, Thursday and Friday (School Term)</td>
 <td>7.30 am to 12.30 pm<br>1.00 pm to 5.00 pm</td>
 </tr>
 </tbody>

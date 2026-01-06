@@ -59,6 +59,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Andy Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Andy_ANG@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Desmond Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +184,7 @@ Library</p>
 <p>Mr Christopher Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH / Primary 5 &amp; 6</p>
+<p>YH / Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_hung_choon@schools.gov.sg</p>
@@ -184,7 +195,7 @@ Library</p>
 <p>Mdm Nur Shaheila Binte Sahat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / English Language</p>
+<p>YH / Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_shaheila_sahat@schools.gov.sg</p>
@@ -265,6 +276,17 @@ Library</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hafiz_asyraf@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yang Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / 21CC (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yang_qi@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
