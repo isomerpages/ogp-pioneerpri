@@ -53,17 +53,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Simon Diong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>diong_chong_huat_simon@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Revathi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,6 +90,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yang_qi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Simon Diong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>diong_chong_huat_simon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
