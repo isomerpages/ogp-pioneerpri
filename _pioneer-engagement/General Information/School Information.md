@@ -91,7 +91,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Gate 2 (Next to Security Post)</td>
-<td>6.30 am to 7.30 am<br>1.15 pm to 2.00 pm<br>3.00pm to 4.00pm<br></td>
+<td>6.30 am to 7.30 am<br>1.15 pm to 2.00 pm<br>3.00 pm to 4.00 pm<br></td>
 </tr>
 <tr>
 <td>Gate 3 (Main Gate Entrance)</td>
