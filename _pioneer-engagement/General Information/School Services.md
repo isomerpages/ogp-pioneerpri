@@ -11,7 +11,7 @@ variant: markdown
 <tbody>
 <tr>
 <td>Bookshop</td>
-<td>Asencio Pte Ltd <br>Tel: 6764 3102<br>Email: <a href="mailto:bookshop@asencio.com.sg">bookshop@asencio.com.sg</a><br><br>Opening Hours (Subjected to Changes)<br>From 5 to 9 Jan: 9.00 am to 4.30 pm <br>From 12 Jan onwards: 9.00 am to 3.00 pm<br>Parents/Guardians/Caregivers are allowed to enter the school premises after 2.00 pm to make purchases.
+<td>Asencio Pte Ltd <br>Tel: 6764 3102<br>Email: <a href="mailto:bookshop@asencio.com.sg">bookshop@asencio.com.sg</a><br><br>Opening Hours (Subjected to Changes)<br>From 5 to 9 Jan: 9.00 am to 4.30 pm <br>From 12 Jan onwards: 9.00 am to 3.00 pm<br><br>Parents/Guardians/Caregivers are allowed to enter the school premises after 2.00 pm to make purchases.
 </td></tr>
 <tr>
 <td>Uniform Supplier</td>
