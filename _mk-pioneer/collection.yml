@@ -2,6 +2,7 @@ collections:
   mk-pioneer:
     output: true
     order:
+      - News and Updates.md
       - Our Early Years Centre Partner.md
       - Open House 2026.md
       - Our Kindergarten/.keep
