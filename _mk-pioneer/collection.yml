@@ -2,6 +2,7 @@ collections:
   mk-pioneer:
     output: true
     order:
+      - About MK @ Pioneer.md
       - News and Updates.md
       - Our Early Years Centre Partner.md
       - Open House 2026.md
