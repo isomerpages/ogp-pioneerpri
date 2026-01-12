@@ -2,9 +2,9 @@ collections:
   mk-pioneer:
     output: true
     order:
-      - Our Staff.md
       - Open House 2026.md
       - Register for MK @ Pioneer.md
       - About MK @ Pioneer.md
+      - Our Staff.md
       - Our Early Years Centre Partner.md
       - News and Updates.md
