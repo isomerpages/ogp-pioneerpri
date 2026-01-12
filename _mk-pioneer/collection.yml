@@ -2,11 +2,11 @@ collections:
   mk-pioneer:
     output: true
     order:
+      - Open House 2026.md
       - Register for MK @ Pioneer now.md
       - About MK @ Pioneer.md
       - News and Updates.md
       - Our Early Years Centre Partner.md
-      - Open House 2026.md
       - Our Kindergarten/.keep
       - Our Early Years Centre Partner/.keep
       - Register for MK @ Pioneer now/.keep
