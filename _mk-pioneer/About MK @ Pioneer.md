@@ -1,9 +1,8 @@
 ---
 title: About MK @ Pioneer
-permalink: /about-mk-pps/
+permalink: /mk-pioneer/about-mk-pps/
 variant: tiptap
 description: ""
-third_nav_title: Our Kindergarten
 ---
 <h1>Quality and Affordable Kindergarten Experience at MK @ Pioneer</h1>
 <h3>MK’s Mandate</h3>

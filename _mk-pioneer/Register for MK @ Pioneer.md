@@ -1,9 +1,8 @@
 ---
-title: Register for MK @ Pioneer now
-permalink: /register-for-mk-pps-now/
+title: Register for MK @ Pioneer
+permalink: /mk-pioneer/register-for-mk-pps-now/
 variant: tiptap
 description: ""
-third_nav_title: Register for MK @ Pioneer now
 ---
 <h2>Register Now to Give Your Child A Strong Start!</h2>
 <p></p>

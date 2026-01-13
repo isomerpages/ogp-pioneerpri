@@ -1,9 +1,8 @@
 ---
-title: Our Early Years Centre Partner
-permalink: /our-early-years-centre-partner/
+title: Our Partner
+permalink: /mk-pioneer/our-partner/
 variant: tiptap
 description: ""
-third_nav_title: Our Early Years Centre Partner
 ---
 <h2>MK @ Pioneer partners E-Bridge Pre-School to provide early years service form 2 months to 4 years old</h2>
 <p></p>
