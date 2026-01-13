@@ -4,4 +4,4 @@ permalink: /mk-pioneer/our-staff/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Coming up soon ...</p>
