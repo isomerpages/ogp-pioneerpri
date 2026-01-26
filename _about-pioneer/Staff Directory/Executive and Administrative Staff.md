@@ -301,6 +301,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Zarina Hassan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi Adjunct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zarina_Hassan_A@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Hasan</p>
 </td>
 <td rowspan="1" colspan="1">
