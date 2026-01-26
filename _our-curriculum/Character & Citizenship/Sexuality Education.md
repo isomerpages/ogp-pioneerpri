@@ -63,7 +63,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of PIONEER Primary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of PIONEER Primary School’s Sexuality Education Programme for 2026</strong>
 </p>
 </li>
 <li>
