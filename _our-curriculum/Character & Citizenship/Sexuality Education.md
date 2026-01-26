@@ -54,12 +54,15 @@ foundation for strong families);</p>
 <p>Make responsible decisions for yourself, your family and society; and</p>
 </li>
 <li>
-<p>o&nbsp;&nbsp; Abstinence before marriage is the best protection against
-STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and
-your loved ones.</p>
-<p></p>
+<p>Abstinence before marriage is the best protection against STIs/HIV and
+unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
 </li>
 </ul>
+<p></p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<p></p>
 <p><strong>Overview of PIONEER Primary School’s Sexuality Education Programme for 2025</strong>
 </p>
 </li>
@@ -110,109 +113,13 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>At PIONEER Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At PIONEER Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/OurCurriculum/moesg.jpg">
-</div>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<h3><strong>&nbsp;Primary 5</strong></h3>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CCE(FTGP) THEME</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>LESSON TITLE / DURATION</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson OVERVIEW</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Growing Years</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Changes in Me</p>
-<p>(60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students identify the emotions and stress
-caused by physical changes during puberty. Students will learn to describe
-the healthy ways to manage their negative feelings during this time. They
-will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Did You Know?</p>
-<p>(60 min)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students know what pornography is and how
-it can affect themselves and others. Students will learn about the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy&nbsp;<strong>‘Stop-Think-Do’.</strong>
-</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Keeping Myself Safe</p>
-<p>(60 min)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In this lesson, students will learn about sexual abuse, how it can happen
-during online and offline interactions and the impact of such abuse on
-victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/OurCurriculum/moesg.jpg">
 </div>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <h3><strong>Primary 6</strong></h3>
 <table style="minWidth: 100px">
@@ -233,13 +140,11 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
+<p><strong>LESSON OVERVIEW</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -262,7 +167,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +184,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
