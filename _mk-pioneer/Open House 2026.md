@@ -12,6 +12,7 @@ March 2026 from 9.00am to 12.00pm at MOE Kindergarten@ Pioneer.</p>
 and meet our team of teachers.</p>
 <p>Scan the QR code to register your interest. We look forward to welcoming
 you and your child!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/MK/MK_Open_House_2026.png">
 </div>
