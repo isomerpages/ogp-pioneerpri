@@ -8,10 +8,11 @@ description: ""
 <p></p>
 <h3><strong>Online Registration</strong></h3>
 <p>The 2026 MK Registration Exercise is open to SC and PR children born between
-2 January 2022 and 1 January 2023, both dates inclusive. Parents can register
-their child for admission to an MK via the MK website (<strong><a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/mk</a></strong>),
-from 9am on Monday, 23 March 2026 to 4.30pm on Tuesday, 31 March 2026.
-Parents will be informed of the registration outcome by Monday, 1 June
+2 January 2022 and 1 January 2023, both dates inclusive.</p>
+<p>Parents can register their child for admission to an MK via the MK website
+(<strong><a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/mk</a></strong>),
+from 9am on Monday, 23 March 2026 to 4.30pm on Tuesday, 31 March 2026.</p>
+<p>Parents will be informed of the registration outcome by Monday, 1 June
 2026. Parents seeking admission to K1 or K2 for their child outside the
 registration period should contact the MK directly to check if there are
 vacancies.</p>
