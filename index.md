@@ -16,6 +16,15 @@ sections:
           url: /2025-soar-magazine/
       background: /images/Homepage/Banner 04.gif
   - infopic:
+      title: Glorious Future
+      subtitle: FOLLOW US ON FB AND IG
+      id: infopic
+      description: “Glorious Future” honors our dedicated teachers and celebrates the
+        hope that every student shines and journeys toward a bright future.
+      button: CLICK HERE TO WATCH
+      url: https://www.facebook.com/share/v/1CBMDc9CDy/
+      alt: Image alt text
+  - infopic:
       title: Newsletter 2025 Semester 2
       id: infopic
       description: Dear Parents,  We are excited to share Pioneer Highlights for
