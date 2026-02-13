@@ -24,6 +24,7 @@ sections:
       button: CLICK HERE TO WATCH
       url: https://www.facebook.com/share/v/1CBMDc9CDy/
       alt: Image alt text
+      image: /images/Glorious_Future__Tengah_Campus_.jpg
   - infopic:
       title: Newsletter 2025 Semester 2
       id: infopic
