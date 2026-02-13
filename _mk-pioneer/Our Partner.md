@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>MK @ Pioneer partners E-Bridge Pre-School to provide early years service form 2 months to 4 years old</h2>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -19,6 +20,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>Under this partnership, your child will attend E-Bridge Pre-School when
 they are 2 months to 4 years old.</p>
 <p>Eligible children in the E-Bridge Pre-School are guaranteed a place at
