@@ -85,11 +85,6 @@ sections:
       image: /images/Shining_Moments.jpg
       alt: Image alt text
   - infopic:
-      title: Registration of interest for P2 and P3 vacancies has closed.
-      id: infopic
-      image: /images/Slide2.jpg
-      alt: Image alt text
-  - infopic:
       title: Pioneer Primary School @ Tengah
       id: infopic
       description: Take a first look at the model for Pioneer Primary School @ Tengah!
