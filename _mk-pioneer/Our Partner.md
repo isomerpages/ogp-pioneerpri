@@ -14,4 +14,6 @@ MK @ Pioneer. You can choose to enrol at the MK @ Pioneer for their Kindergarten
 1 (K1) programme.</p>
 <p>This partnership allows your child to have a seamless transition to K1
 in the year they turn 5.</p>
-<p></p>
+<p>E-Bridge Pre-school @ 131B Tengah Garden</p>
+<p>BLK 131B TENGAH GARDEN AVENUE #01-312</p>
+<p>SINGAPORE 692131 Tel: 6610 5422</p>
