@@ -71,7 +71,7 @@ sections:
       description: Our Primary 6 students created a song “Shining Memories” to capture
         the cherished moments, friendships, and deep bonds forged in our school.
       button: Click here to watch
-      url: https://fb.watch/CtPyv_zOSG/
+      url: https://www.facebook.com/share/v/1AiCXcjzYT/
       image: /images/Shining_Moments.jpg
       alt: Image alt text
   - infopic:
