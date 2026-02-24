@@ -50,7 +50,7 @@ description: ""
 <p>Ms Tan You Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Child Development / Chinese Language</p>
+<p>Senior Teacher (Child Development) / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan_you_yi@moe.edu.sg</p>
