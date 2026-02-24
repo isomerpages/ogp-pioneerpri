@@ -4,7 +4,6 @@ permalink: /mk-pioneer/our-staff/
 variant: tiptap
 description: ""
 ---
-<p>Coming up soon ...</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
