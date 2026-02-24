@@ -47,7 +47,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tan You Yi</p>
+<p>Ms Tan You Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher Child Development / Chinese Language</p>
@@ -102,7 +102,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Gilda Long</p>
+<p>Ms Gilda Long</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / English Language</p>
@@ -135,7 +135,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Claudine Tan</p>
+<p>Ms Claudine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / English Language</p>
