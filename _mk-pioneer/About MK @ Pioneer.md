@@ -10,7 +10,7 @@ description: ""
 to Singapore Citizens and Permanent Residents aged 5 and 6. Learn about
 our curriculum, learning environment and whether it’s right for your child.</p>
 <p></p>
-<h3>Our Goals</h3>
+<h3>Curriculum Goals</h3>
 <p>Our curriculum and programmes are based on the Nurturing Early Learners
 (NEL) Framework that guides the development of quality kindergarten programmes
 in Singapore.</p>
@@ -116,7 +116,14 @@ towards learning.</p>
 </li>
 </ul>
 <p></p>
-<h3>MOE MK Page</h3>
+<h3>Our Environment</h3>
+<h4>Playground</h4>
+<h4>Tricycles Area</h4>
+<h4>Sand and Water Play</h4>
+<h4>Classroom</h4>
+<h4>Sensory Garden</h4>
+<h4>Music Room</h4>
+<h4>MOE MK Page</h4>
 <p><a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkpmk</a>
 </p>
 <p></p>
