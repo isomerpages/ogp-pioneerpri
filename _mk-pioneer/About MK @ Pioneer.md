@@ -21,7 +21,7 @@ in Singapore.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/NEL_Framework.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK/NEL_Framework.jpg">
 </div>
 <p></p>
 <p>At MK, we believe preschool children are joyful, curious, active and competent
