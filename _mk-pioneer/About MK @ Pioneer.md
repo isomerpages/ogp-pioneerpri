@@ -18,6 +18,12 @@ our curriculum, learning environment and whether it’s right for your child.</p
 <p>Our curriculum and programmes are based on the Nurturing Early Learners
 (NEL) Framework that guides the development of quality kindergarten programmes
 in Singapore.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/NEL_Framework.jpg">
+</div>
+<p></p>
 <p>At MK, we believe preschool children are joyful, curious, active and competent
 learners and they play, learn and grow with others in a diverse and multi-cultural
 community. They are keen to make sense of the world around them, and they
@@ -123,34 +129,34 @@ towards learning.</p>
 <h3>Our Environment</h3>
 <h4>Playground</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Playground.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/Playground.jpg">
 </div>
 <h4>Tricycles Area</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Tricycles_Area__1_.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/Tricycles_Area__1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Tricycles_Area__2_.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/Tricycles_Area__2_.jpg">
 </div>
 <h4>Sand and Water Play</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Sand_and_Water_Play__1_.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/Sand_and_Water_Play__1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Sand_and_Water_Play__2_.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/Sand_and_Water_Play__2_.jpg">
 </div>
 <h4>Classroom</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Classroom.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/Classroom.jpg">
 </div>
 <h4>Sensory Garden</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Sensory_Garden.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/Sensory_Garden.jpg">
 </div>
 <h4>Music Room</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Music_Room.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/Music_Room.jpg">
 </div>
 <p></p>
