@@ -17,3 +17,7 @@ you and your child!</p>
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/MK/MK_Open_House_2026.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="MK Presentation Slides" src="/images/MK/Presentation_Slide_Cover.jpg">
+</div>
+<p></p>
