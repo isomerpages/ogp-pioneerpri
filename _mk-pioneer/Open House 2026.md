@@ -15,8 +15,22 @@ you and your child!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/MK/MK_Open_House_2026.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="MK Presentation Slides" src="/images/MK/Presentation_Slide_Cover.jpg">
-</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Presentation Slides</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/MK/2026_MK_OH_Presentation.pdf" rel="noopener nofollow" target="_blank">2026 MK Open House Presentation Slides</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
