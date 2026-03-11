@@ -9,7 +9,8 @@ description: ""
 <p>Parents and children are warmly invited to attend our Open House on 28
 March 2026 from 9.00am to 12.00pm at MOE Kindergarten@ Pioneer.</p>
 <p>Learn more about our kindergarten programme, explore our learning spaces,
-and meet our team of teachers. Click <strong><a href="/files/MK/2026_MK_OH_Presentation.pdf" rel="noopener nofollow" target="_blank">here </a></strong>for
+and meet our team of teachers. Click <strong><a href="/files/MK/2026_MK_OH_Presentation.pdf" rel="noopener nofollow" target="_blank">h</a></strong>
+<a href="/files/MK/2026_MK_OH_Presentation.pdf" rel="noopener nofollow" target="_blank">here</a><strong><a href="/files/MK/2026_MK_OH_Presentation.pdf" rel="noopener nofollow" target="_blank">ere </a></strong>for
 more!</p>
 <p>Scan the QR code to register your interest. We look forward to welcoming
 you and your child!</p>
