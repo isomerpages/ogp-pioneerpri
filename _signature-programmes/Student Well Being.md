@@ -6,12 +6,12 @@ variant: tiptap
 ---
 <h3><strong>Student Well-Being</strong></h3>
 <p>In Pioneer Primary School, ‘Students are our Gems’. We adopt the Self-Determination
-Theory (Edward Deci and Richard Ryanto, 1985) as a broad framework in creating
-purposeful experiences that promote positive psychological health and well-being
-in students. Through the provision of a rich diversity of learning experiences,
-students develop learning dispositions and social and emotional competencies
-that will enable them to become self-directed and resilient individuals
-who will lead self and others with confidence.</p>
+Theory by Edward L. Deci and Richard M. Ryan (1985) as a broad framework
+in creating purposeful experiences that promote positive psychological
+health and well-being in students. Through the provision of a rich diversity
+of learning experiences, students develop learning dispositions and social
+and emotional competencies that will enable them to become self-directed
+and resilient individuals who will lead self and others with confidence.</p>
 <h3>Our Approach</h3>
 <h4>Creating a Caring and Enabling Environment</h4>
 <p>The cornerstone in our provision for student well-being is the creation
