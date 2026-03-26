@@ -246,13 +246,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Loh Pui Teng</p>
+<p>Mrs Charlene Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_pui_teng@moe.edu.sg</p>
+<p>zheng_cuiyun_charlene_A@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
