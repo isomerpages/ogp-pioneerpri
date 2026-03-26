@@ -154,6 +154,17 @@ description: ""
 <p>peggy_ng_a@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Amalina Binte Kamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_amalina_kamal@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
