@@ -131,7 +131,7 @@ towards learning.</p>
 <h3>Our Environment</h3>
 <p></p>
 <p>To view our environment video, click the link below:</p>
-<p><u>https://youtu.be/ARkzU2QQaNw</u>
+<p><a href="https://youtu.be/ARkzU2QQaNw" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/ARkzU2QQaNw</a>
 </p>
 <h4>Playground</h4>
 <div class="isomer-image-wrapper">
