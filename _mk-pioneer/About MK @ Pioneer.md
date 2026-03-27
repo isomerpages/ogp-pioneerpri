@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h1>Quality and Affordable Kindergarten Experience at MK @ Pioneer</h1>
+<p></p>
+<p></p>
 <h3>MK’s Mandate</h3>
 <p>MOE Kindergarten (MK) provides quality and affordable preschool education
 to Singapore Citizens and Permanent Residents aged 5 and 6. Learn about
@@ -12,6 +14,10 @@ our curriculum, learning environment and whether it’s right for your child.</p
 <p></p>
 <h4>MOE MK Page</h4>
 <p><a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkpmk</a>
+</p>
+<p></p>
+<h4>Our Environment</h4>
+<p><a href="https://youtu.be/ARkzU2QQaNw" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/ARkzU2QQaNw</a>
 </p>
 <p></p>
 <h3>Curriculum Goals</h3>
