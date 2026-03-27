@@ -175,7 +175,7 @@ variant: tiptap
 <p>Teacher Aide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yati_kasiman@schools.edu.sg</p>
+<p>yati_kasiman@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -187,17 +187,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Soh_Leng_Leng_B@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Thatchaini Kumaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Librarian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thatchaini.kumaran@staff.spydus.com.sg</p>
 </td>
 </tr>
 <tr>
@@ -246,13 +235,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Loh Pui Teng</p>
+<p>Mrs Charlene Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_pui_teng@moe.edu.sg</p>
+<p>zheng_cuiyun_charlene_A@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
