@@ -15,10 +15,7 @@ our curriculum, learning environment and whether it’s right for your child.</p
 <h4>MOE MK Page</h4>
 <p><a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkpmk</a>
 </p>
-<p></p>
-<h4>Our Environment</h4>
-<p></p>
-<p></p>
+<h4></h4>
 <h3>Curriculum Goals</h3>
 <p>Our curriculum and programmes are based on the Nurturing Early Learners
 (NEL) Framework that guides the development of quality kindergarten programmes
