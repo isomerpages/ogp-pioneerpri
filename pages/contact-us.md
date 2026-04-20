@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: Pioneer Primary School
 locations:
   - address:
-      - "31 Jurong West Street 91 "
-      - Singapore 649037
+      - 80 Tengah Garden Avenue
+      - Singapore 699915
       - ""
     operating_hours:
       - days: Sch Term - Mon to Fri
@@ -23,4 +23,5 @@ contacts:
       - email: pioneer_ps@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
