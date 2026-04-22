@@ -158,6 +158,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nur Ain Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Library Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_ain_azman@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Wendy Ong</p>
 </td>
 <td rowspan="1" colspan="1">
