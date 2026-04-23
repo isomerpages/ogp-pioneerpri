@@ -59,6 +59,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Benny Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng_Guan_Beng_Benny@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lee Jianhui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,6 +77,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_jianhui@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ravin Tirumal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ravin_tirumal@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -103,13 +125,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hoe Lay Ding</p>
+<p>Shoh Kwan Hua Byron</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hoe_lay_ding@schools.gov.sg</p>
+<p>Shoh_Kwan_Hua_Byron_A@schools.gov.sg
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -121,17 +145,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Gunathilaga_supiahmanian@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ravin Tirumal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Associate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ravin_tirumal@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -158,6 +171,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nur Ain Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Library Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_ain_azman@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Wendy Ong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,17 +200,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yati_kasiman@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Soh Leng Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher Aide</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Soh_Leng_Leng_B@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
