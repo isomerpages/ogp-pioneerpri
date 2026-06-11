@@ -32,7 +32,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mythos (Junior Orators) 2024</p>
+<p>Mythos (Junior Orators)</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary School Category Finalist</p>
@@ -52,7 +53,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Annual Visual &amp; Spatial Mathlympics</p>
+<p>Annual Visual &amp;</p>
+<p>Spatial Mathlympics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver</p>
@@ -118,7 +120,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Mathematical Olympiad of Singapore</p>
+<p>National Mathematical</p>
+<p>Olympiad of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver</p>
