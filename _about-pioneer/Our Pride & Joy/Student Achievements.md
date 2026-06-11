@@ -31,9 +31,57 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mythos (Junior Orators) 2024</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Primary School Category Finalist</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Htat Wati Shoon Leh (5IN1)</em>
+</p>
+</li>
+</ul>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Mythos (Junior Orators)</p>
-<p>2024</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mythos (Junior Orators)2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary School Category Finalist</p>
