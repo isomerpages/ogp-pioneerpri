@@ -44,53 +44,18 @@ variant: tiptap
 <p>Mythos (Junior Orators) 2024</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Primary School Category Finalist</p>
+<p><strong>Primary School Category Finalist</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Htat Wati Shoon Leh (5IN1)</em>
+<p><strong><em>Htat Wati Shoon Leh (5IN1)</em></strong>
 </p>
 </li>
 </ul>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mythos (Junior Orators)2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary School Category Finalist</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Htat Wati Shoon Leh (5IN1)</em>
-</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
