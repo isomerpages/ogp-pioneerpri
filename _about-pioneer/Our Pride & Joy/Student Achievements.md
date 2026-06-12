@@ -586,35 +586,186 @@ Minda Kreatif 2025)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h3><strong>2025 Pioneer Primary School CCA Achievements</strong></h3>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Boys’ Brigade</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><em><u>J M Fraser Award for Excellence for Performance</u></em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Distinction Award</em>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Robotics Club</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><em><u>National Robotics Competition 2025</u></em>
+</p>
+<p><em>Judges Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Kane Khan Tha (5IN1)</em>
+</p>
+</li>
+</ul>
+<p><em>Best Presentation Award &amp; Robot Run (Finalists)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Avaneesh (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Ng Min Enn (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Lui Yik Na (5IN3)</em>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Basketball</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><em><u>National School Games 2025</u></em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Junior Division Boys Tier 4 (1<sup>st</sup>)</em>
+</p>
+</li>
+</ul>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p><strong>Netball</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em><u>National School Games 2025</u></em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Senior Division Tiered 4 (2<sup>nd</sup>)&nbsp;</em>
+</p>
+</li>
+<li>
+<p><em>Junior Division Tiered 3 (Achievement Award, 2<sup>nd</sup> place in Group 3C)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wushu</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em><u>Ronan Tan (6RS1)</u></em>
+</p>
+<p><em>Gold – 1st International Changquan (竞赛第一套长拳) <br>Gold – 1st International Cudgel (竞赛第一套棍术 )<br>Silver – 1st International Broadsword (竞赛第一套刀术 )</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em><u>Li Muchen (5IN1)</u></em>
+</p>
+<p><em>Silver – 4 Duan Sword (四段剑)<br>Silver – 5 Duan Spear (五段枪)<br>Bronze – 5 Duan Changquan (五段长拳)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>InfoComm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em><u>Drone Odyssey Challenge 2025</u></em>
+</p>
+<p><em>(Obstacle Challenge Category A2)</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>1. Best Knowledge Award (2nd)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Ritheeka Rani Sivakumar (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Wai Yu En (6RS2)</em>
+</p>
+</li>
+<li>
+<p><em>Lui Yik San(6RS2)</em>
+</p>
+</li>
+<li>
+<p><em>Lu Maung Ba Oo Min(6RS1)</em>
+</p>
+</li>
+</ul>
+<p><em>&nbsp;</em>
+</p>
+<p><em>2. Best Strategy Award (2nd)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Lu Bingcheng (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Shune Lei Yati (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Nur Laila Sumaiyah Bte Muhd Hasanul Arifin (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Bor Kai Wen(6RS3)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
 </tr>
