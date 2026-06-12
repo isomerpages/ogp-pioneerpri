@@ -302,7 +302,7 @@ variant: tiptap
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Lu Bing Cheng (5IN1)&nbsp;&nbsp;</em>
+<p><em>Lu BingCheng (5IN1)</em>
 </p>
 </li>
 </ul>
