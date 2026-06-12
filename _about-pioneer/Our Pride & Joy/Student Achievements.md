@@ -65,9 +65,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Table</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -78,7 +78,7 @@ variant: tiptap
 <p>Annual Visual &amp;</p>
 <p>Spatial Mathlympics</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -107,7 +107,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Annual Mathlympics</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>Gold</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -146,7 +146,7 @@ variant: tiptap
 <p>National Mathematical</p>
 <p>Olympiad of Singapore</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -171,7 +171,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Singapore-Asia Pacific Mathematical Olympiad for Primary Schools</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -181,8 +181,23 @@ variant: tiptap
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 </td>
 </tr>
 <tr>
