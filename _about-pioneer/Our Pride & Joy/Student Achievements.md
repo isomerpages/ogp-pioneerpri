@@ -297,7 +297,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em> Pioneer Primary School</em>
+<p><em>Pioneer Primary School</em>
 </p>
 </li>
 </ul>
@@ -311,35 +311,278 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Science Buskers</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><em>2nd Runner-up and Judges Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Avaneesh (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Akshat Pandey (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Hein Kauang Khant Thu (5IN1)</em>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>RV Stem Fest 2025</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><em>Top 15th</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Qin Haoyi (6RS1)</em>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Raffles Science Olympiad (RSO) 2025</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><em>Merit Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Wang Helin (5IN1)</em>
+</p>
+</li>
+</ul>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Primary Science Olympiad (SPSO) 2025</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Bronze Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Wang Helin (5IN1)</em>
+</p>
+</li>
+</ul>
+<p><em>Merit Award (from 5IN1)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Cai Jinkang</em>
+</p>
+</li>
+<li>
+<p><em>Li Muchen</em>
+</p>
+</li>
+<li>
+<p><em>Li Xinan</em>
+</p>
+</li>
+<li>
+<p><em>Raguraman Nithya Sri</em>
+</p>
+</li>
+<li>
+<p><em>Shuyi Yang</em>
+</p>
+</li>
+<li>
+<p><em>Sun Yihan</em>
+</p>
+</li>
+<li>
+<p><em>Tham Yu Zhe</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Malay Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Level Inter-School (Primary School) Essay Writing Contest (Karya
+Minda Kreatif 2025)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Bronze Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Batrisyia Noor Fizal (5IN2)</em>
+</p>
+</li>
+</ul>
+<p><em>Silver Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Farishta Humaira Binte Mohammed Razali (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Huda Dayini Binte Ahmad Bazli (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Muhammad Dannish Muhammad Shaffie (5IN3)</em>
+</p>
+</li>
+</ul>
+<p><em>Gold Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Nur Laila Sumaiyah Binte Muhammad Hasanul Arifin (6RS1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Tamil Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tamil Story-telling Competition</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Motivation Prize</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Sivakumar Sujitha (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Digital Language Games Competition</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>First Prize</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Sivarasu Rithikraj (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Ritheeka Rani Sivakumar (6RS1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Art</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th SWS National Junior Watercolour Competition 2025</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Primary Category (Consolation Prize)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Yuan Ziheng (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pesta Pantun Competition</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Category A: Poetry Writing with Rhyme and Drawing</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>2nd Place</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Muhammad Aqil Rahmat Bin Nor Azmy (5IN3)</em>
+</p>
+</li>
+</ul>
+<p><em>3rd Place</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Danish Aryan Bin Azri (5IN2)</em>
+</p>
+</li>
+</ul>
+<p><em>5th Place</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Nur Arisya Sofea Binte Amran (5IN3)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Music</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival</p>
+<p>(The Youth Station Project)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Youth Station Live! (Selected Performers)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Nur Laila Sumaiyah Binte Muhammad Hasanul Arifin (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Htet Wati Shoon Leh (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Suu Nway Yati Htet (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Lu Bingcheng (6RS1)</em>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
