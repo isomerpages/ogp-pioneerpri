@@ -13,25 +13,26 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <h3><strong>2024 Pioneer Primary School Achievements</strong></h3>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>English</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -58,13 +59,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Mathematics</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -181,23 +182,8 @@ variant: tiptap
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -205,7 +191,7 @@ variant: tiptap
 <p>Annual Visual &amp;</p>
 <p>Spatial Mathlympics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -235,7 +221,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Annual Mathlympics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Gold</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -274,7 +260,7 @@ variant: tiptap
 <p>National Mathematical</p>
 <p>Olympiad of Singapore</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -299,7 +285,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Singapore-Asia Pacific Mathematical Olympiad for Primary Schools</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -313,6 +299,9 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p><strong>Science</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -358,11 +347,17 @@ variant: tiptap
 </li>
 </ul>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Chinese Language</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -398,6 +393,9 @@ variant: tiptap
 </li>
 </ul>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -413,9 +411,15 @@ variant: tiptap
 </li>
 </ul>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
