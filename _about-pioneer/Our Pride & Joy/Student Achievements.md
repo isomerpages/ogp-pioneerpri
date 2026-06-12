@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our Pride & Joy
 variant: tiptap
 ---
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -13,19 +12,777 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
+<h3><strong>2025 Pioneer Primary School Achievements</strong></h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Mathematics</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles Mathematical Olympiad (RMO) Junior</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Distinction</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Yuan Ziheng (5IN1)</em>
+</p>
+</li>
+</ul>
+<p><em>Merit</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Wang Helin (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Li Xinan (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Cai Jin Kang (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles Mathematical Olympiad (RMO) Senior</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Distinction</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Lu Bingcheng (6RS1)</em>
+</p>
+</li>
+</ul>
+<p><em>Merit</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Qin Haoyi (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Htet Wati Shoon Leh (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Tan Chin Hean (6RS1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asia Pacific Mathematical Olympiad For Primary Schools (APMOPS)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Silver</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Lu Bingcheng (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Hu Zhanming (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Qin Haoyi (6RS1)</em>
+</p>
+</li>
+</ul>
+<p><em>Bronze</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Suh William Woojin (6RS1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Visual-Spatial Mathlympics 2025</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Gold</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Lu Bingcheng (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Hu Zhanming (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Agga Phyo (6RS1)</em>
+</p>
+</li>
+</ul>
+<p><em>Silver</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Qin Haoyi (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Yan Zixi (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Tan Chin Hean (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Wang Helin (5IN1)</em>
+</p>
+</li>
+</ul>
+<p><em>Bronze</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Suh William Woojin (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Owen Tan Xuan Ye (6RS1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Mathematical Olympiad of Singapore (NMOS)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Bronze</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Jiang Ming (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Li Xinan (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Yuan Ziheng (5IN1)</em>
+</p>
+</li>
+</ul>
+<p><em>Honourable Mention</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Lu Yixi (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Li Muchen (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Wang Helin (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Ariana Binte Farid (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Hein Kaung Khant Thu (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Kane Khan Tha (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Liu Yuqin (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Annual Mathlympics 2025</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Silver</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Wang Helin (5IN1)</em>
+</p>
+</li>
+</ul>
+<p><em>Bronze</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Yuan Ziheng (5IN1)</em>
+</p>
+</li>
+</ul>
+<p><em>Merit</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Liu Yuqin (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Li Muchen (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Jiang Ming (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Cai Jinkang (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Sivakumar Sujitha (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Lu Yixi (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Kane Khan Tha (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Combined Mathlympics (Marshall Cavendish)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Second Runner Up</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Pioneer Primary School</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Science</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Science Buskers</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>2nd Runner-up and Judges Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Avaneesh (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Akshat Pandey (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Hein Kauang Khant Thu (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RV Stem Fest 2025</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Top 15th</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Qin Haoyi (6RS1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles Science Olympiad (RSO) 2025</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Merit Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Wang Helin (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO) 2025</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Bronze Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Wang Helin (5IN1)</em>
+</p>
+</li>
+</ul>
+<p><em>Merit Award (from 5IN1)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Cai Jinkang</em>
+</p>
+</li>
+<li>
+<p><em>Li Muchen</em>
+</p>
+</li>
+<li>
+<p><em>Li Xinan</em>
+</p>
+</li>
+<li>
+<p><em>Raguraman Nithya Sri</em>
+</p>
+</li>
+<li>
+<p><em>Shuyi Yang</em>
+</p>
+</li>
+<li>
+<p><em>Sun Yihan</em>
+</p>
+</li>
+<li>
+<p><em>Tham Yu Zhe</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Malay Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Level Inter-School (Primary School) Essay Writing Contest (Karya
+Minda Kreatif 2025)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Bronze Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Batrisyia Noor Fizal (5IN2)</em>
+</p>
+</li>
+</ul>
+<p><em>Silver Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Farishta Humaira Binte Mohammed Razali (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Huda Dayini Binte Ahmad Bazli (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Muhammad Dannish Muhammad Shaffie (5IN3)</em>
+</p>
+</li>
+</ul>
+<p><em>Gold Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Nur Laila Sumaiyah Binte Muhammad Hasanul Arifin (6RS1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Tamil Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tamil Story-telling Competition</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Motivation Prize</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Sivakumar Sujitha (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Digital Language Games Competition</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>First Prize</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Sivarasu Rithikraj (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Ritheeka Rani Sivakumar (6RS1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Art</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th SWS National Junior Watercolour Competition 2025</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Primary Category (Consolation Prize)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Yuan Ziheng (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pesta Pantun Competition</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em><u>Category A: Poetry Writing with Rhyme and Drawing</u></em>
+</p>
+<p><em>2nd Place</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Muhammad Aqil Rahmat Bin Nor Azmy (5IN3)</em>
+</p>
+</li>
+</ul>
+<p><em>3rd Place</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Danish Aryan Bin Azri (5IN2)</em>
+</p>
+</li>
+</ul>
+<p><em>5th Place</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Nur Arisya Sofea Binte Amran (5IN3)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Music</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival</p>
+<p>(The Youth Station Project)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Youth Station Live! (Selected Performers)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Nur Laila Sumaiyah Binte Muhammad Hasanul Arifin (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Htet Wati Shoon Leh (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Suu Nway Yati Htet (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Lu Bingcheng (6RS1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h3><strong>2025 Pioneer Primary School CCA Achievements</strong></h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Boys’ Brigade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em><u>J M Fraser Award for Excellence for Performance</u></em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Distinction Award</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Robotics Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em><u>National Robotics Competition 2025</u></em>
+</p>
+<p><em>Judges Award</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Kane Khan Tha (5IN1)</em>
+</p>
+</li>
+</ul>
+<p><em>Best Presentation Award &amp; Robot Run (Finalists)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Avaneesh (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Ng Min Enn (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Lui Yik Na (5IN3)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em><u>National School Games 2025</u></em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Junior Division Boys Tier 4 (1<sup>st</sup>)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Netball</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em><u>National School Games 2025</u></em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Senior Division Tiered 4 (2<sup>nd</sup>)&nbsp;</em>
+</p>
+</li>
+<li>
+<p><em>Junior Division Tiered 3 (Achievement Award, 2<sup>nd</sup> place in Group 3C)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wushu</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em><u>Ronan Tan (6RS1)</u></em>
+</p>
+<p><em>Gold – 1st International Changquan (竞赛第一套长拳) <br>Gold – 1st International Cudgel (竞赛第一套棍术 )<br>Silver – 1st International Broadsword (竞赛第一套刀术 )</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em><u>Li Muchen (5IN1)</u></em>
+</p>
+<p><em>Silver – 4 Duan Sword (四段剑)<br>Silver – 5 Duan Spear (五段枪)<br>Bronze – 5 Duan Changquan (五段长拳)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>InfoComm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em><u>Drone Odyssey Challenge 2025</u></em>
+</p>
+<p><em>(Obstacle Challenge Category A2)</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>1. Best Knowledge Award (2nd)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Ritheeka Rani Sivakumar (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Wai Yu En (6RS2)</em>
+</p>
+</li>
+<li>
+<p><em>Lui Yik San(6RS2)</em>
+</p>
+</li>
+<li>
+<p><em>Lu Maung Ba Oo Min(6RS1)</em>
+</p>
+</li>
+</ul>
+<p><em>&nbsp;</em>
+</p>
+<p><em>2. Best Strategy Award (2nd)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Lu Bingcheng (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Shune Lei Yati (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Nur Laila Sumaiyah Bte Muhd Hasanul Arifin (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Bor Kai Wen(6RS3)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
 <h3><strong>2024 Pioneer Primary School Achievements</strong></h3>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>English</strong>
 </p>
 </td>
@@ -34,7 +791,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mythos (Junior Orators) 2024</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Primary School Category Finalist</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -45,52 +802,54 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Mathematics</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Annual Visual &amp; Spatial Mathlympics</p>
+<p>Annual Visual &amp;</p>
+<p>Spatial Mathlympics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Lu Bing Cheng (5IN1)&nbsp;&nbsp;&nbsp;</em>
+<p><em>Lu Bing Cheng (5IN1)</em>
 </p>
 </li>
 </ul>
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Fan Ren Wen (6RS1)&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<p><em>Fan Ren Wen (6RS1)</em>
 </p>
 </li>
 <li>
-<p><em>Tey Way Eun (6RS1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<p><em>Tey Way Eun (6RS1)</em>
 </p>
 </li>
 <li>
-<p><em>Tan Jing Tern (6RS1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<p><em>Tan Jing Tern (6RS1)</em>
 </p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Annual Mathlympics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Gold</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>Lu Bin Cheng (5IN1)</em>
 </p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p><em>Qin Hao Yi (5IN1)</em>
 </p>
@@ -118,9 +877,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Mathematical Olympiad of Singapore</p>
+<p>National Mathematical</p>
+<p>Olympiad of Singapore</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -145,18 +905,18 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Singapore-Asia Pacific Mathematical Olympiad for Primary Schools</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Lu Bing Cheng (5IN1)&nbsp;&nbsp;</em>
+<p><em>Lu BingCheng (5IN1)</em>
 </p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Science</strong>
 </p>
 </td>
@@ -165,7 +925,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Singapore Primary Science Olympiad</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Gold</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -206,7 +966,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Chinese Language</strong>
 </p>
 </td>
@@ -216,7 +976,7 @@ variant: tiptap
 <p>7th National Text Recital Competition (第七届全国课文朗诵比赛2024)</p>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -250,7 +1010,7 @@ variant: tiptap
 <p>2024 “Awe-Inspiring Virtue and Ocean of Wisdom” National Calligraphy Competition
 (2024年威德智海全国硬笔书法比赛)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Merit</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -261,20 +1021,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <h3><strong>2024 Pioneer Primary School CCA Achievements</strong></h3>
 </td>
 </tr>
@@ -282,7 +1043,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Club Scouts</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>Frank Cooper Sands Award</u> (Gold)</p>
 </td>
 </tr>
@@ -290,7 +1051,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Boys’ Brigade</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>J M Fraser Award for Excellence</u> (Silver)</p>
 <p><u>BB Adventure Quest</u> (Bronze Honour Roll)</p>
 <p>Best Boy Award</p>
@@ -325,7 +1086,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>International Dance (Chinese Dance)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>SYF Certificate of Distinction</p>
 </td>
 </tr>
@@ -333,7 +1094,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>International Dance (Hip Hop)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>SYF Certificate of Accomplishment</p>
 </td>
 </tr>
@@ -341,7 +1102,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Indian Dance</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>SYF Certificate of Distinction</p>
 </td>
 </tr>
@@ -349,7 +1110,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Malay Dance</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>SYF Certificate of Distinction</p>
 </td>
 </tr>
@@ -357,7 +1118,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Choir</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>SYF Certificate of Distinction</p>
 </td>
 </tr>
@@ -365,7 +1126,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Chinese Orchestra</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>SYF Certificate of Distinction</p>
 </td>
 </tr>
@@ -373,7 +1134,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Athletics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>SPSSC Nationals Track &amp; Field Championships</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -397,7 +1158,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Football</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>NSG Football Championship Junior Division</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -410,7 +1171,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Wushu</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>SPSSC Nationals Wushu Championships</u>
 </p>
 <p>3-duan Chang Quan– Champion</p>
@@ -458,59 +1219,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>InfoComm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Obstacle Challenge</u>
-</p>
-<p>Category A2 (2nd)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Lu Maung Ba Oo Min (5IN1)</em>
-</p>
-</li>
-<li>
-<p><em>Wai Yu En (5IN2)</em>
-</p>
-</li>
-<li>
-<p><em>De Vera Zyke Ianne (5IN1)</em>
-</p>
-</li>
-</ul>
-<p>Category A2 (3rd)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Nur Laila Sumaiyah Binte Muhammad Hasanul Arifin (5IN1)</em>
-</p>
-</li>
-<li>
-<p><em>Bor Kai Wen (5IN3)</em>
-</p>
-</li>
-<li>
-<p><em>Kaung Khant Kyaw (5IN2)</em>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <h3><strong>2023 Pioneer Primary School IP Achievements</strong></h3>
 </td>
 </tr>
@@ -518,7 +1241,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Annual Visual &amp; Spatial Mathlympics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Silver Award</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -547,7 +1270,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Annual Mathlympics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Silver Award</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -580,7 +1303,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>National Mathematical Olympiad of Singapore</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Bronze Award</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -615,7 +1338,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Science</strong>
 </p>
 </td>
@@ -624,7 +1347,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>West Zone Junior Science Whiz Challenge</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Individual Category (5th position)</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -638,7 +1361,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Singapore Primary Science Olympiad</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Bronze Award</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -691,7 +1414,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Science Buskers</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Primary School Category Finalist</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -702,7 +1425,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Chinese Language</strong>
 </p>
 </td>
@@ -712,7 +1435,7 @@ variant: tiptap
 <p>2023 Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition
 (2023年威德智海全国硬笔书法比赛)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Culture Award winners</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -749,7 +1472,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>6th Text Recital Competition for Primary and Secondary Schools (第六届中小学华文课文朗诵比赛)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Bronze Award (Individual)</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -779,7 +1502,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Malay Language</strong>
 </p>
 </td>
@@ -788,7 +1511,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Creative Writing Competition (Karya Minda Kreatif 2023)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Gold Award</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -825,7 +1548,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Tamil Language</strong>
 </p>
 </td>
@@ -834,7 +1557,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Vasantham Pongal Competition</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Top 10 Awardees</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -852,7 +1575,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mediacorp National Tamil Spelling Bee Competition</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Third Prize</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -879,20 +1602,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <h3><strong>2023 Pioneer Primary School CCA Achievements</strong></h3>
 </td>
 </tr>
@@ -900,7 +1624,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Boys’ Brigade</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>J M Fraser Award for Excellence</u> (Silver)</p>
 <p>Gold Badge Winners</p>
 <ul data-tight="true" class="tight">
@@ -934,7 +1658,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Club Scouts</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>Frank Cooper Sands Award </u>(Gold)</p>
 </td>
 </tr>
@@ -942,7 +1666,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Art Expressions</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>Singapore Youth Festival (Category B)</u>
 </p>
 <p><em>Certificate of Recognition</em>
@@ -953,7 +1677,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Athletics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>SPSSC Nationals Track &amp; Field Championships</u>
 </p>
 <p>Scissors Jump Junior 2 Boys (Third)</p>
@@ -979,7 +1703,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Netball</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>NSG West Zone Netball Championship</u>
 </p>
 <p><em>Senior Division – Top 8</em>
@@ -990,7 +1714,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Wushu</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>SPSSC Nationals Wushu Championships</u>
 </p>
 <p><u>Junior Boys</u>
@@ -1019,25 +1743,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <h3><strong>2022 Pioneer Primary School IP Achievements</strong></h3>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Mathematics</strong>
 </p>
 </td>
@@ -1046,7 +1771,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>NUS High School Primary Math Project Competition</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Craft of Creasing Project (Commendation Award)</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1068,7 +1793,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>SST Girls-in-STEM Challenge 2022</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Facilitator’s Pick (Team)</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1091,7 +1816,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Science</strong>
 </p>
 </td>
@@ -1100,7 +1825,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Singapore Primary Science Olympiad</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Gold Award</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1118,7 +1843,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Chinese Language</strong>
 </p>
 </td>
@@ -1128,7 +1853,7 @@ variant: tiptap
 <p>22nd National Chinese Calligraphy Competition</p>
 <p>(第22届全国书法大赛)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Merit Award winners</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1147,7 +1872,7 @@ variant: tiptap
 <p>2022 Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition&nbsp;</p>
 <p>(2022年威德智海全国硬笔书法比赛)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Active Participation Award (School) 踊跃参与奖</p>
 <p>Culture Award winners</p>
 <ul data-tight="true" class="tight">
@@ -1213,7 +1938,7 @@ variant: tiptap
 <p>5th Text Recital Competition for Primary and Secondary Schools</p>
 <p>(第五届中小学华文课文朗诵比赛)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Bronze Award (Individual)</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1283,7 +2008,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Malay Language</strong>
 </p>
 </td>
@@ -1292,7 +2017,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Story-telling competition (Peraduan Saya Boleh Bercerita 2022)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1317,7 +2042,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Creative Writing Competition (Karya Minda Kreatif 2022)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Gold</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1332,7 +2057,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Applied Learning Programme (ALP)</strong>
 </p>
 </td>
@@ -1341,7 +2066,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>JA Singapore Lights of Our Future competition</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1st Place</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1400,14 +2125,15 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <h3><strong>2022 Pioneer Primary School CCA Achievements</strong></h3>
 </td>
 </tr>
@@ -1415,7 +2141,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Boys’ Brigade</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>J M Fraser Award for Excellence</u>&nbsp;(Silver)</p>
 <p><u>Boys’ Brigade Week</u>&nbsp;(Gold)</p>
 <p>&nbsp;</p>
@@ -1443,7 +2169,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Athletics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>SPSSC Nationals Track &amp; Field Championships</u>
 </p>
 <p>4 x 50m relay Junior 1 Boys (Bronze)</p>
@@ -1474,7 +2200,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Basketball</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>NSG West Zone Basketball Championship</u>
 </p>
 <p><em>Senior Division – 4<sup>th</sup></em>
@@ -1485,7 +2211,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Netball</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>NSG West Zone Netball Championship</u>
 </p>
 <p><em>Junior Division – Top 8</em>
@@ -1496,7 +2222,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Wushu</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>SPSSC Nationals Wushu Championships</u>
 </p>
 <p><u>Junior Boys</u>
@@ -1521,7 +2247,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Robotics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>IDE (Innovation, Design and Engineering) Robotics (Primary - School Category)</u>
 </p>
 <ul data-tight="true" class="tight">
@@ -1560,7 +2286,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Toastmasters Club</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><u>Mythos Junior Orators 2022 (</u>Semi-finalist)</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1572,11 +2298,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

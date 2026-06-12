@@ -114,6 +114,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Goh Kim Poh Sunny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_kim_poh@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ng Kai Li</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shoh Kwan Hua Byron</p>
+<p>Mr Shoh Kwan Hua Byron</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
