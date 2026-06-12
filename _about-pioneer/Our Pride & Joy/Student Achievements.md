@@ -521,9 +521,7 @@ Minda Kreatif 2025)</p>
 <p>Pesta Pantun Competition</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><em>Category A: Poetry Writing with Rhyme and Drawing</em>
-</p>
-<p><em>&nbsp;</em>
+<p><em><u>Category A: Poetry Writing with Rhyme and Drawing</u></em>
 </p>
 <p><em>2nd Place</em>
 </p>
@@ -1221,14 +1219,6 @@ Minda Kreatif 2025)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>InfoComm</p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p></p>
 </td>
@@ -1612,10 +1602,7 @@ Minda Kreatif 2025)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
 </tr>
