@@ -66,28 +66,35 @@ variant: tiptap
 <p>Raffles Mathematical Olympiad (RMO) Senior</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Distinction</p>
+<p><em>Distinction</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Lu Bingcheng (6RS1)</p>
+<p><em>Lu Bingcheng (6RS1)</em>
+</p>
 </li>
 </ul>
-<p>Merit</p>
+<p><em>Merit</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Qin Haoyi (6RS1)</p>
+<p><em>Qin Haoyi (6RS1)</em>
+</p>
 </li>
 <li>
-<p>Htet Wati Shoon Leh (6RS1)</p>
+<p><em>Htet Wati Shoon Leh (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Tan Chin Hean (6RS1)</em>
+</p>
 </li>
 </ul>
-<p>Tan Chin Hean (6RS1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Asia Pacific Mathematical Olympiad For Primary Schools (APMOPS)</em>
-</p>
+<p>Asia Pacific Mathematical Olympiad For Primary Schools (APMOPS)</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><em>Silver</em>
@@ -118,17 +125,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Visual-Spatial Mathlympics 2025</em>
-</p>
+<p>Visual-Spatial Mathlympics 2025</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><em>Gold</em>
 </p>
-<p><em>-Lu Bingcheng (6RS1)</em>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Hu  Zhanming (6RS1)</em>
+<p><em>Lu Bingcheng (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Hu Zhanming (6RS1)</em>
 </p>
 </li>
 <li>
@@ -147,93 +155,152 @@ variant: tiptap
 <p><em>Yan Zixi (6RS1)</em>
 </p>
 </li>
+<li>
+<p><em>Tan Chin Hean (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Wang Helin (5IN1)</em>
+</p>
+</li>
 </ul>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Chin Hean (6RS1)</em>
-</p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wang Helin (5IN1)</em>
-</p>
 <p><em>Bronze</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suh William Woojin (6RS1)</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Suh William Woojin (6RS1)</em>
 </p>
+</li>
+<li>
 <p><em>Owen Tan Xuan Ye (6RS1)</em>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>National Mathematical Olympiad of Singapore (NMOS)</em>
-</p>
+<p>National Mathematical Olympiad of Singapore (NMOS)</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><em>Bronze</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jiang Ming (5IN1)</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Jiang Ming (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Li Xinan (5IN1)</em>
+</li>
+<li>
+<p><em>Li Xinan (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yuan Ziheng (5IN1)</em>
+</li>
+<li>
+<p><em>Yuan Ziheng (5IN1)</em>
 </p>
+</li>
+</ul>
 <p><em>Honourable Mention</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lu Yixi (5IN1)</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Lu Yixi (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Li Muchen (5IN1)</em>
+</li>
+<li>
+<p><em>Li Muchen (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wang Helin (5IN1)</em>
+</li>
+<li>
+<p><em>Wang Helin (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ariana Binte Farid (5IN1)</em>
+</li>
+<li>
+<p><em>Ariana Binte Farid (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hein Kaung Khant Thu (5IN1)</em>
+</li>
+<li>
+<p><em>Hein Kaung Khant Thu (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kane Khan Tha (5IN1)</em>
+</li>
+<li>
+<p><em>Kane Khan Tha (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liu Yuqin (5IN1)</em>
+</li>
+<li>
+<p><em>Liu Yuqin (5IN1)</em>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Annual Mathlympics 2025</em>
-</p>
+<p>Annual Mathlympics 2025</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><em>Silver</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wang Helin (5IN1)</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Wang Helin (5IN1)</em>
 </p>
+</li>
+</ul>
 <p><em>Bronze</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yuan Ziheng (5IN1)</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Yuan Ziheng (5IN1)</em>
 </p>
+</li>
+</ul>
 <p><em>Merit</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liu Yuqin (5IN1)</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Liu Yuqin (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Li Muchen (5IN1)</em>
+</li>
+<li>
+<p><em>Li Muchen (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jiang Ming (5IN1)</em>
+</li>
+<li>
+<p><em>Jiang Ming (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cai Jinkang (5IN1)</em>
+</li>
+<li>
+<p><em>Cai Jinkang (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sivakumar Sujitha (5IN1)</em>
+</li>
+<li>
+<p><em>Sivakumar Sujitha (5IN1)</em>
 </p>
-<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lu Yixi (5IN1)</em>
+</li>
+<li>
+<p><em>Lu Yixi (5IN1)</em>
 </p>
+</li>
+<li>
 <p><em>Kane Khan Tha (5IN1)</em>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>2025 Combined Mathlympics (Marshall Cavendish)</em>
-</p>
+<p>2025 Combined Mathlympics (Marshall Cavendish)</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><em>Second Runner Up</em>
 </p>
-<p><em>Pioneer Primary School</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><em> Pioneer Primary School</em>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
