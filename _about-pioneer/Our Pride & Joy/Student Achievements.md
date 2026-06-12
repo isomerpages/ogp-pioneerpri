@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our Pride & Joy
 variant: tiptap
 ---
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -13,6 +12,156 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h3><strong>2025 Pioneer Primary School Achievements</strong></h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Mathematics</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles Mathematical Olympiad (RMO) Junior</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Distinction</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Yuan Ziheng (5IN1)</em>
+</p>
+</li>
+</ul>
+<p><em>Merit</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Wang Helin (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Li Xinan (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Cai Jin Kang (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -60,26 +209,25 @@ variant: tiptap
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Lu Bing Cheng (5IN1)&nbsp;&nbsp;&nbsp;</em>
+<p><em>Lu Bing Cheng (5IN1)</em>
 </p>
 </li>
 </ul>
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Fan Ren Wen (6RS1)&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<p><em>Fan Ren Wen (6RS1)</em>
 </p>
 </li>
 <li>
-<p><em>Tey Way Eun (6RS1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<p><em>Tey Way Eun (6RS1)</em>
 </p>
 </li>
 <li>
-<p><em>Tan Jing Tern (6RS1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<p><em>Tan Jing Tern (6RS1)</em>
 </p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
