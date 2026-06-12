@@ -40,19 +40,18 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mythos (Junior Orators) 2024</p>
-</th>
-<th rowspan="1" colspan="2">
-<p><strong>Primary School Category Finalist</strong>
-</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Primary School Category Finalist</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>Htat Wati Shoon Leh (5IN1)</em></strong>
+<p><em>Htat Wati Shoon Leh (5IN1)</em>
 </p>
 </li>
 </ul>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
@@ -62,6 +61,128 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p><strong>Mathematics</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Table</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Annual Visual &amp;</p>
+<p>Spatial Mathlympics</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Lu Bing Cheng (5IN1)</em>
+</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Fan Ren Wen (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Tey Way Eun (6RS1)</em>
+</p>
+</li>
+<li>
+<p><em>Tan Jing Tern (6RS1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Annual Mathlympics</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Lu Bin Cheng (5IN1)</em>
+</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Qin Hao Yi (5IN1)</em>
+</p>
+</li>
+</ul>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Tan Chin Hean (5IN1)</em>
+</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Jannat Ul Firdaus (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Yan Zixi (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Mathematical</p>
+<p>Olympiad of Singapore</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Lu Bing Cheng (5IN1)</em>
+</p>
+</li>
+<li>
+<p><em>Qin Hao Yi (5IN1)</em>
+</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Tan Chin Hean (5IN1)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore-Asia Pacific Mathematical Olympiad for Primary Schools</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Lu Bing Cheng (5IN1)&nbsp;&nbsp;</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 <tr>
@@ -106,6 +227,8 @@ variant: tiptap
 <p><em>Lu Bin Cheng (5IN1)</em>
 </p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p><em>Qin Hao Yi (5IN1)</em>
 </p>
