@@ -2,6 +2,7 @@
 title: School Safety
 permalink: /pioneer-engagement/school-safety/
 description: ""
+variant: markdown
 ---
 # School Safety and Security
 
@@ -18,7 +19,7 @@ description: ""
 * <p align="Justify">If parents/guardians need to take their child out of school before the official dismissal time, they are required to inform their child’s/ward’s Form Teacher in advance and report to the General Office to fetch their child/ward.</p>
 
 
-#### Participation in Sports & Games
+#### Participation in Sports &amp; Games
 
 * <p align="Justify">If you have a medical condition, check with your doctor if the sport/game is suitable for you.</p>
 * <p align="Justify">Do not participate in the sport/game if you are injured/feeling unwell/on medication or recovering from an illness.</p>
@@ -32,7 +33,17 @@ description: ""
 * <p align="Justify">Hydrate yourself by drinking water before/during and after the sport/game.</p>
 * <p align="Justify">Stop if you are injured/feeling unwell and seek help from your teacher-in-charge/an adult).</p>
 * <p align="Justify">Seek medical attention should there be any sign(s) of injury/illness following the sport/game.</p>
-	
+
+
+#### Cycling &amp; Parking in School
+
+* <p align="Justify">For the safety of students who cycle to school, please remind your child to obey all traffic rules and practise safe cycling habits, including wearing a safety helmet and appropriate footwear.</p>
+* <p align="Justify">Students who intend to cycle to school and park their bicycles on the school premises are required to seek prior permission from the school. Upon approval, they will be issued an advisory note, and their parents are required to acknowledge and sign on the form.</p>
+* <p align="Justify">Students will also be required to attend a safety briefing before they are allowed to cycle and park their bicycles on the school premises.</p>
+
+If your child intends to cycle to school and park his/her bicycle in the school, please download the advisory note (click [HERE](/files/Advisory_Note___Cycling_to_School.pdf)), sign and return it to the school.  
+
+
 #### Emergency Drills
 
 <p align="Justify">The school will conduct emergency drills (eg. fire drill) from time to time so that staff and students are prepared and know what to do and where to assemble in an evacuation.</p>
