@@ -8,6 +8,7 @@ variant: markdown
 
 <p align="Justify">Ensuring that Pioneer Primary is a safe and secure place for students and staff is an utmost priority for us. Parents, pupils and all our stakeholders also play a vital role in keeping the school safe and secure. We seek the partnership of parents, pupils and all stakeholders to observe safety rules and regulations to create safe and secure environment for learning.</p>
 
+
 #### Visitors to the School
 
 <p align="Justify">All visitors are required to register at the security office before he/she is allowed to enter the school premises.</p>
@@ -41,7 +42,9 @@ variant: markdown
 * <p align="Justify">Students who intend to cycle to school and park their bicycles on the school premises are required to seek prior permission from the school. Upon approval, they will be issued an advisory note, and their parents are required to acknowledge and sign on the form.</p>
 * <p align="Justify">Students will also be required to attend a safety briefing before they are allowed to cycle and park their bicycles on the school premises.</p>
 
-If your child intends to cycle to school and park his/her bicycle in the school, please download the advisory note (click [HERE](/files/Advisory_Note___Cycling_to_School.pdf)), sign and return it to the school.  
+If your child intends to cycle to school and park his/her bicycle in the school, please download the advisory note below, sign and return it to the school.
+
+[Advisory Note - Cycling to School](/files/Advisory_Note___Cycling_to_School.pdf)
 
 
 #### Emergency Drills
